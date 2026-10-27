@@ -1,0 +1,657 @@
+id_pago,prueba,detalle
+PG000224,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000314,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000359,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000375,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000420,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000474,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000533,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000569,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000675,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000839,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG001232,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG001502,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG001541,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG001565,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG001803,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG001934,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG002022,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG002230,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG002254,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG002634,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG002666,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG002711,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG002712,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG002836,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG003257,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG003417,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG003441,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG003488,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG003555,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG003925,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004122,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004161,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004206,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004301,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004461,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004559,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004697,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004726,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004842,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004864,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004939,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG004958,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005079,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005081,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005113,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005142,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005275,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005375,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005391,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005427,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005531,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005590,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005614,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005712,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG005866,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG006104,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG006113,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG006235,Duplicado exacto,"Proveedor, factura y valor repetidos"
+PG000085,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG000186,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG000466,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG000579,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG000650,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG000865,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG001020,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG001174,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG001399,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG001413,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG001649,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG001687,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG001756,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002099,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002181,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002228,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002234,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002474,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002476,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002549,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002766,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002798,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG002987,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG003266,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG003872,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG003956,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG004146,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG004241,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG004318,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG004605,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG004866,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG004869,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG004951,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG005078,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG005347,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG005424,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG005883,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG005934,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG006091,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG006108,Duplicado aproximado,Factura con formato distinto y mismo valor
+PG000083,Pago en día no hábil,"Sábado, domingo o festivo"
+PG000354,Pago en día no hábil,"Sábado, domingo o festivo"
+PG000764,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001024,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001080,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001090,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001154,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001271,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001284,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001516,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001688,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001846,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001912,Pago en día no hábil,"Sábado, domingo o festivo"
+PG001985,Pago en día no hábil,"Sábado, domingo o festivo"
+PG002012,Pago en día no hábil,"Sábado, domingo o festivo"
+PG002192,Pago en día no hábil,"Sábado, domingo o festivo"
+PG002297,Pago en día no hábil,"Sábado, domingo o festivo"
+PG002481,Pago en día no hábil,"Sábado, domingo o festivo"
+PG002752,Pago en día no hábil,"Sábado, domingo o festivo"
+PG002893,Pago en día no hábil,"Sábado, domingo o festivo"
+PG003103,Pago en día no hábil,"Sábado, domingo o festivo"
+PG003388,Pago en día no hábil,"Sábado, domingo o festivo"
+PG003647,Pago en día no hábil,"Sábado, domingo o festivo"
+PG003804,Pago en día no hábil,"Sábado, domingo o festivo"
+PG003845,Pago en día no hábil,"Sábado, domingo o festivo"
+PG003910,Pago en día no hábil,"Sábado, domingo o festivo"
+PG003972,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004095,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004264,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004328,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004585,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004614,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004673,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004744,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004765,Pago en día no hábil,"Sábado, domingo o festivo"
+PG004958,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005062,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005141,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005187,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005289,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005335,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005348,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005611,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005702,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005703,Pago en día no hábil,"Sábado, domingo o festivo"
+PG005956,Pago en día no hábil,"Sábado, domingo o festivo"
+PG006004,Pago en día no hábil,"Sábado, domingo o festivo"
+PG006017,Pago en día no hábil,"Sábado, domingo o festivo"
+PG000403,Segregación de funciones,Mismo usuario registra y aprueba
+PG000672,Segregación de funciones,Mismo usuario registra y aprueba
+PG000708,Segregación de funciones,Mismo usuario registra y aprueba
+PG000916,Segregación de funciones,Mismo usuario registra y aprueba
+PG000958,Segregación de funciones,Mismo usuario registra y aprueba
+PG001053,Segregación de funciones,Mismo usuario registra y aprueba
+PG001142,Segregación de funciones,Mismo usuario registra y aprueba
+PG001144,Segregación de funciones,Mismo usuario registra y aprueba
+PG001207,Segregación de funciones,Mismo usuario registra y aprueba
+PG001441,Segregación de funciones,Mismo usuario registra y aprueba
+PG001512,Segregación de funciones,Mismo usuario registra y aprueba
+PG001551,Segregación de funciones,Mismo usuario registra y aprueba
+PG001668,Segregación de funciones,Mismo usuario registra y aprueba
+PG001749,Segregación de funciones,Mismo usuario registra y aprueba
+PG002091,Segregación de funciones,Mismo usuario registra y aprueba
+PG002160,Segregación de funciones,Mismo usuario registra y aprueba
+PG002504,Segregación de funciones,Mismo usuario registra y aprueba
+PG002790,Segregación de funciones,Mismo usuario registra y aprueba
+PG002807,Segregación de funciones,Mismo usuario registra y aprueba
+PG002824,Segregación de funciones,Mismo usuario registra y aprueba
+PG003130,Segregación de funciones,Mismo usuario registra y aprueba
+PG003386,Segregación de funciones,Mismo usuario registra y aprueba
+PG003504,Segregación de funciones,Mismo usuario registra y aprueba
+PG003790,Segregación de funciones,Mismo usuario registra y aprueba
+PG004011,Segregación de funciones,Mismo usuario registra y aprueba
+PG004237,Segregación de funciones,Mismo usuario registra y aprueba
+PG004353,Segregación de funciones,Mismo usuario registra y aprueba
+PG004451,Segregación de funciones,Mismo usuario registra y aprueba
+PG004470,Segregación de funciones,Mismo usuario registra y aprueba
+PG004500,Segregación de funciones,Mismo usuario registra y aprueba
+PG004762,Segregación de funciones,Mismo usuario registra y aprueba
+PG004972,Segregación de funciones,Mismo usuario registra y aprueba
+PG005203,Segregación de funciones,Mismo usuario registra y aprueba
+PG005577,Segregación de funciones,Mismo usuario registra y aprueba
+PG005771,Segregación de funciones,Mismo usuario registra y aprueba
+PG006079,Segregación de funciones,Mismo usuario registra y aprueba
+PG000339,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG001080,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG001246,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG001516,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG001715,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG001867,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG002291,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG002579,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG002599,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG002847,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG002893,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG002894,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG003832,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG003845,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG004673,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG004744,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG005062,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG005703,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG005768,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG005909,Pago antes de aprobación,Fecha de pago anterior a la aprobación
+PG000581,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG000699,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG001053,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG001660,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG002175,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG002462,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG002567,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG003345,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG003620,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG004136,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG004359,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG004424,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG004494,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG004569,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG004826,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG005325,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG005451,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG005793,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG006213,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG006239,Aprobación sobre el límite,Valor superior al límite de aprobación del cargo
+PG000069,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG000435,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG000555,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG000731,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG000743,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG001115,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG001443,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG001913,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG002065,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG002513,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG003088,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG003151,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG003175,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG003848,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG004488,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG004908,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG005199,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG005370,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG005636,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG005645,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG005926,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG006001,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG006285,Posible fraccionamiento,3 o más pagos cercanos al límite en una semana
+PG000123,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000128,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000161,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000198,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000224,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000266,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000274,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000312,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000345,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000374,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000392,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000443,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000508,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000524,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000600,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000742,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000923,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000996,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001045,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001064,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001095,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001123,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001224,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001298,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001348,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001440,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001494,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001560,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001568,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001585,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001611,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001630,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001642,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001659,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001716,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001728,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001744,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001779,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001800,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001807,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001811,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001866,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001894,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001960,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG001977,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002058,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002069,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002091,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002125,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002178,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002226,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002235,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002248,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002275,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002304,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002332,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002354,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002386,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002607,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002658,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002678,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002736,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002844,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002893,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002991,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002996,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG002998,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003340,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003432,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003489,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003497,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003542,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003628,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003654,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003659,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003674,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003706,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003756,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003815,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG003994,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004054,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004119,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004202,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004207,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004349,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004402,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004449,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004506,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004604,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004755,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004764,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004772,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004868,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004876,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004899,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004956,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG004973,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005075,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005156,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005170,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005184,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005268,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005319,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005368,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005427,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005452,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005454,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005516,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005532,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005615,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005620,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005639,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005640,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005653,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005681,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005728,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005777,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005834,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005869,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005882,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG005888,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG006039,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG006114,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG006123,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG006147,Proveedor-empleado,Cuenta bancaria compartida con un empleado
+PG000142,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG000230,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG000409,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG000645,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG001939,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG002056,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG003426,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG003507,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG003684,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG003725,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG004074,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG006067,Proveedor nuevo con pago alto,Menos de 30 días desde la creación y valor > 50 M
+PG000009,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG000197,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG000464,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG000762,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG000787,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG000823,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG001610,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG001778,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG001821,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG001911,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG002067,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG002550,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG002644,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG002926,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG003470,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG003576,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG003895,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG004043,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG004843,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG004941,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG005163,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG005222,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG005730,Montos redondos,Proveedor con mayoría de pagos múltiplos de 1 M
+PG000020,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG000050,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG000649,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001053,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001071,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001075,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001324,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001325,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001367,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001556,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001660,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001695,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG001713,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG002070,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG002175,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG002248,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG002339,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG002408,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG002462,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG003249,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG003498,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG003552,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG004136,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG004173,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG004198,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG004261,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG004538,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG004710,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG004961,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG005006,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG005316,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG005350,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG005451,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG005664,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG005734,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG005758,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG005863,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG006099,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG006237,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG006239,Valor atípico,z robusto > 3.5 (escala log) frente al historial del proveedor
+PG000020,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000071,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000110,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000125,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000135,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000161,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000171,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000188,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000196,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000273,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000275,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000289,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000308,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000347,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000365,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000398,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000410,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000421,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000443,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000446,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000449,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000460,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000505,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000639,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000659,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000663,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000773,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000835,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000862,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000884,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000908,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000920,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000945,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG000964,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001013,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001031,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001071,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001075,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001246,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001247,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001260,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001300,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001318,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001361,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001369,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001397,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001400,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001409,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001413,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001457,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001493,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001511,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001535,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001568,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001576,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001584,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001596,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001603,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001644,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001662,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001675,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001720,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001764,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001806,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001808,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001848,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001872,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001890,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001924,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001935,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001966,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG001972,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002017,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002030,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002049,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002059,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002070,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002075,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002102,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002112,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002113,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002147,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002182,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002196,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002216,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002297,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002342,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002353,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002359,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002399,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002413,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002447,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002464,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002475,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002499,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002510,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002543,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002553,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002575,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002595,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002609,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002700,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002788,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002829,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002834,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002847,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002868,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002897,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002913,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002914,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002918,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002957,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG002995,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003034,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003068,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003093,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003097,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003115,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003149,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003268,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003356,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003377,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003391,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003399,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003413,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003443,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003483,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003552,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003572,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003580,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003603,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003671,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003693,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003709,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003738,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003799,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003810,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003840,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003890,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003917,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003990,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003993,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG003995,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004008,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004033,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004114,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004132,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004155,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004194,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004340,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004391,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004417,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004446,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004472,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004474,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004519,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004541,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004567,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004584,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004590,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004591,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004605,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004640,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004668,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004683,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004716,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004735,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004801,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004815,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004828,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004862,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004877,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004885,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004914,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004956,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004965,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG004976,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005038,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005043,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005100,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005204,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005233,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005234,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005255,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005280,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005290,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005316,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005348,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005367,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005368,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005441,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005540,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005604,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005626,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005663,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005664,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005697,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005737,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005797,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005808,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005836,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005841,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005844,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005856,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005871,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG005911,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG006158,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG006219,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG006237,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG006262,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"
+PG006280,Benford por usuario,"Usuario usr023: MAD 0.087 (no conformidad), p=1.4e-47"

@@ -1,0 +1,185 @@
+id_proveedor,nit,dv,razon_social,categoria,ciudad,departamento,banco,cuenta_bancaria,fecha_creacion,creado_por,estado
+P0001,951111167,8,Agroinsumos Valle Sereno S.A.S.,Mantenimiento,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,40125745060,2020-10-25,usr013,Activo
+P0002,963052215,3,Seguridad Río Manso S.A.S.,Mantenimiento,Montería,Córdoba,Banco Gamma,27162014028,2017-12-16,usr022,Activo
+P0003,907616402,2,Transportes Río Manso S.A.S.,Servicios profesionales,Armenia,Quindío,Banco Delta,98183276896,2015-10-28,usr026,Activo
+P0004,908976962,2,Tecnologías Los Samanes S.A.S.,Papelería y aseo,Bucaramanga,Santander,Banco Alfa,13501412712,2015-09-01,usr020,Activo
+P0005,948901358,7,Servicios San Isidro Labrador S.A.S.,Tecnología,Popayán,Cauca,Banco Épsilon,73575298873,2019-02-02,usr007,Activo
+P0006,843349009,3,Tecnologías Altoverde S.A.S.,Seguridad y vigilancia,Ibagué,Tolima,Banco Gamma,09091586090,2022-07-26,usr013,Activo
+P0007,943413687,3,Tecnologías Piedrablanca S.A.S.,Tecnología,Neiva,Huila,Banco Épsilon,51622912118,2016-10-13,usr006,Activo
+P0008,929825849,7,Logística El Guadual S.A.S.,Transporte y fletes,Popayán,Cauca,Banco Alfa,06006643725,2023-11-01,usr018,Activo
+P0009,818074855,5,Consultores La Orquídea S.A.S.,Mantenimiento,Bogotá D.C.,Bogotá D.C.,Banco Gamma,75048283543,2022-10-18,usr025,Activo
+P0010,832425884,7,Mantenimientos Nueva Esperanza S.A.S.,Servicios profesionales,Popayán,Cauca,Banco Beta,33478699076,2020-01-25,usr023,Activo
+P0011,846633911,0,Consultores Valle Sereno S.A.S.,Seguridad y vigilancia,Ibagué,Tolima,Banco Épsilon,07143486191,2017-03-30,usr014,Activo
+P0012,922548496,7,Agroinsumos Monteclaro S.A.S.,Seguridad y vigilancia,Villavicencio,Meta,Banco Alfa,81393912083,2022-08-09,usr030,Activo
+P0013,884277521,2,Tecnologías Valle Sereno S.A.S.,Seguridad y vigilancia,Montería,Córdoba,Banco Delta,22704039932,2015-01-15,usr023,Activo
+P0014,909546156,1,Consultores San Isidro Labrador S.A.S.,Insumos agrícolas,Villavicencio,Meta,Banco Beta,11337805099,2016-02-01,usr005,Activo
+P0015,956477635,2,Transportes Cafetal Alto S.A.S.,Arrendamientos,Pereira,Risaralda,Banco Alfa,70967777083,2022-03-21,usr016,Activo
+P0016,858809501,5,Seguridad Altoverde S.A.S.,Tecnología,Bucaramanga,Santander,Banco Gamma,46586237468,2020-07-14,usr004,Activo
+P0017,987981786,1,Tecnologías Nueva Esperanza S.A.S.,Transporte y fletes,Armenia,Quindío,Banco Gamma,85068435547,2021-09-18,usr021,Activo
+P0018,957308694,7,Servicios Monteclaro S.A.S.,Tecnología,Popayán,Cauca,Banco Épsilon,05698592749,2022-01-24,usr015,Activo
+P0019,997757761,3,Logística Altoverde S.A.S.,Tecnología,Bucaramanga,Santander,Banco Gamma,62341544709,2022-08-21,usr007,Activo
+P0020,835508950,3,Logística Río Manso S.A.S.,Transporte y fletes,Montería,Córdoba,Banco Alfa,74247454207,2019-01-17,usr011,Activo
+P0021,868567975,9,Consultores Piedrablanca S.A.S.,Servicios profesionales,Ibagué,Tolima,Banco Delta,05384756573,2017-09-04,usr022,Activo
+P0022,925478137,8,Agroinsumos El Caracolí S.A.S.,Insumos agrícolas,Pereira,Risaralda,Banco Épsilon,79999854473,2020-10-29,usr002,Activo
+P0023,848362171,0,Distribuidora Los Samanes S.A.S.,Seguridad y vigilancia,Bogotá D.C.,Bogotá D.C.,Banco Gamma,24129035647,2022-03-16,usr026,Activo
+P0024,975756154,8,Seguridad Valle Sereno S.A.S.,Seguridad y vigilancia,Popayán,Cauca,Banco Beta,91397119505,2020-08-07,usr001,Activo
+P0025,952258512,1,Agroinsumos Las Palmeras S.A.S.,Insumos agrícolas,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,94096566317,2022-06-11,usr015,Activo
+P0026,994827703,6,Servicios Cafetal Alto S.A.S.,Mantenimiento,Yopal,Casanare,Banco Beta,03956871549,2019-12-10,usr023,Activo
+P0027,870683632,1,Inversiones Nueva Esperanza S.A.S.,Mantenimiento,Bogotá D.C.,Bogotá D.C.,Banco Delta,57494363814,2019-07-27,usr003,Activo
+P0028,878546881,1,Inversiones San Isidro Labrador S.A.S.,Servicios profesionales,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,94874334537,2015-04-26,usr030,Activo
+P0029,992507329,4,Inversiones Brisas del Llano S.A.S.,Transporte y fletes,Bucaramanga,Santander,Banco Beta,95969654499,2015-03-05,usr007,Activo
+P0030,874410834,6,Inversiones Los Samanes S.A.S.,Tecnología,Villavicencio,Meta,Banco Alfa,97027897357,2023-01-19,usr002,Activo
+P0031,933966971,7,Tecnologías Brisas del Llano S.A.S.,Mantenimiento,Popayán,Cauca,Banco Beta,52828552749,2022-11-20,usr002,Activo
+P0032,861289720,1,Mantenimientos Altoverde S.A.S.,Transporte y fletes,Neiva,Huila,Banco Alfa,68059483578,2018-04-21,usr022,Activo
+P0033,874358252,8,Ferretería El Caracolí S.A.S.,Tecnología,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,09797828036,2022-09-26,usr020,Activo
+P0034,986769615,8,Inversiones Altoverde S.A.S.,Papelería y aseo,Yopal,Casanare,Banco Alfa,70020161823,2022-03-17,usr018,Activo
+P0035,847359302,4,Servicios Piedrablanca S.A.S.,Mantenimiento,Popayán,Cauca,Banco Gamma,59303341348,2017-07-05,usr012,Activo
+P0036,989505774,9,Servicios Valle Sereno S.A.S.,Tecnología,Pereira,Risaralda,Banco Épsilon,22662974937,2015-07-25,usr030,Activo
+P0037,842989021,4,Mantenimientos El Guadual S.A.S.,Mantenimiento,Yopal,Casanare,Banco Delta,31147565922,2018-07-29,usr005,Activo
+P0038,823471547,2,Mantenimientos La Orquídea S.A.S.,Papelería y aseo,Armenia,Quindío,Banco Alfa,74761052235,2018-03-05,usr030,Activo
+P0039,967176631,1,Distribuidora Monteclaro S.A.S.,Servicios profesionales,Ibagué,Tolima,Banco Delta,58965056903,2017-02-16,usr015,Activo
+P0040,862946966,7,Consultores La Ceiba Roja S.A.S.,Mantenimiento,Pereira,Risaralda,Banco Beta,26624926796,2019-06-10,usr010,Activo
+P0041,853367876,5,Tecnologías San Isidro Labrador S.A.S.,Transporte y fletes,Montería,Córdoba,Banco Alfa,24778756593,2018-01-12,usr001,Activo
+P0042,893481735,8,Seguridad La Ceiba Roja S.A.S.,Arrendamientos,Montería,Córdoba,Banco Beta,06846282584,2020-09-19,usr017,Activo
+P0043,815022173,7,Mantenimientos Monteclaro S.A.S.,Seguridad y vigilancia,Bogotá D.C.,Bogotá D.C.,Banco Delta,75370211985,2018-12-24,usr021,Activo
+P0044,959601103,9,Ferretería Altoverde S.A.S.,Servicios profesionales,Popayán,Cauca,Banco Beta,43404636592,2023-05-10,usr029,Activo
+P0045,817964973,1,Mantenimientos Las Palmeras S.A.S.,Tecnología,Popayán,Cauca,Banco Delta,78519780752,2019-06-25,usr025,Activo
+P0046,908697414,0,Logística Los Samanes S.A.S.,Papelería y aseo,Ibagué,Tolima,Banco Alfa,29259658411,2015-07-04,usr028,Activo
+P0047,833891956,1,Suministros Tierra Fértil S.A.S.,Arrendamientos,Bogotá D.C.,Bogotá D.C.,Banco Beta,99852685909,2022-08-07,usr025,Activo
+P0048,977660811,2,Agroinsumos Tierra Fértil S.A.S.,Papelería y aseo,Ibagué,Tolima,Banco Gamma,19791363940,2017-08-26,usr014,Activo
+P0049,987398874,1,Transportes Valle Sereno S.A.S.,Mantenimiento,Armenia,Quindío,Banco Gamma,23801107782,2019-03-30,usr001,Activo
+P0050,818359290,9,Suministros Cerro Azul S.A.S.,Papelería y aseo,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,23506256555,2021-05-24,usr021,Activo
+P0051,944498992,3,Mantenimientos Los Samanes S.A.S.,Seguridad y vigilancia,Bogotá D.C.,Bogotá D.C.,Banco Gamma,87731025086,2019-03-25,usr017,Activo
+P0052,992448463,1,Transportes El Caracolí S.A.S.,Papelería y aseo,Montería,Córdoba,Banco Delta,78207881464,2018-02-21,usr017,Activo
+P0053,923083699,1,Seguridad Tierra Fértil S.A.S.,Papelería y aseo,Pereira,Risaralda,Banco Beta,02371130409,2018-09-05,usr016,Activo
+P0054,899331593,8,Logística Piedrablanca S.A.S.,Arrendamientos,Montería,Córdoba,Banco Épsilon,32696957515,2023-01-19,usr008,Activo
+P0055,856099683,1,Distribuidora Las Palmeras S.A.S.,Tecnología,Bucaramanga,Santander,Banco Beta,01273060517,2016-09-03,usr015,Activo
+P0056,838486046,4,Inversiones Monteclaro S.A.S.,Seguridad y vigilancia,Ibagué,Tolima,Banco Alfa,06214301652,2020-03-25,usr015,Activo
+P0057,972450824,9,Transportes Los Samanes S.A.S.,Transporte y fletes,Yopal,Casanare,Banco Épsilon,84036050953,2020-11-12,usr019,Activo
+P0058,886168874,7,Ferretería Los Samanes S.A.S.,Transporte y fletes,Villavicencio,Meta,Banco Épsilon,28594436982,2018-10-11,usr020,Activo
+P0059,857370569,4,Ferretería Nueva Esperanza S.A.S.,Tecnología,Bucaramanga,Santander,Banco Delta,00321749080,2016-08-13,usr027,Activo
+P0060,948547483,1,Agroinsumos Nueva Esperanza S.A.S.,Seguridad y vigilancia,Armenia,Quindío,Banco Alfa,68217639828,2016-03-11,usr002,Activo
+P0061,904722211,5,Mantenimientos San Isidro Labrador S.A.S.,Seguridad y vigilancia,Bucaramanga,Santander,Banco Beta,66333672619,2022-01-09,usr012,Activo
+P0062,821251783,3,Mantenimientos El Caracolí S.A.S.,Mantenimiento,Pereira,Risaralda,Banco Alfa,39386820405,2023-02-04,usr001,Activo
+P0063,884050720,6,Transportes El Guadual S.A.S.,Tecnología,Popayán,Cauca,Banco Épsilon,02856683858,2015-11-05,usr001,Activo
+P0064,939082816,0,Tecnologías Cerro Azul S.A.S.,Transporte y fletes,Montería,Córdoba,Banco Alfa,60974938994,2023-11-05,usr005,Activo
+P0065,843884385,1,Transportes Piedrablanca S.A.S.,Tecnología,Armenia,Quindío,Banco Gamma,17626880581,2021-12-13,usr016,Activo
+P0066,962321150,4,Inversiones Cerro Azul S.A.S.,Arrendamientos,Bogotá D.C.,Bogotá D.C.,Banco Alfa,27372076931,2020-11-18,usr018,Activo
+P0067,812303254,0,Servicios Nueva Esperanza S.A.S.,Insumos agrícolas,Popayán,Cauca,Banco Gamma,65090213562,2015-03-02,usr013,Activo
+P0068,957389786,2,Consultores Cerro Azul S.A.S.,Papelería y aseo,Yopal,Casanare,Banco Beta,81005043784,2016-01-24,usr005,Activo
+P0069,988354755,6,Logística Tierra Fértil S.A.S.,Arrendamientos,Popayán,Cauca,Banco Alfa,44456921304,2017-12-25,usr021,Activo
+P0070,888777418,1,Consultores Tierra Fértil S.A.S.,Arrendamientos,Pereira,Risaralda,Banco Épsilon,96102921524,2016-06-30,usr007,Activo
+P0071,864183443,9,Ferretería Cerro Azul S.A.S.,Servicios profesionales,Neiva,Huila,Banco Gamma,60250712737,2021-12-14,usr022,Activo
+P0072,939086504,6,Agroinsumos San Isidro Labrador S.A.S.,Seguridad y vigilancia,Popayán,Cauca,Banco Delta,23302880343,2021-01-05,usr018,Activo
+P0073,879107170,4,Distribuidora El Guadual S.A.S.,Seguridad y vigilancia,Montería,Córdoba,Banco Gamma,96204440855,2016-04-29,usr006,Activo
+P0074,896627322,1,Suministros Los Samanes S.A.S.,Arrendamientos,Ibagué,Tolima,Banco Delta,18815674444,2017-08-04,usr005,Activo
+P0075,828840432,6,Suministros Las Palmeras S.A.S.,Seguridad y vigilancia,Neiva,Huila,Banco Delta,91246117547,2022-11-23,usr020,Activo
+P0076,901630008,1,Consultores Altoverde S.A.S.,Papelería y aseo,Pereira,Risaralda,Banco Épsilon,65871466334,2023-02-13,usr020,Activo
+P0077,890113432,3,Suministros La Ceiba Roja S.A.S.,Transporte y fletes,Bucaramanga,Santander,Banco Gamma,52409686853,2023-12-24,usr023,Activo
+P0078,962515539,9,Servicios Río Manso S.A.S.,Papelería y aseo,Bucaramanga,Santander,Banco Delta,59515151432,2020-03-10,usr019,Activo
+P0079,938465623,7,Ferretería Monteclaro S.A.S.,Insumos agrícolas,Ibagué,Tolima,Banco Delta,55587302265,2021-01-12,usr017,Activo
+P0080,808348983,0,Logística San Isidro Labrador S.A.S.,Mantenimiento,Ibagué,Tolima,Banco Delta,75964481604,2016-07-28,usr018,Activo
+P0081,931976710,7,Transportes Las Palmeras S.A.S.,Transporte y fletes,Bogotá D.C.,Bogotá D.C.,Banco Delta,93124663836,2015-01-30,usr015,Activo
+P0082,897458862,3,Distribuidora Nueva Esperanza S.A.S.,Servicios profesionales,Montería,Córdoba,Banco Delta,20002938239,2023-12-08,usr015,Activo
+P0083,829276469,2,Consultores Brisas del Llano S.A.S.,Servicios profesionales,Yopal,Casanare,Banco Delta,97674505445,2015-08-15,usr010,Activo
+P0084,979828203,5,Servicios Cerro Azul S.A.S.,Transporte y fletes,Neiva,Huila,Banco Épsilon,95347862821,2021-05-29,usr001,Activo
+P0085,889962268,1,Seguridad La Orquídea S.A.S.,Tecnología,Ibagué,Tolima,Banco Épsilon,09563918147,2020-02-08,usr025,Activo
+P0086,950641348,4,Logística Valle Sereno S.A.S.,Transporte y fletes,Villavicencio,Meta,Banco Alfa,43357022366,2016-06-06,usr025,Activo
+P0087,943929648,1,Agroinsumos Río Manso S.A.S.,Mantenimiento,Montería,Córdoba,Banco Beta,35603667855,2015-11-02,usr019,Activo
+P0088,907050471,1,Inversiones Valle Sereno S.A.S.,Papelería y aseo,Bogotá D.C.,Bogotá D.C.,Banco Delta,75674681475,2019-10-17,usr029,Activo
+P0089,945567651,7,Seguridad El Caracolí S.A.S.,Mantenimiento,Popayán,Cauca,Banco Delta,21115444575,2023-03-20,usr029,Activo
+P0090,973159897,3,Servicios Las Palmeras S.A.S.,Mantenimiento,Popayán,Cauca,Banco Gamma,70154160876,2018-10-05,usr022,Activo
+P0091,950057561,2,Ferretería Brisas del Llano S.A.S.,Insumos agrícolas,Pereira,Risaralda,Banco Épsilon,04112718477,2023-07-27,usr015,Activo
+P0092,946960737,1,Inversiones La Orquídea S.A.S.,Transporte y fletes,Bogotá D.C.,Bogotá D.C.,Banco Delta,20287678238,2017-06-24,usr023,Activo
+P0093,907361190,1,Servicios Altoverde S.A.S.,Papelería y aseo,Montería,Córdoba,Banco Gamma,73539517653,2019-08-02,usr003,Activo
+P0094,919339421,8,Transportes La Orquídea S.A.S.,Papelería y aseo,Ibagué,Tolima,Banco Alfa,66547430069,2018-11-11,usr019,Activo
+P0095,951226350,4,Consultores Monteclaro S.A.S.,Seguridad y vigilancia,Pereira,Risaralda,Banco Beta,76126477875,2022-06-22,usr019,Activo
+P0096,947892812,6,Suministros Piedrablanca S.A.S.,Papelería y aseo,Ibagué,Tolima,Banco Alfa,50447118858,2018-06-09,usr004,Activo
+P0097,972972820,1,Agroinsumos Brisas del Llano S.A.S.,Insumos agrícolas,Villavicencio,Meta,Banco Alfa,63482474564,2019-12-07,usr030,Activo
+P0098,989799423,1,Tecnologías Río Manso S.A.S.,Tecnología,Yopal,Casanare,Banco Épsilon,81932491681,2015-01-07,usr019,Activo
+P0099,959660755,2,Suministros El Guadual S.A.S.,Servicios profesionales,Popayán,Cauca,Banco Delta,90577591092,2023-07-02,usr020,Activo
+P0100,876229290,2,Transportes La Ceiba Roja S.A.S.,Tecnología,Montería,Córdoba,Banco Beta,36776107139,2021-08-04,usr001,Activo
+P0101,869776907,8,Tecnologías El Caracolí S.A.S.,Seguridad y vigilancia,Villavicencio,Meta,Banco Épsilon,53960807786,2023-04-03,usr024,Activo
+P0102,895110261,5,Distribuidora San Isidro Labrador S.A.S.,Transporte y fletes,Armenia,Quindío,Banco Gamma,33011661986,2022-11-06,usr015,Activo
+P0103,852472929,2,Ferretería La Ceiba Roja S.A.S.,Tecnología,Montería,Córdoba,Banco Delta,95597827583,2018-04-19,usr005,Activo
+P0104,814796853,4,Distribuidora Piedrablanca S.A.S.,Transporte y fletes,Pereira,Risaralda,Banco Gamma,42597239616,2021-05-28,usr003,Activo
+P0105,959315588,0,Logística Cafetal Alto S.A.S.,Transporte y fletes,Popayán,Cauca,Banco Alfa,80552568551,2016-07-09,usr011,Activo
+P0106,802489469,9,Tecnologías Cafetal Alto S.A.S.,Mantenimiento,Armenia,Quindío,Banco Beta,71735535377,2017-02-23,usr017,Activo
+P0107,921382419,1,Consultores El Guadual S.A.S.,Servicios profesionales,Yopal,Casanare,Banco Épsilon,12469236752,2015-10-03,usr008,Activo
+P0108,902087697,9,Suministros Río Manso S.A.S.,Tecnología,Ibagué,Tolima,Banco Épsilon,67312296958,2019-12-23,usr022,Activo
+P0109,932840804,1,Transportes Monteclaro S.A.S.,Mantenimiento,Popayán,Cauca,Banco Alfa,78529862148,2020-01-18,usr002,Activo
+P0110,893538865,4,Tecnologías El Guadual S.A.S.,Servicios profesionales,Popayán,Cauca,Banco Alfa,77192515515,2020-10-26,usr022,Activo
+P0111,806850981,0,Distribuidora La Orquídea S.A.S.,Arrendamientos,Villavicencio,Meta,Banco Gamma,03943663882,2018-06-27,usr029,Activo
+P0112,902529682,7,Agroinsumos Piedrablanca S.A.S.,Seguridad y vigilancia,Montería,Córdoba,Banco Gamma,93440693187,2021-06-14,usr007,Activo
+P0113,824516503,8,Suministros Monteclaro S.A.S.,Papelería y aseo,Montería,Córdoba,Banco Gamma,80328146593,2023-11-27,usr029,Activo
+P0114,832187359,1,Inversiones La Ceiba Roja S.A.S.,Insumos agrícolas,Yopal,Casanare,Banco Alfa,23735963746,2017-02-19,usr004,Activo
+P0115,848935489,7,Ferretería Tierra Fértil S.A.S.,Insumos agrícolas,Armenia,Quindío,Banco Alfa,54355321675,2019-04-05,usr001,Activo
+P0116,884414692,1,Tecnologías Tierra Fértil S.A.S.,Tecnología,Pereira,Risaralda,Banco Delta,40326686173,2019-09-18,usr007,Activo
+P0117,965370875,5,Seguridad Brisas del Llano S.A.S.,Transporte y fletes,Montería,Córdoba,Banco Beta,97096300218,2020-03-22,usr026,Activo
+P0118,866051570,7,Distribuidora Brisas del Llano S.A.S.,Mantenimiento,Popayán,Cauca,Banco Gamma,02713426671,2020-04-16,usr001,Activo
+P0119,815864668,3,Seguridad Las Palmeras S.A.S.,Insumos agrícolas,Ibagué,Tolima,Banco Delta,32259803119,2019-04-18,usr011,Activo
+P0120,946415638,2,Tecnologías Las Palmeras S.A.S.,Servicios profesionales,Pereira,Risaralda,Banco Alfa,25760346758,2015-12-08,usr021,Activo
+P0121,859856046,9,Mantenimientos Tierra Fértil S.A.S.,Tecnología,Villavicencio,Meta,Banco Épsilon,68264467544,2019-06-22,usr028,Activo
+P0122,857065372,3,Ferretería El Guadual S.A.S.,Insumos agrícolas,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,30509543517,2019-08-24,usr027,Activo
+P0123,997473672,6,Distribuidora Cafetal Alto S.A.S.,Mantenimiento,Ibagué,Tolima,Banco Beta,87233119717,2023-06-10,usr019,Activo
+P0124,854302633,7,Agroinsumos La Orquídea S.A.S.,Seguridad y vigilancia,Yopal,Casanare,Banco Delta,15605861265,2022-03-27,usr024,Activo
+P0125,980504705,3,Seguridad Los Samanes S.A.S.,Seguridad y vigilancia,Popayán,Cauca,Banco Gamma,62621380657,2020-02-24,usr025,Activo
+P0126,939930250,1,Distribuidora Valle Sereno S.A.S.,Servicios profesionales,Popayán,Cauca,Banco Alfa,62677657283,2021-12-18,usr001,Activo
+P0127,917760860,4,Consultores El Caracolí S.A.S.,Mantenimiento,Montería,Córdoba,Banco Beta,39348076505,2020-03-14,usr022,Activo
+P0128,962239327,0,Inversiones Piedrablanca S.A.S.,Tecnología,Popayán,Cauca,Banco Gamma,13864609584,2023-08-03,usr011,Activo
+P0129,974405443,2,Suministros Altoverde S.A.S.,Transporte y fletes,Yopal,Casanare,Banco Delta,33847241006,2019-12-15,usr009,Activo
+P0130,894034408,1,Logística El Caracolí S.A.S.,Arrendamientos,Bogotá D.C.,Bogotá D.C.,Banco Beta,87059282608,2016-04-19,usr003,Activo
+P0131,803788375,1,Distribuidora La Ceiba Roja S.A.S.,Seguridad y vigilancia,Bucaramanga,Santander,Banco Épsilon,59525785652,2017-07-01,usr011,Activo
+P0132,924041265,2,Consultores Nueva Esperanza S.A.S.,Transporte y fletes,Bucaramanga,Santander,Banco Épsilon,21192095424,2022-03-25,usr021,Activo
+P0133,838180724,5,Suministros Valle Sereno S.A.S.,Transporte y fletes,Montería,Córdoba,Banco Gamma,89949484895,2023-04-14,usr010,Activo
+P0134,919029800,6,Agroinsumos El Guadual S.A.S.,Tecnología,Bucaramanga,Santander,Banco Épsilon,27959764354,2021-05-26,usr013,Activo
+P0135,862107058,5,Logística Monteclaro S.A.S.,Arrendamientos,Yopal,Casanare,Banco Gamma,63005480056,2017-11-24,usr014,Activo
+P0136,982732555,1,Distribuidora El Caracolí S.A.S.,Tecnología,Neiva,Huila,Banco Gamma,06718968188,2015-07-15,usr026,Activo
+P0137,937993404,1,Servicios Brisas del Llano S.A.S.,Papelería y aseo,Popayán,Cauca,Banco Delta,53633950349,2018-03-09,usr029,Activo
+P0138,914890768,0,Transportes Tierra Fértil S.A.S.,Seguridad y vigilancia,Ibagué,Tolima,Banco Épsilon,78825340516,2023-12-10,usr027,Activo
+P0139,901841350,1,Suministros El Caracolí S.A.S.,Papelería y aseo,Bogotá D.C.,Bogotá D.C.,Banco Alfa,28305528161,2016-09-20,usr012,Activo
+P0140,898844608,8,Agroinsumos Cafetal Alto S.A.S.,Insumos agrícolas,Villavicencio,Meta,Banco Beta,21502667715,2020-04-17,usr003,Activo
+P0141,930712193,2,Consultores Cafetal Alto S.A.S.,Seguridad y vigilancia,Villavicencio,Meta,Banco Gamma,11118194467,2015-01-11,usr029,Activo
+P0142,989394496,8,Agroinsumos La Ceiba Roja S.A.S.,Tecnología,Neiva,Huila,Banco Alfa,57161788024,2019-09-06,usr007,Activo
+P0143,969366914,3,Servicios El Guadual S.A.S.,Papelería y aseo,Villavicencio,Meta,Banco Alfa,85881572232,2022-06-13,usr017,Activo
+P0144,834941412,4,Ferretería Valle Sereno S.A.S.,Papelería y aseo,Popayán,Cauca,Banco Beta,04299692126,2017-07-15,usr012,Activo
+P0145,909103207,8,Inversiones Cafetal Alto S.A.S.,Papelería y aseo,Bucaramanga,Santander,Banco Delta,01797571546,2015-08-23,usr026,Activo
+P0146,992475671,1,Ferretería Piedrablanca S.A.S.,Transporte y fletes,Villavicencio,Meta,Banco Beta,80860173924,2022-06-30,usr016,Activo
+P0147,874521642,5,Servicios La Orquídea S.A.S.,Seguridad y vigilancia,Bucaramanga,Santander,Banco Delta,46449489387,2015-09-25,usr005,Activo
+P0148,933202887,8,Ferretería Cafetal Alto S.A.S.,Papelería y aseo,Ibagué,Tolima,Banco Delta,10550626472,2020-12-19,usr010,Activo
+P0149,998312463,7,Suministros San Isidro Labrador S.A.S.,Arrendamientos,Armenia,Quindío,Banco Gamma,47846636311,2015-03-30,usr028,Activo
+P0150,994376355,1,Inversiones El Caracolí S.A.S.,Mantenimiento,Neiva,Huila,Banco Épsilon,49707938192,2016-01-04,usr004,Activo
+P0151,806451857,3,Mantenimientos Piedrablanca S.A.S.,Servicios profesionales,Montería,Córdoba,Banco Beta,79067054851,2020-11-01,usr002,Activo
+P0152,976102379,5,Seguridad Monteclaro S.A.S.,Mantenimiento,Villavicencio,Meta,Banco Beta,17428743736,2023-04-04,usr007,Activo
+P0153,976420275,1,Logística Cerro Azul S.A.S.,Papelería y aseo,Ibagué,Tolima,Banco Gamma,46437402961,2023-09-28,usr002,Activo
+P0154,842906875,1,Distribuidora Cerro Azul S.A.S.,Tecnología,Yopal,Casanare,Banco Alfa,98264529629,2023-09-30,usr005,Activo
+P0155,887148465,6,Transportes Cerro Azul S.A.S.,Seguridad y vigilancia,Montería,Córdoba,Banco Beta,77862237727,2021-09-03,usr023,Activo
+P0156,801146816,6,Mantenimientos La Ceiba Roja S.A.S.,Tecnología,Bogotá D.C.,Bogotá D.C.,Banco Gamma,03453244724,2019-12-19,usr002,Activo
+P0157,863013655,1,Mantenimientos Río Manso S.A.S.,Transporte y fletes,Villavicencio,Meta,Banco Beta,46684424808,2019-03-26,usr015,Activo
+P0158,985922540,6,Agroinsumos Altoverde S.A.S.,Mantenimiento,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,91017970121,2018-11-11,usr001,Activo
+P0159,839286291,8,Servicios Los Samanes S.A.S.,Mantenimiento,Yopal,Casanare,Banco Gamma,42762841545,2022-01-02,usr020,Activo
+P0160,958467598,2,Transportes Brisas del Llano S.A.S.,Insumos agrícolas,Bogotá D.C.,Bogotá D.C.,Banco Beta,83056034991,2022-07-15,usr003,Activo
+P0161,897910543,7,Consultores Las Palmeras S.A.S.,Insumos agrícolas,Montería,Córdoba,Banco Alfa,96577865019,2020-12-13,usr015,Activo
+P0162,827282094,1,Seguridad El Guadual S.A.S.,Papelería y aseo,Armenia,Quindío,Banco Épsilon,30279355416,2017-06-21,usr001,Activo
+P0163,808024190,6,Ferretería La Orquídea S.A.S.,Tecnología,Popayán,Cauca,Banco Beta,00183945176,2019-01-01,usr007,Activo
+P0164,886021071,8,Ferretería Las Palmeras S.A.S.,Tecnología,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,86787053793,2019-12-04,usr026,Activo
+P0165,948349355,8,Seguridad Piedrablanca S.A.S.,Arrendamientos,Ibagué,Tolima,Banco Gamma,56438581399,2019-03-14,usr029,Activo
+P0166,944313426,2,Suministros Brisas del Llano S.A.S.,Insumos agrícolas,Neiva,Huila,Banco Beta,11964977131,2019-12-05,usr010,Activo
+P0167,834811209,8,Logística La Orquídea S.A.S.,Papelería y aseo,Armenia,Quindío,Banco Delta,34792253468,2016-06-29,usr029,Activo
+P0168,893298853,5,Transportes Altoverde S.A.S.,Mantenimiento,Montería,Córdoba,Banco Gamma,38838560912,2022-10-22,usr012,Activo
+P0169,959048457,9,Seguridad Nueva Esperanza S.A.S.,Servicios profesionales,Yopal,Casanare,Banco Delta,44078882264,2023-03-09,usr008,Activo
+P0170,800038937,2,Suministros Nueva Esperanza S.A.S.,Insumos agrícolas,Yopal,Casanare,Banco Alfa,82753122272,2018-10-13,usr013,Activo
+P0171,834058798,4,Logística Las Palmeras S.A.S.,Arrendamientos,Ibagué,Tolima,Banco Alfa,50290584741,2022-07-17,usr004,Activo
+P0172,888860512,0,Servicios La Ceiba Roja S.A.S.,Servicios profesionales,Pereira,Risaralda,Banco Gamma,54153003604,2018-12-30,usr015,Activo
+P0173,914901654,9,Distribuidora Tierra Fértil S.A.S.,Insumos agrícolas,Bogotá D.C.,Bogotá D.C.,Banco Alfa,95280853176,2021-05-28,usr025,Activo
+P0174,982890920,1,Ferretería Río Manso S.A.S.,Insumos agrícolas,Pereira,Risaralda,Banco Alfa,04609613066,2017-06-29,usr028,Activo
+P0175,856581246,2,Mantenimientos Brisas del Llano S.A.S.,Insumos agrícolas,Bucaramanga,Santander,Banco Beta,84234628970,2021-08-04,usr029,Activo
+P0176,806890109,5,Transportes Nueva Esperanza S.A.S.,Transporte y fletes,Bucaramanga,Santander,Banco Alfa,29609543972,2020-11-12,usr016,Activo
+P0177,806223511,3,Mantenimientos Cafetal Alto S.A.S.,Arrendamientos,Armenia,Quindío,Banco Alfa,89281107892,2018-02-27,usr015,Activo
+P0178,941294697,8,Inversiones El Guadual S.A.S.,Mantenimiento,Pereira,Risaralda,Banco Épsilon,52075372079,2020-09-26,usr009,Activo
+P0179,873429334,5,Mantenimientos Cerro Azul S.A.S.,Transporte y fletes,Bucaramanga,Santander,Banco Delta,08994755700,2019-06-12,usr022,Activo
+P0180,987112023,1,Suministros La Orquídea S.A.S.,Papelería y aseo,Neiva,Huila,Banco Alfa,29263318355,2022-03-03,usr019,Activo
+P0181,938582757,6,Transportes San Isidro Labrador 1 S.A.S.,Servicios profesionales,Bogotá D.C.,Bogotá D.C.,Banco Alfa,93812581997,2025-07-07,usr007,Activo
+P0182,972068464,3,Ferretería La Ceiba Roja 2 S.A.S.,Servicios profesionales,Bogotá D.C.,Bogotá D.C.,Banco Épsilon,80846557355,2025-07-14,usr007,Activo
+P0183,900989430,3,Distribuidora Monteclaro 3 S.A.S.,Servicios profesionales,Bogotá D.C.,Bogotá D.C.,Banco Alfa,18092999343,2025-09-15,usr007,Activo
+P0184,943562410,9,Consultores San Isidro Labrador 4 S.A.S.,Servicios profesionales,Bogotá D.C.,Bogotá D.C.,Banco Alfa,59869902116,2025-05-19,usr007,Activo

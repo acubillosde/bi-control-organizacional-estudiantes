@@ -1,0 +1,1246 @@
+id_cliente,tipo_documento,numero_documento,nit_dv,nombre,email,telefono,municipio,fecha_nacimiento,fecha_vinculacion,ingresos_mensuales,fecha_actualizacion
+CL00632,CC,913425532,,Camilo Toro Quintero,camilo.toro631@correo-ficticio.co,3228766265,Pereira,1966-01-21,2014-04-17,5019000,2021-06-11
+CL00616,CC,123900737,,Julián Duarte Hoyos,julián.duarte615@correo-ficticio.co,3174272270,Neiva,1961-09-06,2023-01-20,5726000,2024-10-11
+CL00582,CC,272311608,,Esteban Jaramillo Echeverri,esteban.jaramillo581 arroba correo-ficticio.co,3268942060,Villavicencio,1975-03-26,2013-07-08,1963000,2019-08-02
+CL00244,CC,412455806,,Esteban Montoya Hoyos,esteban.montoya243@correo-ficticio.co,3189648423,Bogotá D.C.,1950-02-11,2017-11-05,2429000,2024-12-04
+CL00709,CC,371594985,,Rocío Ocampo Londoño,rocío.ocampo708@correo-ficticio.co,3117544710,VILLAVICENCIO ,1953-11-30,2016-10-13,2780000,2015-06-29
+CL00676,NIT,977541461,8,Sergio Bermúdez Ibarra,sergio.bermúdez675@correo-ficticio.co,3200078979,Villavicencio,1985-02-21,2014-06-06,3214000,2024-05-11
+CL00958,CC,420839090,,Marcela Salazar Restrepo,marcela.salazar957@correo-ficticio.co,3271968858,Ibagué,1996-07-22,2024-01-23,5122000,2021-10-18
+CL00375,CC,100390080,,Julián Castaño Jaramillo,,3282998973,Bogotá D.C.,1997-10-17,2013-07-20,3562000,2025-08-22
+CL00670,CC,722997513,,Nicolás Duarte Zuluaga,nicolás.duarte669@correo-ficticio.co,3145260207,Neiva,1991-06-23,2011-03-03,12177000,2024-03-24
+CL00058,CC,497293105,,Ximena Londoño Uribe,ximena.londoño57@correo-ficticio.co,3191482714,Ibagué,1962-07-29,2021-11-28,1790000,2020-10-22
+CL00165,CC,926069136,,Julián Fajardo Duarte,julián.fajardo164@correo-ficticio.co,3161195539,Bogotá D.C.,1989-07-14,2014-06-19,4862000,2023-04-19
+CL00228,CC,349039613,,Diana Bermúdez Uribe,diana.bermúdez227@correo-ficticio.co,3137238732,Bogotá D.C.,2002-03-12,2019-02-23,4707000,2023-01-08
+CL00566,CC,882028421,,Diana Galvis Londoño,diana.galvis565@correo-ficticio.co,3280755796,Bogotá D.C.,1970-02-25,2020-05-17,7244000,2020-06-15
+CL00382,CC,391065132,,Luis Duarte Montoya,luis.duarte381@correo-ficticio.co,3197969372,Ibagué,1986-08-30,2022-12-04,1797000,2023-06-08
+CL00144,CC,118927357,,Óscar Ocampo Bermúdez,óscar.ocampo143@correo-ficticio.co,3223693403,Bogotá D.C.,1952-11-27,2017-12-08,1707000,2022-12-10
+CL00265,CC,182364974,,Andrea Rengifo Toro,andrea.rengifo264@correo-ficticio.co,3215165962,Pereira,1989-05-22,2020-08-19,5284000,2024-12-26
+CL00500,CC,356375702,,Rocío Naranjo Ibarra,rocío.naranjo499@correo-ficticio.co,3105807762,Ibagué,1965-01-15,2016-09-02,1497000,2016-11-14
+CL00476,NIT,990479460,3,Luis Naranjo Patiño,luis.naranjo475@correo-ficticio.co,3120840757,Villavo,1976-05-26,2017-01-01,2862000,2021-06-19
+CL01127,CC,1090693637,,Zulma Londoño Patiño,zulma.londoño1126@correo-ficticio.co,3130450982,Ibagué,1979-04-23,2023-03-06,1709000,2019-12-30
+CL00870,NIT,957680480,0,Sergio Rengifo Jaramillo,sergio.rengifo869@correo-ficticio.co,3240510325,Neiva,1958-01-26,2024-04-29,11043000,2019-12-06
+CL00174,CC,1096228014,,Ximena Ibarra Castaño,ximena.ibarra173@correo-ficticio.co,3193735012,Montería,1957-07-05,2024-03-27,2182000,2020-08-26
+CL00233,CC,623477482,,Diana Castaño Londoño,diana.castaño232@correo-ficticio.co,3100589300,Pereira,1995-12-04,2013-10-02,10195000,2023-05-20
+CL00236,CC,1005602091,,Marcela Patiño Fajardo,marcela.patiño235@correo-ficticio.co,3220128452,Bogotá D.C.,1973-02-05,2016-11-29,16234000,2022-03-26
+CL00517,CC,877392571,,Wilson Uribe Duarte,wilson.uribe516@correo-ficticio.co,3186844975,Ibagué,1976-10-17,2014-12-02,1868000,2019-08-05
+CL00424,CC,926265249,,Felipe Galvis Cifuentes,felipe.galvis423@correo-ficticio.co,3116907427,Ibagué,1956-03-07,2019-04-25,2525000,2023-08-16
+CL00745,CC,96469903,,Óscar Quintero Ocampo,óscar.quintero744@correo-ficticio.co,3145403201,Neiva,1970-04-07,2012-08-17,3238000,2019-08-01
+CL00889,NIT,928871431,4,Inés Cifuentes Naranjo,inés.cifuentes888@correo-ficticio.co,3144891837,Neiva,1996-08-16,2015-06-12,3731000,2019-01-13
+CL00422,CC,685090705,,Inés Rengifo Rengifo,inés.rengifo421@correo-ficticio.co,3177004239,Villavicencio,1973-03-11,2020-04-27,3713000,2022-06-19
+CL00881,CC,899153428,,Óscar Jaramillo Duarte,,3124799376,Ibagué,1999-05-25,2013-02-01,4163000,2019-03-21
+CL00636,CC,1000910769,,Rocío Zuluaga Zuluaga,rocío.zuluaga635@correo-ficticio.co,3191415485,Neiva,1993-12-18,2013-06-07,1931000,2022-09-09
+CL00312,CC,661886785,,Pablo Jaramillo Galvis,,3109920649,Villavicencio,1980-08-25,2020-10-31,2329000,2022-08-04
+CL00161,CC,39320995,,Gloria Londoño Galvis,,3257792414,Ibagué,1979-02-09,2016-06-08,4168000,2024-07-28
+CL01142,CC,318176649,,Hernán Cifuentes Arango,hernán.cifuentes1141 arroba correo-ficticio.co,3248190104,Villavo,1961-05-26,2019-06-10,1350000,2019-01-11
+CL00687,NIT,856950223,7,Karen Cifuentes Castaño,karen.cifuentes686@correo-ficticio.co,3274061710,Montería,1967-05-09,2013-09-20,2809000,2023-09-15
+CL01173,CC,689069009,,Pablo Uribe Bermúdez,pablo.uribe1172@correo-ficticio.co,3175039240,Villavicencio,1952-11-28,2014-10-18,2088000,2025-08-31
+CL00591,NIT,900467535,8,Karen Fajardo Duarte,karen.fajardo590@correo-ficticio.co,3134690851,Bogotá D.C.,1983-06-22,2010-02-11,4958000,2020-06-22
+CL01076,NIT,870712592,0,Felipe Fajardo Toro,felipe.fajardo1075@correo-ficticio.co,3147393620,Villavicencio,1965-02-06,2010-05-04,4045000,2023-08-29
+CL00240,CC,358428740,,Sergio Cifuentes Arango,sergio.cifuentes239@correo-ficticio.co,3108049757,VILLAVICENCIO ,1962-01-12,2022-11-04,2471000,2022-02-17
+CL01130,CC,63742887,,Olga Uribe Arango,olga.uribe1129@correo-ficticio.co,3287772368,Montería,1956-05-08,2024-04-09,2472000,2023-03-19
+CL01105,CC,302277057,,Ximena Toro Bermúdez,ximena.toro1104@correo-ficticio.co,3160408332,Ibagué,2030-03-15,2017-09-09,1364000,2024-04-06
+CL00571,CC,684677608,,Inés Ocampo Duarte,inés.ocampo570@correo-ficticio.co,3275954215,Pereira,1981-08-16,2023-11-22,9517000,2021-07-06
+CL00315,CC,107625758,,Gloria Salazar Montoya,gloria.salazar314@correo-ficticio.co,3288315998,Ibagué,1990-08-02,2022-10-19,17961000,2020-11-14
+CL00230,CC,851494085,,Nicolás Hoyos Toro,nicolás.hoyos229@correo-ficticio.co,3158197737,Neiva,1962-12-14,2012-01-26,1730000,2024-07-31
+CL00598,CC,378747456,,Rocío Ocampo Jaramillo,rocío.ocampo597@correo-ficticio.co,3245257956,Neiva,1983-08-06,2020-06-26,2649000,2023-11-18
+CL01151,CC,1024434033,,Hernán Cifuentes Cifuentes,hernán.cifuentes1150@correo-ficticio.co,3256212168,Montería,1970-08-23,2018-04-26,11145000,2025-02-01
+CL00675,CC,265665388,,Marcela Galvis Zuluaga,marcela.galvis674@correo-ficticio.co,3297752872,Villavicencio,1988-03-31,2023-02-24,3853000,2025-01-29
+CL01147,CC,880363487,,Pablo Bermúdez Duarte,pablo.bermúdez1146@correo-ficticio.co,3180981024,Pereira,1988-07-23,2016-03-13,6495000,2024-11-12
+CL01067,CC,644500159,,Valentina Arango Toro,valentina.arango1066@correo-ficticio.co,3296037226,BOGOTA,1994-03-16,2022-02-01,1239000,2022-05-06
+CL00711,CC,634947358,,Camilo Zuluaga Cifuentes,camilo.zuluaga710@correo-ficticio.co,3244511420,Villavicencio,1954-07-23,2016-01-14,3939000,2022-11-06
+CL00894,CC,1093045303,,Wilson Salazar Quintero,wilson.salazar893@correo-ficticio.co,3204274869,Neiva,1981-04-24,2020-12-28,-1913000,2022-10-17
+CL00860,CC,237301068,,Julián Restrepo Naranjo,julián.restrepo859@correo-ficticio.co,3155329796,Bogotá D.C.,1972-07-03,2016-10-01,9915000,2015-12-14
+CL00081,CC,212066903,,Julián Salazar Rengifo,julián.salazar80@correo-ficticio.co,3141236035,Villavicencio,1980-09-27,2018-05-20,3045000,2021-08-26
+CL01077,CC,996062602,,Camilo Restrepo Galvis,,3125165452,Neiva,1971-09-05,2020-04-02,3148000,2021-05-14
+CL00194,CC,220536113,,Zulma Rengifo Arango,zulma.rengifo193@correo-ficticio.co,3256292765,Ibagué,1996-05-14,2013-01-30,5809000,2015-12-14
+CL00002,CC,552359272,,Ximena Castaño Quintero,ximena.castaño1@correo-ficticio.co,3269749196,Neiva,1953-02-12,2024-10-13,1843000,2022-10-16
+CL00522,CC,663496445,,Gloria Cifuentes Castaño,gloria.cifuentes521@correo-ficticio.co,3272285628,Pereira,1959-07-26,2016-12-04,6732000,2019-02-07
+CL00032,CC,761779140,,Mauricio Rengifo Uribe,mauricio.rengifo31@correo-ficticio.co,3121984953,Villavicencio,1968-09-24,2021-11-28,5359000,2021-07-22
+CL00494,NIT,971447703,1,Marcela Toro Echeverri,marcela.toro493@correo-ficticio.co,3200326771,Bogotá D.C.,1994-06-25,2013-12-13,7770000,2025-11-02
+CL00066,CC,705219366,,Inés Fajardo Duarte,inés.fajardo65@correo-ficticio.co,3185132756,Pereira,1956-12-24,2018-02-02,3712000,2021-04-08
+CL00621,CC,450734505,,Olga Ibarra Patiño,olga.ibarra620@correo-ficticio.co,3228937673,Ibagué,1963-03-26,2024-02-03,2928000,2023-12-28
+CL00344,CC,828026738,,Inés Rengifo Uribe,inés.rengifo343@correo-ficticio.co,3233079308,Neiva,1965-03-16,2022-11-18,5800000,2024-02-07
+CL00181,CC,916310825,,Hernán Hoyos Montoya,hernán.hoyos180@correo-ficticio.co,3275953666,Ibagué,1973-09-04,2017-05-26,5722000,2015-04-08
+CL00264,CC,239629809,,Yesid Restrepo Fajardo,,3175091548,Ibagué,1980-11-22,2013-07-02,4524000,2023-12-28
+CL00020,CC,798969047,,Inés Montoya Quintero,inés.montoya19@correo-ficticio.co,3185212489,Montería,1975-07-31,2016-06-16,7085000,2024-02-29
+CL00678,NIT,916815766,4,Felipe Jaramillo Restrepo,felipe.jaramillo677@correo-ficticio.co,3298975571,Pereira,1984-09-04,2015-11-05,1178000,2025-05-15
+CL01223,CC,834419812,,ANDREA CASTAÑO IBARRA,andrea.castaño1021@correo-ficticio.co,3181335087,Pereira,1980-10-01,2013-10-16,21346000,2024-10-17
+CL01222,CC,193459444,,Pablo  Arango Rengifo,pablo.arango616@correo-ficticio.co,3170109474,Ibagué,1957-05-27,2013-08-16,1615000,2021-11-10
+CL00574,CC,121007294,,Felipe Cifuentes Restrepo,felipe.cifuentes573@correo-ficticio.co,3273802005,Pereira,1999-09-09,2021-04-09,7369000,2022-09-21
+CL01179,CC,423134118,,Zulma Rengifo Bermúdez,zulma.rengifo1178@correo-ficticio.co,3274194917,Ibagué,1996-12-23,2020-12-04,4155000,2023-05-09
+CL00120,CC,411891621,,Gloria Restrepo Rengifo,gloria.restrepo119@correo-ficticio.co,3160632275,Neiva,1979-03-24,2020-09-07,3008000,2022-10-12
+CL01010,CC,394991650,,Tatiana Castaño Ocampo,tatiana.castaño1009@correo-ficticio.co,3288089416,Villavicencio,1955-10-20,2018-02-06,3619000,2015-07-31
+CL00528,CC,1064803917,,Gloria Zuluaga Ocampo,gloria.zuluaga527@correo-ficticio.co,3263049358,Ibagué,1959-01-01,2024-06-17,3164000,2021-03-12
+CL00847,CC,248368948,,Sergio Bermúdez Galvis,sergio.bermúdez846@correo-ficticio.co,3132891882,Ibagué,2002-01-08,2023-04-01,3436000,2021-12-14
+CL00924,CC,264292338,,Marcela Jaramillo Jaramillo,marcela.jaramillo923@correo-ficticio.co,3159251140,Bogotá D.C.,1988-03-04,2010-02-07,702000,2023-06-12
+CL00688,CC,1032380052,,Wilson Rengifo Cifuentes,wilson.rengifo687@correo-ficticio.co,3277452962,Villavicencio,1955-05-14,2018-12-08,1465000,2024-04-04
+CL01032,CC,569026774,,Pablo Ocampo Londoño,pablo.ocampo1031@correo-ficticio.co,3282943500,Ibagué,1968-04-21,2017-05-06,5977000,2022-03-25
+CL00760,CC,18353060,,Julián Fajardo Zuluaga,julián.fajardo759@correo-ficticio.co,3275718490,Montería,1975-11-12,2023-04-11,4758000,2023-10-19
+CL00938,CC,951585302,,Hernán Echeverri Arango,hernán.echeverri937@correo-ficticio.co,3135589361,Neiva,1955-07-20,2022-03-03,3517000,2024-04-10
+CL00489,NIT,805888635,8,Olga Cifuentes Duarte,olga.cifuentes488@correo-ficticio.co,3211952990,Pereira,1969-11-20,2015-02-20,11050000,2019-03-03
+CL00248,CC,700437786,,Pablo Uribe Echeverri,pablo.uribe247@correo-ficticio.co,3232602358,Pereira,1985-12-05,2016-01-02,1744000,2025-02-20
+CL00211,CC,880954162,,Lorena Ocampo Cifuentes,lorena.ocampo210@correo-ficticio.co,3115134295,Bogotá D.C.,2002-02-21,2014-04-05,4152000,2022-08-17
+CL00986,CC,828024840,,Diana Montoya Vallejo,diana.montoya985@correo-ficticio.co,3244537836,Bogotá D.C.,1970-11-14,2021-03-04,2900000,2019-04-07
+CL00387,CC,277959706,,Wilson Naranjo Zuluaga,wilson.naranjo386@correo-ficticio.co,3182007138,Ibagué,1979-11-15,2021-10-14,7729000,2023-11-17
+CL00388,CC,582118991,,Nicolás Zuluaga Londoño,nicolás.zuluaga387@correo-ficticio.co,3273116461,Montería,1975-03-15,2012-11-03,2060000,2020-03-19
+CL01182,CC,653261963,,Karen Arango Londoño,karen.arango1181@correo-ficticio.co,3288970496,Neiva,1980-08-26,2015-03-28,5026000,2022-01-27
+CL00145,CC,890872669,,Pablo Jaramillo Duarte,pablo.jaramillo144 arroba correo-ficticio.co,3175916661,Montería,2002-10-30,2010-01-24,2164000,2019-01-22
+CL00351,CC,638592297,,Camilo Echeverri Quintero,camilo.echeverri350@correo-ficticio.co,3173069455,Pereira,1998-08-15,2014-12-22,2563000,2024-05-11
+CL00850,CC,933978758,,Camilo Restrepo Zuluaga,camilo.restrepo849@correo-ficticio.co,3226205789,Montería,1982-12-29,2018-08-04,1720000,2020-09-24
+CL01101,CC,1043354078,,Pablo Duarte Rengifo,,3149552777,Ibagué,1984-02-21,2017-01-02,3290000,2019-07-17
+CL00082,CC,1073272579,,Hernán Vallejo Naranjo,hernán.vallejo81@correo-ficticio.co,3139808497,Montería,1993-02-05,2024-04-02,2897000,2024-11-03
+CL00917,CC,661838567,,Julián Ibarra Castaño,,3153758512,Neiva,1967-10-21,2020-12-22,5015000,2015-05-15
+CL00661,NIT,975332449,5,Esteban Londoño Castaño,esteban.londoño660@correo-ficticio.co,3115480241,Montería,1998-03-07,2011-04-09,1213000,2022-12-04
+CL01167,CC,689539142,,Yesid Rengifo Naranjo,yesid.rengifo1166@correo-ficticio.co,3299338907,VILLAVICENCIO ,1997-08-13,2021-11-25,7430000,2025-10-08
+CL01228,CC,906202071,,HERNÁN CASTAÑO ZULUAGA,hernán.castaño684@correo-ficticio.co,3279750898,Montería,1970-05-24,2021-12-19,904000,2019-08-03
+CL00108,NIT,897053699,1,Zulma Cifuentes Rengifo,zulma.cifuentes107@correo-ficticio.co,3234981529,Villavicencio,1995-04-18,2016-01-10,5777000,2016-09-26
+CL00941,CC,899587332,,Esteban Vallejo Rengifo,,3106746663,Ibagué,1957-05-21,2017-07-17,2202000,2024-08-25
+CL00761,CC,193325639,,Esteban Hoyos Fajardo,esteban.hoyos760@correo-ficticio.co,3116813072,Pereira,1976-10-15,2011-08-11,1498000,2022-12-10
+CL00229,CC,380408933,,Tatiana Ocampo Cifuentes,tatiana.ocampo228@correo-ficticio.co,3263078707,Montería,1957-09-30,2015-11-24,2565000,2015-10-12
+CL00250,CC,291091091,,Inés Zuluaga Uribe,inés.zuluaga249@correo-ficticio.co,3222062644,Montería,1959-05-04,2021-01-04,5428000,2019-02-17
+CL01137,CC,140407224,,Ximena Castaño Naranjo,ximena.castaño1136@correo-ficticio.co,3264545077,Pereira,2000-11-23,2020-12-27,2848000,2020-01-22
+CL00655,CC,1072426298,,Esteban Ocampo Toro,esteban.ocampo654@correo-ficticio.co,3183185253,Villavicencio,1974-12-12,2022-08-22,4714000,2019-08-13
+CL01146,CC,1083427684,,Gloria Quintero Bermúdez,gloria.quintero1145@correo-ficticio.co,3167414501,Ibagué,1973-07-13,2022-02-05,12660000,2022-08-12
+CL00724,CC,1002780316,,Mauricio Arango Rengifo,mauricio.arango723@correo-ficticio.co,3136324287,Villavicencio,1961-10-19,2011-12-09,3085000,2022-09-26
+CL00392,CC,640529736,,Felipe Fajardo Uribe,felipe.fajardo391@correo-ficticio.co,3287585234,Ibagué,1951-07-04,2017-03-17,6284000,2020-12-03
+CL00448,CC,10280711,,Lorena Echeverri Arango,lorena.echeverri447@correo-ficticio.co,3109693352,Villavicencio,1996-06-07,2016-12-26,5329000,2021-08-07
+CL01110,CC,264809306,,Julián Bermúdez Jaramillo,julián.bermúdez1109@correo-ficticio.co,3246669399,Neiva,1962-08-06,2024-03-24,4911000,2023-10-24
+CL00645,CC,402257604,,Ximena Duarte Restrepo,ximena.duarte644@correo-ficticio.co,3121764993,Villavo,1980-03-06,2015-07-05,3151000,2015-09-07
+CL00686,CC,168409590,,Nicolás Jaramillo Quintero,nicolás.jaramillo685@correo-ficticio.co,3198900079,Pereira,1969-04-26,2014-01-06,4241000,2022-09-18
+CL00267,CC,454050923,,Julián Castaño Londoño,julián.castaño266@correo-ficticio.co,3221622105,Villavicencio,1961-06-18,2021-01-01,1386000,2023-03-19
+CL00122,CC,184619724,,Julián Patiño Quintero,julián.patiño121@correo-ficticio.co,3139530226,Pereira,1979-07-19,2012-02-05,-3493000,2020-04-11
+CL01239,CC,969960134,,Karen  Salazar Rengifo,karen.salazar804@correo-ficticio.co,3280336574,Neiva,2000-05-18,2018-10-27,3923000,2019-04-03
+CL00728,CC,492056551,,Hernán Patiño Vallejo,hernán.patiño727@correo-ficticio.co,3184826321,Bogotá D.C.,2004-02-13,2014-11-17,3836000,2024-04-12
+CL00664,CC,615323939,,Gloria Hoyos Naranjo,,3242387316,Bogotá D.C.,1953-03-26,2010-10-17,5628000,2025-07-28
+CL00379,CC,123601990,,Mauricio Galvis Arango,,3268068071,Ibagué,1976-05-12,2011-11-09,2722000,2019-06-29
+CL00804,CC,644409796,,Zulma Montoya Salazar,zulma.montoya803@correo-ficticio.co,3225377838,Pereira,1982-03-29,2012-03-08,3793000,2023-02-07
+CL00651,CC,789144902,,Nicolás Ocampo Cifuentes,nicolás.ocampo650@correo-ficticio.co,3246114229,Neiva,1972-04-16,2022-12-28,2399000,2021-03-04
+CL00895,CC,774420455,,Hernán Rengifo Toro,hernán.rengifo894@correo-ficticio.co,3230937711,Ibagué,1987-03-12,2022-05-04,3519000,2022-07-02
+CL00302,CC,437713795,,Lorena Duarte Vallejo,lorena.duarte301@correo-ficticio.co,3243099240,Bogotá D.C.,1991-08-20,2015-08-19,2762000,2024-08-21
+CL00098,CC,1058637801,,Inés Londoño Castaño,inés.londoño97@correo-ficticio.co,3277336199,Pereira,1985-03-23,2022-01-02,2872000,2022-11-06
+CL00073,CC,900134499,,Tatiana Restrepo Duarte,tatiana.restrepo72@correo-ficticio.co,3158815097,Bogotá D.C.,1950-02-24,2022-09-22,1542000,2021-01-28
+CL00611,CC,801358798,,Sergio Fajardo Salazar,sergio.fajardo610@correo-ficticio.co,3203987232,Bogotá D.C.,1994-07-07,2019-05-14,2186000,2020-02-03
+CL00954,CC,1083511413,,Camilo Bermúdez Arango,camilo.bermúdez953@correo-ficticio.co,3172855018,BOGOTA,1985-01-02,2021-10-06,1658000,2024-03-20
+CL00998,CC,389021835,,Diana Galvis Londoño,diana.galvis997@correo-ficticio.co,3124575779,Montería,1997-02-19,2015-01-28,747000,2023-01-04
+CL00062,CC,292604720,,Olga Montoya Ibarra,olga.montoya61@correo-ficticio.co,3218474377,Bogotá D.C.,1979-05-04,2010-12-13,3061000,2021-09-04
+CL00440,CC,266383588,,Wilson Galvis Vallejo,wilson.galvis439@correo-ficticio.co,3138137232,Bogotá D.C.,1997-08-19,2016-06-19,2675000,2019-11-04
+CL00712,NIT,957660363,1,Esteban Londoño Ocampo,esteban.londoño711@correo-ficticio.co,3154158815,Bogotá D.C.,1973-12-26,2023-03-01,5959000,2021-02-15
+CL00070,CC,601875099,,Luis Naranjo Patiño,luis.naranjo69@correo-ficticio.co,3200892346,Pereira,1977-08-04,2010-12-10,5153000,2022-01-16
+CL00124,CC,300768461,,Wilson Ibarra Echeverri,wilson.ibarra123@correo-ficticio.co,3293364232,Villavicencio,1951-03-05,2014-05-25,4436000,2019-09-14
+CL00999,CC,590976578,,Tatiana Ocampo Uribe,tatiana.ocampo998@correo-ficticio.co,3246541982,Bogota DC,1966-05-21,2022-08-04,4856000,2019-01-02
+CL00318,CC,221540059,,Marcela Castaño Echeverri,marcela.castaño317@correo-ficticio.co,3214355930,Montería,1993-05-02,2022-11-09,4018000,2022-05-07
+CL00955,NIT,987071228,7,Inés Zuluaga Quintero,,3198813762,Neiva,1962-07-28,2014-11-02,4808000,2016-11-15
+CL00059,CC,688375722,,Olga Duarte Galvis,olga.duarte58@correo-ficticio.co,3289733537,Pereira,2002-06-07,2015-02-16,4255000,2025-07-06
+CL00980,CC,863535049,,Óscar Ocampo Ibarra,óscar.ocampo979@correo-ficticio.co,3273711623,Ibagué,2000-01-26,2018-05-08,2410000,2020-12-18
+CL00747,CC,312701341,,Sergio Jaramillo Galvis,sergio.jaramillo746@correo-ficticio.co,3277266026,Villavicencio,1957-03-11,2021-06-20,2462000,2019-05-05
+CL00527,CC,926241650,,Karen Restrepo Londoño,karen.restrepo526@correo-ficticio.co,3196228635,Ibagué,1973-07-22,2023-07-21,3263000,2022-11-13
+CL00158,CC,693321771,,Óscar Arango Londoño,óscar.arango157@correo-ficticio.co,3123323194,Montería,1950-11-22,2014-10-31,8241000,2016-06-14
+CL00350,CC,1024731783,,Karen Montoya Salazar,karen.montoya349@correo-ficticio.co,3188944743,Pereira,2027-02-15,2022-02-10,2981000,2023-11-23
+CL00795,CC,330022036,,Wilson Patiño Uribe,wilson.patiño794@correo-ficticio.co,3150174912,Bogotá D.C.,2004-03-06,2010-09-12,3663000,2015-11-29
+CL00199,CC,1090419640,,Esteban Bermúdez Galvis,esteban.bermúdez198@correo-ficticio.co,3258000875,Ibagué,1968-12-22,2013-01-19,4443000,2023-07-30
+CL00499,CC,775287290,,Mauricio Castaño Quintero,mauricio.castaño498@correo-ficticio.co,3286717491,Bogotá D.C.,1998-04-15,2018-09-28,3211000,2025-05-14
+CL00305,CC,655696358,,Lorena Naranjo Duarte,lorena.naranjo304@correo-ficticio.co,3113166185,Montería,1970-11-29,2024-05-13,10913000,2021-03-13
+CL00377,CC,469808856,,Olga Patiño Jaramillo,olga.patiño376@correo-ficticio.co,3152274310,Neiva,1953-04-18,2021-07-09,2404000,2021-06-03
+CL00086,NIT,827740828,6,Julián Patiño Ibarra,julián.patiño85@correo-ficticio.co,3187700205,Montería,2027-04-15,2020-08-06,1914000,2025-02-26
+CL00151,CC,740231371,,Pablo Ocampo Arango,pablo.ocampo150@correo-ficticio.co,3176725344,Villavo,1967-07-26,2014-09-25,12855000,2025-06-10
+CL00649,CC,342919754,,Rocío Quintero Jaramillo,rocío.quintero648@correo-ficticio.co,3244537743,Ibagué,1970-02-18,2012-01-20,4340000,2023-03-27
+CL00473,NIT,854372057,3,Olga Bermúdez Toro,olga.bermúdez472 arroba correo-ficticio.co,3146664349,Montería,1977-08-12,2011-12-20,3224000,2019-11-20
+CL00104,CC,116779995,,Sergio Rengifo Castaño,sergio.rengifo103@correo-ficticio.co,3297872756,Ibagué,1959-09-20,2017-04-08,7600000,2023-06-05
+CL01095,CC,283219552,,Marcela Castaño Toro,marcela.castaño1094@correo-ficticio.co,3232093001,Pereira,1968-04-26,2023-06-01,5829000,2025-07-14
+CL01066,NIT,884949661,1,Mauricio Cifuentes Toro,,3190722685,Montería,1953-12-17,2023-10-21,2312000,2025-05-08
+CL00322,CC,978863637,,Marcela Zuluaga Naranjo,marcela.zuluaga321@correo-ficticio.co,3246486887,Bogotá D.C.,1973-04-09,2013-11-19,1649000,2020-06-12
+CL01080,CC,819766998,,Marcela Echeverri Jaramillo,marcela.echeverri1079@correo-ficticio.co,3182566506,Villavicencio,1970-03-06,2012-10-30,2061000,2024-07-17
+CL00874,NIT,876979731,6,Camilo Echeverri Duarte,camilo.echeverri873@correo-ficticio.co,3121133272,Montería,1976-10-26,2011-05-11,3513000,2019-07-04
+CL00147,NIT,848834749,3,Julián Cifuentes Galvis,julián.cifuentes146@correo-ficticio.co,3251552101,Pereira,1964-12-07,2019-12-08,5163000,2025-03-16
+CL00919,CC,272669673,,Yesid Patiño Rengifo,yesid.patiño918@correo-ficticio.co,3125639148,Ibagué,1979-12-11,2024-04-16,4917000,2022-01-17
+CL01073,NIT,936202711,1,Julián Montoya Fajardo,,3134898192,Pereira,1959-10-25,2016-01-29,5693000,2023-02-13
+CL01198,NIT,876819207,2,Yesid Ibarra Fajardo,yesid.ibarra1197@correo-ficticio.co,3211415944,Pereira,1957-02-24,2020-09-01,2137000,2022-06-07
+CL01121,CC,246996972,,Olga Castaño Restrepo,,3253037557,Neiva,1998-12-31,2014-05-25,3172000,2022-02-24
+CL01044,CC,695781682,,Ximena Galvis Quintero,ximena.galvis1043@correo-ficticio.co,3285907041,Villavicencio,1967-12-26,2022-07-24,2431000,2022-02-03
+CL00239,NIT,905840220,0,Rocío Montoya Bermúdez,rocío.montoya238@correo-ficticio.co,3245340436,Ibagué,1986-04-15,2014-08-21,5961000,2024-01-08
+CL00438,CC,10178300,,Mauricio Arango Duarte,mauricio.arango437@correo-ficticio.co,3243153202,Montería,1970-07-10,2017-05-01,2524000,2020-08-19
+CL00294,CC,185303318,,Luis Arango Hoyos,luis.arango293@correo-ficticio.co,3162360899,Neiva,1970-03-27,2020-11-19,1914000,2019-12-08
+CL00176,CC,571790259,,Pablo Duarte Rengifo,pablo.duarte175@correo-ficticio.co,3248279325,Ibagué,1977-01-03,2016-01-17,5147000,2023-12-24
+CL00457,NIT,926087120,9,Gloria Salazar Londoño,gloria.salazar456@correo-ficticio.co,3240176762,Ibagué,1976-12-13,2019-10-09,4468000,2020-01-05
+CL00353,CC,1047612328,,Gloria Salazar Arango,gloria.salazar352@correo-ficticio.co,3182979844,Ibagué,1967-04-01,2022-01-13,3854000,2022-01-11
+CL00004,CC,247022681,,Mauricio Naranjo Bermúdez,mauricio.naranjo3@correo-ficticio.co,3119721468,Ibagué,2003-04-11,2019-08-19,4120000,2025-05-05
+CL00371,CC,665639016,,Gloria Montoya Ocampo,,3292450168,Villavicencio,1962-05-22,2021-02-05,1009000,2019-07-15
+CL00960,NIT,841055959,5,Mauricio Arango Duarte,mauricio.arango959@correo-ficticio.co,3128748415,Neiva,1950-07-05,2017-01-11,5101000,2024-02-28
+CL00096,CC,155498173,,Mauricio Ibarra Ocampo,mauricio.ibarra95@correo-ficticio.co,3252065403,Pereira,1989-10-17,2013-09-08,2160000,2023-09-09
+CL00451,CC,1054145271,,Zulma Quintero Fajardo,zulma.quintero450@correo-ficticio.co,3109699803,Villavicencio,1985-11-22,2019-12-01,5855000,2020-02-17
+CL00707,CC,459957946,,Karen Echeverri Ocampo,karen.echeverri706@correo-ficticio.co,3103817461,BOGOTA,1951-08-01,2019-09-12,3264000,2023-01-30
+CL00704,CC,585407053,,Wilson Londoño Restrepo,wilson.londoño703@correo-ficticio.co,3238003897,Villavicencio,1990-05-03,2016-12-05,3733000,2022-11-13
+CL00657,CC,107302485,,Mauricio Londoño Duarte,mauricio.londoño656 arroba correo-ficticio.co,3205797424,Pereira,1966-09-15,2014-11-30,2231000,2023-05-11
+CL00459,CC,915636762,,Zulma Uribe Castaño,zulma.uribe458@correo-ficticio.co,3104323092,Montería,1983-01-25,2022-09-06,3465000,2019-06-19
+CL01229,CC,10280711,,LORENA ECHEVERRI ARANGO,lorena.echeverri447@correo-ficticio.co,3109693352,Villavicencio,1996-06-07,2016-12-26,5329000,2021-08-07
+CL00217,CC,717201228,,Inés Duarte Duarte,inés.duarte216 arroba correo-ficticio.co,3221203335,Montería,1966-12-18,2022-09-19,2535000,2025-05-31
+CL00731,CC,270617908,,Marcela Galvis Vallejo,marcela.galvis730@correo-ficticio.co,3169563548,Villavicencio,1966-01-27,2014-11-02,853000,2020-11-24
+CL00169,CC,502057558,,Olga Patiño Rengifo,olga.patiño168@correo-ficticio.co,3134199555,Ibagué,1991-05-26,2012-09-16,4675000,2023-09-18
+CL00928,NIT,884434498,4,Wilson Toro Galvis,wilson.toro927@correo-ficticio.co,3167477121,Ibagué,1981-06-14,2022-09-21,5084000,2025-04-06
+CL00985,CC,718714400,,Sergio Montoya Jaramillo,sergio.montoya984@correo-ficticio.co,3192437626,Pereira,1970-02-06,2014-09-11,4896000,2019-01-04
+CL00148,CC,555154921,,Nicolás Naranjo Uribe,nicolás.naranjo147@correo-ficticio.co,3264144031,Neiva,1980-04-18,2013-12-05,3819000,2025-05-16
+CL01233,CC,325767049,,Julián  Ibarra Fajardo,julián.ibarra0@correo-ficticio.co,3207507015,Pereira,1966-07-13,2017-04-02,1724000,2025-02-21
+CL00202,CC,996280930,,Valentina Londoño Cifuentes,valentina.londoño201@correo-ficticio.co,3248362011,Villavo,1959-08-01,2014-05-19,4032000,2020-09-18
+CL00594,CC,924996991,,Tatiana Naranjo Echeverri,tatiana.naranjo593@correo-ficticio.co,3295144147,Neiva,1978-04-09,2023-03-22,4486000,2023-09-27
+CL00191,NIT,996113955,8,Camilo Londoño Londoño,camilo.londoño190@correo-ficticio.co,3249915986,Pereira,1966-09-28,2024-07-03,4869000,2016-09-16
+CL01036,CC,303943366,,Valentina Naranjo Fajardo,valentina.naranjo1035@correo-ficticio.co,3218320570,Montería,1983-09-03,2019-05-11,5554000,2020-09-13
+CL01215,CC,181204246,,PABLO ZULUAGA RESTREPO,,3296291593,Pereira,1950-09-21,2022-06-05,6602000,2016-01-01
+CL00074,CC,969820143,,Diana Salazar Ibarra,diana.salazar73@correo-ficticio.co,3274909746,Neiva,2003-01-04,2015-02-08,1858000,2022-12-07
+CL00515,CC,430722231,,Gloria Bermúdez Londoño,gloria.bermúdez514@correo-ficticio.co,3156999754,Bogotá D.C.,1986-09-29,2022-12-19,3046000,2025-04-04
+CL01190,CC,827065554,,Rocío Arango Salazar,rocío.arango1189@correo-ficticio.co,3168497013,Montería,1985-01-11,2017-08-05,2775000,2022-04-15
+CL01037,CC,666642179,,Olga Fajardo Salazar,olga.fajardo1036@correo-ficticio.co,3216797183,Ibagué,1960-05-29,2022-12-20,3364000,2019-04-20
+CL00809,NIT,964475840,6,Hernán Zuluaga Castaño,hernán.zuluaga808@correo-ficticio.co,3236460676,Bogotá D.C.,1966-11-03,2020-06-13,4410000,2022-03-17
+CL00138,CC,659671765,,Ximena Naranjo Restrepo,ximena.naranjo137@correo-ficticio.co,3190263381,Villavicencio,1964-01-07,2016-02-06,5987000,2025-04-10
+CL00615,NIT,916504438,9,Zulma Castaño Toro,zulma.castaño614@correo-ficticio.co,3214950693,Villavicencio,1988-07-08,2019-12-26,2486000,2023-12-22
+CL00426,CC,65466219,,Yesid Rengifo Quintero,,3117509141,Ibagué,1972-05-15,2014-11-30,3964000,2025-09-25
+CL00992,CC,817738065,,Hernán Salazar Restrepo,hernán.salazar991@correo-ficticio.co,3289945039,Montería,1968-12-01,2019-07-01,3518000,2023-09-18
+CL00619,CC,878555781,,Lorena Hoyos Patiño,,3132950864,Bogotá D.C.,1959-06-25,2018-11-07,1765000,2016-09-23
+CL00092,CC,944198007,,Inés Cifuentes Galvis,inés.cifuentes91@correo-ficticio.co,3267323259,Villavicencio,2001-07-25,2014-01-03,5772000,2021-12-10
+CL00744,CC,54151521,,Camilo Arango Ocampo,camilo.arango743@correo-ficticio.co,3133109215,Montería,1998-03-20,2014-04-14,7477000,2020-07-06
+CL00417,CC,587377133,,Ximena Ibarra Hoyos,ximena.ibarra416@correo-ficticio.co,3245237286,Montería,1950-08-04,2018-05-31,2514000,2019-08-30
+CL00313,CC,689674088,,Sergio Quintero Hoyos,sergio.quintero312@correo-ficticio.co,3297324434,Bogotá D.C.,1955-05-15,2018-03-23,2604000,2025-10-22
+CL00317,CC,1076564647,,Felipe Cifuentes Montoya,felipe.cifuentes316@correo-ficticio.co,3268908776,BOGOTA,1996-05-15,2024-03-14,2261000,2020-07-02
+CL00825,CC,590558425,,Marcela Galvis Hoyos,marcela.galvis824@correo-ficticio.co,3196589126,Pereira,1967-03-05,2023-05-17,2515000,2021-09-21
+CL00555,CC,997224369,,Nicolás Salazar Quintero,nicolás.salazar554@correo-ficticio.co,3140663051,Neiva,1991-11-02,2016-09-17,1682000,2024-02-07
+CL00325,CC,448748903,,Camilo Patiño Ocampo,camilo.patiño324@correo-ficticio.co,3278915756,Montería,1956-09-17,2020-04-14,6887000,2022-12-04
+CL01109,CC,301928583,,Rocío Ibarra Castaño,rocío.ibarra1108@correo-ficticio.co,3248614151,Montería,1962-10-03,2010-07-09,3982000,2021-05-29
+CL00547,CC,722291775,,Mauricio Fajardo Uribe,mauricio.fajardo546@correo-ficticio.co,3138242066,Pereira,1972-11-26,2023-03-06,2882000,2023-07-09
+CL00116,CC,560291696,,Mauricio Bermúdez Bermúdez,mauricio.bermúdez115@correo-ficticio.co,3192807520,Bogotá D.C.,1953-01-15,2018-06-25,6319000,2022-06-29
+CL01096,NIT,988379127,9,Ximena Jaramillo Quintero,ximena.jaramillo1095@correo-ficticio.co,3202551696,bogota,1974-04-29,2019-07-28,8415000,2019-01-24
+CL01207,CC,1034144223,,Pablo  Restrepo Arango,pablo.restrepo1051@correo-ficticio.co,3255659367,Pereira,1980-09-09,2022-02-26,6529000,2025-05-31
+CL01140,CC,86168162,,Óscar Uribe Zuluaga,óscar.uribe1139 arroba correo-ficticio.co,3163118103,BOGOTA,1968-02-11,2010-08-15,4940000,2024-03-19
+CL00763,CC,816582737,,Yesid Toro Zuluaga,yesid.toro762@correo-ficticio.co,3106527225,Ibagué,1978-01-22,2023-03-17,2248000,2021-03-20
+CL01160,CC,294663023,,Ximena Naranjo Echeverri,ximena.naranjo1159@correo-ficticio.co,3188616363,Pereira,1984-08-17,2021-10-18,3040000,2016-06-26
+CL01088,CC,180588483,,Lorena Hoyos Patiño,lorena.hoyos1087@correo-ficticio.co,3260768733,Ibagué,1993-06-14,2011-10-10,862000,2019-10-30
+CL00079,CC,379320062,,Mauricio Montoya Hoyos,mauricio.montoya78@correo-ficticio.co,3276640272,Villavicencio,1976-04-18,2018-10-06,3409000,2020-01-01
+CL00880,NIT,867340688,3,Wilson Salazar Uribe,wilson.salazar879@correo-ficticio.co,3287594320,Pereira,1980-02-01,2017-11-30,2339000,2021-01-30
+CL00028,CC,129172339,,Pablo Restrepo Patiño,pablo.restrepo27 arroba correo-ficticio.co,3161596062,Montería,1952-03-30,2018-01-09,2252000,2025-10-03
+CL01008,CC,1084899008,,Pablo Salazar Montoya,pablo.salazar1007@correo-ficticio.co,3185993858,Bogotá D.C.,1993-02-02,2012-06-10,1770000,2021-07-13
+CL00550,CC,715279943,,Hernán Londoño Echeverri,hernán.londoño549@correo-ficticio.co,3217077101,Villavicencio,1999-11-09,2022-08-11,1407000,2020-11-30
+CL00978,CC,685482081,,Lorena Quintero Bermúdez,lorena.quintero977@correo-ficticio.co,3279528892,Pereira,1987-08-14,2013-08-24,4516000,2024-03-25
+CL00478,CC,123380448,,Wilson Naranjo Bermúdez,wilson.naranjo477@correo-ficticio.co,3147617675,Pereira,1963-10-13,2018-05-02,4901000,2024-04-23
+CL00718,CC,477856167,,Lorena Uribe Toro,lorena.uribe717 arroba correo-ficticio.co,3219873738,Ibagué,1956-04-28,2010-05-09,5377000,2019-10-18
+CL01152,CC,944303467,,Hernán Duarte Vallejo,hernán.duarte1151@correo-ficticio.co,3242386488,Pereira,1951-12-11,2022-06-29,4637000,2021-05-04
+CL00886,CC,223949951,,Óscar Hoyos Echeverri,óscar.hoyos885@correo-ficticio.co,3231557967,Ibagué,1950-11-11,2011-03-12,11652000,2021-05-29
+CL00981,CC,283819483,,Camilo Echeverri Hoyos,camilo.echeverri980@correo-ficticio.co,3295116088,Bogotá D.C.,1972-02-01,2012-03-01,3229000,2020-09-24
+CL00666,CC,641463615,,Pablo Duarte Hoyos,pablo.duarte665@correo-ficticio.co,3296209823,Neiva,1999-05-02,2015-04-12,14622000,2024-12-07
+CL00950,CC,825691857,,Lorena Bermúdez Rengifo,lorena.bermúdez949@correo-ficticio.co,3243616355,Bogotá D.C.,1992-03-12,2021-08-02,2533000,2023-11-18
+CL00132,CC,685783494,,Luis Galvis Jaramillo,luis.galvis131@correo-ficticio.co,3125805445,Ibagué,1983-05-15,2012-01-28,7714000,2023-08-19
+CL00358,CC,37803349,,Esteban Fajardo Hoyos,esteban.fajardo357@correo-ficticio.co,3214433219,Villavicencio,1957-12-08,2017-04-09,4209000,2025-02-22
+CL00043,CC,988843814,,Nicolás Echeverri Patiño,nicolás.echeverri42@correo-ficticio.co,3158963320,Neiva,1955-03-05,2017-05-07,3400000,2020-06-03
+CL00994,CC,736396382,,Diana Salazar Duarte,diana.salazar993@correo-ficticio.co,3158441338,Villavicencio,2004-08-11,2011-08-19,1334000,2024-02-18
+CL00898,CC,932161508,,Felipe Montoya Salazar,,3260720425,Ibagué,2000-12-30,2012-08-14,1477000,2022-04-30
+CL00553,CC,410229710,,Wilson Salazar Jaramillo,wilson.salazar552@correo-ficticio.co,3193305808,Bogotá D.C.,1953-08-14,2017-01-07,9628000,2022-12-22
+CL00110,CC,852818962,,Inés Jaramillo Ocampo,inés.jaramillo109@correo-ficticio.co,3130354086,Neiva,1950-07-14,2010-08-31,2024000,2019-05-07
+CL00381,CC,440518255,,Julián Ibarra Londoño,julián.ibarra380@correo-ficticio.co,3117761514,Villavicencio,1968-03-14,2018-10-13,2573000,2024-11-19
+CL00993,CC,284193805,,Tatiana Quintero Duarte,tatiana.quintero992@correo-ficticio.co,3170524892,Montería,1991-05-28,2010-04-26,3985000,2024-01-08
+CL00597,CC,610351561,,Esteban Duarte Bermúdez,esteban.duarte596@correo-ficticio.co,3218181012,Neiva,1995-06-06,2021-12-29,3631000,2025-02-21
+CL00669,CC,803671556,,Andrea Vallejo Jaramillo,andrea.vallejo668@correo-ficticio.co,3228545025,Montería,1972-09-18,2018-11-30,2439000,2019-11-01
+CL00340,CC,686244557,,Esteban Toro Naranjo,esteban.toro339@correo-ficticio.co,3282186510,Ibagué,1975-08-27,2014-06-19,1052000,2023-09-26
+CL00788,CC,33487843,,Andrea Hoyos Duarte,andrea.hoyos787@correo-ficticio.co,3234270884,Ibagué,1980-11-30,2012-08-11,1807000,2024-05-24
+CL00007,CC,299327694,,Pablo Echeverri Hoyos,pablo.echeverri6@correo-ficticio.co,3286511198,Ibagué,1954-12-29,2019-07-10,1753000,2021-11-03
+CL00198,CC,335697677,,Gloria Bermúdez Uribe,gloria.bermúdez197@correo-ficticio.co,3150258734,Neiva,1991-10-17,2022-02-23,5313000,2023-05-09
+CL00618,CC,900330197,,Andrea Duarte Uribe,andrea.duarte617@correo-ficticio.co,3143102404,Bogotá D.C.,1994-04-23,2020-05-03,6797000,2023-03-26
+CL00288,NIT,894584563,4,Nicolás Jaramillo Londoño,nicolás.jaramillo287@correo-ficticio.co,3111284349,Montería,1986-04-13,2014-09-12,7761000,2020-07-01
+CL00625,CC,224821534,,Nicolás Arango Restrepo,nicolás.arango624@correo-ficticio.co,3210613431,Bogotá D.C.,1978-09-28,2011-08-28,5253000,2024-10-12
+CL00390,NIT,992413465,3,Yesid Rengifo Bermúdez,sin correo,3242915327,Neiva,2001-01-03,2015-04-25,7485000,2024-05-12
+CL00976,CC,179672526,,Esteban Montoya Rengifo,esteban.montoya975@correo-ficticio.co,3180227069,Pereira,1968-10-13,2023-10-31,1619000,2024-05-09
+CL00805,CC,969960134,,Karen Salazar Rengifo,karen.salazar804@correo-ficticio.co,3280336574,Neiva,2000-05-18,2018-10-27,3923000,2019-04-03
+CL00523,CC,1015709582,,Diana Patiño Uribe,diana.patiño522@correo-ficticio.co,3104755575,Villavicencio,1997-09-25,2019-03-17,7259000,2023-09-14
+CL00469,NIT,877148770,1,Andrea Bermúdez Cifuentes,andrea.bermúdez468@correo-ficticio.co,3242564805,Villavicencio,1965-08-10,2011-06-28,6752000,2020-02-12
+CL00450,CC,570953875,,Inés Zuluaga Cifuentes,inés.zuluaga449 arroba correo-ficticio.co,3194920634,Neiva,1967-08-02,2019-10-07,2509000,2021-01-04
+CL00819,CC,71599038,,Andrea Echeverri Quintero,andrea.echeverri818@correo-ficticio.co,3191488027,Ibagué,1977-12-26,2016-08-09,4548000,2025-05-14
+CL01012,CC,640410833,,Nicolás Cifuentes Naranjo,nicolás.cifuentes1011@correo-ficticio.co,3273975084,Ibagué,1999-06-29,2023-07-03,3486000,2019-08-05
+CL00304,CC,352898992,,Julián Ibarra Londoño,,3292442468,Villavicencio,2028-07-15,2011-05-24,7090000,2024-12-13
+CL00564,CC,642517624,,Andrea Vallejo Ibarra,andrea.vallejo563@correo-ficticio.co,3291270483,Pereira,1954-09-06,2024-09-19,3278000,2019-06-02
+CL00764,CC,29497637,,Gloria Arango Fajardo,gloria.arango763@correo-ficticio.co,3172759690,Bogotá D.C.,1968-09-04,2014-05-16,6787000,2019-08-24
+CL00291,CC,126136331,,Nicolás Vallejo Arango,nicolás.vallejo290@correo-ficticio.co,3107494107,Pereira,2000-07-05,2020-03-17,7781000,2024-01-08
+CL00823,CC,272315080,,Inés Zuluaga Uribe,inés.zuluaga822 arroba correo-ficticio.co,3215392541,Bogotá D.C.,1988-08-19,2011-08-02,2072000,2023-07-04
+CL01092,CC,624311265,,Esteban Rengifo Toro,esteban.rengifo1091@correo-ficticio.co,3293116435,Montería,1963-11-20,2020-03-10,3850000,2024-01-27
+CL00714,CC,192645478,,Hernán Jaramillo Toro,,3279904000,Villavicencio,1993-11-04,2011-06-14,3556000,2023-02-11
+CL00926,CC,406803801,,Luis Castaño Jaramillo,luis.castaño925@correo-ficticio.co,3202891063,Bogotá D.C.,1979-09-05,2014-12-22,2287000,2020-11-20
+CL01072,CC,847614657,,Zulma Cifuentes Londoño,zulma.cifuentes1071@correo-ficticio.co,3132750373,Bogotá D.C.,1960-02-07,2010-03-06,5314000,2020-06-25
+CL00671,CC,210417916,,Óscar Cifuentes Cifuentes,óscar.cifuentes670@correo-ficticio.co,3125582423,Ibagué,1986-10-17,2023-12-21,2833000,2024-07-18
+CL00957,CC,34645652,,Nicolás Vallejo Toro,nicolás.vallejo956@correo-ficticio.co,3292584477,Bogotá D.C.,1955-08-07,2011-03-15,1932000,2020-04-15
+CL00990,CC,693135864,,Hernán Salazar Vallejo,hernán.salazar989@correo-ficticio.co,3186654446,Pereira,1960-10-15,2015-05-12,5779000,2022-03-10
+CL00084,CC,278129139,,Julián Ocampo Naranjo,julián.ocampo83@correo-ficticio.co,3299386219,Montería,1988-03-30,2015-03-09,1949000,2023-08-08
+CL00289,CC,121938116,,Andrea Ocampo Londoño,andrea.ocampo288@correo-ficticio.co,3175040847,Villavicencio,1995-07-15,2020-02-15,4612000,2019-07-05
+CL00638,CC,957917221,,Andrea Echeverri Ocampo,andrea.echeverri637@correo-ficticio.co,3178330919,Pereira,1984-06-26,2021-03-03,6915000,2021-08-24
+CL00549,CC,106501680,,Mauricio Castaño Quintero,mauricio.castaño548@correo-ficticio.co,3251599471,Pereira,1951-12-31,2010-06-16,3606000,2024-02-15
+CL00005,CC,12967958,,Olga Montoya Ibarra,olga.montoya4@correo-ficticio.co,3181928144,Ibagué,1962-01-24,2021-01-11,2604000,2024-08-22
+CL00052,CC,526885100,,Valentina Montoya Rengifo,valentina.montoya51@correo-ficticio.co,3237211380,Ibagué,1986-08-13,2012-05-04,4085000,2022-07-29
+CL00441,NIT,868736946,0,Andrea Ibarra Galvis,,3279773205,Neiva,1950-10-16,2010-03-05,4902000,2025-06-22
+CL01141,CC,894533574,,Hernán Londoño Ibarra,hernán.londoño1140@correo-ficticio.co,3186801530,Ibagué,1997-01-08,2014-06-28,4313000,2023-12-21
+CL00806,CC,734110347,,Gloria Castaño Salazar,gloria.castaño805@correo-ficticio.co,3248644075,Neiva,1952-01-12,2022-08-15,1523000,2023-06-08
+CL00363,CC,50849374,,Julián Quintero Londoño,julián.quintero362@correo-ficticio.co,3128900651,Montería,1953-06-18,2019-10-14,1665000,2024-07-30
+CL00127,CC,637518729,,Luis Vallejo Patiño,luis.vallejo126@correo-ficticio.co,3284922899,Villavo,1994-05-06,2016-03-27,5249000,2025-09-09
+CL00620,CC,215933678,,Hernán Toro Jaramillo,hernán.toro619@correo-ficticio.co,3197703419,Pereira,1974-12-28,2012-01-28,9859000,2025-09-07
+CL00140,CC,580407040,,Andrea Fajardo Galvis,andrea.fajardo139 arroba correo-ficticio.co,3150753182,Pereira,1955-07-26,2017-03-06,5253000,2019-07-18
+CL00672,CC,836055040,,Rocío Echeverri Ocampo,rocío.echeverri671@correo-ficticio.co,3185866375,Montería,1982-09-24,2018-02-08,5478000,2022-05-05
+CL00852,CC,931606488,,Óscar Ocampo Jaramillo,óscar.ocampo851@correo-ficticio.co,3199009255,Montería,1969-04-23,2020-12-15,3780000,2022-12-22
+CL00324,NIT,937721115,1,Nicolás Castaño Toro,nicolás.castaño323@correo-ficticio.co,3240150789,Montería,1994-03-23,2011-12-18,2128000,2020-08-14
+CL01158,CC,1087803579,,Valentina Londoño Restrepo,valentina.londoño1157@correo-ficticio.co,3202544394,Bogotá D.C.,1971-04-06,2023-07-04,8832000,2022-12-27
+CL00270,CC,696010965,,Luis Hoyos Restrepo,luis.hoyos269@correo-ficticio.co,3122908126,Ibagué,1955-08-23,2023-11-28,4773000,2021-05-10
+CL00855,CC,719734722,,Rocío Fajardo Zuluaga,rocío.fajardo854 arroba correo-ficticio.co,3238382400,Villavicencio,1954-12-24,2014-05-27,3842000,2022-06-13
+CL00163,CC,952645722,,Gloria Bermúdez Galvis,gloria.bermúdez162@correo-ficticio.co,3203047078,Pereira,1999-03-13,2024-03-21,4265000,2023-06-17
+CL00551,CC,746883230,,Julián Arango Ocampo,julián.arango550@correo-ficticio.co,3279455003,Montería,1957-09-09,2020-04-11,2388000,2019-08-31
+CL00256,CC,609456244,,Gloria Jaramillo Ocampo,gloria.jaramillo255@correo-ficticio.co,3293897786,Neiva,1999-03-04,2022-03-29,2855000,2025-08-25
+CL00170,CC,180866190,,Zulma Bermúdez Salazar,,3289793207,Montería,1980-07-16,2023-07-11,4847000,2015-10-22
+CL00567,NIT,936573939,4,Valentina Bermúdez Naranjo,valentina.bermúdez566@correo-ficticio.co,3225598645,Ibagué,1958-06-14,2010-01-14,2222000,2020-03-10
+CL00558,CC,172564902,,Camilo Zuluaga Rengifo,camilo.zuluaga557@correo-ficticio.co,3213292421,Villavicencio,1969-07-19,2021-10-11,12714000,2023-04-12
+CL00601,CC,147215260,,Yesid Ibarra Naranjo,yesid.ibarra600@correo-ficticio.co,3111900565,Ibagué,1999-11-06,2020-02-03,6471000,2024-02-02
+CL00617,CC,193459444,,Pablo Arango Rengifo,pablo.arango616@correo-ficticio.co,3170109474,Ibagué,1957-05-27,2013-08-16,1615000,2021-11-10
+CL00429,CC,161440159,,Julián Arango Castaño,julián.arango428@correo-ficticio.co,3167924369,Villavicencio,1975-03-08,2020-11-21,7740000,2024-01-19
+CL00851,CC,1012602041,,Óscar Rengifo Restrepo,óscar.rengifo850@correo-ficticio.co,3131746004,Neiva,1991-03-27,2018-02-10,1024000,2021-08-01
+CL00171,CC,1086757349,,Sergio Ocampo Uribe,sergio.ocampo170@correo-ficticio.co,3125248516,Pereira,1967-08-10,2011-01-15,-5206000,2020-11-20
+CL00222,CC,493838135,,Karen Duarte Ocampo,karen.duarte221@correo-ficticio.co,3143945616,Villavicencio,1970-04-30,2020-10-12,1916000,2020-10-24
+CL00100,CC,944383077,,Gloria Rengifo Quintero,gloria.rengifo99@correo-ficticio.co,3279685161,Neiva,1953-03-29,2016-11-06,12539000,2020-11-24
+CL00892,CC,630522720,,Luis Fajardo Uribe,luis.fajardo891@correo-ficticio.co,3226491041,Villavicencio,1989-01-19,2024-06-10,3665000,2024-11-13
+CL01178,CC,969894989,,Nicolás Montoya Echeverri,nicolás.montoya1177@correo-ficticio.co,3154015528,Ibagué,1983-06-06,2022-07-26,15878000,2021-07-05
+CL00821,CC,716900281,,Esteban Quintero Ibarra,esteban.quintero820@correo-ficticio.co,3132945096,Neiva,1993-09-23,2013-05-23,3923000,2024-09-16
+CL00356,CC,474180510,,Felipe Patiño Londoño,felipe.patiño355@correo-ficticio.co,3173491298,Montería,2001-12-05,2015-09-22,3431000,2021-09-29
+CL00737,CC,494984491,,Diana Londoño Uribe,diana.londoño736@correo-ficticio.co,3228985639,BOGOTA,1955-01-28,2015-03-28,5260000,2024-08-25
+CL00133,CC,738770054,,Nicolás Echeverri Hoyos,nicolás.echeverri132@correo-ficticio.co,3271689575,Villavicencio,1955-07-02,2021-09-10,7396000,2015-07-31
+CL00977,CC,1053030806,,Yesid Fajardo Ocampo,yesid.fajardo976 arroba correo-ficticio.co,3105614075,Bogotá D.C.,1998-08-09,2024-10-08,1924000,2019-12-20
+CL00524,CC,105808043,,Rocío Londoño Salazar,rocío.londoño523@correo-ficticio.co,3139495670,Pereira,1975-08-08,2021-02-20,7966000,2020-11-13
+CL00008,CC,1034425098,,Wilson Londoño Zuluaga,wilson.londoño7@correo-ficticio.co,3231369117,Ibagué,1999-07-25,2016-05-01,9965000,2019-03-09
+CL00207,NIT,961930314,4,Óscar Toro Fajardo,óscar.toro206@correo-ficticio.co,3294756020,Pereira,1952-06-23,2021-09-27,8579000,2019-12-23
+CL01186,NIT,804401680,6,Karen Uribe Montoya,karen.uribe1185 arroba correo-ficticio.co,3285610101,Pereira,1979-05-19,2018-01-10,1670000,2024-06-03
+CL00488,CC,1004927460,,Luis Castaño Ocampo,luis.castaño487@correo-ficticio.co,3274176556,Neiva,1960-02-23,2016-09-22,1446000,2021-05-04
+CL00205,CC,416673586,,Camilo Duarte Castaño,camilo.duarte204@correo-ficticio.co,3173054861,Neiva,1963-05-11,2010-10-30,6045000,2025-05-11
+CL00465,CC,267775348,,Luis Cifuentes Restrepo,luis.cifuentes464@correo-ficticio.co,3107219351,Montería,1974-07-31,2010-10-03,3086000,2020-09-25
+CL00867,CC,876860638,,Yesid Cifuentes Quintero,,3155023584,Neiva,1964-04-16,2011-03-11,5707000,2022-05-15
+CL00329,CC,23574821,,Pablo Rengifo Cifuentes,pablo.rengifo328@correo-ficticio.co,3127646264,Neiva,1976-12-23,2021-10-03,4965000,2025-01-22
+CL00872,CC,313936183,,Andrea Ocampo Cifuentes,andrea.ocampo871@correo-ficticio.co,3132961752,Bogotá D.C.,1968-07-07,2023-04-11,4904000,2025-03-22
+CL00906,CC,991868719,,Inés Londoño Arango,inés.londoño905@correo-ficticio.co,3192482509,Montería,1979-07-13,2020-02-12,3163000,2023-01-03
+CL00808,CC,901713300,,Yesid Galvis Arango,yesid.galvis807@correo-ficticio.co,3235393260,Pereira,1996-09-06,2017-07-22,2101000,2019-01-15
+CL00029,CC,611006598,,Esteban Ibarra Restrepo,esteban.ibarra28@correo-ficticio.co,3229659207,Bogotá D.C.,2004-01-23,2018-04-27,3249000,2025-02-03
+CL00624,CC,99766763,,Ximena Arango Ocampo,ximena.arango623@correo-ficticio.co,3103068900,Neiva,1977-07-17,2013-01-29,1497000,2019-03-10
+CL01053,CC,631159047,,Olga Vallejo Vallejo,olga.vallejo1052@correo-ficticio.co,3218634513,Bogotá D.C.,1996-09-01,2019-04-22,5488000,2025-02-17
+CL01138,CC,464506514,,Felipe Quintero Salazar,,3286205637,Neiva,1954-08-15,2024-05-02,5394000,2021-11-24
+CL00588,CC,973032608,,Esteban Quintero Naranjo,esteban.quintero587@correo-ficticio.co,3230268569,Neiva,1980-02-21,2015-03-14,2321000,2022-07-15
+CL00190,CC,450734164,,Sergio Restrepo Ocampo,sergio.restrepo189@correo-ficticio.co,3180480161,Montería,1987-05-10,2017-01-10,3938000,2021-04-19
+CL00109,NIT,955035150,2,Tatiana Naranjo Vallejo,,3278442266,Pereira,2028-01-15,2013-08-09,1334000,2024-11-28
+CL00882,CC,903410711,,Nicolás Arango Restrepo,,3130285028,Ibagué,1956-01-28,2010-06-02,2729000,2020-06-03
+CL00742,CC,976287192,,Felipe Vallejo Vallejo,felipe.vallejo741@correo-ficticio.co,3200728524,Neiva,1969-01-08,2012-11-06,1227000,2024-10-23
+CL00884,CC,144631072,,Olga Jaramillo Naranjo,olga.jaramillo883@correo-ficticio.co,3211352454,Ibagué,1996-12-20,2013-10-28,8376000,2023-03-19
+CL00331,CC,79596423,,Luis Patiño Vallejo,luis.patiño330@correo-ficticio.co,3271733647,Pereira,1987-09-15,2011-08-17,1450000,2022-09-24
+CL01154,CC,776341643,,Mauricio Vallejo Ibarra,mauricio.vallejo1153@correo-ficticio.co,3187262759,Pereira,1999-01-07,2013-10-06,2684000,2019-03-31
+CL00023,NIT,884507929,1,Gloria Uribe Quintero,gloria.uribe22@correo-ficticio.co,3190826811,Neiva,2027-04-15,2024-05-17,4736000,2021-02-05
+CL00586,CC,210178047,,Valentina Castaño Jaramillo,valentina.castaño585@correo-ficticio.co,3111621679,Ibagué,1950-07-25,2024-10-11,2360000,2019-12-06
+CL00637,NIT,891838577,8,Luis Quintero Ibarra,luis.quintero636@correo-ficticio.co,3143817966,BOGOTA,1955-11-25,2012-06-25,3211000,2024-06-26
+CL01133,CC,192517944,,Ximena Arango Vallejo,ximena.arango1132@correo-ficticio.co,3123275974,Ibagué,1951-01-13,2023-09-13,3481000,2019-07-03
+CL01213,CC,805605524,,JULIÁN ARANGO MONTOYA,julián.arango1133@correo-ficticio.co,3102673459,Ibagué,1981-03-13,2013-10-21,4408000,2022-04-27
+CL00206,CC,107293384,,Camilo Galvis Fajardo,camilo.galvis205@correo-ficticio.co,3176533747,Pereira,1996-02-05,2017-07-07,4138000,2024-10-23
+CL00094,CC,979002899,,Esteban Rengifo Salazar,esteban.rengifo93 arroba correo-ficticio.co,3246467455,Villavicencio,2004-02-26,2016-04-25,12026000,2023-01-02
+CL00810,CC,741985812,,Esteban Quintero Jaramillo,esteban.quintero809@correo-ficticio.co,3148983673,Ibagué,1953-11-18,2013-07-23,3915000,2021-01-26
+CL00225,CC,126162539,,Inés Castaño Castaño,,3230061343,Montería,1964-10-19,2016-03-01,1503000,2024-04-08
+CL00930,CC,851266163,,Felipe Montoya Zuluaga,felipe.montoya929@correo-ficticio.co,3299761286,Montería,1972-01-09,2020-08-27,7104000,2019-04-03
+CL00589,CC,133922745,,Inés Londoño Cifuentes,,3146625716,Neiva,1997-01-05,2020-01-17,6103000,2020-03-29
+CL00713,NIT,803622754,7,Rocío Duarte Ocampo,rocío.duarte712@correo-ficticio.co,3206976616,Bogotá D.C.,1971-10-07,2013-07-25,2040000,2020-10-27
+CL00412,CC,22823170,,Hernán Galvis Echeverri,hernán.galvis411@correo-ficticio.co,3115320442,Bogotá D.C.,1956-04-11,2011-04-04,1953000,2021-12-29
+CL01021,CC,783665794,,Yesid Arango Hoyos,,3231222735,Ibagué,1979-08-03,2024-01-01,3257000,2025-09-13
+CL00769,CC,137554147,,Nicolás Toro Vallejo,nicolás.toro768@correo-ficticio.co,3121672464,Ibagué,1999-03-10,2014-12-16,2236000,2020-03-22
+CL01163,CC,251916284,,Karen Bermúdez Uribe,karen.bermúdez1162 arroba correo-ficticio.co,3142354611,Montería,1964-07-31,2017-09-21,1569000,2023-05-10
+CL00989,CC,354444502,,Zulma Hoyos Echeverri,zulma.hoyos988@correo-ficticio.co,3263629291,Montería,1991-11-05,2018-07-31,10217000,2023-05-17
+CL00593,CC,211798716,,Luis Echeverri Duarte,luis.echeverri592@correo-ficticio.co,3284381403,Pereira,1999-01-12,2022-10-26,6331000,2024-10-30
+CL01219,CC,514110891,,VALENTINA QUINTERO CIFUENTES,valentina.quintero36@correo-ficticio.co,3290133927,Villavicencio,1959-01-18,2018-10-26,2267000,2023-12-24
+CL01199,CC,752154321,,Camilo Zuluaga Jaramillo,camilo.zuluaga1198@correo-ficticio.co,3256371777,Pereira,1982-09-09,2021-01-01,3910000,2019-02-22
+CL00179,CC,1085364829,,Rocío Echeverri Hoyos,rocío.echeverri178@correo-ficticio.co,3130669274,Neiva,1970-08-04,2022-06-09,4448000,2019-07-31
+CL01040,CC,510264798,,Andrea Montoya Castaño,andrea.montoya1039@correo-ficticio.co,3183283563,Montería,1978-05-15,2023-11-21,3714000,2025-08-22
+CL00071,CC,745804543,,Wilson Galvis Fajardo,wilson.galvis70@correo-ficticio.co,3107455480,Villavo,1997-10-25,2016-12-15,1382000,2022-10-29
+CL00996,CC,613476334,,Gloria Quintero Salazar,gloria.quintero995@correo-ficticio.co,3214921719,Neiva,1960-04-18,2013-10-13,2253000,2022-11-07
+CL00449,CC,31991833,,Mauricio Fajardo Naranjo,mauricio.fajardo448@correo-ficticio.co,3274661943,Villavicencio,1950-06-06,2023-01-25,5408000,2019-10-16
+CL00920,CC,78101878,,Marcela Ibarra Toro,marcela.ibarra919@correo-ficticio.co,3131442411,BOGOTA,1972-10-31,2011-12-27,5911000,2020-08-22
+CL00679,NIT,800450559,7,Andrea Toro Ocampo,andrea.toro678@correo-ficticio.co,3167902155,Villavicencio,1982-04-22,2020-04-26,2585000,2020-08-27
+CL00853,CC,446193847,,Inés Patiño Quintero,inés.patiño852@correo-ficticio.co,3110125904,Neiva,1986-02-11,2011-11-24,1672000,2024-10-17
+CL00129,CC,982850834,,Felipe Salazar Fajardo,felipe.salazar128@correo-ficticio.co,3172377928,Ibagué,1959-07-19,2016-11-05,3690000,2015-09-21
+CL00988,CC,601935544,,Gloria Duarte Fajardo,gloria.duarte987@correo-ficticio.co,3207802951,Ibagué,1996-12-01,2020-11-23,1197000,2022-04-26
+CL00909,CC,231379881,,Sergio Fajardo Patiño,sergio.fajardo908@correo-ficticio.co,3138050065,Montería,1955-02-14,2021-12-28,4018000,2019-04-07
+CL00049,CC,850877541,,Karen Naranjo Hoyos,karen.naranjo48@correo-ficticio.co,3273209941,Neiva,2004-04-14,2020-10-19,2362000,2023-08-14
+CL00665,CC,615069951,,Gloria Quintero Hoyos,gloria.quintero664@correo-ficticio.co,3261095740,Ibagué,1981-02-07,2023-04-25,3283000,2021-04-30
+CL00668,CC,116434918,,Inés Naranjo Quintero,inés.naranjo667@correo-ficticio.co,3251252895,Montería,1998-06-07,2015-03-22,3614000,2019-03-21
+CL00088,CC,251614150,,Yesid Naranjo Montoya,yesid.naranjo87 arroba correo-ficticio.co,3214470789,Ibagué,1958-02-05,2024-04-24,4719000,2024-12-11
+CL00408,CC,946209275,,Óscar Vallejo Castaño,óscar.vallejo407@correo-ficticio.co,3277829828,Pereira,1983-06-14,2022-09-19,2043000,2023-01-12
+CL00559,NIT,877553553,6,Mauricio Jaramillo Salazar,mauricio.jaramillo558@correo-ficticio.co,3254389831,Ibagué,1985-01-08,2024-08-17,1303000,2021-09-05
+CL00610,CC,680627341,,Sergio Naranjo Toro,sergio.naranjo609@correo-ficticio.co,3238572033,Ibagué,1961-05-06,2015-10-30,7483000,2019-03-14
+CL00378,NIT,956704238,6,Hernán Arango Londoño,hernán.arango377@correo-ficticio.co,3115750303,Villavicencio,1992-04-30,2014-10-21,1536000,2023-04-27
+CL01232,CC,54151521,,CAMILO ARANGO OCAMPO,camilo.arango743@correo-ficticio.co,3133109215,Montería,1998-03-20,2014-04-14,7477000,2020-07-06
+CL01136,CC,741972761,,Mauricio Duarte Restrepo,mauricio.duarte1135@correo-ficticio.co,3136214630,Neiva,1969-02-22,2012-03-10,3022000,2024-02-07
+CL00506,CC,401076662,,Andrea Toro Vallejo,andrea.toro505@correo-ficticio.co,3178972648,Villavicencio,2002-11-19,2020-10-31,1250000,2025-08-07
+CL01099,CC,344577341,,Marcela Salazar Toro,marcela.salazar1098@correo-ficticio.co,3153123107,Montería,1984-01-13,2017-08-14,3434000,2023-11-21
+CL00131,CC,289404030,,Andrea Salazar Vallejo,andrea.salazar130@correo-ficticio.co,3296752695,Ibagué,1995-02-22,2019-01-17,5446000,2023-08-03
+CL01149,NIT,856050590,3,Gloria Bermúdez Jaramillo,gloria.bermúdez1148@correo-ficticio.co,3287535020,Ibagué,1964-03-08,2023-03-07,546000,2025-08-29
+CL01128,CC,405372100,,Zulma Cifuentes Arango,zulma.cifuentes1127@correo-ficticio.co,3160922872,Villavicencio,1977-08-08,2013-07-22,4816000,2020-10-16
+CL00271,CC,863364969,,Lorena Echeverri Galvis,lorena.echeverri270@correo-ficticio.co,3113744278,Villavicencio,1961-11-12,2013-02-21,4711000,2022-12-29
+CL00328,CC,166919251,,Óscar Bermúdez Arango,óscar.bermúdez327@correo-ficticio.co,3156515991,Montería,1958-02-13,2012-07-02,3449000,2021-01-15
+CL00807,NIT,952651249,3,Julián Rengifo Galvis,julián.rengifo806@correo-ficticio.co,3246150496,Ibague,1965-09-03,2019-09-01,2870000,2019-07-27
+CL00836,CC,931129533,,Gloria Quintero Naranjo,gloria.quintero835@correo-ficticio.co,3286716014,Villavicencio,1957-02-18,2020-12-09,4144000,2022-03-17
+CL00530,CC,868693316,,Luis Quintero Rengifo,luis.quintero529@correo-ficticio.co,3105324409,Villavicencio,2000-05-21,2022-07-04,4771000,2023-04-28
+CL00416,CC,551602774,,Luis Bermúdez Restrepo,luis.bermúdez415@correo-ficticio.co,3141761988,Pereira,1989-11-09,2020-09-21,4646000,2023-02-24
+CL01050,CC,579928702,,Valentina Londoño Naranjo,valentina.londoño1049@correo-ficticio.co,3193370467,Pereira,1953-03-19,2014-07-24,5681000,2022-01-01
+CL00921,CC,856773307,,Andrea Quintero Castaño,andrea.quintero920@correo-ficticio.co,3170981049,Montería,1975-11-05,2017-11-26,3009000,2020-08-13
+CL00719,CC,325982035,,Tatiana Quintero Londoño,tatiana.quintero718@correo-ficticio.co,3189875780,Villavicencio,1983-08-03,2023-02-12,4805000,2024-02-09
+CL00775,CC,1034504018,,Óscar Bermúdez Duarte,,3209230497,Villavicencio,1964-05-14,2018-08-30,6309000,2015-12-18
+CL00156,CC,637953902,,Wilson Fajardo Cifuentes,wilson.fajardo155@correo-ficticio.co,3116221671,Bogotá D.C.,1963-11-21,2024-03-12,6160000,2021-03-23
+CL01185,CC,455682688,,Karen Toro Montoya,karen.toro1184@correo-ficticio.co,3148546174,Villavicencio,1999-12-31,2020-09-08,12665000,2025-04-17
+CL00472,CC,27891232,,Ximena Vallejo Montoya,ximena.vallejo471@correo-ficticio.co,3147851586,Montería,1965-06-14,2022-05-25,2615000,2025-05-17
+CL00592,CC,187299746,,Andrea Toro Patiño,andrea.toro591@correo-ficticio.co,3201761817,Neiva,1981-06-20,2012-04-03,7501000,2021-08-30
+CL00470,CC,980221138,,Andrea Jaramillo Toro,andrea.jaramillo469@correo-ficticio.co,3184200139,Pereira,1998-05-22,2011-09-17,5784000,2023-05-24
+CL00561,CC,28764653,,Olga Quintero Rengifo,olga.quintero560@correo-ficticio.co,3101535768,Pereira,1965-01-22,2018-10-21,1186000,2020-12-18
+CL00031,CC,895572258,,Pablo Montoya Londoño,pablo.montoya30@correo-ficticio.co,3217992179,Bogotá D.C.,1974-11-27,2018-01-03,3416000,2020-02-05
+CL01180,CC,1028044092,,Camilo Jaramillo Fajardo,camilo.jaramillo1179@correo-ficticio.co,3263014749,Montería,1965-01-29,2016-08-07,6293000,2021-06-21
+CL00910,CC,316002208,,Yesid Toro Ocampo,yesid.toro909@correo-ficticio.co,3171612918,Neiva,1990-07-14,2011-03-02,3824000,2020-02-13
+CL00543,CC,265580481,,Ximena Galvis Zuluaga,ximena.galvis542@correo-ficticio.co,3141942791,Pereira,2003-12-12,2010-03-12,2858000,2023-11-18
+CL01023,CC,352617600,,Felipe Patiño Jaramillo,felipe.patiño1022@correo-ficticio.co,3116351810,Neiva,1982-12-15,2019-04-15,5470000,2019-10-02
+CL00195,CC,48717980,,Hernán Jaramillo Salazar,hernán.jaramillo194@correo-ficticio.co,3244585457,Villavicencio,1990-06-11,2015-01-05,2404000,2020-06-27
+CL00575,CC,225618558,,Gloria Cifuentes Hoyos,,3191291396,Villavicencio,2004-08-11,2015-12-16,3941000,2025-10-28
+CL01112,CC,681422605,,Nicolás Duarte Fajardo,,3116024946,Villavicencio,1959-05-03,2013-09-12,3206000,2020-08-17
+CL01165,CC,569213471,,Pablo Galvis Patiño,pablo.galvis1164@correo-ficticio.co,3177606167,Bogotá D.C.,1985-12-02,2024-02-05,2409000,2021-01-04
+CL01035,CC,1077426547,,Óscar Castaño Londoño,,3127331203,Ibagué,1993-05-01,2016-01-17,7067000,2021-08-23
+CL01097,CC,387928495,,Olga Castaño Patiño,olga.castaño1096@correo-ficticio.co,3151252588,Ibagué,1986-01-27,2021-04-27,8176000,2023-11-18
+CL01030,CC,291043533,,Zulma Patiño Castaño,zulma.patiño1029@correo-ficticio.co,3133580351,Neiva,1967-12-04,2012-04-03,4825000,2020-09-20
+CL00180,CC,675816136,,Julián Salazar Salazar,,3117456881,Bogotá D.C.,1961-08-12,2014-03-28,7649000,2022-05-27
+CL01202,CC,490770017,,KAREN URIBE LONDOÑO,,3278958823,Ibagué,1985-05-15,2016-09-03,7026000,2020-02-16
+CL00538,NIT,983055675,4,Lorena Hoyos Castaño,lorena.hoyos537@correo-ficticio.co,3188515074,Montería,1969-01-09,2017-06-24,4274000,2022-07-21
+CL01098,CC,45551458,,Diana Hoyos Restrepo,diana.hoyos1097@correo-ficticio.co,3136888943,Pereira,1994-05-19,2016-08-31,2735000,2019-05-07
+CL00701,CC,344448758,,Wilson Salazar Patiño,wilson.salazar700@correo-ficticio.co,3115966309,Ibagué,1988-12-09,2021-11-05,11259000,2025-02-16
+CL00011,CC,596853862,,Inés Fajardo Arango,inés.fajardo10@correo-ficticio.co,3196961923,Ibagué,1992-02-03,2021-11-16,2157000,2020-02-27
+CL00355,CC,995127128,,Sergio Ocampo Duarte,sergio.ocampo354@correo-ficticio.co,3287932142,Villavicencio,1955-02-12,2014-03-10,3571000,2024-02-24
+CL00068,CC,920326307,,Sergio Hoyos Patiño,sergio.hoyos67@correo-ficticio.co,3155720680,Montería,1972-01-27,2020-05-03,1097000,2022-08-21
+CL00639,CC,547371097,,Sergio Restrepo Quintero,sergio.restrepo638@correo-ficticio.co,3134883772,Bogotá D.C.,1990-07-27,2019-10-21,1942000,2020-03-05
+CL00210,CC,293099225,,Andrea Patiño Ocampo,andrea.patiño209@correo-ficticio.co,3141487016,Neiva,1957-06-16,2017-10-06,7267000,2021-03-19
+CL00146,CC,493411273,,Nicolás Naranjo Galvis,nicolás.naranjo145@correo-ficticio.co,3183733124,Ibagué,1988-09-23,2024-01-01,8464000,2024-12-22
+CL00579,CC,679475241,,Valentina Castaño Arango,valentina.castaño578@correo-ficticio.co,3253216630,Montería,1975-02-05,2012-12-09,3163000,2022-01-01
+CL00750,CC,604005775,,Tatiana Quintero Ocampo,tatiana.quintero749@correo-ficticio.co,3160385750,Neiva,1979-09-19,2022-03-26,6135000,2025-02-25
+CL01244,NIT,977541461,8,SERGIO BERMÚDEZ IBARRA,sergio.bermúdez675@correo-ficticio.co,3200078979,Villavicencio,1985-02-21,2014-06-06,3214000,2024-05-11
+CL01007,CC,924456798,,Wilson Rengifo Ocampo,wilson.rengifo1006@correo-ficticio.co,3143649228,Pereira,1966-07-16,2010-02-13,1920000,2021-07-09
+CL00916,CC,950957517,,Hernán Cifuentes Ibarra,hernán.cifuentes915@correo-ficticio.co,3280027273,Pereira,1981-12-11,2016-08-15,1745000,2020-04-15
+CL01033,CC,524328225,,Luis Fajardo Vallejo,luis.fajardo1032@correo-ficticio.co,3120016457,Montería,1992-07-18,2013-05-28,4064000,2022-04-07
+CL00093,CC,543117525,,Hernán Vallejo Naranjo,hernán.vallejo92@correo-ficticio.co,3176653846,Montería,1970-12-20,2011-01-30,3705000,2025-05-26
+CL00541,CC,68457729,,Hernán Ibarra Restrepo,hernán.ibarra540@correo-ficticio.co,3270476677,Ibagué,1956-10-10,2020-07-11,3490000,2020-12-28
+CL00215,CC,330258105,,Nicolás Naranjo Restrepo,nicolás.naranjo214@correo-ficticio.co,3200866704,Villavicencio,1989-10-22,2019-11-14,2827000,2023-08-29
+CL00360,CC,286887109,,Ximena Toro Bermúdez,ximena.toro359@correo-ficticio.co,3285526919,Ibagué,1953-09-08,2013-02-05,1402000,2022-04-27
+CL00563,CC,661990470,,Lorena Galvis Galvis,lorena.galvis562 arroba correo-ficticio.co,3131386901,Villavicencio,1961-09-30,2017-04-05,4108000,2025-06-02
+CL00890,CC,727641579,,Diana Londoño Fajardo,diana.londoño889@correo-ficticio.co,3240105892,Villavicencio,1972-08-20,2019-07-05,4099000,2023-01-01
+CL00196,CC,140354191,,Nicolás Arango Uribe,nicolás.arango195@correo-ficticio.co,3288075752,Montería,1973-01-02,2019-04-30,2876000,2020-03-05
+CL00297,CC,120486502,,Rocío Echeverri Zuluaga,rocío.echeverri296@correo-ficticio.co,3273713122,Bogotá D.C.,1959-07-13,2019-12-09,3939000,2024-09-13
+CL01086,CC,977478786,,Camilo Ocampo Ibarra,camilo.ocampo1085@correo-ficticio.co,3207062931,Ibagué,1985-04-10,2020-12-19,2477000,2023-03-31
+CL00828,CC,509394624,,Karen Rengifo Jaramillo,karen.rengifo827@correo-ficticio.co,3253986569,Neiva,1973-10-31,2013-02-12,2529000,2022-07-26
+CL00446,CC,424742195,,Felipe Echeverri Uribe,felipe.echeverri445@correo-ficticio.co,3100259690,Ibagué,1998-07-01,2022-07-12,2794000,2024-10-08
+CL00743,NIT,913972079,3,Sergio Castaño Ibarra,,3289257059,VILLAVICENCIO ,1973-09-24,2011-12-28,3340000,2015-03-27
+CL00479,CC,667245647,,Yesid Uribe Uribe,yesid.uribe478@correo-ficticio.co,3163620093,Villavicencio,1988-07-02,2020-05-21,3860000,2022-09-15
+CL00361,CC,470819229,,Diana Patiño Zuluaga,diana.patiño360@correo-ficticio.co,3111356638,Neiva,1987-02-11,2015-12-16,5061000,2021-07-21
+CL00778,CC,585760275,,Luis Ocampo Cifuentes,luis.ocampo777@correo-ficticio.co,3127763542,Neiva,1996-01-11,2016-04-09,2629000,2019-06-29
+CL00820,NIT,886446330,5,Felipe Fajardo Zuluaga,felipe.fajardo819@correo-ficticio.co,3123569074,Neiva,1981-11-30,2018-10-15,16693000,2025-04-27
+CL00813,CC,33372072,,Marcela Ibarra Duarte,marcela.ibarra812@correo-ficticio.co,3199962526,Ibagué,1966-07-14,2010-03-13,4826000,2023-02-10
+CL01132,CC,304295513,,Rocío Bermúdez Rengifo,rocío.bermúdez1131@correo-ficticio.co,3286758474,Pereira,1982-12-08,2020-08-28,6900000,2022-02-28
+CL00430,CC,905311609,,Yesid Rengifo Montoya,yesid.rengifo429@correo-ficticio.co,3207873466,Neiva,1985-10-09,2016-03-20,2836000,2019-03-30
+CL00386,CC,1013174341,,Tatiana Fajardo Echeverri,tatiana.fajardo385@correo-ficticio.co,3113680148,Bogotá D.C.,1967-11-14,2018-08-21,7652000,2021-07-25
+CL00189,CC,187284931,,Luis Quintero Hoyos,luis.quintero188@correo-ficticio.co,3188111861,Bogotá D.C.,1993-02-12,2010-10-15,7229000,2025-03-29
+CL00801,CC,358910342,,Marcela Ibarra Fajardo,marcela.ibarra800@correo-ficticio.co,3208346541,Villavicencio,2000-07-03,2013-05-10,5942000,2019-10-07
+CL00507,CC,110788498,,Felipe Echeverri Vallejo,felipe.echeverri506@correo-ficticio.co,3208287897,Pereira,1950-01-03,2016-05-02,1704000,2020-04-21
+CL00087,CC,42926764,,Mauricio Montoya Vallejo,mauricio.montoya86@correo-ficticio.co,3126413015,Bogotá D.C.,1967-01-23,2010-01-05,2000000,2020-10-05
+CL00035,CC,143493266,,Diana Rengifo Hoyos,diana.rengifo34@correo-ficticio.co,3104261452,bogota,1959-01-07,2013-04-26,3322000,2022-08-12
+CL00200,CC,684532114,,Mauricio Castaño Galvis,mauricio.castaño199 arroba correo-ficticio.co,3161158958,Pereira,1996-04-19,2022-02-01,5868000,2024-03-08
+CL01114,NIT,960275801,1,Sergio Toro Arango,,3107069278,Ibagué,2004-04-11,2023-06-19,1784000,2024-05-09
+CL00942,CC,1043625592,,Óscar Arango Arango,óscar.arango941@correo-ficticio.co,3214582362,Villavicencio,1970-12-18,2011-07-06,4385000,2023-05-25
+CL01119,CC,277987912,,Marcela Toro Jaramillo,marcela.toro1118@correo-ficticio.co,3218119883,Ibagué,1957-06-17,2013-10-31,4870000,2020-05-11
+CL00348,CC,1075412358,,Valentina Arango Ocampo,valentina.arango347@correo-ficticio.co,3282520610,Bogotá D.C.,1966-09-10,2010-05-04,4580000,2015-08-03
+CL00783,CC,1026792156,,Lorena Vallejo Montoya,lorena.vallejo782@correo-ficticio.co,3181202585,Villavicencio,1994-09-28,2022-03-08,3349000,2022-08-05
+CL00401,CC,291480037,,Mauricio Ibarra Vallejo,mauricio.ibarra400@correo-ficticio.co,3194595723,Villavicencio,2001-01-05,2016-09-03,2791000,2021-05-17
+CL00046,CC,931345027,,Olga Vallejo Vallejo,olga.vallejo45@correo-ficticio.co,3197681187,Pereira,1982-01-15,2013-04-30,5107000,2021-09-21
+CL00934,CC,556952573,,Ximena Cifuentes Bermúdez,ximena.cifuentes933@correo-ficticio.co,3149883469,Neiva,1976-05-06,2021-05-07,1607000,2024-05-10
+CL01048,CC,795766610,,Olga Cifuentes Rengifo,olga.cifuentes1047@correo-ficticio.co,3157827066,Bogotá D.C.,1960-09-05,2018-09-28,6684000,2024-09-23
+CL00844,NIT,979416588,4,Julián Galvis Naranjo,julián.galvis843@correo-ficticio.co,3299518083,Montería,1993-11-20,2023-08-30,2982000,2022-10-14
+CL00117,NIT,823159631,7,Olga Zuluaga Cifuentes,olga.zuluaga116@correo-ficticio.co,3267703068,Montería,1970-09-24,2012-06-05,2878000,2025-03-13
+CL01192,NIT,963993263,1,Julián Montoya Naranjo,julián.montoya1191@correo-ficticio.co,3118906736,Pereira,1955-11-30,2014-10-08,4277000,2020-08-09
+CL00540,CC,614551835,,Rocío Ocampo Ibarra,rocío.ocampo539@correo-ficticio.co,3179757682,Villavicencio,1981-04-24,2015-09-11,1754000,2022-07-21
+CL00001,CC,325767049,,Julián Ibarra Fajardo,julián.ibarra0@correo-ficticio.co,3207507015,Pereira,1966-07-13,2017-04-02,1724000,2025-02-21
+CL00720,CC,1009732936,,Yesid Salazar Galvis,yesid.salazar719@correo-ficticio.co,3199322650,Ibagué,1986-12-09,2014-01-09,1879000,2023-01-08
+CL00797,CC,112976587,,Diana Montoya Duarte,diana.montoya796 arroba correo-ficticio.co,3253718347,Bogotá D.C.,1974-06-04,2017-11-11,1676000,2019-03-17
+CL00945,CC,769055051,,Lorena Hoyos Zuluaga,lorena.hoyos944@correo-ficticio.co,3268423810,Pereira,1958-05-11,2014-09-11,4119000,2023-02-19
+CL00510,NIT,900669403,1,Sergio Castaño Rengifo,sergio.castaño509@correo-ficticio.co,3294259216,Neiva,1994-08-11,2013-07-25,1584000,2025-03-11
+CL00757,CC,143911476,,Felipe Jaramillo Montoya,,3161313556,Bogotá D.C.,1967-08-05,2013-01-06,8991000,2021-02-26
+CL00956,CC,805882450,,Óscar Bermúdez Cifuentes,óscar.bermúdez955@correo-ficticio.co,3122260272,Villavicencio,1951-09-16,2020-12-16,-4406000,2024-01-03
+CL00959,CC,582924930,,Mauricio Hoyos Arango,mauricio.hoyos958@correo-ficticio.co,3294894475,Bogotá D.C.,1966-10-29,2011-06-14,1346000,2019-02-27
+CL00102,CC,373412705,,Inés Ocampo Galvis,inés.ocampo101@correo-ficticio.co,3151367736,Pereira,1953-01-27,2012-10-07,5053000,2020-06-16
+CL00746,CC,951101842,,Marcela Salazar Restrepo,marcela.salazar745@correo-ficticio.co,3118861110,Ibagué,1954-11-14,2011-05-19,4387000,2020-12-20
+CL00040,CC,845017572,,Zulma Arango Cifuentes,zulma.arango39@correo-ficticio.co,3129406574,Ibagué,1971-06-08,2019-04-05,2070000,2020-08-28
+CL00529,CC,1006208058,,Inés Restrepo Rengifo,inés.restrepo528@correo-ficticio.co,3196797603,Ibagué,1998-03-09,2022-03-05,2301000,2023-10-16
+CL00432,NIT,817925892,7,Mauricio Montoya Naranjo,mauricio.montoya431@correo-ficticio.co,3222691741,Bogotá D.C.,1952-09-06,2017-04-07,13128000,2025-05-09
+CL00017,CC,125423124,,Camilo Ocampo Arango,camilo.ocampo16@correo-ficticio.co,3128635202,Neiva,2001-08-06,2013-06-24,5119000,2020-07-29
+CL00781,CC,1063173011,,Andrea Toro Galvis,andrea.toro780@correo-ficticio.co,3264023778,Ibagué,1966-04-28,2024-08-25,11855000,2023-02-13
+CL00428,CC,926594007,,Julián Ibarra Rengifo,julián.ibarra427@correo-ficticio.co,3254201155,Neiva,1975-11-21,2024-07-30,6900000,2023-08-16
+CL00453,CC,772508483,,Sergio Bermúdez Duarte,,3181828484,BOGOTA,1954-02-15,2020-11-14,2854000,2016-04-08
+CL00862,CC,917887492,,Rocío Jaramillo Ocampo,rocío.jaramillo861@correo-ficticio.co,3214161504,Bogota DC,1958-09-13,2021-02-10,1888000,2021-10-05
+CL00149,CC,712861292,,Diana Restrepo Ibarra,diana.restrepo148@correo-ficticio.co,3251005675,Neiva,1983-08-08,2018-03-28,3863000,2022-11-14
+CL00503,CC,580804271,,Valentina Montoya Arango,valentina.montoya502@correo-ficticio.co,3215733467,Villavicencio,1975-01-15,2015-08-17,1926000,2022-07-02
+CL00178,CC,908272281,,Gloria Ibarra Zuluaga,gloria.ibarra177@correo-ficticio.co,3230533892,Neiva,1967-06-05,2014-07-27,2035000,2023-08-29
+CL00137,CC,787219288,,Ximena Londoño Echeverri,ximena.londoño136@correo-ficticio.co,3250928849,Villavicencio,1977-11-27,2011-05-12,2729000,2023-10-23
+CL00337,CC,224897330,,Inés Zuluaga Montoya,inés.zuluaga336@correo-ficticio.co,3282695691,Ibagué,1972-03-17,2020-10-02,13379000,2020-07-17
+CL01054,CC,704133217,,Lorena Ibarra Salazar,lorena.ibarra1053@correo-ficticio.co,3152821494,BOGOTA,1952-01-13,2010-02-10,1847000,2019-12-12
+CL00119,CC,414003262,,Inés Patiño Galvis,inés.patiño118@correo-ficticio.co,3251177998,Montería,1951-08-20,2010-01-20,3202000,2019-11-14
+CL00627,CC,285883851,,Valentina Castaño Ocampo,valentina.castaño626@correo-ficticio.co,3140004824,Villavicencio,1981-12-29,2014-07-20,4700000,2024-06-22
+CL00762,CC,603144432,,Zulma Bermúdez Toro,zulma.bermúdez761@correo-ficticio.co,3118503487,Montería,1950-02-05,2010-10-15,5025000,2020-02-08
+CL01156,CC,1058779409,,Wilson Zuluaga Galvis,wilson.zuluaga1155@correo-ficticio.co,3185962030,Bogotá D.C.,1984-01-17,2010-01-27,6369000,2024-07-03
+CL00830,CC,938153860,,Zulma Ibarra Vallejo,zulma.ibarra829@correo-ficticio.co,3100739413,Villavicencio,1969-12-28,2022-08-24,4331000,2020-01-30
+CL00065,CC,868148007,,Óscar Jaramillo Bermúdez,óscar.jaramillo64@correo-ficticio.co,3175734047,Pereira,1968-09-24,2024-01-15,4828000,2020-12-20
+CL00770,CC,47389283,,Esteban Duarte Duarte,esteban.duarte769@correo-ficticio.co,3295413764,Pereira,1952-12-08,2023-03-05,6151000,2024-05-03
+CL00647,CC,986292482,,Wilson Londoño Quintero,wilson.londoño646@correo-ficticio.co,3102208973,Ibagué,1978-07-16,2016-09-10,2606000,2019-11-03
+CL00113,CC,449138340,,Pablo Rengifo Arango,pablo.rengifo112@correo-ficticio.co,3225880241,Pereira,1992-12-28,2011-06-21,1284000,2023-03-21
+CL00193,CC,405501964,,Gloria Salazar Montoya,gloria.salazar192@correo-ficticio.co,3204549215,Montería,1976-09-25,2011-03-05,9769000,2024-01-26
+CL01006,CC,648241631,,Nicolás Castaño Zuluaga,nicolás.castaño1005@correo-ficticio.co,3109582022,Ibagué,1959-10-19,2016-10-22,7794000,2021-09-25
+CL00394,CC,329844737,,Valentina Echeverri Duarte,valentina.echeverri393@correo-ficticio.co,3256218298,Neiva,1973-03-02,2016-10-08,7594000,2023-11-19
+CL00680,CC,621661369,,Marcela Arango Quintero,marcela.arango679@correo-ficticio.co,3227336866,Bogotá D.C.,1970-11-03,2019-02-13,4190000,2025-07-31
+CL00584,CC,877083699,,Sergio Jaramillo Arango,sergio.jaramillo583@correo-ficticio.co,3182248101,Pereira,1977-04-06,2010-11-15,3235000,2025-06-24
+CL00756,CC,576854935,,Hernán Zuluaga Fajardo,hernán.zuluaga755@correo-ficticio.co,3150926828,Ibagué,2002-08-07,2014-11-28,5430000,2024-03-19
+CL01107,CC,617708493,,Wilson Duarte Arango,wilson.duarte1106@correo-ficticio.co,3279878169,Neiva,1969-01-20,2010-03-06,6788000,2023-01-23
+CL00786,CC,364645087,,Julián Ocampo Vallejo,julián.ocampo785@correo-ficticio.co,3211163361,bogota,1960-12-04,2023-05-15,2580000,2021-07-09
+CL00904,CC,804126078,,Nicolás Naranjo Bermúdez,nicolás.naranjo903@correo-ficticio.co,3178392881,Ibagué,2000-10-27,2010-07-01,4376000,2022-07-23
+CL00042,CC,933152791,,Tatiana Castaño Fajardo,tatiana.castaño41@correo-ficticio.co,3191696276,Bogotá D.C.,1966-06-18,2012-11-17,1814000,2021-10-30
+CL00212,CC,740408686,,Olga Patiño Ocampo,olga.patiño211@correo-ficticio.co,3158597201,Villavicencio,1996-02-27,2019-11-20,17457000,2020-09-03
+CL00187,CC,248628308,,Lorena Rengifo Naranjo,lorena.rengifo186@correo-ficticio.co,3250390058,Neiva,1981-09-26,2010-08-31,6715000,2021-05-21
+CL00125,CC,690890813,,Tatiana Toro Arango,tatiana.toro124@correo-ficticio.co,3245512942,Villavicencio,1974-07-31,2022-01-30,2714000,2024-04-23
+CL00359,NIT,878053811,3,Mauricio Vallejo Duarte,mauricio.vallejo358@correo-ficticio.co,3165249300,Villavicencio,1981-09-24,2011-08-13,1226000,2024-10-05
+CL00153,NIT,981844530,3,Óscar Arango Londoño,óscar.arango152@correo-ficticio.co,3132916669,Villavicencio,1958-08-19,2019-07-11,11239000,2022-04-19
+CL00298,CC,243925035,,Zulma Jaramillo Fajardo,zulma.jaramillo297@correo-ficticio.co,3151221840,Ibagué,1974-05-17,2017-03-15,8211000,2025-04-16
+CL00936,NIT,929842343,4,Marcela Cifuentes Patiño,marcela.cifuentes935@correo-ficticio.co,3127777548,Villavicencio,1997-09-14,2014-09-04,10179000,2020-03-03
+CL01084,CC,294616246,,Valentina Quintero Restrepo,valentina.quintero1083@correo-ficticio.co,3139072007,Bogotá D.C.,1967-07-16,2014-03-10,1660000,2023-06-12
+CL00247,CC,1062356885,,Rocío Restrepo Fajardo,rocío.restrepo246@correo-ficticio.co,3145564748,Montería,1994-11-23,2012-07-16,3907000,2024-07-31
+CL00006,CC,178284689,,Óscar Echeverri Zuluaga,óscar.echeverri5@correo-ficticio.co,3220874624,Pereira,1995-06-26,2019-04-02,3894000,2020-10-22
+CL00603,CC,854650745,,Julián Quintero Cifuentes,julián.quintero602@correo-ficticio.co,3222760238,Neiva,1981-05-27,2019-04-22,3071000,2023-04-13
+CL00047,CC,971822487,,Andrea Restrepo Uribe,andrea.restrepo46@correo-ficticio.co,3116922406,Montería,1984-04-29,2017-01-10,2851000,2020-07-01
+CL00782,CC,109612483,,Olga Restrepo Castaño,olga.restrepo781@correo-ficticio.co,3256560121,Villavicencio,1990-05-17,2024-05-06,5238000,2025-05-14
+CL00466,CC,153792209,,Sergio Fajardo Ibarra,sergio.fajardo465@correo-ficticio.co,3112988510,Villavicencio,2001-07-15,2016-10-27,4788000,2020-12-12
+CL00411,CC,172604779,,Diana Galvis Quintero,diana.galvis410@correo-ficticio.co,3206065217,Neiva,1960-04-09,2022-09-14,8070000,2023-08-27
+CL01029,CC,1090427250,,Pablo Duarte Ibarra,pablo.duarte1028@correo-ficticio.co,3134990465,Montería,1995-09-15,2024-10-06,2184000,2023-07-14
+CL00721,CC,230444414,,Nicolás Arango Jaramillo,nicolás.arango720@correo-ficticio.co,3153630444,Pereira,1957-01-12,2014-01-30,2385000,2019-02-16
+CL00699,CC,290554788,,Olga Ibarra Patiño,,3259138574,Villavicencio,1981-01-12,2014-06-20,7573000,2021-05-01
+CL01187,CC,1066845604,,Nicolás Uribe Quintero,nicolás.uribe1186@correo-ficticio.co,3259703283,Neiva,1982-01-02,2021-08-19,1792000,2022-01-20
+CL00754,CC,357329205,,Luis Arango Arango,luis.arango753@correo-ficticio.co,3121340656,Ibagué,1957-01-31,2020-12-03,2892000,2024-10-14
+CL01057,CC,590745675,,Marcela Rengifo Zuluaga,marcela.rengifo1056@correo-ficticio.co,3195918377,Neiva,1964-09-21,2016-08-12,3458000,2021-07-20
+CL00915,CC,27664247,,Andrea Duarte Castaño,andrea.duarte914 arroba correo-ficticio.co,3250680642,Villavicencio,1987-11-06,2016-02-29,2659000,2025-03-07
+CL00421,CC,809726815,,Marcela Echeverri Salazar,marcela.echeverri420@correo-ficticio.co,3161382881,Pereira,1969-03-06,2020-07-28,1527000,2025-05-21
+CL00983,CC,788724970,,Camilo Londoño Toro,camilo.londoño982@correo-ficticio.co,3296351538,Ibagué,1964-02-26,2015-08-25,2194000,2020-02-16
+CL00947,CC,44974063,,Sergio Quintero Toro,sergio.quintero946@correo-ficticio.co,3227955940,Neiva,1994-03-25,2011-01-18,2868000,2021-12-26
+CL01016,CC,321537181,,Pablo Rengifo Arango,pablo.rengifo1015@correo-ficticio.co,3145207230,Montería,2000-01-22,2016-07-23,3761000,2024-09-17
+CL00458,CC,800108470,,Gloria Fajardo Montoya,gloria.fajardo457@correo-ficticio.co,3299071251,Ibagué,1980-06-30,2020-11-30,2325000,2021-05-05
+CL00112,NIT,958782467,7,Zulma Bermúdez Jaramillo,zulma.bermúdez111@correo-ficticio.co,3162737698,Montería,1970-12-08,2018-06-16,-3479000,2019-09-09
+CL00741,CC,909207587,,Ximena Vallejo Jaramillo,,3254992017,Ibagué,1975-02-21,2020-09-29,2532000,2020-08-18
+CL01214,NIT,972225969,2,Lorena  Zuluaga Cifuentes,lorena.zuluaga823@correo-ficticio.co,3169225403,Villavicencio,1979-05-22,2018-08-03,5823000,2021-06-26
+CL00587,CC,301748796,,Óscar Salazar Echeverri,óscar.salazar586@correo-ficticio.co,3118806129,Neiva,1972-04-27,2024-04-05,5888000,2024-03-18
+CL00875,CC,466421340,,Wilson Restrepo Hoyos,wilson.restrepo874@correo-ficticio.co,3228192993,Villavicencio,1966-06-30,2015-02-08,2877000,2020-09-14
+CL00103,CC,579482906,,Olga Bermúdez Cifuentes,olga.bermúdez102@correo-ficticio.co,3246042679,Villavicencio,1974-04-18,2015-08-21,2512000,2023-12-19
+CL00455,CC,115382248,,Diana Toro Arango,,3206590812,Montería,1952-05-03,2014-08-02,3239000,2019-09-06
+CL01000,NIT,938266185,9,Gloria Ocampo Naranjo,gloria.ocampo999@correo-ficticio.co,3185532519,Bogotá D.C.,1982-02-07,2012-06-23,5428000,2015-01-22
+CL00878,CC,216731430,,Lorena Vallejo Cifuentes,lorena.vallejo877@correo-ficticio.co,3124685859,Ibagué,1974-07-18,2023-09-27,3524000,2021-01-29
+CL01197,CC,15002692,,Pablo Londoño Hoyos,pablo.londoño1196@correo-ficticio.co,3244945496,Montería,1986-04-29,2016-04-25,5498000,2016-04-16
+CL00734,CC,91081856,,Tatiana Toro Toro,tatiana.toro733@correo-ficticio.co,3219599654,Montería,1968-04-04,2014-11-15,2836000,2020-03-10
+CL00944,CC,49060862,,Ximena Vallejo Duarte,ximena.vallejo943@correo-ficticio.co,3145141166,Pereira,1960-04-18,2010-03-02,1327000,2023-07-30
+CL00613,CC,652485243,,Luis Duarte Fajardo,luis.duarte612@correo-ficticio.co,3138592583,Ibagué,1965-12-20,2010-06-03,910000,2023-10-11
+CL00710,CC,355615719,,Olga Fajardo Cifuentes,olga.fajardo709@correo-ficticio.co,3236596664,Montería,1980-02-06,2015-12-11,4626000,2020-10-18
+CL00069,CC,1092824198,,Tatiana Londoño Duarte,tatiana.londoño68@correo-ficticio.co,3295030484,Villavicencio,1973-01-07,2023-03-17,6658000,2019-10-10
+CL01102,CC,713985773,,Gloria Ibarra Bermúdez,,3242202177,Montería,2027-03-15,2011-11-19,1823000,2020-07-15
+CL01164,CC,1057066604,,Karen Vallejo Duarte,karen.vallejo1163@correo-ficticio.co,3127718676,Neiva,1987-01-27,2023-06-04,2828000,2025-10-29
+CL01115,CC,1002618509,,Marcela Galvis Rengifo,marcela.galvis1114@correo-ficticio.co,3106097265,Villavicencio,1990-02-08,2010-02-19,2702000,2025-05-16
+CL00935,CC,90373940,,Gloria Montoya Castaño,gloria.montoya934@correo-ficticio.co,3244162378,Neiva,1996-10-25,2011-12-11,5177000,2016-05-23
+CL00634,CC,748571906,,Felipe Duarte Bermúdez,felipe.duarte633@correo-ficticio.co,3136743707,Villavicencio,1998-02-23,2017-08-11,3632000,2023-09-26
+CL00253,CC,105925235,,Andrea Galvis Fajardo,andrea.galvis252@correo-ficticio.co,3260450570,Pereira,1970-05-15,2019-09-22,3104000,2019-08-13
+CL00848,NIT,842400724,5,Esteban Montoya Montoya,esteban.montoya847@correo-ficticio.co,3123609113,Pereira,1980-07-16,2016-12-28,3884000,2021-01-08
+CL00932,NIT,919117314,5,Lorena Salazar Ibarra,lorena.salazar931@correo-ficticio.co,3220090855,Ibagué,1975-12-02,2021-08-27,4355000,2020-09-09
+CL00135,CC,121624382,,Tatiana Montoya Jaramillo,tatiana.montoya134@correo-ficticio.co,3249683719,Villavicencio,1977-09-09,2019-03-11,10303000,2020-05-16
+CL00614,CC,1028847998,,Mauricio Arango Restrepo,mauricio.arango613@correo-ficticio.co,3247776185,Ibagué,1960-12-18,2011-06-23,4825000,2024-05-07
+CL01230,CC,689674088,,SERGIO QUINTERO HOYOS,sergio.quintero312@correo-ficticio.co,3297324434,Bogotá D.C.,1955-05-15,2018-03-23,2604000,2025-10-22
+CL00693,NIT,808809062,1,Camilo Salazar Restrepo,camilo.salazar692@correo-ficticio.co,3108096567,Pereira,2001-10-15,2019-11-18,3892000,2023-07-04
+CL00128,CC,1059253858,,Julián Ibarra Restrepo,julián.ibarra127@correo-ficticio.co,3290630731,Bogota DC,1961-09-20,2019-12-04,4019000,2021-08-10
+CL01129,CC,859321029,,Olga Castaño Castaño,olga.castaño1128@correo-ficticio.co,3106095878,Ibagué,1968-03-22,2024-01-13,4478000,2023-04-10
+CL00817,CC,1024022224,,Inés Londoño Ibarra,inés.londoño816@correo-ficticio.co,3153785873,Pereira,1999-09-04,2013-12-31,4698000,2023-10-24
+CL00238,CC,273867666,,Sergio Echeverri Naranjo,sergio.echeverri237@correo-ficticio.co,3279924985,Pereira,1957-01-23,2012-06-12,2520000,2021-09-18
+CL01123,CC,616507703,,Valentina Jaramillo Ibarra,valentina.jaramillo1122@correo-ficticio.co,3106763260,Pereira,1998-05-31,2016-07-29,2350000,2023-04-24
+CL00784,CC,1079443455,,Hernán Naranjo Duarte,hernán.naranjo783@correo-ficticio.co,3199426506,Pereira,1972-12-09,2022-09-24,3328000,2019-06-24
+CL01183,CC,181204246,,Pablo Zuluaga Restrepo,,3296291593,Pereira,1950-09-21,2022-06-05,6602000,2016-01-01
+CL00839,CC,348759361,,Valentina Cifuentes Zuluaga,valentina.cifuentes838@correo-ficticio.co,3290422292,Ibagué,1956-03-15,2022-09-22,586000,2020-07-18
+CL00056,CC,332790995,,Pablo Vallejo Montoya,pablo.vallejo55 arroba correo-ficticio.co,3160973348,Bogotá D.C.,1961-06-08,2014-06-25,1782000,2022-07-09
+CL00973,CC,1070538658,,Gloria Toro Arango,gloria.toro972@correo-ficticio.co,3103638120,Pereira,1988-07-07,2010-09-28,4661000,2023-10-21
+CL00106,NIT,887900830,7,Karen Toro Quintero,karen.toro105@correo-ficticio.co,3216775456,Montería,1993-08-01,2013-03-02,8867000,2020-11-30
+CL00164,CC,183112245,,Pablo Arango Toro,pablo.arango163@correo-ficticio.co,3163413246,Villavo,1979-02-22,2016-08-25,5166000,2024-10-19
+CL00972,CC,1060274116,,Camilo Salazar Vallejo,camilo.salazar971@correo-ficticio.co,3280482940,Bogotá D.C.,1993-02-05,2015-02-07,2434000,2020-08-09
+CL00858,CC,138906153,,Lorena Hoyos Castaño,lorena.hoyos857@correo-ficticio.co,3148665863,Neiva,1999-03-18,2014-12-26,1210000,2020-05-12
+CL01013,CC,365134266,,Wilson Uribe Zuluaga,wilson.uribe1012@correo-ficticio.co,3287555064,Pereira,1981-09-19,2010-08-30,5782000,2019-02-15
+CL01005,CC,1057271501,,Lorena Ocampo Uribe,lorena.ocampo1004@correo-ficticio.co,3128310352,Villavicencio,2003-05-22,2010-06-05,6325000,2021-05-30
+CL01019,CC,780875489,,Marcela Echeverri Rengifo,marcela.echeverri1018@correo-ficticio.co,3264366255,Villavicencio,1974-02-02,2016-12-06,3196000,2021-05-21
+CL00752,CC,183930141,,Mauricio Rengifo Bermúdez,mauricio.rengifo751@correo-ficticio.co,3133701921,Villavicencio,1994-06-30,2022-05-25,2092000,2024-06-21
+CL00519,CC,895148005,,Ximena Uribe Bermúdez,ximena.uribe518@correo-ficticio.co,3273788735,Villavicencio,1950-12-04,2017-12-16,6200000,2024-04-12
+CL01090,CC,1079861190,,Wilson Galvis Uribe,wilson.galvis1089@correo-ficticio.co,3116466051,Villavicencio,1993-02-23,2021-09-08,6915000,2022-02-21
+CL00838,CC,104010230,,Yesid Rengifo Cifuentes,yesid.rengifo837@correo-ficticio.co,3229814327,Villavicencio,2027-06-15,2017-01-18,1627000,2022-12-11
+CL01174,CC,125272422,,Gloria Cifuentes Salazar,gloria.cifuentes1173@correo-ficticio.co,3181407957,BOGOTA,1986-07-13,2010-05-08,1155000,2020-11-15
+CL00556,CC,454113757,,Tatiana Restrepo Cifuentes,tatiana.restrepo555@correo-ficticio.co,3214189951,Neiva,1995-04-01,2017-03-21,3329000,2022-02-05
+CL00544,CC,449455148,,Julián Ocampo Duarte,julián.ocampo543@correo-ficticio.co,3175731892,Montería,1954-04-30,2022-03-15,8133000,2023-11-28
+CL00899,CC,734807563,,Pablo Londoño Restrepo,pablo.londoño898@correo-ficticio.co,3163324583,Pereira,1972-09-11,2022-12-24,3285000,2024-01-26
+CL00604,CC,567112831,,Nicolás Bermúdez Vallejo,nicolás.bermúdez603@correo-ficticio.co,3259794008,Neiva,1989-11-10,2010-03-28,5850000,2019-06-21
+CL00689,CC,56536029,,Wilson Jaramillo Patiño,wilson.jaramillo688@correo-ficticio.co,3113774250,Bogotá D.C.,1971-10-20,2019-01-24,4549000,2020-06-16
+CL00929,CC,28288037,,Luis Arango Restrepo,luis.arango928@correo-ficticio.co,3248100893,Bogotá D.C.,1959-04-30,2013-07-23,3762000,2024-05-28
+CL00407,CC,811086370,,Valentina Castaño Zuluaga,,3205140472,Villavicencio,1972-09-22,2013-08-12,3756000,2020-02-02
+CL01075,CC,565860017,,Tatiana Salazar Fajardo,tatiana.salazar1074@correo-ficticio.co,3206427550,Bogotá D.C.,1986-08-13,2016-10-22,1953000,2022-05-04
+CL00979,CC,536130653,,Karen Salazar Uribe,karen.salazar978@correo-ficticio.co,3249878184,Montería,1979-11-09,2013-08-02,4712000,2023-11-02
+CL00447,CC,224929535,,Inés Hoyos Salazar,inés.hoyos446 arroba correo-ficticio.co,3239696075,Pereira,1995-06-27,2023-10-07,2477000,2023-07-30
+CL00480,CC,707220509,,Olga Castaño Hoyos,olga.castaño479@correo-ficticio.co,3138929789,BOGOTA,1996-04-17,2016-04-27,2277000,2019-11-26
+CL00826,CC,237282578,,Camilo Hoyos Londoño,,3164221511,Pereira,1965-01-11,2016-04-13,2867000,2016-05-06
+CL00690,NIT,994163111,5,Hernán Londoño Fajardo,hernán.londoño689@correo-ficticio.co,3265053495,Pereira,1968-01-13,2013-07-06,2541000,2021-11-16
+CL01091,CC,602920123,,Esteban Zuluaga Uribe,esteban.zuluaga1090@correo-ficticio.co,3262288631,VILLAVICENCIO ,1965-09-15,2021-02-09,7808000,2024-02-07
+CL00262,CC,261412324,,Lorena Jaramillo Duarte,lorena.jaramillo261@correo-ficticio.co,3131208174,Ibagué,2002-07-04,2016-08-07,10953000,2020-12-18
+CL00295,NIT,895414784,0,Lorena Uribe Toro,lorena.uribe294@correo-ficticio.co,3108170310,Neiva,1982-01-06,2020-05-21,2806000,2020-04-14
+CL00607,CC,16487942,,Mauricio Fajardo Quintero,mauricio.fajardo606@correo-ficticio.co,3205119669,Neiva,1957-05-07,2013-09-03,4020000,2023-03-15
+CL00905,CC,1056816584,,Inés Naranjo Zuluaga,inés.naranjo904@correo-ficticio.co,3155245737,Bogotá D.C.,2004-02-02,2014-01-25,7885000,2023-01-31
+CL00640,CC,116233643,,Luis Londoño Uribe,luis.londoño639@correo-ficticio.co,3271316823,Pereira,1955-05-05,2020-03-13,2577000,2024-05-21
+CL00885,CC,982516198,,Diana Naranjo Ibarra,,3205151815,Ibagué,1952-03-18,2023-11-05,3317000,2019-10-22
+CL00160,CC,594950657,,Mauricio Montoya Toro,mauricio.montoya159@correo-ficticio.co,3191943095,Ibagué,2029-04-15,2021-02-03,4492000,2023-01-24
+CL01094,CC,336202656,,Mauricio Montoya Zuluaga,mauricio.montoya1093@correo-ficticio.co,3154333382,Villavicencio,1970-12-13,2020-03-22,3181000,2015-03-12
+CL00334,CC,57324041,,Esteban Fajardo Montoya,esteban.fajardo333@correo-ficticio.co,3132375662,Bogotá D.C.,1996-08-22,2018-01-18,4963000,2024-09-23
+CL00280,CC,658305329,,Pablo Bermúdez Ibarra,pablo.bermúdez279@correo-ficticio.co,3196538850,Pereira,1966-04-15,2024-06-06,3430000,2023-04-02
+CL01212,CC,474180510,,FELIPE PATIÑO LONDOÑO,felipe.patiño355@correo-ficticio.co,3173491298,Montería,2001-12-05,2015-09-22,3431000,2021-09-29
+CL00534,CC,838571500,,Yesid Salazar Hoyos,yesid.salazar533@correo-ficticio.co,3105629891,Ibagué,2000-01-29,2020-05-26,2121000,2022-05-05
+CL01052,CC,1034144223,,Pablo Restrepo Arango,pablo.restrepo1051@correo-ficticio.co,3255659367,Pereira,1980-09-09,2022-02-26,6529000,2025-05-31
+CL00015,NIT,950881192,1,Inés Londoño Galvis,inés.londoño14@correo-ficticio.co,3241640696,Ibagué,1985-08-28,2017-06-17,5639000,2024-11-18
+CL01118,CC,538097763,,Lorena Fajardo Ibarra,,3170316959,Pereira,1984-12-17,2012-09-03,6666000,2021-12-25
+CL00393,CC,901663831,,Felipe Bermúdez Uribe,,3297307458,Ibagué,1968-12-10,2012-03-19,4686000,2023-04-23
+CL00423,CC,387806097,,Inés Patiño Castaño,inés.patiño422@correo-ficticio.co,3149545235,Pereira,1960-11-18,2021-11-04,7940000,2021-07-01
+CL01060,CC,39689678,,Zulma Galvis Restrepo,zulma.galvis1059@correo-ficticio.co,3153477977,Ibagué,1958-07-16,2020-07-01,6905000,2022-10-12
+CL01195,CC,732588599,,Marcela Ibarra Vallejo,marcela.ibarra1194@correo-ficticio.co,3277560025,Bogotá D.C.,1964-01-02,2011-01-17,3724000,2020-04-21
+CL01071,CC,881261775,,Diana Uribe Ocampo,diana.uribe1070@correo-ficticio.co,3169583979,Pereira,2002-01-17,2021-11-23,7910000,2023-10-19
+CL00793,CC,490770017,,Karen Uribe Londoño,,3278958823,Ibagué,1985-05-15,2016-09-03,7026000,2020-02-16
+CL00237,CC,194949002,,Óscar Zuluaga Hoyos,óscar.zuluaga236@correo-ficticio.co,3136819342,Montería,1979-10-15,2024-07-20,881000,2022-08-24
+CL00467,CC,193857927,,Olga Echeverri Montoya,olga.echeverri466@correo-ficticio.co,3253566022,Ibagué,1972-03-27,2024-03-09,2373000,2022-04-25
+CL00292,CC,279642436,,Wilson Restrepo Galvis,wilson.restrepo291@correo-ficticio.co,3256946795,Neiva,1988-06-23,2022-05-04,3648000,2019-10-23
+CL00234,CC,706639416,,Nicolás Castaño Hoyos,nicolás.castaño233@correo-ficticio.co,3287773805,Ibagué,1961-06-13,2013-03-11,3052000,2024-07-09
+CL00912,CC,842432866,,Valentina Ocampo Duarte,valentina.ocampo911@correo-ficticio.co,3272417908,Neiva,1989-01-11,2014-03-26,889000,2022-11-12
+CL00410,CC,391153850,,Inés Quintero Patiño,inés.quintero409@correo-ficticio.co,3120892230,Villavicencio,2000-05-25,2014-02-21,2303000,2024-02-11
+CL01209,CC,145774090,,ZULMA MONTOYA ZULUAGA,zulma.montoya71@correo-ficticio.co,3292548596,Montería,1971-01-09,2015-01-08,5097000,2016-06-08
+CL00320,CC,84151436,,Yesid Arango Restrepo,yesid.arango319@correo-ficticio.co,3129743011,Ibagué,1992-07-23,2022-12-29,2308000,2025-01-08
+CL00961,CC,867852499,,Sergio Cifuentes Ocampo,sergio.cifuentes960@correo-ficticio.co,3209084247,Neiva,1956-09-22,2010-10-20,3554000,2015-06-06
+CL00871,CC,880224506,,Marcela Duarte Vallejo,marcela.duarte870@correo-ficticio.co,3214192211,Villavicencio,1953-04-15,2022-01-07,5988000,2023-03-08
+CL00682,CC,1088541498,,Valentina Rengifo Toro,valentina.rengifo681@correo-ficticio.co,3272099439,Ibagué,1978-06-13,2019-05-17,5280000,2025-07-04
+CL00722,CC,431548945,,Diana Ibarra Quintero,diana.ibarra721@correo-ficticio.co,3264891495,Pereira,1971-07-01,2010-09-17,5582000,2020-12-27
+CL00683,CC,783141142,,Gloria Rengifo Vallejo,gloria.rengifo682@correo-ficticio.co,3185775223,Ibagué,1989-05-16,2015-04-17,4103000,2024-08-10
+CL00060,CC,362934276,,Olga Jaramillo Ibarra,olga.jaramillo59@correo-ficticio.co,3223227839,Villavicencio,1957-04-11,2014-05-19,2360000,2019-10-11
+CL00970,NIT,959866958,6,Tatiana Zuluaga Salazar,,3295769362,Ibagué,1997-01-22,2018-12-13,4840000,2020-04-09
+CL01210,CC,331666317,,Nicolás  Montoya Fajardo,nicolás.montoya621@correo-ficticio.co,3198418531,Bogotá D.C.,1984-11-22,2015-06-21,15415000,2024-10-05
+CL00462,CC,1067049391,,Diana Jaramillo Londoño,,3234861447,Montería,1976-06-06,2019-05-24,5512000,2022-07-21
+CL01082,NIT,914061179,6,Olga Restrepo Castaño,olga.restrepo1081@correo-ficticio.co,3173874591,Neiva,1974-12-01,2014-03-18,10260000,2022-04-06
+CL00535,CC,214675105,,Gloria Rengifo Castaño,gloria.rengifo534@correo-ficticio.co,3131272656,Ibagué,1979-06-25,2010-04-18,5022000,2024-01-25
+CL00629,CC,763049180,,Hernán Patiño Salazar,,3134536165,Ibagué,1953-06-28,2020-03-21,8470000,2024-11-24
+CL01028,CC,946643494,,Felipe Cifuentes Ibarra,felipe.cifuentes1027@correo-ficticio.co,3280951696,Montería,1971-11-11,2016-11-06,4279000,2025-10-13
+CL00674,CC,295631411,,Hernán Patiño Duarte,hernán.patiño673@correo-ficticio.co,3117871829,Pereira,1952-03-06,2010-11-16,4061000,2022-10-27
+CL01089,CC,318674785,,Marcela Arango Uribe,marcela.arango1088@correo-ficticio.co,3131406751,Ibagué,1958-10-06,2020-12-04,4531000,2023-06-16
+CL00402,CC,667157530,,Wilson Montoya Hoyos,wilson.montoya401@correo-ficticio.co,3152442773,Bogotá D.C.,1955-01-04,2020-09-13,1987000,2024-04-01
+CL01064,CC,349859798,,Pablo Galvis Rengifo,pablo.galvis1063@correo-ficticio.co,3180586457,Villavicencio,1979-03-11,2012-04-22,2796000,2024-11-13
+CL00372,CC,1036408074,,Lorena Cifuentes Bermúdez,lorena.cifuentes371@correo-ficticio.co,3101191363,Bogotá D.C.,1966-11-14,2020-11-20,5737000,2022-03-12
+CL00400,CC,1064869614,,Olga Echeverri Echeverri,olga.echeverri399@correo-ficticio.co,3104427205,Bogotá D.C.,1969-12-01,2020-06-27,3352000,2023-06-16
+CL00650,CC,836227841,,Sergio Fajardo Toro,sergio.fajardo649@correo-ficticio.co,3143761830,Bogotá D.C.,1989-10-30,2023-03-18,2485000,2020-02-14
+CL00951,CC,456478362,,Julián Restrepo Uribe,julián.restrepo950@correo-ficticio.co,3167235194,Bogotá D.C.,1973-03-24,2016-06-08,4090000,2022-12-28
+CL00896,CC,867287708,,Rocío Patiño Hoyos,rocío.patiño895@correo-ficticio.co,3213901117,Montería,1952-12-21,2014-01-22,8345000,2015-11-08
+CL00038,CC,1025669595,,Ximena Uribe Uribe,ximena.uribe37@correo-ficticio.co,3114046193,Bogotá D.C.,1999-01-04,2024-02-05,2765000,2021-11-11
+CL00590,CC,269520505,,Wilson Patiño Restrepo,wilson.patiño589@correo-ficticio.co,3295800981,Bogotá D.C.,1972-07-04,2018-02-23,2936000,2023-06-20
+CL00716,CC,848178562,,Gloria Castaño Rengifo,gloria.castaño715@correo-ficticio.co,3291501526,Ibagué,1990-12-12,2021-03-06,4546000,2015-07-12
+CL00107,CC,295043423,,Hernán Castaño Fajardo,hernán.castaño106@correo-ficticio.co,3141742852,Montería,1974-07-24,2016-02-26,22154000,2021-04-06
+CL00323,CC,23946466,,Mauricio Arango Zuluaga,mauricio.arango322@correo-ficticio.co,3259726664,Villavicencio,1952-09-17,2022-01-11,4060000,2024-09-03
+CL00352,CC,702775127,,Felipe Toro Hoyos,felipe.toro351@correo-ficticio.co,3283896647,Ibagué,1969-12-26,2023-10-20,3271000,2023-09-01
+CL00357,CC,251396766,,Camilo Salazar Galvis,camilo.salazar356@correo-ficticio.co,3172713037,Montería,1973-11-29,2021-04-11,2342000,2024-01-14
+CL00252,CC,184340028,,Diana Toro Bermúdez,diana.toro251@correo-ficticio.co,3224022816,Bogotá D.C.,1994-12-13,2021-07-26,1366000,2016-07-09
+CL00751,CC,174177478,,Óscar Montoya Londoño,óscar.montoya750@correo-ficticio.co,3295301418,Neiva,1962-12-11,2020-10-10,1917000,2022-01-11
+CL00391,CC,63979470,,Wilson Restrepo Rengifo,wilson.restrepo390@correo-ficticio.co,3108988086,Ibagué,1952-10-12,2013-04-12,3563000,2020-12-19
+CL00444,CC,1023851081,,Esteban Arango Zuluaga,esteban.arango443@correo-ficticio.co,3100392118,Neiva,2000-12-22,2011-05-23,2824000,2024-04-13
+CL00843,CC,353771668,,Felipe Bermúdez Rengifo,felipe.bermúdez842 arroba correo-ficticio.co,3135400637,Montería,1995-06-01,2024-01-16,4258000,2023-12-29
+CL00216,CC,262297888,,Inés Hoyos Arango,inés.hoyos215@correo-ficticio.co,3171506180,Villavicencio,1996-11-05,2011-02-22,15859000,2022-05-30
+CL00339,CC,360794596,,Andrea Montoya Vallejo,andrea.montoya338@correo-ficticio.co,3218805070,bogota,1982-09-11,2021-06-04,3740000,2025-03-03
+CL00057,CC,457105409,,Andrea Duarte Quintero,andrea.duarte56@correo-ficticio.co,3153080817,Pereira,1976-10-15,2013-01-10,3121000,2021-01-20
+CL00633,CC,78848389,,Yesid Hoyos Toro,yesid.hoyos632@correo-ficticio.co,3187577388,BOGOTA,1970-12-29,2018-06-01,2021000,2025-08-11
+CL00182,CC,566058940,,Yesid Fajardo Cifuentes,yesid.fajardo181@correo-ficticio.co,3169564497,Montería,2002-12-28,2010-07-25,4328000,2015-01-05
+CL00054,CC,475503802,,Olga Montoya Uribe,olga.montoya53@correo-ficticio.co,3152874186,Villavicencio,1986-02-05,2017-07-28,10782000,2020-03-16
+CL00698,CC,514015820,,Luis Londoño Duarte,luis.londoño697@correo-ficticio.co,3123186795,Montería,1976-05-16,2023-05-14,7824000,2022-12-29
+CL01159,CC,594564776,,Marcela Restrepo Toro,marcela.restrepo1158@correo-ficticio.co,3161436506,Pereira,1957-06-18,2016-12-25,4071000,2019-06-07
+CL00347,CC,297680888,,Julián Zuluaga Castaño,julián.zuluaga346@correo-ficticio.co,3161271383,Pereira,1961-06-09,2014-06-03,4055000,2022-03-19
+CL00232,CC,953992115,,Marcela Duarte Montoya,marcela.duarte231@correo-ficticio.co,3296133085,Villavicencio,2001-04-27,2020-02-20,5692000,2020-07-04
+CL00152,NIT,934949173,8,Hernán Salazar Montoya,hernán.salazar151@correo-ficticio.co,3192409553,Neiva,1965-02-15,2018-04-25,1210000,2019-11-26
+CL00501,CC,806659725,,Inés Montoya Quintero,inés.montoya500@correo-ficticio.co,3207122395,Pereira,1971-02-10,2022-06-22,1823000,2023-08-17
+CL01171,CC,352536109,,Julián Londoño Londoño,julián.londoño1170@correo-ficticio.co,3142832123,Villavicencio,1969-04-04,2014-11-25,4725000,2020-04-26
+CL00231,CC,51957699,,Inés Zuluaga Fajardo,inés.zuluaga230@correo-ficticio.co,3195321470,Ibagué,1970-06-30,2020-06-02,4338000,2023-12-22
+CL00525,CC,842315401,,Marcela Vallejo Echeverri,marcela.vallejo524@correo-ficticio.co,3158865157,Neiva,1977-06-14,2014-06-03,11416000,2025-07-17
+CL00846,CC,19262880,,Olga Bermúdez Montoya,olga.bermúdez845@correo-ficticio.co,3297014505,Montería,1997-05-16,2011-05-25,1127000,2024-06-29
+CL00022,CC,1031347177,,Valentina Duarte Patiño,valentina.duarte21@correo-ficticio.co,3226282485,Villavicencio,2029-06-15,2016-04-18,3323000,2016-05-29
+CL00406,CC,163956378,,Pablo Duarte Restrepo,pablo.duarte405@correo-ficticio.co,3249059816,Bogotá D.C.,1990-02-20,2010-11-16,3008000,2025-11-04
+CL00258,CC,840836358,,Óscar Hoyos Quintero,óscar.hoyos257@correo-ficticio.co,3275235994,Montería,1993-10-16,2010-09-29,6065000,2019-03-18
+CL00389,CC,980955539,,Lorena Naranjo Londoño,lorena.naranjo388@correo-ficticio.co,3286233754,Neiva,2000-07-02,2018-01-19,7207000,2020-02-21
+CL00526,NIT,907435641,9,Wilson Quintero Salazar,wilson.quintero525@correo-ficticio.co,3237451092,Villavicencio,1959-04-27,2022-05-03,1353000,2021-08-01
+CL00186,CC,573454636,,Lorena Salazar Galvis,lorena.salazar185@correo-ficticio.co,3197753548,Villavicencio,1968-07-30,2014-11-28,3535000,2022-03-18
+CL00044,CC,553034718,,Nicolás Montoya Naranjo,nicolás.montoya43@correo-ficticio.co,3257462159,Neiva,1958-04-20,2010-10-22,5150000,2024-01-27
+CL00474,CC,1059419905,,Tatiana Salazar Uribe,tatiana.salazar473@correo-ficticio.co,3263891785,Villavicencio,1952-10-03,2012-12-24,1696000,2020-01-23
+CL01200,CC,718445236,,Luis Ibarra Rengifo,luis.ibarra1199@correo-ficticio.co,3288266141,Ibagué,1992-07-15,2013-12-29,3035000,2021-01-01
+CL00143,CC,667971030,,Marcela Bermúdez Ibarra,marcela.bermúdez142@correo-ficticio.co,3179423160,Montería,1976-10-08,2022-03-31,12139000,2025-01-14
+CL00857,CC,294953537,,Pablo Duarte Fajardo,pablo.duarte856@correo-ficticio.co,3254949945,Pereira,1953-01-01,2015-06-10,4269000,2024-04-30
+CL01106,CC,135616496,,Zulma Zuluaga Jaramillo,zulma.zuluaga1105@correo-ficticio.co,3106475736,Neiva,2000-10-29,2023-06-25,4448000,2019-03-25
+CL00812,CC,829317670,,Luis Jaramillo Quintero,luis.jaramillo811@correo-ficticio.co,3148547772,Montería,1963-09-09,2024-08-12,1685000,2024-02-10
+CL00759,CC,677246181,,Camilo Cifuentes Fajardo,camilo.cifuentes758@correo-ficticio.co,3152985891,Bogotá D.C.,1959-10-17,2014-05-22,3164000,2022-02-14
+CL00748,CC,264921147,,Diana Rengifo Castaño,diana.rengifo747@correo-ficticio.co,3101540464,Neiva,1987-03-29,2019-08-05,2491000,2024-06-04
+CL00887,CC,67624913,,Pablo Toro Bermúdez,pablo.toro886@correo-ficticio.co,3116608012,Montería,2000-12-02,2012-01-10,3656000,2024-12-14
+CL00330,CC,565276241,,Ximena Duarte Echeverri,ximena.duarte329@correo-ficticio.co,3281364296,Villavicencio,1955-04-19,2021-02-24,1844000,2019-02-22
+CL00513,CC,345404566,,Ximena Naranjo Restrepo,ximena.naranjo512@correo-ficticio.co,3229455528,Montería,1994-04-24,2012-12-16,3675000,2016-05-31
+CL01009,CC,504169888,,Olga Duarte Ibarra,olga.duarte1008@correo-ficticio.co,3262005397,Neiva,1956-10-19,2021-11-18,8499000,2025-09-30
+CL01120,CC,529267209,,Diana Galvis Quintero,diana.galvis1119@correo-ficticio.co,3200609737,Neiva,2001-02-07,2022-04-11,2529000,2019-05-02
+CL00580,CC,149186857,,Luis Rengifo Quintero,luis.rengifo579@correo-ficticio.co,3292098622,Villavicencio,1955-12-14,2012-12-01,6137000,2023-01-23
+CL00832,CC,612718059,,Pablo Patiño Castaño,pablo.patiño831@correo-ficticio.co,3181131744,Montería,1988-04-09,2016-05-16,6122000,2021-06-19
+CL00684,CC,243963999,,Nicolás Restrepo Rengifo,nicolás.restrepo683@correo-ficticio.co,3293184998,Villavicencio,1984-12-29,2018-11-23,3238000,2025-09-08
+CL01078,CC,70721066,,Andrea Montoya Rengifo,,3213966411,Pereira,1983-02-13,2018-05-15,4563000,2019-03-07
+CL00856,CC,1009968523,,Julián Salazar Naranjo,julián.salazar855@correo-ficticio.co,3171200057,Neiva,1968-10-10,2020-08-03,7534000,2023-10-16
+CL00903,CC,669371437,,Mauricio Cifuentes Naranjo,,3114800596,Ibagué,1986-05-18,2021-06-02,2603000,2019-03-21
+CL01131,CC,404343004,,Ximena Naranjo Montoya,ximena.naranjo1130@correo-ficticio.co,3225499425,Villavicencio,1999-09-10,2013-01-30,1381000,2025-10-26
+CL00943,CC,841884065,,Felipe Vallejo Arango,felipe.vallejo942@correo-ficticio.co,3295962578,Villavicencio,1985-09-04,2011-11-19,2519000,2019-11-24
+CL00833,CC,1002107794,,Andrea Naranjo Duarte,andrea.naranjo832@correo-ficticio.co,3181010772,Ibagué,1965-07-10,2011-03-06,770000,2019-08-29
+CL00987,CC,735127020,,Wilson Quintero Castaño,,3164046144,Montería,1991-09-06,2018-01-23,3145000,2019-12-20
+CL00727,CC,386027319,,Luis Castaño Montoya,luis.castaño726@correo-ficticio.co,3192674575,Ibagué,1981-05-09,2022-12-12,12023000,2016-11-12
+CL01117,CC,786303841,,Olga Patiño Galvis,olga.patiño1116@correo-ficticio.co,3205454622,Bogotá D.C.,1965-01-11,2013-12-26,4429000,2015-11-30
+CL00644,CC,251593707,,Olga Londoño Castaño,olga.londoño643@correo-ficticio.co,3179955836,Montería,1953-12-30,2021-02-28,5141000,2022-04-24
+CL01093,CC,738949213,,Camilo Bermúdez Galvis,camilo.bermúdez1092@correo-ficticio.co,3268066142,Ibagué,1977-08-05,2016-06-04,4017000,2021-03-03
+CL00284,CC,725707143,,Óscar Jaramillo Ocampo,óscar.jaramillo283@correo-ficticio.co,3234854106,Ibagué,1996-02-01,2019-06-22,1097000,2020-08-03
+CL00646,CC,902018173,,Julián Hoyos Patiño,julián.hoyos645 arroba correo-ficticio.co,3262223632,Montería,2001-09-22,2022-08-31,3889000,2020-03-28
+CL00418,CC,137370190,,Tatiana Castaño Fajardo,tatiana.castaño417 arroba correo-ficticio.co,3106130561,Montería,1977-09-07,2013-06-26,8631000,2021-01-05
+CL01055,CC,163096274,,Ximena Echeverri Echeverri,ximena.echeverri1054@correo-ficticio.co,3180732557,Ibagué,1967-12-10,2023-11-08,6343000,2021-04-14
+CL00643,CC,393661936,,Julián Arango Ocampo,julián.arango642@correo-ficticio.co,3277617610,Pereira,1995-04-22,2023-09-07,2407000,2025-06-26
+CL00779,CC,1068807119,,Esteban Salazar Duarte,esteban.salazar778@correo-ficticio.co,3265343665,Ibagué,1969-12-02,2021-06-23,938000,2024-06-01
+CL00115,CC,843842716,,Julián Vallejo Quintero,julián.vallejo114@correo-ficticio.co,3219157517,VILLAVICENCIO ,1994-12-30,2014-03-22,3669000,2023-11-05
+CL00854,NIT,983472553,2,Julián Montoya Zuluaga,julián.montoya853@correo-ficticio.co,3163316495,Neiva,1992-07-27,2023-11-28,2921000,2024-07-31
+CL00290,NIT,967417014,2,Mauricio Galvis Galvis,mauricio.galvis289@correo-ficticio.co,3217786594,Pereira,1990-04-05,2015-09-27,1766000,2021-07-23
+CL01113,CC,790732299,,Valentina Duarte Patiño,valentina.duarte1112@correo-ficticio.co,3295328106,Bogotá D.C.,1976-06-06,2018-04-22,1821000,2019-06-16
+CL01124,CC,965398711,,Karen Bermúdez Fajardo,karen.bermúdez1123@correo-ficticio.co,3166938528,Pereira,1954-12-06,2021-12-18,2133000,2023-06-11
+CL00272,CC,767662335,,Mauricio Ibarra Uribe,mauricio.ibarra271@correo-ficticio.co,3104719027,Ibagué,1969-12-09,2015-07-05,2847000,2024-01-03
+CL00753,CC,972188864,,Tatiana Jaramillo Hoyos,tatiana.jaramillo752@correo-ficticio.co,3260329937,Ibagué,1972-01-24,2021-07-10,1971000,2023-02-17
+CL00314,NIT,845352295,9,Felipe Montoya Hoyos,felipe.montoya313@correo-ficticio.co,3220940308,Bogotá D.C.,1986-03-04,2021-02-08,1974000,2020-10-30
+CL00730,CC,604544978,,Gloria Duarte Echeverri,gloria.duarte729@correo-ficticio.co,3104616424,Villavicencio,1991-10-29,2021-03-02,3889000,2023-03-19
+CL00285,CC,602554587,,Nicolás Ibarra Toro,nicolás.ibarra284@correo-ficticio.co,3119418838,Neiva,1963-10-08,2011-01-22,2471000,2025-03-30
+CL00130,CC,382034434,,Valentina Fajardo Ibarra,valentina.fajardo129 arroba correo-ficticio.co,3293702792,Villavicencio,1972-11-30,2016-04-24,4069000,2019-04-04
+CL00396,CC,383789276,,Sergio Restrepo Salazar,sergio.restrepo395@correo-ficticio.co,3161631636,Ibagué,1956-11-08,2014-11-11,4877000,2020-12-03
+CL01134,CC,805605524,,Julián Arango Montoya,julián.arango1133@correo-ficticio.co,3102673459,Ibagué,1981-03-13,2013-10-21,4408000,2022-04-27
+CL00327,CC,940730374,,Rocío Fajardo Duarte,rocío.fajardo326@correo-ficticio.co,3117485981,Villavicencio,1955-07-13,2019-03-20,5899000,2022-07-20
+CL00982,CC,1031244982,,Luis Zuluaga Naranjo,luis.zuluaga981@correo-ficticio.co,3249860130,Villavicencio,1971-04-17,2019-05-29,2725000,2025-09-07
+CL00723,NIT,833924576,8,Wilson Montoya Salazar,wilson.montoya722@correo-ficticio.co,3151149433,Pereira,1963-04-23,2014-11-09,9833000,2020-10-15
+CL00948,CC,1050612580,,Andrea Jaramillo Jaramillo,andrea.jaramillo947@correo-ficticio.co,3105147102,Villavicencio,1966-12-23,2017-12-24,2284000,2016-02-11
+CL01143,CC,1034894092,,Marcela Duarte Echeverri,marcela.duarte1142@correo-ficticio.co,3196230584,Villavicencio,2001-05-24,2011-03-08,6886000,2025-08-19
+CL00891,CC,74557584,,Marcela Jaramillo Montoya,marcela.jaramillo890@correo-ficticio.co,3173197429,Villavicencio,1952-06-26,2014-12-26,4392000,2019-04-30
+CL00041,CC,989568181,,Andrea Hoyos Bermúdez,andrea.hoyos40@correo-ficticio.co,3258198322,Ibagué,1956-08-24,2010-03-30,11876000,2024-11-11
+CL00307,CC,307414903,,Esteban Cifuentes Ocampo,esteban.cifuentes306@correo-ficticio.co,3129495611,Bogotá D.C.,1960-09-19,2024-05-16,1646000,2022-04-24
+CL01079,CC,14168846,,Lorena Londoño Rengifo,lorena.londoño1078@correo-ficticio.co,3250169016,Ibague,1980-05-12,2020-07-13,5349000,2022-11-19
+CL00374,CC,206070077,,Gloria Galvis Arango,gloria.galvis373@correo-ficticio.co,3291190300,Bogotá D.C.,1987-05-18,2017-06-13,2931000,2024-03-22
+CL00717,CC,413646153,,Andrea Cifuentes Jaramillo,andrea.cifuentes716@correo-ficticio.co,3284270358,Montería,2003-06-01,2012-06-13,4919000,2023-10-06
+CL00952,CC,329080336,,Lorena Rengifo Echeverri,lorena.rengifo951@correo-ficticio.co,3246438983,BOGOTA,1952-10-04,2014-02-22,10839000,2019-09-06
+CL00496,CC,746933914,,Pablo Salazar Bermúdez,pablo.salazar495@correo-ficticio.co,3243902975,Pereira,1955-12-24,2012-03-26,5010000,2015-02-28
+CL00273,CC,136755347,,Nicolás Patiño Naranjo,nicolás.patiño272@correo-ficticio.co,3111200718,Neiva,2004-04-30,2011-12-21,5469000,2022-01-22
+CL00009,NIT,816592189,2,Luis Naranjo Uribe,luis.naranjo8@correo-ficticio.co,3296612085,Ibagué,1998-09-03,2021-09-21,2205000,2021-12-24
+CL00893,CC,430617586,,Zulma Zuluaga Toro,zulma.zuluaga892@correo-ficticio.co,3149599769,Ibagué,1968-09-15,2011-03-02,7110000,2024-05-11
+CL00787,NIT,964043708,8,Karen Ocampo Toro,karen.ocampo786@correo-ficticio.co,3236311719,Neiva,1976-06-29,2020-07-10,9682000,2020-02-29
+CL00653,CC,357414668,,Felipe Bermúdez Castaño,felipe.bermúdez652@correo-ficticio.co,3121660916,Montería,1955-05-16,2012-08-06,2873000,2019-11-24
+CL01001,CC,899328299,,Marcela Salazar Vallejo,marcela.salazar1000 arroba correo-ficticio.co,3224769352,Bogotá D.C.,1974-12-31,2016-08-01,6064000,2025-06-02
+CL00398,CC,148261177,,Gloria Restrepo Castaño,gloria.restrepo397@correo-ficticio.co,3203630551,Neiva,1996-02-25,2021-01-29,6972000,2016-10-17
+CL00415,CC,166003644,,Camilo Toro Zuluaga,camilo.toro414@correo-ficticio.co,3203715951,Villavicencio,1980-08-15,2016-09-27,5373000,2019-02-19
+CL00902,CC,753918997,,Andrea Fajardo Naranjo,andrea.fajardo901@correo-ficticio.co,3208422755,Bogotá D.C.,1978-07-19,2024-02-27,2889000,2019-11-24
+CL01245,CC,67624913,,Pablo  Toro Bermúdez,pablo.toro886@correo-ficticio.co,3116608012,Montería,2000-12-02,2012-01-10,3656000,2024-12-14
+CL00974,CC,532420878,,Tatiana Naranjo Galvis,tatiana.naranjo973@correo-ficticio.co,3126586164,Montería,2001-01-24,2013-02-08,5070000,2020-10-13
+CL00505,CC,922467705,,Sergio Cifuentes Cifuentes,sergio.cifuentes504@correo-ficticio.co,3136255636,Pereira,1980-11-22,2021-02-02,6130000,2021-01-04
+CL00725,CC,785740821,,Olga Cifuentes Fajardo,olga.cifuentes724@correo-ficticio.co,3118920389,Montería,1959-12-23,2024-09-24,4715000,2023-04-20
+CL00533,NIT,834806508,5,Tatiana Cifuentes Castaño,tatiana.cifuentes532@correo-ficticio.co,3174111631,Villavicencio,1978-01-09,2010-02-23,5487000,2016-01-18
+CL01203,CC,695781682,,Ximena  Galvis Quintero,ximena.galvis1043@correo-ficticio.co,3285907041,Villavicencio,1967-12-26,2022-07-24,2431000,2022-02-03
+CL00785,CC,102249716,,Nicolás Salazar Castaño,nicolás.salazar784@correo-ficticio.co,3189312571,Pereira,1967-03-06,2015-02-10,2533000,2021-10-05
+CL01237,CC,505918964,,TATIANA ARANGO BERMÚDEZ,tatiana.arango580@correo-ficticio.co,3196700965,Bogotá D.C.,1984-05-30,2023-11-24,1772000,2024-09-26
+CL01238,CC,617708493,,WILSON DUARTE ARANGO,wilson.duarte1106@correo-ficticio.co,3279878169,Neiva,1969-01-20,2010-03-06,6788000,2023-01-23
+CL00492,CC,189684929,,Zulma Jaramillo Patiño,zulma.jaramillo491@correo-ficticio.co,3233967814,bogota,1982-11-15,2024-04-05,11578000,2021-02-25
+CL00080,CC,931612210,,Nicolás Montoya Vallejo,nicolás.montoya79@correo-ficticio.co,3275134550,Ibagué,1966-09-01,2010-09-24,2721000,2023-11-05
+CL00842,CC,86562027,,Julián Naranjo Cifuentes,julián.naranjo841@correo-ficticio.co,3143338790,Ibagué,1977-10-20,2018-12-19,1590000,2015-05-01
+CL00343,CC,823600784,,Lorena Echeverri Jaramillo,lorena.echeverri342@correo-ficticio.co,3241625629,Ibagué,1968-01-30,2010-05-29,2363000,2021-10-20
+CL01224,CC,1036408074,,LORENA CIFUENTES BERMÚDEZ,lorena.cifuentes371@correo-ficticio.co,3101191363,Bogotá D.C.,1966-11-14,2020-11-20,5737000,2022-03-12
+CL00050,CC,881619707,,Nicolás Ibarra Hoyos,nicolás.ibarra49@correo-ficticio.co,3194197712,Neiva,1964-03-29,2021-07-02,1367000,2022-02-26
+CL00251,NIT,857089251,4,Pablo Restrepo Cifuentes,pablo.restrepo250@correo-ficticio.co,3199422181,Bogotá D.C.,2000-08-25,2018-12-16,2561000,2021-07-06
+CL01039,CC,62266398,,Gloria Fajardo Naranjo,gloria.fajardo1038@correo-ficticio.co,3119952974,Pereira,1969-03-30,2010-06-21,4833000,2024-05-15
+CL00021,NIT,813760257,1,Gloria Rengifo Montoya,gloria.rengifo20@correo-ficticio.co,3230954000,Bogotá D.C.,1975-09-28,2011-12-09,5127000,2024-01-12
+CL00570,CC,839298762,,Yesid Echeverri Castaño,yesid.echeverri569@correo-ficticio.co,3278237809,Pereira,1979-04-24,2015-02-07,6496000,2021-01-23
+CL00869,NIT,946626324,0,Sergio Bermúdez Londoño,sergio.bermúdez868@correo-ficticio.co,3244363676,Montería,1998-06-08,2017-09-15,-2291000,2019-07-25
+CL00136,CC,962240318,,Mauricio Ibarra Ibarra,mauricio.ibarra135@correo-ficticio.co,3289099600,Bogotá D.C.,1999-01-10,2014-07-01,6050000,2019-08-02
+CL00537,CC,779014607,,Inés Ibarra Ocampo,inés.ibarra536@correo-ficticio.co,3179708842,Villavicencio,1992-05-01,2021-09-05,3816000,2023-01-17
+CL00568,CC,368759645,,Zulma Jaramillo Uribe,,3108341424,Bogotá D.C.,1953-06-30,2013-11-09,-3067000,2020-10-07
+CL00654,NIT,989034273,6,Wilson Rengifo Quintero,wilson.rengifo653@correo-ficticio.co,3164252331,Villavicencio,1980-11-16,2014-07-25,2248000,2019-08-14
+CL00697,CC,208450792,,Valentina Toro Patiño,valentina.toro696@correo-ficticio.co,3209474149,Ibagué,1992-02-18,2010-09-20,3709000,2023-07-18
+CL01061,CC,943370056,,Esteban Cifuentes Duarte,,3269060383,Neiva,1970-02-15,2013-08-21,2787000,2025-11-01
+CL00482,CC,903001976,,Diana Arango Galvis,diana.arango481@correo-ficticio.co,3203765681,Bogotá D.C.,1962-11-26,2016-09-22,3647000,2024-04-04
+CL00034,CC,349320397,,Andrea Uribe Rengifo,andrea.uribe33@correo-ficticio.co,3258748147,Bogotá D.C.,1954-12-26,2021-06-25,2842000,2024-10-08
+CL00963,CC,867642076,,Inés Castaño Hoyos,inés.castaño962@correo-ficticio.co,3122660150,Montería,1962-02-01,2018-12-22,4736000,2020-10-23
+CL00383,CC,112721755,,Olga Montoya Vallejo,olga.montoya382@correo-ficticio.co,3184353208,Ibagué,1978-03-17,2013-06-23,2870000,2024-07-18
+CL00026,CC,669483307,,Marcela Echeverri Toro,marcela.echeverri25@correo-ficticio.co,3227121757,Villavicencio,1955-11-30,2022-08-26,1881000,2025-01-30
+CL00048,CC,880657616,,Nicolás Uribe Fajardo,nicolás.uribe47@correo-ficticio.co,3136659707,Neiva,1962-07-14,2015-01-11,3616000,2025-09-11
+CL01056,CC,763527938,,Diana Jaramillo Cifuentes,diana.jaramillo1055@correo-ficticio.co,3107657630,Neiva,1961-08-29,2019-01-07,3040000,2019-04-12
+CL00175,CC,475497666,,Hernán Galvis Castaño,hernán.galvis174@correo-ficticio.co,3171392513,Villavicencio,1951-06-13,2023-07-08,6727000,2022-07-19
+CL00030,NIT,919477421,9,Karen Galvis Toro,karen.galvis29@correo-ficticio.co,3299397557,Ibagué,1981-05-27,2015-11-01,2322000,2021-11-25
+CL00572,CC,1010381923,,Mauricio Cifuentes Naranjo,mauricio.cifuentes571@correo-ficticio.co,3233585786,Bogotá D.C.,1959-01-18,2022-07-14,1843000,2020-04-24
+CL00154,CC,28941490,,Esteban Patiño Fajardo,esteban.patiño153@correo-ficticio.co,3204117038,Montería,1955-08-29,2011-11-17,3960000,2023-12-09
+CL00791,CC,336493402,,Tatiana Quintero Uribe,,3264056221,Bogotá D.C.,1998-11-17,2017-04-29,736000,2024-03-20
+CL01041,CC,431887760,,Zulma Hoyos Vallejo,,3234680920,Pereira,1988-05-23,2019-07-13,2341000,2021-09-24
+CL01046,NIT,902261188,7,Olga Londoño Ibarra,olga.londoño1045@correo-ficticio.co,3225720679,Montería,2028-07-15,2014-07-23,5515000,2020-12-10
+CL00162,CC,271217863,,Lorena Hoyos Fajardo,lorena.hoyos161@correo-ficticio.co,3193795961,Villavo,1987-04-25,2023-03-18,4231000,2024-01-07
+CL00245,CC,351077018,,Andrea Restrepo Rengifo,andrea.restrepo244@correo-ficticio.co,3252729688,Pereira,1975-09-17,2023-12-05,5491000,2023-06-05
+CL00511,CC,384344514,,Pablo Patiño Ibarra,pablo.patiño510@correo-ficticio.co,3222760993,Neiva,1962-04-20,2010-08-08,5265000,2021-09-10
+CL00159,CC,511053306,,Mauricio Castaño Bermúdez,sin correo,3222234906,Villavicencio,1988-06-09,2023-02-01,5334000,2020-05-09
+CL00531,CC,938848311,,Luis Vallejo Salazar,luis.vallejo530@correo-ficticio.co,3262205097,Neiva,1952-11-11,2023-04-28,1877000,2024-10-22
+CL01221,CC,424742195,,FELIPE ECHEVERRI URIBE,felipe.echeverri445@correo-ficticio.co,3100259690,Ibagué,1998-07-01,2022-07-12,2794000,2024-10-08
+CL00502,CC,290328321,,Esteban Castaño Ibarra,esteban.castaño501@correo-ficticio.co,3275337497,Pereira,1980-10-09,2022-03-21,7164000,2025-05-25
+CL00433,CC,894302232,,Lorena Zuluaga Galvis,lorena.zuluaga432@correo-ficticio.co,3267715253,Neiva,1997-10-06,2012-02-27,3150000,2023-07-17
+CL01015,CC,751589696,,Diana Patiño Salazar,diana.patiño1014@correo-ficticio.co,3259817466,Ibagué,1966-08-15,2019-05-04,7355000,2020-03-20
+CL01126,CC,802457954,,Diana Patiño Toro,diana.patiño1125@correo-ficticio.co,3230542052,Ibagué,1974-05-21,2015-10-04,6380000,2022-08-08
+CL00333,CC,715499674,,Lorena Bermúdez Quintero,lorena.bermúdez332@correo-ficticio.co,3234391616,Pereira,1959-05-18,2012-05-14,6222000,2021-07-11
+CL01211,CC,728908172,,Rocío  Jaramillo Ocampo,rocío.jaramillo54@correo-ficticio.co,3266625468,Bogotá D.C.,1967-09-16,2011-02-09,2896000,2022-02-06
+CL00780,CC,566704853,,Julián Cifuentes Ibarra,,3177098470,Neiva,1955-09-04,2017-03-21,2714000,2023-08-13
+CL00367,CC,511034911,,Nicolás Fajardo Londoño,nicolás.fajardo366@correo-ficticio.co,3263611361,Ibagué,1950-05-14,2021-02-22,1964000,2019-05-23
+CL01155,CC,348901154,,Zulma Vallejo Montoya,zulma.vallejo1154@correo-ficticio.co,3227790504,Villavicencio,1963-02-17,2011-09-11,4282000,2022-02-21
+CL00055,CC,728908172,,Rocío Jaramillo Ocampo,rocío.jaramillo54@correo-ficticio.co,3266625468,Bogotá D.C.,1967-09-16,2011-02-09,2896000,2022-02-06
+CL00585,CC,821423591,,Olga Restrepo Quintero,olga.restrepo584@correo-ficticio.co,3218052158,Montería,1985-12-01,2021-11-13,5739000,2023-03-05
+CL00767,CC,308828238,,Andrea Quintero Zuluaga,andrea.quintero766@correo-ficticio.co,3115673161,Montería,1960-12-25,2010-01-29,6055000,2020-12-24
+CL00681,CC,164626980,,Pablo Naranjo Fajardo,pablo.naranjo680 arroba correo-ficticio.co,3198347313,Pereira,1984-04-28,2023-05-26,7590000,2020-02-04
+CL00949,CC,200838573,,Yesid Castaño Uribe,yesid.castaño948@correo-ficticio.co,3115086634,Montería,1979-11-27,2012-10-14,2635000,2024-02-24
+CL01241,CC,719734722,,ROCÍO FAJARDO ZULUAGA,rocío.fajardo854 arroba correo-ficticio.co,3238382400,Villavicencio,1954-12-24,2014-05-27,3842000,2022-06-13
+CL00816,CC,897738961,,Wilson Salazar Cifuentes,wilson.salazar815@correo-ficticio.co,3200101353,Pereira,1959-02-04,2015-05-14,4263000,2025-09-04
+CL00025,CC,549660873,,Esteban Arango Arango,esteban.arango24@correo-ficticio.co,3104361202,Montería,1980-09-14,2013-03-02,2841000,2021-02-16
+CL00299,CC,638613258,,Tatiana Hoyos Patiño,,3286506633,Neiva,1969-01-01,2018-06-14,3942000,2022-03-15
+CL00557,CC,357588516,,Wilson Restrepo Quintero,wilson.restrepo556@correo-ficticio.co,3226069760,bogota,1968-09-25,2024-07-07,8888000,2025-03-02
+CL00576,CC,978198253,,Pablo Uribe Ocampo,,3282307413,Ibagué,1975-08-11,2012-12-05,2922000,2023-06-07
+CL00019,NIT,871546952,0,Tatiana Salazar Quintero,tatiana.salazar18@correo-ficticio.co,3264789975,Pereira,1979-01-23,2012-03-10,4113000,2020-07-14
+CL00573,CC,1011095114,,Marcela Ocampo Echeverri,marcela.ocampo572 arroba correo-ficticio.co,3103333113,Neiva,1996-08-31,2016-11-16,1805000,2024-07-28
+CL00255,CC,414693935,,Marcela Salazar Uribe,marcela.salazar254@correo-ficticio.co,3105940632,Montería,1987-12-25,2010-12-30,4351000,2023-08-20
+CL00226,NIT,838962751,0,Camilo Vallejo Zuluaga,camilo.vallejo225@correo-ficticio.co,3298950199,Villavicencio,1953-08-05,2017-02-27,3181000,2015-11-17
+CL00600,CC,735687129,,Óscar Galvis Montoya,óscar.galvis599@correo-ficticio.co,3277855619,Montería,1981-07-07,2022-03-13,5826000,2015-07-15
+CL00922,CC,1051411699,,Valentina Vallejo Vallejo,valentina.vallejo921@correo-ficticio.co,3285212358,Neiva,1966-11-27,2013-11-01,2105000,2025-09-22
+CL00420,NIT,840020920,9,Andrea Toro Echeverri,andrea.toro419@correo-ficticio.co,3245167138,bogota,1963-07-09,2014-12-17,5791000,2019-02-23
+CL00897,CC,652705674,,Pablo Echeverri Salazar,pablo.echeverri896@correo-ficticio.co,3281468855,Villavicencio,1953-05-22,2016-02-26,6921000,2020-12-05
+CL01063,CC,150094307,,Ximena Hoyos Londoño,ximena.hoyos1062@correo-ficticio.co,3162674501,Bogotá D.C.,2003-05-18,2016-10-24,3226000,2021-01-02
+CL00223,CC,774694349,,Rocío Naranjo Ibarra,rocío.naranjo222@correo-ficticio.co,3156581672,Montería,1970-08-26,2020-04-26,3032000,2024-10-28
+CL00991,NIT,801068932,8,Tatiana Cifuentes Ibarra,tatiana.cifuentes990@correo-ficticio.co,3165894048,Villavicencio,1973-05-12,2020-06-11,2311000,2024-05-12
+CL00425,CC,365154411,,Zulma Hoyos Arango,zulma.hoyos424@correo-ficticio.co,3253953139,Montería,1985-03-14,2022-03-12,2791000,2023-01-22
+CL00219,CC,84254639,,Yesid Fajardo Jaramillo,,3223979601,Villavicencio,2003-02-11,2023-11-16,4031000,2021-04-19
+CL00308,NIT,942397847,2,Zulma Vallejo Cifuentes,zulma.vallejo307@correo-ficticio.co,3109777074,Pereira,1961-09-17,2021-07-07,1676000,2020-06-03
+CL01104,CC,141504380,,Lorena Vallejo Castaño,lorena.vallejo1103@correo-ficticio.co,3227635815,Neiva,2000-09-05,2020-08-24,5513000,2021-06-12
+CL01139,CC,918939488,,Andrea Echeverri Fajardo,andrea.echeverri1138@correo-ficticio.co,3157607874,Montería,1951-10-13,2010-07-03,2232000,2021-12-20
+CL00172,CC,839053295,,Mauricio Quintero Galvis,mauricio.quintero171 arroba correo-ficticio.co,3285331163,Montería,1997-01-17,2024-09-07,3979000,2022-11-12
+CL00443,CC,136447129,,Gloria Patiño Toro,gloria.patiño442@correo-ficticio.co,3187921368,Ibagué,1993-05-14,2012-06-17,1746000,2020-06-01
+CL00933,CC,191378449,,Diana Uribe Duarte,diana.uribe932@correo-ficticio.co,3261393168,Ibagué,1952-11-16,2013-09-19,5434000,2022-01-10
+CL00706,CC,347100773,,Yesid Jaramillo Jaramillo,yesid.jaramillo705@correo-ficticio.co,3115595339,Pereira,1969-03-10,2011-07-15,1673000,2025-10-06
+CL00771,NIT,826900655,2,Inés Londoño Uribe,inés.londoño770@correo-ficticio.co,3100158333,Bogotá D.C.,1958-06-18,2013-10-22,5674000,2015-05-21
+CL00287,CC,899901961,,Diana Restrepo Galvis,diana.restrepo286@correo-ficticio.co,3257843045,Villavicencio,1966-01-31,2019-09-23,1978000,2019-02-08
+CL00067,CC,763720771,,Inés Zuluaga Rengifo,inés.zuluaga66@correo-ficticio.co,3296876650,Bogotá D.C.,1986-07-09,2013-03-10,3431000,2024-12-09
+CL00454,CC,343838790,,Andrea Londoño Restrepo,andrea.londoño453@correo-ficticio.co,3237445235,Montería,2001-08-22,2015-04-17,3113000,2022-07-29
+CL01204,CC,434749254,,FELIPE ECHEVERRI PATIÑO,felipe.echeverri1041@correo-ficticio.co,3197544300,Montería,1958-10-29,2013-09-15,3145000,2020-12-15
+CL00072,CC,145774090,,Zulma Montoya Zuluaga,zulma.montoya71@correo-ficticio.co,3292548596,Montería,1971-01-09,2015-01-08,5097000,2016-06-08
+CL00931,CC,276213652,,Óscar Echeverri Toro,óscar.echeverri930@correo-ficticio.co,3155841732,Neiva,1996-02-25,2012-02-28,1778000,2020-11-22
+CL00413,CC,311952518,,Pablo Ocampo Uribe,pablo.ocampo412@correo-ficticio.co,3202934257,Villavicencio,1964-05-30,2020-10-30,2655000,2024-04-25
+CL00083,CC,1085262478,,Ximena Londoño Salazar,ximena.londoño82@correo-ficticio.co,3269955485,Montería,1982-12-17,2017-07-03,4462000,2021-04-21
+CL00157,CC,879228882,,Inés Londoño Cifuentes,inés.londoño156@correo-ficticio.co,3185162991,Pereira,1970-03-29,2020-10-22,700000,2020-03-24
+CL01191,CC,144593050,,Óscar Naranjo Zuluaga,óscar.naranjo1190@correo-ficticio.co,3197486838,Ibagué,1955-12-09,2023-10-21,11285000,2023-02-21
+CL00016,CC,25795039,,Gloria Restrepo Ibarra,gloria.restrepo15@correo-ficticio.co,3149873061,VILLAVICENCIO ,1999-07-28,2019-11-10,4090000,2024-02-04
+CL00802,CC,630981116,,Olga Ocampo Castaño,olga.ocampo801@correo-ficticio.co,3206065248,Ibagué,2002-07-16,2023-11-27,831000,2020-07-13
+CL00266,CC,244107135,,Andrea Patiño Patiño,andrea.patiño265@correo-ficticio.co,3101486423,Villavicencio,1952-03-28,2018-04-23,2327000,2022-07-15
+CL00536,CC,303751103,,Camilo Fajardo Hoyos,camilo.fajardo535@correo-ficticio.co,3187570630,Villavicencio,1982-09-16,2024-05-26,4243000,2020-12-13
+CL00868,CC,674765253,,Yesid Zuluaga Castaño,yesid.zuluaga867@correo-ficticio.co,3148627329,Ibagué,1987-10-22,2016-06-06,7512000,2022-10-02
+CL00452,CC,187203318,,Olga Naranjo Cifuentes,olga.naranjo451@correo-ficticio.co,3177174046,Ibagué,2002-06-08,2022-10-08,1503000,2025-08-26
+CL00937,NIT,922311291,6,Ximena Cifuentes Bermúdez,ximena.cifuentes936@correo-ficticio.co,3159755580,Bogotá D.C.,1996-03-20,2014-02-02,3430000,2023-11-26
+CL00864,CC,628886952,,Felipe Ocampo Fajardo,felipe.ocampo863@correo-ficticio.co,3251133987,Montería,1958-06-20,2016-08-04,6188000,2025-05-24
+CL00405,CC,438071355,,Nicolás Uribe Rengifo,nicolás.uribe404 arroba correo-ficticio.co,3234125444,Ibagué,1998-05-01,2017-08-02,2041000,2023-05-08
+CL01148,CC,129389715,,Sergio Cifuentes Ibarra,sergio.cifuentes1147@correo-ficticio.co,3134403197,Montería,1957-02-14,2022-04-07,3484000,2024-04-08
+CL00491,NIT,805387620,8,Inés Rengifo Fajardo,inés.rengifo490@correo-ficticio.co,3110206410,Villavicencio,1990-02-22,2011-03-31,1122000,2021-04-02
+CL01111,CC,140718880,,Inés Arango Patiño,inés.arango1110@correo-ficticio.co,3252424154,Villavicencio,1958-10-20,2017-08-29,7404000,2023-10-07
+CL00542,CC,471353888,,Andrea Salazar Hoyos,andrea.salazar541@correo-ficticio.co,3160529860,Villavicencio,1995-04-22,2020-08-07,4438000,2023-11-18
+CL00694,CC,509707610,,Pablo Montoya Hoyos,pablo.montoya693@correo-ficticio.co,3221404557,BOGOTA,1975-03-16,2021-01-12,1236000,2021-02-25
+CL00740,CC,885135703,,Rocío Castaño Hoyos,rocío.castaño739@correo-ficticio.co,3112567125,Bogotá D.C.,2028-05-15,2022-11-14,5708000,2019-04-26
+CL00365,NIT,886515745,4,Gloria Patiño Ocampo,gloria.patiño364@correo-ficticio.co,3192029778,Bogotá D.C.,1976-12-04,2023-03-24,3021000,2023-03-09
+CL00630,CC,52791137,,Nicolás Duarte Duarte,nicolás.duarte629@correo-ficticio.co,3185199427,Bogotá D.C.,1978-01-18,2010-02-07,5473000,2023-03-01
+CL00460,CC,241660751,,Sergio Naranjo Patiño,sergio.naranjo459@correo-ficticio.co,3141065653,Neiva,2028-02-15,2021-06-15,7497000,2022-11-18
+CL00105,CC,248519470,,Olga Rengifo Duarte,olga.rengifo104@correo-ficticio.co,3224124512,Ibagué,1963-03-04,2023-03-30,3905000,2023-08-18
+CL00834,CC,731306223,,Zulma Quintero Jaramillo,zulma.quintero833@correo-ficticio.co,3164791371,Bogotá D.C.,1956-02-17,2010-04-28,2677000,2025-11-02
+CL00269,CC,885766938,,Hernán Ocampo Fajardo,,3117915092,Ibagué,1966-11-29,2012-01-14,1995000,2016-05-05
+CL00609,CC,787225084,,Lorena Patiño Salazar,lorena.patiño608@correo-ficticio.co,3147680055,Bogotá D.C.,1960-07-31,2017-04-11,7300000,2023-08-28
+CL01153,CC,598584147,,Inés Patiño Rengifo,inés.patiño1152@correo-ficticio.co,3194868270,Neiva,1956-09-29,2019-09-12,5178000,2019-06-06
+CL01014,CC,825167847,,Pablo Uribe Hoyos,pablo.uribe1013@correo-ficticio.co,3273812069,Villavicencio,1959-11-28,2012-05-02,4260000,2022-11-19
+CL01083,CC,590379633,,Yesid Hoyos Fajardo,yesid.hoyos1082@correo-ficticio.co,3104293107,Montería,2001-09-25,2020-03-02,5594000,2025-01-28
+CL00662,CC,705670117,,Rocío Ibarra Arango,rocío.ibarra661@correo-ficticio.co,3188280678,Villavicencio,1969-03-26,2024-05-02,2323000,2022-06-05
+CL00242,NIT,953409646,2,Marcela Echeverri Restrepo,,3247095645,Ibagué,1967-01-02,2021-06-15,4619000,2019-05-12
+CL00431,CC,370693119,,Camilo Cifuentes Galvis,camilo.cifuentes430@correo-ficticio.co,3111793203,Bogotá D.C.,1987-06-26,2011-11-22,4154000,2025-10-18
+CL00815,CC,15672631,,Andrea Restrepo Patiño,andrea.restrepo814@correo-ficticio.co,3166478573,Bogotá D.C.,1972-06-21,2020-10-10,2506000,2022-06-06
+CL01161,CC,775982438,,Valentina Montoya Arango,valentina.montoya1160@correo-ficticio.co,3157115167,Bogotá D.C.,1978-06-19,2022-06-21,2032000,2020-06-25
+CL00204,CC,864467610,,Mauricio Zuluaga Jaramillo,mauricio.zuluaga203@correo-ficticio.co,3119626377,Bogotá D.C.,2001-02-13,2018-04-13,7533000,2022-09-03
+CL01205,CC,116779995,,SERGIO RENGIFO CASTAÑO,sergio.rengifo103@correo-ficticio.co,3297872756,Ibagué,1959-09-20,2017-04-08,7600000,2023-06-05
+CL00596,NIT,983515762,1,Nicolás Zuluaga Uribe,nicolás.zuluaga595@correo-ficticio.co,3245736809,BOGOTA,1958-11-07,2016-10-17,2172000,2021-01-07
+CL00631,CC,491533379,,Yesid Galvis Duarte,yesid.galvis630@correo-ficticio.co,3299765600,Villavicencio,2003-09-16,2021-02-07,7083000,2021-01-05
+CL00097,NIT,896518334,0,Felipe Cifuentes Quintero,felipe.cifuentes96@correo-ficticio.co,3193975356,Pereira,1999-10-22,2023-03-19,2299000,2023-01-14
+CL00468,CC,352699961,,Lorena Hoyos Bermúdez,lorena.hoyos467@correo-ficticio.co,3242276368,Montería,1998-01-27,2022-10-13,1442000,2019-02-13
+CL00923,CC,1045501203,,Julián Londoño Toro,julián.londoño922@correo-ficticio.co,3134511385,Villavicencio,1983-06-14,2012-03-05,4432000,2023-01-04
+CL00493,CC,316287658,,Andrea Castaño Uribe,andrea.castaño492@correo-ficticio.co,3197622925,Neiva,2002-04-20,2012-07-06,2924000,2021-03-20
+CL00167,CC,377551892,,Hernán Arango Rengifo,hernán.arango166@correo-ficticio.co,3175368736,Ibagué,1950-01-27,2019-03-12,7509000,2025-05-20
+CL00964,NIT,819018473,0,Rocío Arango Restrepo,rocío.arango963@correo-ficticio.co,3182587488,Bogota DC,1954-08-18,2013-05-19,3026000,2025-06-11
+CL00702,CC,71123178,,Diana Vallejo Rengifo,diana.vallejo701@correo-ficticio.co,3108608055,Bogotá D.C.,2000-01-18,2013-10-29,2838000,2023-10-24
+CL00695,NIT,944838442,4,Diana Galvis Restrepo,diana.galvis694@correo-ficticio.co,3205003196,Bogotá D.C.,2003-08-29,2016-11-25,3872000,2021-08-20
+CL00010,CC,113197219,,Camilo Hoyos Fajardo,camilo.hoyos9@correo-ficticio.co,3280833879,Bogotá D.C.,2002-03-10,2012-11-20,2643000,2024-11-27
+CL00605,CC,248289582,,Ximena Zuluaga Ibarra,ximena.zuluaga604@correo-ficticio.co,3249472675,Bogotá D.C.,2000-01-20,2023-07-17,1488000,2023-07-10
+CL00879,CC,976520328,,Tatiana Ibarra Zuluaga,,3197543399,Ibagué,1969-06-07,2024-06-28,11862000,2023-05-27
+CL00316,CC,942649183,,Valentina Cifuentes Vallejo,,3297076524,Neiva,1960-07-22,2014-05-06,2455000,2020-09-17
+CL00774,CC,327134381,,Hernán Quintero Bermúdez,hernán.quintero773@correo-ficticio.co,3224280749,Pereira,1960-12-07,2014-10-20,11510000,2021-02-19
+CL00362,CC,691001255,,Luis Salazar Galvis,,3166484897,Neiva,1993-02-18,2024-09-26,2000000,2019-02-08
+CL00139,CC,58277816,,Mauricio Restrepo Duarte,mauricio.restrepo138@correo-ficticio.co,3278259191,Pereira,1996-04-09,2010-07-19,3257000,2019-03-20
+CL00824,NIT,972225969,2,Lorena Zuluaga Cifuentes,lorena.zuluaga823@correo-ficticio.co,3169225403,Villavicencio,1979-05-22,2018-08-03,5823000,2021-06-26
+CL00277,CC,909278289,,Zulma Salazar Arango,zulma.salazar276@correo-ficticio.co,3161390701,Pereira,1985-10-22,2021-10-19,5982000,2025-01-16
+CL00385,CC,595687814,,Nicolás Ibarra Quintero,nicolás.ibarra384@correo-ficticio.co,3123746848,Villavicencio,1965-06-10,2024-07-31,5435000,2025-05-10
+CL00569,CC,922532065,,Hernán Bermúdez Arango,hernán.bermúdez568@correo-ficticio.co,3131653388,Neiva,1998-02-20,2017-06-07,2244000,2019-08-12
+CL01108,CC,1034670718,,Nicolás Cifuentes Fajardo,nicolás.cifuentes1107@correo-ficticio.co,3167255907,Ibagué,1977-03-15,2019-01-03,3285000,2023-10-08
+CL00773,NIT,888049852,2,Tatiana Quintero Galvis,tatiana.quintero772@correo-ficticio.co,3237454966,Montería,1979-12-01,2020-08-07,4143000,2024-04-17
+CL00089,CC,673311084,,Hernán Vallejo Duarte,hernán.vallejo88@correo-ficticio.co,3216409949,Villavicencio,1954-10-31,2010-09-06,4143000,2019-08-07
+CL00091,CC,494437463,,Gloria Patiño Salazar,,3212507414,Ibagué,1997-12-30,2011-01-27,6176000,2021-04-08
+CL00766,NIT,985294963,2,Esteban Fajardo Fajardo,esteban.fajardo765@correo-ficticio.co,3195915342,Neiva,1989-06-05,2022-01-20,3675000,2020-01-22
+CL00281,NIT,997985999,6,Valentina Restrepo Jaramillo,valentina.restrepo280@correo-ficticio.co,3284678027,Montería,1963-10-02,2015-05-31,5661000,2023-10-22
+CL00883,CC,36141136,,Hernán Uribe Ocampo,hernán.uribe882@correo-ficticio.co,3204122935,Pereira,1986-05-24,2018-04-24,3720000,2022-04-12
+CL00652,NIT,903389078,1,Marcela Castaño Duarte,marcela.castaño651@correo-ficticio.co,3128970030,Neiva,2002-04-22,2023-09-19,5520000,2025-05-19
+CL01226,CC,121624382,,Tatiana  Montoya Jaramillo,tatiana.montoya134@correo-ficticio.co,3249683719,Villavicencio,1977-09-09,2019-03-11,10303000,2020-05-16
+CL00461,CC,619293194,,Tatiana Restrepo Salazar,tatiana.restrepo460@correo-ficticio.co,3193502399,Neiva,1958-12-16,2012-07-07,4688000,2024-04-27
+CL00939,NIT,898054464,4,Tatiana Jaramillo Ocampo,,3268903438,Ibagué,1967-09-29,2019-07-07,4240000,2019-06-06
+CL00800,CC,682758084,,Yesid Galvis Galvis,yesid.galvis799@correo-ficticio.co,3105608273,Pereira,2003-02-10,2014-08-23,5512000,2020-03-01
+CL00301,CC,832487992,,Lorena Restrepo Cifuentes,lorena.restrepo300@correo-ficticio.co,3289581652,Pereira,1952-02-13,2020-04-01,3605000,2020-08-08
+CL00914,CC,215563405,,Marcela Arango Castaño,marcela.arango913@correo-ficticio.co,3233593563,Ibagué,1989-03-29,2011-10-31,7335000,2016-04-25
+CL00203,CC,506511133,,Camilo Ocampo Jaramillo,camilo.ocampo202@correo-ficticio.co,3258518683,Neiva,1999-09-01,2020-09-04,1916000,2025-01-28
+CL00403,CC,882812763,,Inés Vallejo Montoya,inés.vallejo402@correo-ficticio.co,3131169595,Neiva,1952-09-22,2022-05-22,13744000,2023-11-21
+CL00341,CC,833838906,,Andrea Echeverri Hoyos,andrea.echeverri340@correo-ficticio.co,3170423770,Neiva,1992-01-28,2017-08-11,5055000,2022-10-11
+CL00366,CC,240094959,,Andrea Zuluaga Uribe,andrea.zuluaga365@correo-ficticio.co,3119762039,Montería,1974-01-11,2020-08-28,3079000,2021-06-09
+CL00024,CC,50826923,,Rocío Cifuentes Fajardo,rocío.cifuentes23@correo-ficticio.co,3215399334,Montería,1975-10-08,2021-05-15,4526000,2024-04-23
+CL00346,CC,265111133,,Nicolás Restrepo Uribe,nicolás.restrepo345@correo-ficticio.co,3121939751,Montería,1994-06-07,2021-03-09,1535000,2021-06-25
+CL00677,CC,696962565,,Yesid Cifuentes Vallejo,yesid.cifuentes676@correo-ficticio.co,3175167237,Ibague,1983-09-17,2012-09-04,1790000,2019-08-26
+CL01206,CC,665639016,,Gloria  Montoya Ocampo,,3292450168,Villavicencio,1962-05-22,2021-02-05,1009000,2019-07-15
+CL00335,CC,833174982,,Yesid Uribe Bermúdez,yesid.uribe334@correo-ficticio.co,3285650434,Neiva,2004-01-19,2016-10-02,5567000,2019-02-16
+CL00311,CC,139382496,,Wilson Naranjo Ocampo,wilson.naranjo310@correo-ficticio.co,3289554520,Villavicencio,1990-06-14,2010-11-26,6350000,2023-04-03
+CL01184,CC,151728011,,Wilson Rengifo Naranjo,wilson.rengifo1183@correo-ficticio.co,3122039606,Neiva,1960-05-24,2011-07-19,2917000,2024-03-18
+CL00641,CC,560594952,,Felipe Duarte Vallejo,felipe.duarte640@correo-ficticio.co,3284940147,Pereira,1964-03-05,2022-06-24,1671000,2023-02-20
+CL00354,CC,218359047,,Wilson Patiño Vallejo,,3251509511,Neiva,2003-04-06,2020-03-18,6637000,2021-01-02
+CL00736,CC,709523726,,Diana Hoyos Montoya,diana.hoyos735@correo-ficticio.co,3157174134,Montería,1988-07-18,2010-08-13,11535000,2024-05-17
+CL01217,CC,129389715,,SERGIO CIFUENTES IBARRA,sergio.cifuentes1147@correo-ficticio.co,3134403197,Montería,1957-02-14,2022-04-07,3484000,2024-04-08
+CL00241,CC,874008296,,Hernán Bermúdez Uribe,hernán.bermúdez240@correo-ficticio.co,3171655528,Montería,1977-11-12,2014-01-28,1922000,2021-05-23
+CL00667,CC,527406811,,Nicolás Hoyos Duarte,nicolás.hoyos666@correo-ficticio.co,3263856918,Pereira,1957-02-28,2011-01-26,4947000,2022-10-12
+CL00319,CC,1071975362,,Zulma Toro Rengifo,zulma.toro318@correo-ficticio.co,3221746369,Villavicencio,1994-10-07,2020-12-08,5310000,2015-05-22
+CL01068,CC,1019683935,,Julián Toro Ocampo,julián.toro1067@correo-ficticio.co,3278081740,Villavicencio,1956-10-31,2011-01-26,2575000,2022-09-14
+CL00263,CC,930938277,,Marcela Bermúdez Fajardo,marcela.bermúdez262@correo-ficticio.co,3172188680,Bogotá D.C.,1970-01-17,2016-08-31,6487000,2023-12-05
+CL00099,NIT,842819652,6,Diana Zuluaga Naranjo,diana.zuluaga98@correo-ficticio.co,3273902825,Bogotá D.C.,1972-12-05,2019-10-15,3483000,2024-03-25
+CL00168,CC,816651109,,Esteban Naranjo Restrepo,esteban.naranjo167@correo-ficticio.co,3183902768,Bogotá D.C.,1970-08-16,2013-08-06,4091000,2024-04-15
+CL00497,CC,873523586,,Nicolás Arango Ibarra,nicolás.arango496@correo-ficticio.co,3280027086,Bogotá D.C.,1952-03-13,2021-05-10,5868000,2022-07-27
+CL00726,CC,508628132,,Felipe Cifuentes Ocampo,felipe.cifuentes725@correo-ficticio.co,3115239862,Ibagué,1954-02-19,2011-10-31,2486000,2020-12-20
+CL00276,CC,594255037,,Zulma Toro Ibarra,zulma.toro275@correo-ficticio.co,3118431876,Villavicencio,1990-01-10,2011-01-31,2865000,2022-11-27
+CL00090,CC,53748991,,Inés Cifuentes Castaño,inés.cifuentes89@correo-ficticio.co,3140946737,Montería,1992-11-02,2020-09-23,3990000,2024-03-16
+CL00715,CC,1070848868,,Lorena Hoyos Vallejo,lorena.hoyos714@correo-ficticio.co,3258588479,Villavicencio,1951-07-29,2020-06-10,1119000,2025-01-16
+CL00516,CC,979607073,,Felipe Montoya Ocampo,felipe.montoya515@correo-ficticio.co,3278858649,Neiva,2001-02-20,2014-08-11,4193000,2020-12-05
+CL01038,NIT,818649431,5,Diana Ocampo Jaramillo,diana.ocampo1037@correo-ficticio.co,3262937981,Villavicencio,1950-11-16,2017-04-14,3573000,2023-07-29
+CL00332,NIT,911077577,3,Gloria Echeverri Rengifo,gloria.echeverri331@correo-ficticio.co,3172179042,Neiva,1965-09-27,2014-03-01,3692000,2016-04-21
+CL01100,CC,210230445,,Andrea Ibarra Uribe,andrea.ibarra1099@correo-ficticio.co,3264463028,Montería,1985-11-30,2021-01-10,13963000,2025-05-12
+CL00434,CC,619548868,,Felipe Patiño Castaño,felipe.patiño433@correo-ficticio.co,3231550994,Villavicencio,1974-06-28,2024-07-10,1904000,2021-02-09
+CL01193,CC,1047455727,,Gloria Hoyos Galvis,gloria.hoyos1192@correo-ficticio.co,3233425035,Pereira,1972-09-21,2017-02-05,2874000,2021-10-23
+CL01065,CC,779314379,,Julián Hoyos Toro,julián.hoyos1064@correo-ficticio.co,3234950941,Neiva,1956-11-07,2013-07-14,888000,2022-04-07
+CL00487,CC,640800750,,Marcela Galvis Patiño,marcela.galvis486@correo-ficticio.co,3297697727,Pereira,1957-12-23,2018-08-01,6956000,2025-05-17
+CL00659,NIT,852472272,2,Zulma Bermúdez Zuluaga,zulma.bermúdez658@correo-ficticio.co,3183715439,Pereira,1972-11-02,2011-06-10,1035000,2022-07-04
+CL00966,CC,52003380,,Olga Duarte Ibarra,olga.duarte965@correo-ficticio.co,3259616336,Ibagué,1958-03-03,2010-11-23,2284000,2022-07-07
+CL00532,CC,371346568,,Olga Londoño Zuluaga,olga.londoño531@correo-ficticio.co,3269931722,Villavicencio,1980-01-27,2024-05-28,-1664000,2022-09-02
+CL00841,CC,161632176,,Felipe Patiño Arango,felipe.patiño840@correo-ficticio.co,3120278059,Ibagué,1953-09-09,2016-12-26,4178000,2020-03-06
+CL01074,CC,371066351,,Óscar Salazar Hoyos,óscar.salazar1073@correo-ficticio.co,3116910558,Neiva,1970-05-13,2021-11-04,2208000,2019-04-29
+CL00261,CC,422275171,,Yesid Fajardo Patiño,yesid.fajardo260@correo-ficticio.co,3270617423,Bogotá D.C.,1965-03-16,2016-11-13,2811000,2023-07-20
+CL00811,CC,1032347694,,Lorena Montoya Fajardo,lorena.montoya810@correo-ficticio.co,3189648125,Bogotá D.C.,1958-02-25,2024-10-09,3703000,2023-07-23
+CL00306,CC,665922535,,Pablo Rengifo Montoya,pablo.rengifo305@correo-ficticio.co,3126758421,Bogotá D.C.,1957-11-04,2014-04-30,11561000,2022-12-31
+CL00877,CC,378868920,,Julián Londoño Jaramillo,julián.londoño876@correo-ficticio.co,3107685117,Montería,1954-02-03,2016-10-05,4285000,2015-09-13
+CL01042,CC,434749254,,Felipe Echeverri Patiño,felipe.echeverri1041@correo-ficticio.co,3197544300,Montería,1958-10-29,2013-09-15,3145000,2020-12-15
+CL00703,CC,810515959,,Esteban Cifuentes Uribe,esteban.cifuentes702@correo-ficticio.co,3294714466,Pereira,1963-05-22,2014-07-07,2534000,2022-12-14
+CL00772,CC,827243226,,Esteban Ocampo Restrepo,esteban.ocampo771@correo-ficticio.co,3281313557,Bogotá D.C.,1957-05-30,2013-01-15,2691000,2023-12-10
+CL01175,CC,260182284,,Valentina Fajardo Toro,valentina.fajardo1174@correo-ficticio.co,3109206111,Montería,1957-08-21,2024-04-13,3697000,2021-10-28
+CL00197,CC,548772062,,Yesid Toro Salazar,,3182968237,Montería,1999-12-24,2013-01-15,10333000,2020-09-14
+CL00141,CC,700268511,,Inés Zuluaga Londoño,inés.zuluaga140@correo-ficticio.co,3279866905,Ibagué,1980-03-05,2015-03-10,2789000,2020-05-22
+CL00595,CC,16276650,,Wilson Rengifo Echeverri,wilson.rengifo594@correo-ficticio.co,3181240111,Pereira,1969-11-04,2020-09-14,4707000,2019-05-03
+CL00123,NIT,845720846,9,Mauricio Uribe Uribe,mauricio.uribe122@correo-ficticio.co,3293488998,Pereira,1996-03-31,2011-01-18,4475000,2021-08-12
+CL00495,CC,67431030,,Tatiana Londoño Restrepo,tatiana.londoño494@correo-ficticio.co,3198233840,Ibagué,1978-05-26,2019-02-12,3232000,2025-05-22
+CL00822,CC,323919289,,Marcela Ibarra Patiño,marcela.ibarra821@correo-ficticio.co,3221126793,Bogotá D.C.,1983-06-09,2010-11-23,4304000,2019-06-27
+CL00111,CC,138074427,,Valentina Ocampo Cifuentes,,3191969551,Neiva,1988-12-26,2023-01-16,1940000,2019-03-30
+CL00085,CC,1010703467,,Diana Vallejo Londoño,diana.vallejo84@correo-ficticio.co,3199198032,bogota,1982-01-25,2012-06-27,6559000,2020-03-21
+CL01003,CC,137712543,,Andrea Quintero Vallejo,andrea.quintero1002@correo-ficticio.co,3164226097,Montería,1977-05-02,2019-11-22,4779000,2021-01-19
+CL00514,CC,936488017,,Olga Restrepo Castaño,olga.restrepo513@correo-ficticio.co,3165699702,Neiva,1983-06-16,2015-08-26,919000,2025-05-29
+CL00692,CC,824950005,,Valentina Ibarra Bermúdez,valentina.ibarra691@correo-ficticio.co,3230788300,Ibague,2000-06-06,2012-02-21,6084000,2020-04-20
+CL00483,CC,939560692,,Wilson Salazar Montoya,wilson.salazar482@correo-ficticio.co,3133689984,Villavicencio,1989-12-01,2013-09-22,3472000,2022-07-06
+CL01166,CC,921494405,,Camilo Naranjo Ibarra,camilo.naranjo1165@correo-ficticio.co,3256145420,Villavicencio,2001-04-04,2015-07-20,2577000,2020-01-08
+CL00370,CC,351209353,,Mauricio Fajardo Fajardo,mauricio.fajardo369@correo-ficticio.co,3170240142,Ibagué,1972-01-05,2017-02-02,1907000,2020-11-11
+CL00612,CC,842364805,,Lorena Montoya Quintero,lorena.montoya611@correo-ficticio.co,3189016828,Pereira,1991-10-27,2020-06-14,3136000,2024-01-06
+CL00794,CC,582870810,,Mauricio Hoyos Fajardo,mauricio.hoyos793@correo-ficticio.co,3265933977,Pereira,1957-07-19,2016-08-21,2712000,2019-04-07
+CL00075,NIT,867527203,7,Rocío Vallejo Arango,rocío.vallejo74@correo-ficticio.co,3111348529,Ibagué,1956-10-20,2016-06-14,2730000,2024-12-18
+CL01220,CC,57324041,,ESTEBAN FAJARDO MONTOYA,esteban.fajardo333@correo-ficticio.co,3132375662,Bogotá D.C.,1996-08-22,2018-01-18,4963000,2024-09-23
+CL01062,CC,179798350,,Sergio Naranjo Echeverri,sergio.naranjo1061@correo-ficticio.co,3139945588,Bogotá D.C.,1974-03-04,2016-01-05,7265000,2024-02-25
+CL00927,CC,792238842,,Camilo Toro Naranjo,camilo.toro926@correo-ficticio.co,3221490316,Montería,1976-12-17,2010-03-07,2259000,2015-11-05
+CL00274,CC,537230250,,Olga Jaramillo Patiño,olga.jaramillo273@correo-ficticio.co,3189628017,Villavicencio,1991-07-13,2021-09-20,4782000,2023-12-27
+CL00792,CC,803098248,,Yesid Ocampo Montoya,yesid.ocampo791@correo-ficticio.co,3132493868,Bogotá D.C.,1956-04-27,2023-08-06,6556000,2021-04-04
+CL00397,CC,1085802075,,Nicolás Salazar Rengifo,nicolás.salazar396@correo-ficticio.co,3200795456,BOGOTA,1988-04-04,2018-04-04,1837000,2016-07-23
+CL00155,CC,627658533,,Inés Echeverri Hoyos,inés.echeverri154@correo-ficticio.co,3245333147,Ibagué,1953-11-23,2011-08-27,1907000,2020-09-28
+CL01242,NIT,898054464,4,TATIANA JARAMILLO OCAMPO,,3268903438,Ibagué,1967-09-29,2019-07-07,4240000,2019-06-06
+CL00192,CC,1005424282,,Luis Rengifo Ibarra,luis.rengifo191@correo-ficticio.co,3149289667,Villavicencio,1994-10-01,2024-01-15,3109000,2023-08-27
+CL00798,CC,185847899,,Felipe Duarte Cifuentes,felipe.duarte797@correo-ficticio.co,3234603978,Ibagué,1956-07-31,2023-01-21,3198000,2022-05-26
+CL01194,CC,341671379,,Ximena Galvis Bermúdez,ximena.galvis1193@correo-ficticio.co,3109189458,Montería,1978-06-17,2016-05-25,2436000,2023-03-24
+CL00188,CC,957710511,,Felipe Castaño Londoño,felipe.castaño187@correo-ficticio.co,3245949538,Ibagué,1987-06-04,2013-06-08,4211000,2022-04-11
+CL00051,NIT,996877233,7,Yesid Montoya Rengifo,yesid.montoya50@correo-ficticio.co,3140157331,Pereira,1991-01-31,2022-06-22,6455000,2022-12-14
+CL00039,CC,833620345,,Diana Vallejo Londoño,diana.vallejo38@correo-ficticio.co,3281538272,Villavicencio,1980-04-02,2015-03-19,4373000,2024-01-01
+CL00962,NIT,871099112,9,Felipe Londoño Duarte,felipe.londoño961@correo-ficticio.co,3180884719,Bogotá D.C.,1979-05-17,2013-11-12,4928000,2021-04-21
+CL00419,CC,1086388579,,Olga Rengifo Naranjo,olga.rengifo418@correo-ficticio.co,3131859021,Ibagué,1997-11-14,2013-07-28,3766000,2024-09-08
+CL01169,CC,1062098714,,Óscar Hoyos Quintero,óscar.hoyos1168@correo-ficticio.co,3101411140,Ibagué,1951-08-26,2016-09-04,1769000,2023-12-20
+CL00209,CC,136853857,,Karen Zuluaga Arango,sin correo,3239612401,Montería,1994-06-10,2012-09-16,559000,2022-08-06
+CL00376,CC,770384498,,Lorena Ocampo Patiño,lorena.ocampo375@correo-ficticio.co,3111226019,Neiva,1985-12-13,2016-07-19,4741000,2023-01-26
+CL00464,CC,298874194,,Karen Vallejo Londoño,karen.vallejo463@correo-ficticio.co,3205772616,Villavicencio,2003-03-10,2015-02-01,4017000,2023-06-25
+CL00471,CC,403849841,,Luis Toro Galvis,luis.toro470@correo-ficticio.co,3267974279,Bogotá D.C.,1974-02-06,2013-12-05,2916000,2024-09-03
+CL00518,CC,58131629,,Hernán Vallejo Patiño,,3183494112,Ibagué,1958-07-08,2012-02-20,3273000,2023-02-01
+CL00076,NIT,967460678,4,Óscar Ibarra Montoya,óscar.ibarra75@correo-ficticio.co,3129427735,Villavicencio,1973-11-09,2017-11-04,2239000,2020-07-07
+CL00911,CC,812504167,,Olga Ocampo Bermúdez,olga.ocampo910@correo-ficticio.co,3291584349,Neiva,1971-10-18,2017-09-18,3989000,2022-02-19
+CL00249,CC,985437174,,Marcela Naranjo Montoya,marcela.naranjo248@correo-ficticio.co,3197369192,Bogotá D.C.,1977-09-17,2018-07-26,5517000,2023-10-31
+CL00560,CC,918830670,,Yesid Cifuentes Ocampo,yesid.cifuentes559@correo-ficticio.co,3200769372,Neiva,1972-12-21,2014-11-04,3625000,2020-09-05
+CL00303,CC,130605545,,Luis Naranjo Ocampo,luis.naranjo302@correo-ficticio.co,3270020794,Neiva,2029-04-15,2011-10-25,4659000,2023-07-13
+CL00583,CC,24162329,,Luis Quintero Salazar,luis.quintero582@correo-ficticio.co,3187642342,Ibagué,1962-12-27,2014-11-20,2925000,2023-03-07
+CL00900,CC,583569652,,Gloria Jaramillo Ocampo,gloria.jaramillo899@correo-ficticio.co,3284024797,Bogotá D.C.,1961-06-23,2023-03-31,2363000,2025-07-10
+CL01070,CC,489834638,,Tatiana Londoño Rengifo,tatiana.londoño1069@correo-ficticio.co,3126848710,Bogota DC,1988-10-02,2020-09-08,2963000,2025-10-03
+CL00336,CC,791092645,,Óscar Ocampo Hoyos,óscar.ocampo335@correo-ficticio.co,3173104606,Neiva,1984-08-12,2023-06-21,3410000,2025-08-19
+CL00738,CC,1097339644,,Sergio Fajardo Naranjo,sergio.fajardo737@correo-ficticio.co,3146205321,Neiva,1995-01-23,2015-06-08,2328000,2021-08-07
+CL00799,CC,853245938,,Andrea Duarte Uribe,andrea.duarte798 arroba correo-ficticio.co,3204370402,Montería,1999-01-23,2019-08-14,3222000,2022-10-28
+CL00012,NIT,888032089,4,Diana Patiño Salazar,diana.patiño11@correo-ficticio.co,3207053612,Pereira,1979-06-02,2010-04-27,2949000,2025-05-07
+CL01043,CC,786538402,,Mauricio Jaramillo Cifuentes,,3286672533,Neiva,1977-10-02,2010-08-19,598000,2019-01-02
+CL01231,CC,921494405,,Camilo  Naranjo Ibarra,camilo.naranjo1165@correo-ficticio.co,3256145420,Villavicencio,2001-04-04,2015-07-20,2577000,2020-01-08
+CL00486,CC,25157795,,Hernán Ibarra Uribe,hernán.ibarra485@correo-ficticio.co,3196829121,Pereira,1959-05-02,2010-03-02,6379000,2021-08-27
+CL00463,CC,255449078,,Felipe Restrepo Toro,felipe.restrepo462@correo-ficticio.co,3152532652,Bogotá D.C.,2002-06-03,2011-01-10,3958000,2022-11-18
+CL00539,CC,806979697,,Nicolás Hoyos Galvis,nicolás.hoyos538@correo-ficticio.co,3236828688,Neiva,1981-03-31,2021-12-02,1775000,2021-07-24
+CL00628,CC,229476907,,Óscar Ocampo Ocampo,óscar.ocampo627@correo-ficticio.co,3289568471,Bogotá D.C.,1986-02-27,2014-12-19,1038000,2024-07-22
+CL00282,CC,650596587,,Nicolás Rengifo Duarte,nicolás.rengifo281@correo-ficticio.co,3146932344,Pereira,1970-05-28,2013-05-19,4805000,2022-09-04
+CL00254,CC,498017606,,Wilson Zuluaga Cifuentes,wilson.zuluaga253@correo-ficticio.co,3272801459,Bogotá D.C.,2004-02-02,2021-12-01,1950000,2019-10-06
+CL00984,CC,258150073,,Hernán Toro Arango,hernán.toro983@correo-ficticio.co,3203704777,Bogotá D.C.,1952-08-21,2013-07-06,3796000,2024-12-11
+CL00708,CC,322399163,,Karen Uribe Castaño,karen.uribe707@correo-ficticio.co,3269081507,Bogotá D.C.,1969-10-03,2013-08-21,5821000,2025-02-17
+CL01235,CC,187203318,,OLGA NARANJO CIFUENTES,olga.naranjo451@correo-ficticio.co,3177174046,Ibagué,2002-06-08,2022-10-08,1503000,2025-08-26
+CL01122,NIT,936068563,3,Pablo Duarte Jaramillo,pablo.duarte1121@correo-ficticio.co,3259237881,Neiva,1993-05-26,2022-11-26,8203000,2022-01-22
+CL00224,CC,31437912,,Inés Ibarra Ocampo,inés.ibarra223@correo-ficticio.co,3171775290,Villavicencio,1976-02-20,2014-12-01,3939000,2016-04-28
+CL00578,CC,585333861,,Marcela Echeverri Galvis,marcela.echeverri577@correo-ficticio.co,3215992033,Montería,1995-09-25,2024-05-31,4448000,2025-02-18
+CL00673,NIT,899609599,7,Sergio Rengifo Quintero,sergio.rengifo672@correo-ficticio.co,3265891453,Montería,1952-03-18,2010-06-02,2582000,2023-12-29
+CL00814,NIT,981108223,0,Marcela Toro Jaramillo,marcela.toro813@correo-ficticio.co,3212709245,Ibagué,1973-10-05,2018-11-29,1805000,2024-06-15
+CL00220,CC,920726564,,Zulma Duarte Ocampo,zulma.duarte219@correo-ficticio.co,3121452637,Neiva,1997-02-21,2015-06-15,6185000,2020-03-23
+CL00967,CC,349711099,,Felipe Zuluaga Restrepo,felipe.zuluaga966@correo-ficticio.co,3288797740,Neiva,2002-08-10,2021-03-04,6127000,2024-04-27
+CL01234,NIT,884949661,1,MAURICIO CIFUENTES TORO,,3190722685,Montería,1953-12-17,2023-10-21,2312000,2025-05-08
+CL00995,CC,995579429,,Gloria Toro Toro,gloria.toro994@correo-ficticio.co,3273907094,Pereira,2003-01-28,2020-03-10,1441000,2022-09-20
+CL00581,CC,505918964,,Tatiana Arango Bermúdez,tatiana.arango580@correo-ficticio.co,3196700965,Bogotá D.C.,1984-05-30,2023-11-24,1772000,2024-09-26
+CL00078,CC,415573765,,Felipe Salazar Arango,felipe.salazar77@correo-ficticio.co,3233679037,Ibagué,1974-03-31,2014-04-17,1908000,2021-04-03
+CL00548,CC,977428820,,Marcela Ocampo Rengifo,marcela.ocampo547@correo-ficticio.co,3269824734,Bogotá D.C.,1979-02-08,2010-08-06,5459000,2025-04-04
+CL01243,CC,106501680,,MAURICIO CASTAÑO QUINTERO,mauricio.castaño548@correo-ficticio.co,3251599471,Pereira,1951-12-31,2010-06-16,3606000,2024-02-15
+CL00749,NIT,856056103,7,Lorena Salazar Ocampo,lorena.salazar748@correo-ficticio.co,3277523374,Pereira,2001-03-03,2018-12-02,4669000,2023-06-12
+CL00827,CC,817128150,,Rocío Arango Castaño,rocío.arango826@correo-ficticio.co,3198773760,Bogotá D.C.,1998-12-18,2013-04-01,4266000,2024-07-06
+CL00126,CC,1056384818,,Julián Naranjo Ocampo,julián.naranjo125@correo-ficticio.co,3261353492,Bogotá D.C.,1961-05-10,2013-10-01,3786000,2015-06-04
+CL00758,CC,730816544,,Gloria Ibarra Ocampo,gloria.ibarra757@correo-ficticio.co,3241503774,Neiva,1958-12-15,2023-11-02,1625000,2023-04-27
+CL00577,CC,1073469942,,Tatiana Zuluaga Patiño,tatiana.zuluaga576@correo-ficticio.co,3103590618,Ibagué,1996-03-28,2020-06-28,1504000,2025-10-01
+CL00622,CC,331666317,,Nicolás Montoya Fajardo,nicolás.montoya621@correo-ficticio.co,3198418531,Bogotá D.C.,1984-11-22,2015-06-21,15415000,2024-10-05
+CL00768,CC,319883359,,Mauricio Londoño Galvis,mauricio.londoño767@correo-ficticio.co,3158661685,Pereira,1959-03-05,2010-06-18,1730000,2023-09-24
+CL01240,CC,659671765,,Ximena  Naranjo Restrepo,ximena.naranjo137@correo-ficticio.co,3190263381,Villavicencio,1964-01-07,2016-02-06,5987000,2025-04-10
+CL01031,CC,385890096,,Rocío Zuluaga Galvis,rocío.zuluaga1030@correo-ficticio.co,3121653958,Villavicencio,1969-10-03,2021-07-28,4393000,2021-05-18
+CL01125,NIT,867751098,9,Yesid Echeverri Castaño,yesid.echeverri1124@correo-ficticio.co,3281636366,Bogotá D.C.,1996-09-11,2019-06-06,1479000,2020-02-27
+CL00803,CC,781472455,,Lorena Echeverri Ocampo,lorena.echeverri802@correo-ficticio.co,3156766438,Bogotá D.C.,1951-12-10,2013-08-07,4192000,2019-06-30
+CL00845,NIT,818378992,1,Felipe Vallejo Rengifo,felipe.vallejo844@correo-ficticio.co,3168788505,Bogotá D.C.,1977-10-29,2012-08-28,2981000,2024-10-28
+CL01049,CC,917487050,,Tatiana Patiño Fajardo,tatiana.patiño1048@correo-ficticio.co,3160156246,Ibagué,1977-10-18,2016-01-02,2969000,2025-03-11
+CL01225,CC,1050612580,,ANDREA JARAMILLO JARAMILLO,andrea.jaramillo947@correo-ficticio.co,3105147102,Villavicencio,1966-12-23,2017-12-24,2284000,2016-02-11
+CL01069,CC,975927933,,Tatiana Castaño Toro,tatiana.castaño1068@correo-ficticio.co,3118310927,Villavicencio,1968-01-29,2012-12-25,1797000,2022-04-03
+CL00260,NIT,825914111,5,Tatiana Salazar Ibarra,tatiana.salazar259@correo-ficticio.co,3106398220,Villavicencio,1958-04-18,2013-03-14,3627000,2021-03-01
+CL00283,CC,508591048,,Wilson Montoya Quintero,wilson.montoya282@correo-ficticio.co,3157551812,Montería,1962-11-16,2019-01-12,3039000,2019-07-11
+CL00635,CC,717546872,,Julián Echeverri Londoño,julián.echeverri634@correo-ficticio.co,3205247908,Neiva,1989-11-25,2014-02-15,4650000,2024-04-20
+CL00475,CC,542507116,,Valentina Jaramillo Fajardo,valentina.jaramillo474@correo-ficticio.co,3211117754,Pereira,1980-02-19,2015-12-15,7031000,2019-03-02
+CL00456,CC,172854624,,Camilo Toro Restrepo,camilo.toro455@correo-ficticio.co,3241336581,Ibagué,1950-06-01,2014-04-13,12509000,2021-10-24
+CL00321,CC,999940300,,Lorena Restrepo Galvis,lorena.restrepo320 arroba correo-ficticio.co,3280488344,Bogotá D.C.,1988-12-29,2021-08-28,1319000,2024-05-20
+CL00435,CC,140499522,,Wilson Patiño Restrepo,wilson.patiño434@correo-ficticio.co,3262334372,Neiva,1992-01-28,2014-12-12,5627000,2025-04-21
+CL01201,CC,547371097,,SERGIO RESTREPO QUINTERO,sergio.restrepo638@correo-ficticio.co,3134883772,Bogotá D.C.,1990-07-27,2019-10-21,1942000,2020-03-05
+CL00300,CC,448348873,,Olga Ocampo Castaño,olga.ocampo299@correo-ficticio.co,3203304687,Ibagué,1954-10-16,2013-03-04,7652000,2015-06-10
+CL00437,CC,265616531,,Mauricio Londoño Ibarra,mauricio.londoño436@correo-ficticio.co,3263059847,Bogota DC,1963-02-10,2015-02-13,4130000,2024-08-05
+CL01135,NIT,995738348,6,Rocío Arango Ocampo,rocío.arango1134@correo-ficticio.co,3137917971,Montería,1956-08-25,2020-03-24,-2791000,2020-07-08
+CL00439,CC,21658897,,Valentina Zuluaga Salazar,valentina.zuluaga438@correo-ficticio.co,3202474778,Pereira,1973-11-01,2014-02-09,1909000,2025-06-06
+CL00326,CC,181537881,,Wilson Bermúdez Toro,wilson.bermúdez325@correo-ficticio.co,3127755949,Villavicencio,1964-09-07,2018-06-18,1291000,2020-11-01
+CL00404,CC,165758592,,Olga Hoyos Patiño,olga.hoyos403@correo-ficticio.co,3271487697,Pereira,1962-07-30,2012-03-01,3815000,2025-05-09
+CL00565,CC,948280453,,Gloria Ibarra Toro,gloria.ibarra564@correo-ficticio.co,3271374938,Pereira,1999-08-23,2012-06-18,5013000,2016-11-15
+CL00293,CC,614206661,,Pablo Naranjo Quintero,pablo.naranjo292@correo-ficticio.co,3238707231,Pereira,1999-12-21,2023-06-19,3523000,2022-04-05
+CL00279,CC,167438184,,Nicolás Echeverri Fajardo,nicolás.echeverri278@correo-ficticio.co,3216805740,Neiva,1989-01-17,2016-06-13,5569000,2024-05-17
+CL00656,CC,768036152,,Camilo Bermúdez Salazar,camilo.bermúdez655@correo-ficticio.co,3129789692,Villavicencio,1987-05-15,2012-10-13,4182000,2021-05-28
+CL01081,NIT,990771357,3,Rocío Bermúdez Londoño,rocío.bermúdez1080@correo-ficticio.co,3179358412,Pereira,1999-12-10,2011-09-06,8979000,2024-07-24
+CL00733,CC,302010875,,Wilson Bermúdez Castaño,wilson.bermúdez732@correo-ficticio.co,3131932002,BOGOTA,1953-01-18,2010-01-31,2339000,2021-12-15
+CL00554,NIT,876879280,7,Karen Hoyos Galvis,karen.hoyos553@correo-ficticio.co,3267731276,Ibagué,1954-05-05,2018-07-02,7472000,2021-04-28
+CL00095,NIT,912328502,3,Tatiana Zuluaga Hoyos,tatiana.zuluaga94@correo-ficticio.co,3158735872,Villavicencio,1984-08-16,2014-08-12,3983000,2024-12-22
+CL01176,NIT,936786396,1,Camilo Uribe Ocampo,camilo.uribe1175@correo-ficticio.co,3127498927,bogota,1992-02-14,2013-03-30,4853000,2020-10-16
+CL00246,CC,763682638,,Lorena Hoyos Uribe,lorena.hoyos245@correo-ficticio.co,3285869980,Bogotá D.C.,1999-01-27,2019-04-04,2241000,2021-09-04
+CL00946,CC,144125467,,Luis Jaramillo Toro,luis.jaramillo945@correo-ficticio.co,3227254044,Neiva,1968-09-24,2015-08-23,1560000,2024-09-25
+CL00776,NIT,967712587,7,Felipe Castaño Vallejo,felipe.castaño775@correo-ficticio.co,3173324906,Bogotá D.C.,1973-09-05,2013-01-25,10167000,2022-12-17
+CL00427,CC,204788466,,Karen Ibarra Rengifo,karen.ibarra426@correo-ficticio.co,3235129685,Neiva,1984-06-22,2014-09-27,4439000,2020-05-19
+CL00150,CC,870150717,,Sergio Naranjo Uribe,sergio.naranjo149@correo-ficticio.co,3284657798,Neiva,1987-05-20,2019-01-31,3503000,2020-12-12
+CL00227,CC,885676862,,Tatiana Cifuentes Toro,tatiana.cifuentes226@correo-ficticio.co,3278405604,Pereira,1971-06-14,2010-07-23,1915000,2024-04-11
+CL00866,NIT,912291428,8,Camilo Quintero Naranjo,,3200965220,Montería,2002-01-07,2016-09-24,2640000,2022-12-21
+CL00968,NIT,942344422,9,Marcela Hoyos Cifuentes,marcela.hoyos967@correo-ficticio.co,3123266844,Villavicencio,1958-08-22,2015-09-29,3792000,2019-09-19
+CL00901,CC,472026534,,Zulma Galvis Fajardo,zulma.galvis900@correo-ficticio.co,3289207832,Bogotá D.C.,1976-07-01,2017-03-31,5911000,2022-12-05
+CL00700,CC,187100583,,Inés Salazar Cifuentes,inés.salazar699@correo-ficticio.co,3132772149,Neiva,1953-11-06,2010-02-21,6483000,2020-03-11
+CL00602,CC,628580139,,Pablo Duarte Toro,pablo.duarte601@correo-ficticio.co,3292914136,Villavicencio,1969-04-20,2020-02-12,4248000,2025-08-15
+CL01059,CC,224681776,,Felipe Hoyos Londoño,felipe.hoyos1058@correo-ficticio.co,3296229323,Villavicencio,1969-03-21,2015-06-30,1836000,2019-04-26
+CL00218,CC,178903215,,Inés Patiño Galvis,inés.patiño217@correo-ficticio.co,3148595908,Villavicencio,1956-09-26,2012-07-06,10127000,2022-07-31
+CL00818,NIT,889329929,6,Nicolás Arango Quintero,nicolás.arango817@correo-ficticio.co,3219329686,Neiva,1992-10-20,2014-04-16,8580000,2024-12-20
+CL00221,CC,109794713,,Gloria Uribe Patiño,gloria.uribe220@correo-ficticio.co,3197154658,Pereira,1955-01-23,2015-01-03,1929000,2025-07-07
+CL00214,CC,315330044,,Andrea Ocampo Quintero,,3116769255,Bogotá D.C.,1954-01-26,2018-09-30,6507000,2024-10-13
+CL01157,CC,1050671027,,Marcela Vallejo Fajardo,marcela.vallejo1156@correo-ficticio.co,3213294460,Pereira,1998-08-09,2023-08-06,2267000,2024-11-12
+CL00908,CC,863828285,,Mauricio Arango Bermúdez,mauricio.arango907@correo-ficticio.co,3244834730,Pereira,1972-02-28,2015-07-02,9498000,2023-09-15
+CL00395,CC,820953055,,Inés Bermúdez Patiño,inés.bermúdez394@correo-ficticio.co,3265755391,Ibague,1960-09-14,2024-09-18,1470000,2015-11-20
+CL00368,CC,631098845,,Yesid Bermúdez Vallejo,yesid.bermúdez367@correo-ficticio.co,3233121698,Montería,1963-04-18,2012-06-11,2191000,2022-12-15
+CL00925,CC,424743976,,Marcela Patiño Zuluaga,,3269890002,Pereira,1971-06-14,2019-03-10,5968000,2023-02-17
+CL00013,CC,707640602,,Rocío Jaramillo Cifuentes,rocío.jaramillo12@correo-ficticio.co,3118529179,Villavicencio,1962-12-19,2014-07-28,3677000,2025-05-03
+CL01150,CC,242147047,,Sergio Jaramillo Ibarra,sergio.jaramillo1149@correo-ficticio.co,3249235359,Neiva,1966-03-01,2023-01-25,5727000,2025-07-30
+CL00235,CC,748707370,,Nicolás Uribe Echeverri,nicolás.uribe234@correo-ficticio.co,3232899938,Ibagué,1959-08-03,2014-05-17,4871000,2021-04-17
+CL00696,NIT,975303517,4,Ximena Ocampo Rengifo,ximena.ocampo695@correo-ficticio.co,3140016207,Ibagué,1970-02-17,2011-06-02,2737000,2024-08-16
+CL01085,CC,113451654,,Ximena Fajardo Uribe,ximena.fajardo1084@correo-ficticio.co,3169036017,Bogotá D.C.,1988-07-31,2015-10-04,3165000,2022-07-16
+CL01168,CC,491913033,,Marcela Duarte Toro,marcela.duarte1167@correo-ficticio.co,3274560401,Neiva,1954-04-23,2022-09-01,2511000,2025-10-03
+CL01103,CC,790411293,,Valentina Rengifo Patiño,valentina.rengifo1102@correo-ficticio.co,3212955581,Montería,1980-01-19,2016-05-10,2015000,2020-07-27
+CL00064,CC,249827674,,Zulma Vallejo Londoño,zulma.vallejo63@correo-ficticio.co,3197538482,Neiva,1960-01-17,2020-12-15,4693000,2024-09-26
+CL00735,CC,495332554,,Andrea Rengifo Castaño,andrea.rengifo734@correo-ficticio.co,3296735817,Villavicencio,1957-10-04,2012-10-12,4585000,2023-08-01
+CL01024,CC,1012862574,,Andrea Salazar Restrepo,andrea.salazar1023@correo-ficticio.co,3169336735,Neiva,1981-11-09,2019-01-18,2587000,2021-02-20
+CL00965,CC,743238999,,Tatiana Londoño Duarte,tatiana.londoño964@correo-ficticio.co,3169103877,Montería,2001-08-16,2022-08-22,4839000,2016-06-19
+CL00608,NIT,932296319,5,Ximena Bermúdez Restrepo,ximena.bermúdez607@correo-ficticio.co,3257116418,Villavicencio,1978-04-19,2012-07-19,2430000,2023-10-30
+CL00014,CC,749261258,,Lorena Ocampo Arango,lorena.ocampo13@correo-ficticio.co,3129945433,Bogotá D.C.,1969-04-11,2022-02-21,4928000,2024-09-30
+CL00840,CC,82948138,,Zulma Ibarra Rengifo,zulma.ibarra839@correo-ficticio.co,3105173189,Neiva,1996-09-10,2022-12-30,4374000,2025-10-30
+CL00436,NIT,805848230,8,Óscar Rengifo Duarte,óscar.rengifo435@correo-ficticio.co,3174355339,Pereira,1952-04-27,2021-04-19,4237000,2021-12-10
+CL00018,CC,660003700,,Hernán Uribe Patiño,,3125198979,Neiva,1991-07-24,2010-07-06,5151000,2024-12-07
+CL00765,CC,796942058,,Lorena Fajardo Quintero,lorena.fajardo764@correo-ficticio.co,3239806198,Ibagué,1992-10-26,2021-02-22,-3509000,2023-07-10
+CL00349,NIT,819123807,2,Julián Vallejo Vallejo,julián.vallejo348@correo-ficticio.co,3118319242,Montería,1992-09-16,2018-02-15,1222000,2023-04-23
+CL00208,CC,175572056,,Felipe Cifuentes Salazar,felipe.cifuentes207@correo-ficticio.co,3257951189,Pereira,1961-02-27,2012-08-31,2607000,2015-01-03
+CL00342,NIT,845813347,5,Sergio Toro Duarte,sergio.toro341@correo-ficticio.co,3102460359,Bogotá D.C.,1990-12-28,2022-02-22,2166000,2023-08-04
+CL00345,CC,530194265,,Wilson Montoya Jaramillo,wilson.montoya344@correo-ficticio.co,3151479860,Ibagué,1990-04-12,2014-08-07,1642000,2022-05-19
+CL01116,NIT,922599405,5,Valentina Hoyos Rengifo,valentina.hoyos1115@correo-ficticio.co,3165464995,Montería,1954-04-07,2023-10-13,1300000,2019-02-21
+CL01236,NIT,801111032,8,Inés  Ocampo Cifuentes,inés.ocampo1010@correo-ficticio.co,3182279785,Ibagué,1959-06-26,2010-06-15,12915000,2022-01-10
+CL00552,CC,851057242,,Valentina Salazar Ibarra,valentina.salazar551@correo-ficticio.co,3110750927,Montería,1978-11-08,2013-01-31,11557000,2024-12-09
+CL00599,CC,1013750300,,Karen Ibarra Echeverri,karen.ibarra598@correo-ficticio.co,3147751694,Villavicencio,1981-08-25,2021-04-15,3404000,2019-06-25
+CL00033,NIT,952928792,8,Zulma Naranjo Naranjo,zulma.naranjo32@correo-ficticio.co,3204884757,Ibagué,1998-04-09,2024-08-12,18183000,2020-01-01
+CL00373,NIT,898016074,3,Julián Londoño Ibarra,julián.londoño372@correo-ficticio.co,3257266646,Villavicencio,1962-12-16,2012-09-08,2949000,2021-10-17
+CL00658,NIT,820718689,1,Diana Cifuentes Ibarra,diana.cifuentes657@correo-ficticio.co,3215932903,Bogotá D.C.,1959-08-28,2018-10-13,3560000,2020-04-09
+CL00173,CC,568754895,,Luis Galvis Fajardo,luis.galvis172@correo-ficticio.co,3247264404,Ibagué,1997-01-07,2011-07-12,2568000,2019-06-24
+CL01087,CC,347682856,,Wilson Ocampo Naranjo,,3104066037,Ibagué,1991-08-29,2013-09-01,2317000,2025-05-19
+CL00409,CC,882837363,,Olga Castaño Londoño,olga.castaño408@correo-ficticio.co,3182552755,Ibagué,1996-03-24,2013-09-06,5486000,2024-03-06
+CL01051,CC,208149728,,Nicolás Salazar Castaño,nicolás.salazar1050@correo-ficticio.co,3240316141,Bogotá D.C.,2003-01-03,2024-10-12,4566000,2024-04-12
+CL01188,CC,351594461,,Zulma Quintero Toro,zulma.quintero1187@correo-ficticio.co,3175267325,Neiva,1975-12-12,2013-07-03,1118000,2021-04-25
+CL00201,CC,429064774,,Felipe Castaño Ibarra,felipe.castaño200@correo-ficticio.co,3143497025,Neiva,1982-08-01,2023-04-29,4578000,2024-01-16
+CL00861,CC,766042727,,Óscar Fajardo Quintero,óscar.fajardo860@correo-ficticio.co,3212812546,Montería,1983-07-11,2015-10-28,5130000,2023-08-21
+CL01162,CC,97849446,,Karen Montoya Hoyos,karen.montoya1161 arroba correo-ficticio.co,3274676969,Montería,1995-04-24,2017-06-02,2456000,2023-07-23
+CL01145,CC,503929288,,Nicolás Toro Arango,nicolás.toro1144@correo-ficticio.co,3156660130,Villavicencio,1974-01-19,2010-09-22,2349000,2020-10-15
+CL01172,CC,757208311,,Andrea Galvis Zuluaga,andrea.galvis1171@correo-ficticio.co,3161935938,Ibagué,2004-06-22,2020-01-09,784000,2022-07-17
+CL00490,CC,1030034506,,Inés Duarte Echeverri,inés.duarte489@correo-ficticio.co,3127313807,Pereira,2027-07-15,2014-06-20,7289000,2024-01-25
+CL01170,CC,862388863,,Esteban Fajardo Restrepo,esteban.fajardo1169@correo-ficticio.co,3171870376,Neiva,1985-04-04,2013-11-07,5151000,2024-08-10
+CL00213,CC,1052571443,,Andrea Duarte Montoya,andrea.duarte212@correo-ficticio.co,3244018338,Ibagué,1960-08-08,2019-09-05,1859000,2023-06-07
+CL00134,CC,772794546,,Zulma Ibarra Rengifo,zulma.ibarra133@correo-ficticio.co,3104933716,Neiva,1967-12-04,2016-05-17,2396000,2022-01-10
+CL00061,CC,396560504,,Yesid Jaramillo Arango,yesid.jaramillo60@correo-ficticio.co,3255996063,Ibagué,1975-09-09,2021-10-05,4127000,2015-09-07
+CL00691,CC,472948449,,Pablo Ibarra Restrepo,pablo.ibarra690@correo-ficticio.co,3250819470,Pereira,1995-03-11,2020-04-14,2112000,2023-10-10
+CL00027,CC,151773177,,Esteban Montoya Arango,esteban.montoya26@correo-ficticio.co,3227786458,Neiva,1999-02-28,2012-05-03,3895000,2024-09-08
+CL00101,CC,546836770,,Yesid Londoño Ocampo,yesid.londoño100@correo-ficticio.co,3247623682,Villavicencio,1964-02-10,2019-06-17,1794000,2019-07-16
+CL00975,CC,259841045,,Andrea Ibarra Ocampo,andrea.ibarra974@correo-ficticio.co,3197896897,Villavicencio,1991-05-26,2024-05-04,5597000,2020-02-01
+CL00777,CC,55763800,,Mauricio Naranjo Uribe,mauricio.naranjo776@correo-ficticio.co,3216048772,Montería,1995-11-19,2015-04-20,3040000,2024-01-26
+CL00789,CC,687115789,,Pablo Rengifo Ibarra,pablo.rengifo788@correo-ficticio.co,3228666139,Neiva,1994-01-28,2019-05-04,3156000,2019-12-06
+CL00521,NIT,805832855,0,Óscar Toro Montoya,óscar.toro520@correo-ficticio.co,3211750028,Villavicencio,1989-02-06,2011-03-23,7562000,2016-07-13
+CL00364,CC,936765913,,Rocío Londoño Galvis,rocío.londoño363@correo-ficticio.co,3235037096,Montería,1979-07-12,2010-08-07,4365000,2023-04-03
+CL00310,CC,21727914,,Luis Montoya Cifuentes,luis.montoya309@correo-ficticio.co,3184057497,Montería,1991-04-02,2020-08-23,3189000,2015-02-06
+CL00796,CC,552484243,,Lorena Ocampo Echeverri,lorena.ocampo795@correo-ficticio.co,3236872057,Villavo,1975-05-20,2016-02-26,5584000,2020-01-12
+CL00829,NIT,911217319,1,Tatiana Montoya Uribe,tatiana.montoya828@correo-ficticio.co,3266773970,Bogotá D.C.,1991-08-18,2020-05-01,2923000,2021-05-02
+CL00545,CC,246652757,,Mauricio Vallejo Zuluaga,mauricio.vallejo544@correo-ficticio.co,3242591191,Ibagué,1988-03-01,2011-08-16,6864000,2019-09-01
+CL00940,CC,744958946,,Sergio Arango Naranjo,sergio.arango939@correo-ficticio.co,3285088997,Bogotá D.C.,1994-11-30,2016-12-13,1687000,2016-02-24
+CL00442,CC,1040259576,,Felipe Duarte Ibarra,felipe.duarte441@correo-ficticio.co,3188533976,Bogotá D.C.,2001-08-19,2010-09-08,4704000,2025-01-30
+CL00648,CC,746433741,,Felipe Quintero Londoño,felipe.quintero647@correo-ficticio.co,3138100259,Ibague,1987-02-19,2024-02-26,4722000,2020-06-19
+CL01004,CC,845574027,,Ximena Ocampo Cifuentes,ximena.ocampo1003@correo-ficticio.co,3110722549,Neiva,2000-05-16,2014-12-25,2223000,2021-07-24
+CL00477,CC,68111418,,Lorena Fajardo Quintero,lorena.fajardo476@correo-ficticio.co,3251276883,Ibagué,1967-10-19,2015-07-17,1577000,2019-04-24
+CL01047,CC,922682149,,Gloria Ocampo Castaño,gloria.ocampo1046@correo-ficticio.co,3282066760,Ibague,1974-11-24,2019-06-30,4134000,2022-03-06
+CL00063,CC,311809820,,Ximena Zuluaga Toro,ximena.zuluaga62@correo-ficticio.co,3236074159,Bogotá D.C.,2002-04-15,2017-07-17,3936000,2025-04-26
+CL00484,CC,459842353,,Olga Toro Jaramillo,olga.toro483@correo-ficticio.co,3103545543,Bogotá D.C.,1958-01-17,2012-07-20,3950000,2020-07-05
+CL01027,CC,787984328,,Óscar Vallejo Londoño,óscar.vallejo1026@correo-ficticio.co,3173105856,Neiva,1972-12-16,2010-08-05,4465000,2022-10-12
+CL00053,CC,756232349,,Tatiana Rengifo Patiño,tatiana.rengifo52@correo-ficticio.co,3203658991,Pereira,1977-06-20,2014-07-23,2082000,2020-03-30
+CL00243,CC,40088293,,Esteban Zuluaga Fajardo,esteban.zuluaga242@correo-ficticio.co,3268843039,Pereira,1995-05-29,2017-03-30,5881000,2024-03-25
+CL00036,CC,694394601,,Andrea Vallejo Zuluaga,andrea.vallejo35@correo-ficticio.co,3231354597,Villavicencio,1970-09-19,2021-09-17,1176000,2021-02-05
+CL00739,CC,710699054,,Esteban Uribe Arango,esteban.uribe738@correo-ficticio.co,3208741417,Montería,1969-01-05,2010-01-15,3450000,2025-06-23
+CL00121,CC,425884539,,Gloria Vallejo Vallejo,gloria.vallejo120@correo-ficticio.co,3199534734,Pereira,1980-10-28,2021-09-29,6059000,2024-08-11
+CL01218,CC,587377133,,Ximena  Ibarra Hoyos,ximena.ibarra416@correo-ficticio.co,3245237286,Montería,1950-08-04,2018-05-31,2514000,2019-08-30
+CL01020,CC,886266451,,Esteban Londoño Salazar,esteban.londoño1019@correo-ficticio.co,3235507642,Bogotá D.C.,1998-03-27,2015-12-13,2979000,2021-01-07
+CL00045,CC,771707430,,Pablo Hoyos Duarte,pablo.hoyos44@correo-ficticio.co,3253202657,Neiva,1958-01-14,2010-07-20,3272000,2019-04-04
+CL00837,CC,845758413,,Sergio Vallejo Fajardo,sergio.vallejo836@correo-ficticio.co,3260236083,Villavicencio,1958-07-03,2013-11-22,1960000,2025-05-02
+CL00077,CC,525029666,,Diana Ocampo Cifuentes,diana.ocampo76@correo-ficticio.co,3258842428,Bogota DC,1999-11-20,2022-03-10,2017000,2021-02-28
+CL00369,NIT,890400453,9,Lorena Castaño Londoño,lorena.castaño368@correo-ficticio.co,3214725582,Villavicencio,1986-07-14,2011-02-16,3849000,2023-05-17
+CL00907,NIT,806747086,0,Ximena Jaramillo Duarte,,3202664670,Neiva,1955-01-10,2015-03-04,1723000,2022-09-16
+CL00268,CC,267495542,,Luis Restrepo Zuluaga,,3189027830,Pereira,1977-03-26,2017-11-21,1842000,2022-11-01
+CL00729,CC,848643602,,Mauricio Jaramillo Duarte,mauricio.jaramillo728@correo-ficticio.co,3213163812,Pereira,1979-11-05,2021-11-22,3489000,2021-06-01
+CL00445,CC,581094476,,Marcela Ocampo Ibarra,marcela.ocampo444@correo-ficticio.co,3251043506,Pereira,1972-03-22,2018-01-06,3324000,2022-10-18
+CL00504,NIT,895381863,0,Olga Jaramillo Uribe,olga.jaramillo503 arroba correo-ficticio.co,3276778491,Montería,2003-06-16,2016-05-11,3232000,2024-09-01
+CL01058,CC,1067713627,,Tatiana Castaño Uribe,tatiana.castaño1057@correo-ficticio.co,3159729419,Pereira,1969-06-12,2021-03-25,3864000,2019-03-06
+CL01034,CC,253071817,,Andrea Duarte Jaramillo,andrea.duarte1033@correo-ficticio.co,3216931951,Neiva,1968-06-23,2024-01-05,3871000,2020-03-14
+CL00286,CC,496373316,,Esteban Duarte Patiño,esteban.duarte285@correo-ficticio.co,3221356501,Neiva,1955-10-16,2020-03-24,3670000,2021-09-09
+CL00296,CC,784593869,,Karen Cifuentes Cifuentes,karen.cifuentes295@correo-ficticio.co,3272283883,Neiva,1991-12-23,2018-01-04,1475000,2022-09-09
+CL00626,CC,214291154,,Diana Patiño Uribe,diana.patiño625@correo-ficticio.co,3238700534,Ibagué,1969-08-20,2015-11-25,3862000,2019-08-06
+CL00278,CC,165850186,,Felipe Naranjo Restrepo,felipe.naranjo277@correo-ficticio.co,3281100563,Neiva,2002-10-28,2010-09-01,4432000,2024-10-15
+CL01189,CC,1027142067,,Óscar Arango Arango,óscar.arango1188@correo-ficticio.co,3166081794,Villavicencio,1981-04-09,2016-07-29,2365000,2019-10-03
+CL00485,CC,800644420,,Andrea Ibarra Echeverri,andrea.ibarra484@correo-ficticio.co,3128565384,Montería,1952-10-06,2012-10-10,2363000,2023-06-17
+CL00183,CC,166062027,,Nicolás Londoño Echeverri,nicolás.londoño182@correo-ficticio.co,3128117726,Montería,1984-11-30,2020-08-11,3938000,2022-06-23
+CL00971,CC,1088837627,,Ximena Londoño Cifuentes,ximena.londoño970@correo-ficticio.co,3178003091,Bogotá D.C.,1991-02-18,2017-08-27,1102000,2022-11-26
+CL01216,CC,358428740,,Sergio  Cifuentes Arango,sergio.cifuentes239@correo-ficticio.co,3108049757,VILLAVICENCIO ,1962-01-12,2022-11-04,2471000,2022-02-17
+CL00685,CC,906202071,,Hernán Castaño Zuluaga,hernán.castaño684@correo-ficticio.co,3279750898,Montería,1970-05-24,2021-12-19,904000,2019-08-03
+CL01227,CC,780875489,,MARCELA ECHEVERRI RENGIFO,marcela.echeverri1018@correo-ficticio.co,3264366255,Villavicencio,1974-02-02,2016-12-06,3196000,2021-05-21
+CL00037,CC,514110891,,Valentina Quintero Cifuentes,valentina.quintero36@correo-ficticio.co,3290133927,Villavicencio,1959-01-18,2018-10-26,2267000,2023-12-24
+CL01181,CC,939580376,,Diana Vallejo Echeverri,diana.vallejo1180@correo-ficticio.co,3268179808,Pereira,1969-08-11,2012-11-13,7071000,2021-09-16
+CL00003,CC,914065407,,Camilo Rengifo Jaramillo,camilo.rengifo2@correo-ficticio.co,3126204940,Ibagué,1956-09-29,2016-11-08,6001000,2019-11-04
+CL00755,CC,95409928,,Wilson Rengifo Galvis,wilson.rengifo754@correo-ficticio.co,3134208316,Montería,1990-04-10,2022-12-13,4521000,2024-11-21
+CL00509,CC,479934193,,Karen Fajardo Toro,karen.fajardo508@correo-ficticio.co,3123258489,Montería,2001-03-25,2023-07-06,2185000,2023-06-30
+CL00498,NIT,949803884,3,Wilson Fajardo Restrepo,wilson.fajardo497@correo-ficticio.co,3114643069,Villavicencio,2002-07-14,2015-06-25,6426000,2023-08-08
+CL00309,CC,801376108,,Ximena Montoya Echeverri,ximena.montoya308@correo-ficticio.co,3197901353,Bogotá D.C.,1979-01-28,2023-07-22,3320000,2023-02-06
+CL00142,CC,191918937,,Marcela Cifuentes Patiño,,3161601550,Pereira,1989-01-26,2024-08-26,1984000,2022-07-20
+CL00865,CC,107677551,,Ximena Zuluaga Naranjo,ximena.zuluaga864@correo-ficticio.co,3277196075,Neiva,1987-03-15,2018-01-26,5188000,2024-04-27
+CL00184,CC,1056619945,,Camilo Rengifo Ibarra,camilo.rengifo183@correo-ficticio.co,3195678564,Neiva,1965-06-29,2014-07-15,3495000,2022-02-21
+CL01208,CC,538097763,,LORENA FAJARDO IBARRA,,3170316959,Pereira,1984-12-17,2012-09-03,6666000,2021-12-25
+CL01011,NIT,801111032,8,Inés Ocampo Cifuentes,inés.ocampo1010@correo-ficticio.co,3182279785,Ibagué,1959-06-26,2010-06-15,12915000,2022-01-10
+CL00913,CC,760624866,,Felipe Echeverri Londoño,felipe.echeverri912@correo-ficticio.co,3189238454,Villavicencio,1997-06-20,2010-09-15,-8841000,2024-10-16
+CL00849,CC,329891622,,Zulma Ocampo Vallejo,zulma.ocampo848@correo-ficticio.co,3290057011,Pereira,1970-04-29,2014-01-21,3508000,2021-04-28
+CL00512,CC,203389228,,Marcela Uribe Fajardo,marcela.uribe511@correo-ficticio.co,3220551076,Neiva,1969-03-24,2015-08-20,4171000,2019-02-05
+CL00732,CC,644510643,,Felipe Castaño Duarte,felipe.castaño731@correo-ficticio.co,3165934073,Montería,1988-03-01,2018-04-29,5215000,2025-08-15
+CL00997,CC,748206304,,Tatiana Ocampo Duarte,tatiana.ocampo996@correo-ficticio.co,3112387907,Ibagué,1979-09-03,2018-04-08,494000,2020-10-20
+CL00888,CC,421647346,,Camilo Quintero Hoyos,camilo.quintero887@correo-ficticio.co,3241582548,Pereira,1977-08-11,2013-11-23,3630000,2023-07-09
+CL00118,CC,1095046453,,Zulma Toro Salazar,zulma.toro117@correo-ficticio.co,3163782852,Neiva,1985-01-26,2023-01-22,6496000,2022-12-06
+CL01026,CC,1075894967,,Pablo Hoyos Jaramillo,pablo.hoyos1025@correo-ficticio.co,3195539461,Villavicencio,1982-10-19,2011-01-18,8180000,2023-05-01
+CL00114,CC,382779790,,Wilson Echeverri Restrepo,wilson.echeverri113@correo-ficticio.co,3115848717,Ibagué,1967-06-10,2016-10-19,2111000,2023-12-19
+CL00546,CC,594146329,,Ximena Zuluaga Quintero,ximena.zuluaga545@correo-ficticio.co,3119508118,Pereira,2002-08-06,2022-02-12,6320000,2024-07-06
+CL00166,CC,90274762,,Valentina Echeverri Restrepo,valentina.echeverri165@correo-ficticio.co,3225411304,Villavicencio,1964-07-15,2013-06-25,4686000,2023-06-30
+CL00185,CC,671482760,,Marcela Patiño Patiño,marcela.patiño184@correo-ficticio.co,3154449814,Villavicencio,1959-07-20,2024-03-20,-3134000,2021-02-25
+CL00275,CC,1090257983,,Andrea Duarte Cifuentes,andrea.duarte274@correo-ficticio.co,3277433407,Bogotá D.C.,1955-05-11,2011-08-10,4271000,2024-07-12
+CL01002,CC,688174383,,Karen Castaño Ocampo,,3165468260,Bogotá D.C.,1975-08-01,2014-07-31,8221000,2016-03-27
+CL00705,CC,615485749,,Ximena Londoño Ocampo,ximena.londoño704@correo-ficticio.co,3159203480,Bogotá D.C.,1970-11-27,2013-02-01,4676000,2023-09-09
+CL01025,CC,501888292,,Valentina Hoyos Castaño,valentina.hoyos1024@correo-ficticio.co,3185756886,Montería,1978-07-25,2016-12-14,9181000,2020-04-29
+CL00384,CC,1021169294,,Diana Ibarra Duarte,diana.ibarra383@correo-ficticio.co,3249784700,Ibagué,2002-01-27,2021-09-03,3840000,2025-10-10
+CL00562,CC,197792279,,Tatiana Arango Hoyos,tatiana.arango561@correo-ficticio.co,3162273473,Pereira,1978-07-09,2022-09-22,1665000,2025-03-10
+CL00863,CC,168586090,,Sergio Montoya Cifuentes,sergio.montoya862@correo-ficticio.co,3242675696,Montería,1960-03-14,2015-06-03,2113000,2022-11-20
+CL01045,CC,533964422,,Hernán Hoyos Zuluaga,hernán.hoyos1044@correo-ficticio.co,3280895494,Montería,1967-09-12,2012-01-13,12794000,2024-01-12
+CL00177,CC,647036523,,Rocío Londoño Ibarra,rocío.londoño176@correo-ficticio.co,3122318953,Montería,2000-11-29,2017-11-23,3295000,2023-11-07
+CL00380,CC,65189569,,Óscar Naranjo Ocampo,óscar.naranjo379@correo-ficticio.co,3200727798,Bogotá D.C.,1987-04-17,2013-05-14,5133000,2024-07-07
+CL01196,CC,993309083,,Óscar Ibarra Restrepo,óscar.ibarra1195@correo-ficticio.co,3251001497,Villavicencio,1968-07-07,2014-11-20,1439000,2015-03-15
+CL01017,NIT,871815806,0,Luis Salazar Jaramillo,luis.salazar1016@correo-ficticio.co,3180099129,Ibagué,1977-02-13,2022-07-14,9224000,2020-08-11
+CL00520,CC,43157880,,Nicolás Jaramillo Galvis,nicolás.jaramillo519@correo-ficticio.co,3280642468,Bogotá D.C.,1988-11-21,2023-02-11,4120000,2025-03-30
+CL00831,NIT,825754450,1,Camilo Galvis Londoño,camilo.galvis830@correo-ficticio.co,3228296713,Neiva,1959-07-13,2021-10-16,2487000,2019-10-20
+CL00508,CC,289982226,,Olga Salazar Restrepo,olga.salazar507@correo-ficticio.co,3101823057,Bogotá D.C.,1950-03-13,2021-07-14,4358000,2025-03-04
+CL01177,CC,1068548673,,Felipe Salazar Galvis,felipe.salazar1176@correo-ficticio.co,3141896024,Montería,1962-12-12,2018-12-25,7857000,2024-12-01
+CL00414,CC,42675063,,Mauricio Toro Jaramillo,mauricio.toro413@correo-ficticio.co,3266892569,Bogotá D.C.,1964-09-19,2020-08-23,7173000,2021-08-24
+CL00623,CC,847695447,,Lorena Duarte Galvis,lorena.duarte622@correo-ficticio.co,3291968238,Villavo,1961-05-28,2015-01-03,2971000,2023-07-17
+CL00873,CC,102964334,,Zulma Londoño Londoño,zulma.londoño872@correo-ficticio.co,3171025416,Ibagué,1975-09-27,2023-07-13,3338000,2023-08-19
+CL00859,CC,158464958,,Olga Hoyos Quintero,,3275651931,Villavicencio,1965-02-22,2021-08-03,2858000,2020-12-16
+CL00642,CC,147559268,,Rocío Naranjo Arango,rocío.naranjo641@correo-ficticio.co,3278980374,Bogotá D.C.,1967-06-02,2012-11-30,2922000,2016-09-29
+CL00259,CC,1059626880,,Felipe Ibarra Uribe,felipe.ibarra258@correo-ficticio.co,3226217247,Ibagué,1994-03-15,2014-06-04,1431000,2025-10-02
+CL00835,CC,1026283149,,Olga Vallejo Patiño,olga.vallejo834@correo-ficticio.co,3270401632,Montería,1957-03-14,2019-06-21,7062000,2015-08-12
+CL00663,NIT,903462104,0,Felipe Duarte Naranjo,felipe.duarte662@correo-ficticio.co,3221495709,Montería,1984-07-14,2012-02-17,4006000,2025-05-28
+CL00338,CC,811815225,,Esteban Montoya Echeverri,esteban.montoya337@correo-ficticio.co,3277028397,Ibagué,1995-06-23,2021-09-27,1612000,2022-11-06
+CL00399,CC,54865128,,Marcela Hoyos Echeverri,marcela.hoyos398@correo-ficticio.co,3264475305,Pereira,1976-07-02,2019-03-15,4970000,2024-04-01
+CL00606,CC,108402793,,Marcela Cifuentes Fajardo,marcela.cifuentes605@correo-ficticio.co,3177912712,Pereira,1995-04-07,2021-08-31,4859000,2025-04-18
+CL00481,CC,273434252,,Luis Jaramillo Cifuentes,luis.jaramillo480@correo-ficticio.co,3233129251,Neiva,1987-12-11,2015-11-11,5253000,2023-11-13
+CL01144,CC,60464670,,Luis Bermúdez Ocampo,luis.bermúdez1143@correo-ficticio.co,3190632527,Bogotá D.C.,1988-10-17,2012-07-13,11393000,2020-12-21
+CL00918,CC,807973043,,Camilo Echeverri Castaño,camilo.echeverri917@correo-ficticio.co,3279689945,Neiva,1960-02-20,2018-07-10,5496000,2019-01-03
+CL01018,CC,215038510,,Olga Naranjo Arango,olga.naranjo1017@correo-ficticio.co,3215631419,bogota,1956-12-27,2013-01-16,4540000,2023-04-21
+CL00876,CC,453008180,,Esteban Hoyos Uribe,esteban.hoyos875@correo-ficticio.co,3193275762,Villavicencio,1985-03-24,2013-11-23,7219000,2019-10-10
+CL00660,CC,116247987,,Inés Londoño Londoño,,3205785310,Neiva,1988-05-21,2011-07-07,3589000,2015-03-30
+CL01022,CC,834419812,,Andrea Castaño Ibarra,andrea.castaño1021@correo-ficticio.co,3181335087,Pereira,1980-10-01,2013-10-16,21346000,2024-10-17
+CL00790,CC,452140617,,Diana Toro Fajardo,diana.toro789@correo-ficticio.co,3107867067,Neiva,2003-08-07,2010-04-11,4566000,2019-08-14
+CL00257,CC,571018354,,Sergio Echeverri Restrepo,sergio.echeverri256@correo-ficticio.co,3248336462,Pereira,1973-09-30,2022-04-18,3202000,2024-05-22
+CL00969,CC,262172070,,Luis Arango Bermúdez,luis.arango968@correo-ficticio.co,3149617813,Pereira,1995-11-20,2012-11-26,5765000,2020-12-03
+CL00953,CC,649643486,,Luis Salazar Fajardo,luis.salazar952@correo-ficticio.co,3258979388,Villavicencio,1967-08-07,2017-03-21,6512000,2019-08-31
