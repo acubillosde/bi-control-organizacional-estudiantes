@@ -1,0 +1,17 @@
+# Fuentes institucionales (contienen el PDF oficial del syllabus): nunca se publican
+fuentes/
+
+# Construcción del repositorio de estudiantes
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Archivos de trabajo de Power BI y del sistema
+*.pbix.bak
+~$*
+.DS_Store
+Thumbs.db
