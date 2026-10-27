@@ -1,0 +1,177 @@
+// =====================================================================================
+// Práctica 03 · Medidas DAX de control · COAGUA (entidad ficticia)
+// Cree una tabla vacía _Medidas (Inicio > Escribir datos > Cargar) y agregue cada medida.
+// Las carpetas se indican con el comentario [Carpeta].
+// Los umbrales del semáforo son de una política FICTICIA de apetito de riesgo.
+// =====================================================================================
+
+// ---- Tabla calculada: dDigito (Modelado > Nueva tabla) -------------------------------
+dDigito =
+ADDCOLUMNS (
+    GENERATESERIES ( 1, 9, 1 ),
+    "Esperado Benford", LOG10 ( 1 + 1 / [Value] )
+)
+
+// ======================= [Carpeta] 1. Volumen =======================================
+Total pagado = SUM ( fPagos[valor] )
+
+N° pagos = COUNTROWS ( fPagos )
+
+Pago promedio = DIVIDE ( [Total pagado], [N° pagos] )
+
+N° proveedores activos = DISTINCTCOUNT ( fPagos[id_proveedor] )
+
+Total pagado mes anterior =
+CALCULATE ( [Total pagado], DATEADD ( dCalendario[fecha], -1, MONTH ) )
+
+Var % mensual pagado =
+DIVIDE ( [Total pagado] - [Total pagado mes anterior], [Total pagado mes anterior] )
+
+Total pagado por fecha de aprobación =
+CALCULATE (
+    [Total pagado],
+    USERELATIONSHIP ( dCalendario[fecha], fPagos[fecha_aprobacion] )
+)
+
+// ======================= [Carpeta] 2. Presupuesto ===================================
+Presupuesto = SUM ( fPresupuesto[presupuesto] )
+
+Ejecución presupuestal % = DIVIDE ( [Total pagado], [Presupuesto] )
+
+Desviación presupuestal = [Total pagado] - [Presupuesto]
+
+// ======================= [Carpeta] 3. Controles de pagos (KRI) ======================
+Pagos en día no hábil =
+CALCULATE ( [N° pagos], dCalendario[es_habil] = FALSE () )
+
+% pagos en día no hábil = DIVIDE ( [Pagos en día no hábil], [N° pagos] )
+
+Pagos sin segregación =
+CALCULATE ( [N° pagos], fPagos[mismo_usuario] = TRUE () )
+
+% pagos sin segregación = DIVIDE ( [Pagos sin segregación], [N° pagos] )
+
+Pagos antes de aprobación =
+CALCULATE ( [N° pagos], FILTER ( fPagos, fPagos[fecha_pago] < fPagos[fecha_aprobacion] ) )
+
+Pagos sobre límite de aprobación =
+CALCULATE ( [N° pagos], fPagos[sobre_limite] = TRUE () )
+
+Valor pagado sobre límite =
+CALCULATE ( [Total pagado], fPagos[sobre_limite] = TRUE () )
+
+Pagos a proveedores con cuenta de empleado =
+CALCULATE ( [N° pagos], dProveedores[cuenta_de_empleado] = TRUE () )
+
+% pagos con monto redondo =
+DIVIDE ( CALCULATE ( [N° pagos], fPagos[monto_redondo] = TRUE () ), [N° pagos] )
+
+// Duplicados: pagos que pertenecen a un grupo con el mismo proveedor, factura normalizada y valor
+Pagos en grupos duplicados =
+SUMX (
+    FILTER (
+        ADDCOLUMNS (
+            SUMMARIZE ( fPagos, fPagos[id_proveedor], fPagos[factura_normalizada], fPagos[valor] ),
+            "@n", CALCULATE ( COUNTROWS ( fPagos ) )
+        ),
+        [@n] > 1
+    ),
+    [@n]
+)
+
+// Valor en riesgo: se cuenta solo el exceso (n - 1 pagos por grupo)
+Valor potencialmente duplicado =
+SUMX (
+    FILTER (
+        ADDCOLUMNS (
+            SUMMARIZE ( fPagos, fPagos[id_proveedor], fPagos[factura_normalizada], fPagos[valor] ),
+            "@n", CALCULATE ( COUNTROWS ( fPagos ) )
+        ),
+        [@n] > 1
+    ),
+    ( [@n] - 1 ) * fPagos[valor]
+)
+
+// ======================= [Carpeta] 4. Benford ========================================
+% observado Benford =
+DIVIDE ( [N° pagos], CALCULATE ( [N° pagos], ALL ( dDigito ) ) )
+
+% esperado Benford = SELECTEDVALUE ( dDigito[Esperado Benford] )
+
+Diferencia Benford = [% observado Benford] - [% esperado Benford]
+
+MAD Benford =
+AVERAGEX ( dDigito, ABS ( [% observado Benford] - dDigito[Esperado Benford] ) )
+
+// Umbrales empíricos de primer dígito atribuidos a Nigrini (2012). Pendiente de verificar en la fuente primaria.
+// Con muestras pequeñas (< 1.000 registros) la MAD es ruidosa: interprete junto con el tamaño de la muestra.
+Conformidad Benford =
+VAR m = [MAD Benford]
+RETURN
+    SWITCH (
+        TRUE (),
+        ISBLANK ( m ), BLANK (),
+        m <= 0.006, "Conformidad cercana",
+        m <= 0.012, "Conformidad aceptable",
+        m <= 0.015, "Conformidad marginal",
+        "No conformidad"
+    )
+
+// ======================= [Carpeta] 5. Alertas ========================================
+N° alertas = COUNTROWS ( fAlertas )
+
+Pagos con alerta = DISTINCTCOUNT ( fAlertas[id_pago] )
+
+% pagos con alerta = DIVIDE ( [Pagos con alerta], [N° pagos] )
+
+Valor de pagos con alerta =
+CALCULATE ( [Total pagado], TREATAS ( VALUES ( fAlertas[id_pago] ), fPagos[id_pago] ) )
+
+Pagos marcados por Isolation Forest =
+CALCULATE ( [N° pagos], fPuntajePagos[if_anomalo] = 1 )
+
+// Prioridad: pagos alertados por reglas Y por el modelo (dos fuentes independientes)
+Pagos prioridad alta =
+CALCULATE (
+    [N° pagos],
+    fPuntajePagos[if_anomalo] = 1,
+    fPuntajePagos[n_alertas_reglas] >= 1
+)
+
+Color semáforo alertas =
+VAR p = [% pagos con alerta]
+RETURN
+    SWITCH ( TRUE (), p > 0.10, "#B03A2E", p > 0.05, "#D68910", "#1E8449" )
+
+// ======================= [Carpeta] 6. Cartera ========================================
+Saldo cartera = SUM ( fCreditos[saldo_capital] )
+
+Saldo vencido > 30 días = CALCULATE ( [Saldo cartera], fCreditos[dias_mora] > 30 )
+
+Indicador de cartera vencida = DIVIDE ( [Saldo vencido > 30 días], [Saldo cartera] )
+
+Tasa de incumplimiento 12m = AVERAGE ( fCreditos[incumplimiento_12m] )
+
+Créditos con calificación inconsistente =
+CALCULATE (
+    COUNTROWS ( fCreditos ),
+    FILTER ( fCreditos, fCreditos[calificacion] <> fCreditos[calificacion_esperada] )
+)
+
+Créditos fuera de política =
+CALCULATE ( COUNTROWS ( fCreditos ), fCreditos[fuera_de_politica] = TRUE () )
+
+Concentración top 10 clientes =
+VAR Top10 =
+    TOPN ( 10, VALUES ( fCreditos[id_cliente] ), CALCULATE ( [Saldo cartera] ) )
+RETURN
+    DIVIDE ( CALCULATE ( [Saldo cartera], Top10 ), [Saldo cartera] )
+
+// ======================= [Carpeta] 7. Textos dinámicos para storytelling ==============
+Titular alertas =
+"Se detectaron " & FORMAT ( [Pagos con alerta], "#,0" ) & " pagos con alerta ("
+    & FORMAT ( [% pagos con alerta], "0.0%" ) & ") por "
+    & FORMAT ( [Valor de pagos con alerta] / 1e6, "#,0" ) & " millones de pesos"
+
+Titular Benford =
+"Benford: MAD " & FORMAT ( [MAD Benford], "0.000" ) & " · " & [Conformidad Benford]
