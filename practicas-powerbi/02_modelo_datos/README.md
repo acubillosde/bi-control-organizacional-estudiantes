@@ -17,6 +17,7 @@ erDiagram
     dDigito ||--o{ fPagos : "Value = primer_digito"
     fPagos ||--o{ fAlertas : "id_pago"
     fPagos ||--|| fPuntajePagos : "id_pago"
+    fCreditos ||--|| fCreditosPuntaje : "id_credito"
 ```
 
 ## Tablas
@@ -28,6 +29,7 @@ erDiagram
 | `fCreditos` | Hechos | Un crédito | `id_credito` | 3.200 |
 | `fAlertas` | Hechos (puente) | Pago × prueba que lo alerta | `id_pago` + `prueba` | ≈ 650 |
 | `fPuntajePagos` | Hechos (1:1 con pagos) | Un pago | `id_pago` | 6.300 |
+| `fCreditosPuntaje` | Hechos (1:1 con créditos) | Un crédito | `id_credito` | 3.200 |
 | `dCalendario` | Dimensión | Un día (2022–2026) | `fecha` | 1.826 |
 | `dProveedores` | Dimensión | Un proveedor | `id_proveedor` | 184 |
 | `dEmpleados` | Dimensión | Un empleado/usuario | `usuario_sistema` | 60 |
@@ -43,6 +45,7 @@ erDiagram
 | `dEmpleados[usuario_sistema]` → `fPagos[usuario_aprueba]` | 1:* | Única | Analizar por aprobador y cargo. El registrador se analiza como columna de texto para no crear ambigüedad |
 | `fPagos[id_pago]` → `fAlertas[id_pago]` | 1:* | Única | Los segmentadores de las dimensiones filtran las alertas pasando por `fPagos` |
 | `fPagos[id_pago]` → `fPuntajePagos[id_pago]` | 1:1 | Ambas | Tabla de extensión del pago |
+| `fCreditos[id_credito]` → `fCreditosPuntaje[id_credito]` | 1:1 | Ambas | Tabla de extensión del crédito (puntaje del modelo) |
 | `dCalendario[fecha]` → `fPresupuesto[fecha]` | 1:* | Única | El presupuesto está al primer día de cada mes |
 
 **Configuración obligatoria**

@@ -172,6 +172,17 @@ in
     Tipos
 
 
+// ---- Consulta: fCreditosPuntaje  (salida de scripts/modelo_credito.py) ----------------
+// Relación 1:1 con fCreditos por id_credito.
+let
+    Origen = fnLeerCsv("resultados\creditos_puntaje.csv"),
+    Tipos = Table.TransformColumnTypes(Origen, {
+        {"id_credito", type text}, {"prob_incumplimiento", type number},
+        {"perdida_esperada_simple", type number}, {"accion_recomendada", type text}}, "en-US")
+in
+    Tipos
+
+
 // ---- Consulta: tExcepcionesCalidad  (Laboratorio L1, parte 2) ------------------------
 // Tabla de excepciones: una fila por registro que incumple una regla de calidad.
 let

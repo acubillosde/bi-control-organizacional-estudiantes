@@ -167,6 +167,9 @@ VAR Top10 =
 RETURN
     DIVIDE ( CALCULATE ( [Saldo cartera], Top10 ), [Saldo cartera] )
 
+// Requiere fCreditosPuntaje (salida de scripts/modelo_credito.py), relacionada 1:1 con fCreditos
+Pérdida esperada simple = SUM ( fCreditosPuntaje[perdida_esperada_simple] )
+
 // ======================= [Carpeta] 7. Textos dinámicos para storytelling ==============
 Titular alertas =
 "Se detectaron " & FORMAT ( [Pagos con alerta], "#,0" ) & " pagos con alerta ("
