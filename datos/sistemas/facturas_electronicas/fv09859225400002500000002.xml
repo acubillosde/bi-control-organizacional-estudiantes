@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-82392</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">3229d0f0ffd7247d81a3f358b32b53fee8ce263996627e4133e0de5e77d8b42b40f69aa552926551bb6d89835617db14</cbc:UUID>
+  <cbc:IssueDate>2025-11-21</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>AGROINSUMOS ALTOVERDE S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="6" schemeName="31">985922540</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">494111.76</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">2600588.24</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">3094700.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">3094700.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

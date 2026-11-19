@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-81583</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">fb44af5a80cfb328135f04d6fe1aed14b87d3d35df582896e138aa14c600be14730f021744ac84f65b53297d90286b6b</cbc:UUID>
+  <cbc:IssueDate>2025-10-30</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>TECNOLOGÍAS PIEDRABLANCA S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="3" schemeName="31">943413687</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">661184.03</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">3479915.97</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">4141100.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">4141100.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

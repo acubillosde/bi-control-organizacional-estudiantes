@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-82340</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">a082dd5cad4d211a24a772de3cacdba84c2912f1e448207c913c8a97ea30407581db6b8d7a8155fc1fbc31bfa87ec114</cbc:UUID>
+  <cbc:IssueDate>2025-11-13</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>TECNOLOGÍAS EL CARACOLÍ S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="8" schemeName="31">869776907</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">1405249.58</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">7396050.42</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">8801300.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">8801300.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

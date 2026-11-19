@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-86035</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">f0e3d1b94d7019c0bb8fa460608c27efcb4abdda8a0f25a5418956f6236965d0d5e179493cf7bd913699cef41fd6484b</cbc:UUID>
+  <cbc:IssueDate>2025-10-10</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>INVERSIONES LA ORQUÍDEA S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="1" schemeName="31">946960737</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">260667.23</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">1371932.77</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">1632600.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">1632600.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

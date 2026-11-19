@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-83530</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">50a4ff54a1913b89c42d2fb320a35616f4e413738e33ab470524f97c26ec4f486b3957f372f4c2c45568034a1ab4b35e</cbc:UUID>
+  <cbc:IssueDate>2025-10-23</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>CONSULTORES VALLE SERENO S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="0" schemeName="31">846633911</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">451768.91</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">2377731.09</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">2829500.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">2829500.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

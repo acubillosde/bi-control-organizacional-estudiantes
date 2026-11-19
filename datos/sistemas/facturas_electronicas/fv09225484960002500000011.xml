@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-20505</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">8e6b64ad6e0b4f3424223be68bedd508ad9c9b75d234275b83335da34825bdc681a73ed8ee23e54593074c2182311ed7</cbc:UUID>
+  <cbc:IssueDate>2025-10-14</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>AGROINSUMOS MONTECLARO S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="7" schemeName="31">922548496</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">2879426.05</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">15154873.95</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">18034300.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">18034300.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

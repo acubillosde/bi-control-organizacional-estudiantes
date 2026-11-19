@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-69647</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">3045bcc8ecf88bf01ed362cb33b6b9af3fbad6fbea99c5ae818935e6a7c7845b7fcb48ce7d7ace75f67bda6596966b37</cbc:UUID>
+  <cbc:IssueDate>2025-11-18</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>INVERSIONES LOS SAMANES S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="6" schemeName="31">874410834</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">1155982.35</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">6084117.65</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">7240100.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">7240100.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

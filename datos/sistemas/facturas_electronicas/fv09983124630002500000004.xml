@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-03583</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">0eeb58a1d87c30a0cda292f9765c48e40800cf22a50e7a85296a1df6f127ef66524c476dc7f62906b9fc18b3e0824998</cbc:UUID>
+  <cbc:IssueDate>2025-11-13</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>SUMINISTROS SAN ISIDRO LABRADOR S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="7" schemeName="31">998312463</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">6535648.74</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">34398151.26</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">40933800.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">40933800.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

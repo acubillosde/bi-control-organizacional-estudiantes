@@ -9,5 +9,7 @@ Power BI Desktop es la herramienta única de visualización del curso. Este repo
 | 03 | [Medidas DAX](03_dax/README.md) | 46 medidas: volumen, presupuesto, controles, Benford, alertas, cartera, titulares | U2, U4 | L2, T2, T4, AV2 |
 | 04 | [Dashboards y storytelling](04_dashboards/README.md) | Estructura de 4 páginas, lista de verificación de visualización, clínica del mal tablero, guion | U3 | L2, T3, AV2 |
 | 05 | [Python y R en Power BI](05_python_r/README.md) | Isolation Forest y regresión logística; precálculo vs. script en Power Query | U4 | L3, PC |
+| 06 | [Fuentes organizacionales](06_fuentes_organizacionales/README.md) | PostgreSQL en la nube, plegado de consultas, Excel con hojas ocultas, carpeta de extractos con dos formatos, XML, API web | U2 | AV1 (rama `fuentes-organizacionales`) |
+| 07 | [Seguridad por filas](07_seguridad_filas/README.md) | Roles estáticos y dinámicos, `USERPRINCIPALNAME`, *Ver como*, publicación | U3 | AV2, EF (rama `fuentes-organizacionales`) |
 
-**Orden de trabajo:** 01 → 02 → 03 → 04 → 05. Los datos están en [`../datos/`](../datos/README.md).
+**Orden de trabajo:** 01 → 02 → 03 → 04 → 05. En la rama `fuentes-organizacionales`: 01 → 06 → 02 → 03 → 04 → 07 → 05. Los datos están en [`../datos/`](../datos/README.md).

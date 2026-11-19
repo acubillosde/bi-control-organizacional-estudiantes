@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-02588</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">55a1f0c6e8c54375ac9568565359bbf96322104d659d3c4460b292344812078f9cd87105e9ae63dafac3c3d54be36ea0</cbc:UUID>
+  <cbc:IssueDate>2025-11-05</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>SERVICIOS LA CEIBA ROJA S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="0" schemeName="31">888860512</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">825957.14</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">4347142.86</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">5173100.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">5173100.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

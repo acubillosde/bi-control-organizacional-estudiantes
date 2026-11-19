@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-13291</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">65f0297011b9820824554cbd9171b103b0ed2b76e4f6845feb90f00df4d6d9c37b18fd3da15b64a62e7a7b8e12b34653</cbc:UUID>
+  <cbc:IssueDate>2025-10-07</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>TECNOLOGÍAS NUEVA ESPERANZA S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="1" schemeName="31">987981786</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">139498.32</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">734201.68</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">873700.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">873700.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

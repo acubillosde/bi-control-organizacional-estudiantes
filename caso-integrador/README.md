@@ -17,7 +17,15 @@ El comité contrató a su equipo (consultores de analítica para el control) par
 > **Diseñar e implementar en Power BI un tablero de control interno que permita monitorear los riesgos del proceso de pagos y de la cartera, detectar anomalías y presentar recomendaciones al comité.**
 
 ## Datos
-Carpeta [`datos/integrador/`](../datos/README.md). Los datos son sintéticos y contienen irregularidades que el equipo debe descubrir. **No se le dirá cuántas ni de qué tipo.**
+**Rama `fuentes-organizacionales`:** los datos están en los sistemas de COAGUA. Hay un ERP en PostgreSQL en la nube, el Excel de Finanzas, los extractos del banco, las facturas electrónicas en XML y la API pública de TRM. Vea el [mapa de sistemas](../datos/sistemas/README.md) y el [diccionario de datos del ERP](../datos/sistemas/diccionario_erp.md). Los CSV de [`datos/integrador/`](../datos/README.md) se siguen usando en los laboratorios y talleres, pero el caso integrador se construye sobre las fuentes de los sistemas.
+
+Los datos son sintéticos y contienen irregularidades que el equipo debe descubrir. Algunas solo aparecen al cruzar fuentes. **No se le dirá cuántas ni de qué tipo.**
+
+### Cómo se trabaja en una organización (además de los datos)
+- **Entrevista de requerimientos** con control interno en el S1: [guía](entrevista_requerimientos.md).
+- **Solicitud formal de acceso** para los datos restringidos (nómina): [formato](solicitud_acceso_datos.md).
+- **Cambios de alcance:** el comité puede enviar comunicaciones durante el curso. Incorpórelas en la entrega siguiente.
+- **Seguridad por filas:** cada usuario del tablero ve solo lo que le corresponde ([práctica 07](../practicas-powerbi/07_seguridad_filas/README.md)).
 
 ## Entregas
 
@@ -30,6 +38,6 @@ Carpeta [`datos/integrador/`](../datos/README.md). Los datos son sintéticos y c
 
 ## Reglas generales
 - Formato de archivos: `Equipo<N>_<Entrega>.pbix` y `Equipo<N>_<Entrega>.pdf`.
-- El `.pbix` debe abrir con solo cambiar el parámetro `RutaDatos`.
+- El `.pbix` debe abrir con solo cambiar el parámetro `RutaDatos` (en la rama `fuentes-organizacionales`: `ServidorERP`, `BaseERP` y `RutaSistemas`). Nunca incluya credenciales en las consultas ni en los informes.
 - Todo uso de IA generativa debe declararse en el anexo de la entrega.
 - Los datos son ficticios: **no** atribuya los hallazgos a entidades reales ni los umbrales del caso a normas reales.

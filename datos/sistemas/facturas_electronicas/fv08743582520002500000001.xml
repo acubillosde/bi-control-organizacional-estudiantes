@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-06965</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">2c793e28778dcf741fbf0f0a7c26b2b386afba9ed9bf1bd1fca55455a04125f537efa687b5748bc9a34deaadcce5519f</cbc:UUID>
+  <cbc:IssueDate>2025-11-10</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>FERRETERÍA EL CARACOLÍ S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="8" schemeName="31">874358252</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">322457.14</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">1697142.86</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">2019600.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">2019600.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-55453</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">b576438c0352600470ca4abd3497990538046274e4e8b93a00b8b2beed3c905b8496f024f155cb31515070dfa6e65388</cbc:UUID>
+  <cbc:IssueDate>2025-10-15</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>SUMINISTROS LAS PALMERAS S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="6" schemeName="31">828840432</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">1223376.47</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">6438823.53</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">7662200.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">7662200.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

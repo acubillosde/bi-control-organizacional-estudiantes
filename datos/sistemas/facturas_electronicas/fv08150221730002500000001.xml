@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-50529</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">1b60bedcde287aa7965bda5d1e411a12c9eed6c63b94916c65e6390cc494abdb932fe87d4611a72986222b5f3fba7fd9</cbc:UUID>
+  <cbc:IssueDate>2025-12-24</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>MANTENIMIENTOS MONTECLARO S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="7" schemeName="31">815022173</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">1497008.40</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">7878991.60</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">9376000.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">9376000.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

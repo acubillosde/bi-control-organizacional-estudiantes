@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-39550</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">de58e7880fdc3daa768a930f50f116c33a53ab0fa7bc688c36834b9c55fd1ff105b44fb090ddd82ec8439b0799af88ca</cbc:UUID>
+  <cbc:IssueDate>2025-10-31</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>SEGURIDAD MONTECLARO S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="5" schemeName="31">976102379</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">107964.71</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">568235.29</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">676200.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">676200.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

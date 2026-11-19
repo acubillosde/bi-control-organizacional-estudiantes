@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-53350</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">c68f495d6df8e28571ca447d51d565a2c36e200a65857110c6d033e6bf247790dd095f532d61638bc0cc306ce7f599b9</cbc:UUID>
+  <cbc:IssueDate>2025-10-24</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>MANTENIMIENTOS BRISAS DEL LLANO S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="2" schemeName="31">856581246</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">558615.97</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">2940084.03</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">3498700.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">3498700.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

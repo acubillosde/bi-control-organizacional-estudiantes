@@ -12,6 +12,7 @@ Este curso forma a profesionales del control, la auditoría y el aseguramiento p
 2. **RA2.** Implementar dashboards e indicadores clave de control interno para monitorear riesgos, detectar anomalías y evaluar el cumplimiento normativo.
 3. **RA3.** Analizar y comunicar hallazgos con analítica descriptiva, predictiva y prescriptiva, con recomendaciones para la auditoría, el aseguramiento y la gestión de riesgos.
 
+
 ## Unidades
 | Unidad | Sesión | Tema |
 |---|---|---|
@@ -36,7 +37,7 @@ lecturas/              Bibliografía por unidad (obligatoria, complementaria, pr
 casos/                 Guías de discusión de los casos
 caso-integrador/       Enunciado, avances, entrega final y rúbricas
 practicas-powerbi/     Power Query (M), modelo, DAX, dashboards, Python/R
-datos/                 Datasets sintéticos (CSV)
+datos/                 Datasets sintéticos (CSV) y, en sistemas/, las fuentes de los sistemas de COAGUA
 scripts/               Detección de anomalías y modelo de crédito (Python)
 evaluacion/            Rúbricas, criterios y quices
 recursos/              Instalación y enlaces verificados
@@ -45,10 +46,11 @@ recursos/              Instalación y enlaces verificados
 ## Requisitos
 - Computador con Windows y **Power BI Desktop** (gratuito) o una de las alternativas para Mac.
 - Excel (tablas dinámicas) y PowerPoint, según el syllabus oficial.
+- Conexión a internet para la base de datos del ERP y la API de TRM (rama `fuentes-organizacionales`). El docente entrega a cada equipo un usuario de solo lectura.
 - *Opcional (profundización C):* Python 3.10 o superior con `pip install -r scripts/requirements.txt`, o R.
 
 Ninguna actividad requiere licencias de pago.
 
 ## Datos y derechos
-- Todos los datos son **sintéticos**: no corresponden a ninguna entidad ni persona real.
+- Todos los datos son **sintéticos**: no corresponden a ninguna entidad ni persona real. La única excepción es la TRM, que es la tasa oficial publicada en datos.gov.co.
 - Este repositorio no reproduce textos con derechos de autor. Los artículos y casos se consultan en la Biblioteca de la Universidad.

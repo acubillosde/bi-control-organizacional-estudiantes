@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-71043</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">f278bef0caffcdf7f579d69e3b27b9c3bbc2e82394b88948f9bfd6f630a28ae9de09c8cee4c737ede76d6632d8dfee6d</cbc:UUID>
+  <cbc:IssueDate>2025-10-30</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>SUMINISTROS BRISAS DEL LLANO S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="2" schemeName="31">944313426</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">422039.50</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">2221260.50</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">2643300.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">2643300.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

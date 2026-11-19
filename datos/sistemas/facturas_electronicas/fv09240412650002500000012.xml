@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-48062</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">6a52921348d56b0edb3d33241259eb7d48d44863f4c3b6aed6bade7d1455ce5735eaca6223d41f6d5cba2415dcff0e59</cbc:UUID>
+  <cbc:IssueDate>2025-10-07</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>CONSULTORES NUEVA ESPERANZA S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="2" schemeName="31">924041265</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">343005.88</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">1805294.12</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">2148300.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">2148300.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

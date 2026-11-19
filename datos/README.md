@@ -8,6 +8,9 @@
 
 Los datos **contienen irregularidades** de control interno y de calidad. Encontrarlas, cuantificarlas y explicarlas es el trabajo del curso.
 
+## `sistemas/` (rama `fuentes-organizacionales`)
+Las fuentes del caso integrador tal como existen en COAGUA: ERP en PostgreSQL, Excel de Finanzas, extractos bancarios, facturas XML y API de TRM. Vea el [mapa de sistemas](sistemas/README.md).
+
 ## `integrador/`
 
 | Archivo | Filas | Descripción |

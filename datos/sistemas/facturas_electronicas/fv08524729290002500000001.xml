@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-80378</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">20198c14dfbbff4f613409d96141868356db179b88e789707c1d6a1bad5502f00599567c37b69e010498d7205c6514b3</cbc:UUID>
+  <cbc:IssueDate>2025-11-13</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>FERRETERÍA LA CEIBA ROJA S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="2" schemeName="31">852472929</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">324357.14</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">1707142.86</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">2031500.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">2031500.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

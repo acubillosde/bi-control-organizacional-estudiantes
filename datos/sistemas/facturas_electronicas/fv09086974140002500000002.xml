@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-82140</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">ca8563e580b4b8c209d450887a2f9b5daa125313085c3f5dcd1bcfd3b2cfbd8ff5331206d9c72f8e92f65b6b6cf6b3f4</cbc:UUID>
+  <cbc:IssueDate>2025-11-07</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>LOGÍSTICA LOS SAMANES S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="0" schemeName="31">908697414</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">135426.89</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">712773.11</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">848200.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">848200.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

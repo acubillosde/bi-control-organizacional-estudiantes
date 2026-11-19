@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [rama fuentes-organizacionales] · 2026-11-19 · Caso integrador con los sistemas de una organización
+
+<!-- REPO:ESTUDIANTES -->
+El caso integrador se trabaja con las fuentes de los sistemas de COAGUA: un ERP en PostgreSQL, el Excel de Finanzas, los extractos bancarios, las facturas XML y la API de TRM. Se agregan una entrevista de requerimientos, una solicitud formal de acceso a datos y la seguridad por filas. Nuevas prácticas 06 y 07; el Avance 1 y el Avance 2 se actualizaron.
+<!-- /REPO:ESTUDIANTES -->
+
+
 ## [1.0.0] · 2026-10-27 · Primera versión del curso rediseñado
 
 ### Fuente

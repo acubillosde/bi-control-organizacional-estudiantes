@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-79414</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">ff0b8ca9e1e3adc038a28d4260ad3408486809913d3e11124b77b2c26f7a086dcb71ca76ea168900da673aba633fecb5</cbc:UUID>
+  <cbc:IssueDate>2025-10-09</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>LOGÍSTICA CAFETAL ALTO S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="0" schemeName="31">959315588</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">190431.09</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">1002268.91</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">1192700.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">1192700.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

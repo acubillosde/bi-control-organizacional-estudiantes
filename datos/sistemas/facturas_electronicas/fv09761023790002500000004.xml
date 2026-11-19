@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2">
+  <!-- Factura electrónica SINTÉTICA y SIMPLIFICADA con fines educativos (estructura inspirada en UBL 2.1). -->
+  <cbc:UBLVersionID>UBL 2.1</cbc:UBLVersionID>
+  <cbc:ID>FV-59320</cbc:ID>
+  <cbc:UUID schemeName="CUFE-SHA384">336d2d49ea7db05d70aac164408da0e6de6f982771d449326c60394d37f63859596b08b019cae3594d685455507bee63</cbc:UUID>
+  <cbc:IssueDate>2025-10-20</cbc:IssueDate>
+  <cbc:DocumentCurrencyCode>COP</cbc:DocumentCurrencyCode>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>INVERSIONES PIEDRABLANCA S.A.S.</cbc:RegistrationName>
+        <cbc:CompanyID schemeID="5" schemeName="31">976102379</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyTaxScheme>
+        <cbc:RegistrationName>COOPERATIVA AGROFINANCIERA LOS GUADUALES</cbc:RegistrationName>
+        <cbc:CompanyID schemeName="31">900999123</cbc:CompanyID>
+      </cac:PartyTaxScheme>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="COP">924294.12</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="COP">4864705.88</cbc:LineExtensionAmount>
+    <cbc:TaxInclusiveAmount currencyID="COP">5789000.00</cbc:TaxInclusiveAmount>
+    <cbc:PayableAmount currencyID="COP">5789000.00</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+</Invoice>

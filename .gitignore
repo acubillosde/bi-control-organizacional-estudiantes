@@ -1,6 +1,9 @@
 # Fuentes institucionales (contienen el PDF oficial del syllabus): nunca se publican
 fuentes/
 
+# Credenciales de los equipos para la base de datos (las genera scripts/cargar_postgres.py)
+infra/postgres/credenciales_equipos.csv
+
 # Construcción del repositorio de estudiantes
 dist/
 
