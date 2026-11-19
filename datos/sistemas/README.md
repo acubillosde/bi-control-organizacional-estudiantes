@@ -19,17 +19,13 @@ La documentación técnica del ERP está en el [diccionario de datos](diccionari
 
 ## Lo que comentó cada área cuando su equipo pidió los datos
 
-- **Tecnología:** «La base está en la nube. Conéctense con el conector de PostgreSQL de Power BI y marquen *Cifrar conexiones*. Les dejamos permisos de solo lectura y las consultas de más de un minuto se cancelan. Si necesitan nómina, eso no lo decidimos nosotros: hablen con Gestión Humana».
+- **Tecnología:** «La base está en la nube. Conéctense con el conector de PostgreSQL de Power BI; la conexión va cifrada. Les dejamos permisos de solo lectura y las consultas de más de un minuto se cancelan. Si necesitan nómina, eso no lo decidimos nosotros: hablen con Gestión Humana».
 - **Finanzas:** «El presupuesto es el Excel que presentamos al consejo. Tiene una hoja por regional y un resumen. Lo armamos a mano, así que no es una base de datos».
 - **Tesorería:** «Los extractos los descargamos del portal del banco. En julio el banco cambió de plataforma y desde entonces los archivos salen distintos».
 - **Contabilidad:** «Los XML los exportamos del buzón de facturación electrónica. Solo tenemos el último trimestre a mano. Los proveedores del exterior no facturan electrónicamente en Colombia».
 
 ## Conexión a la base de datos desde Power BI Desktop
 
-1. *Obtener datos* > *Base de datos PostgreSQL*.
-2. **Servidor:** el host que entrega el docente (por ejemplo, `ep-xxxx.region.aws.neon.tech`). **Base de datos:** la que indique el docente.
-3. Modo **Importar** (recomendado para el curso; vea la [práctica 06](../../practicas-powerbi/06_fuentes_organizacionales/README.md)).
-4. Credenciales: pestaña *Base de datos*, con el usuario `equipoNN` y la clave del equipo.
-5. Si aparece un error de conexión, revise la sección de problemas frecuentes de la práctica 06.
+Siga la [guía de conexión](../../recursos/conexion_base_datos.md): datos que entrega el docente, paso a paso, verificación, parametrización y problemas frecuentes.
 
-**Nunca** escriba la clave dentro de una consulta, en el `.pbix` que entrega ni en el informe. Power BI la guarda aparte, en la configuración de origen de datos del equipo.
+**Nunca** escriba la clave dentro de una consulta, en el `.pbix` que entrega ni en el informe.

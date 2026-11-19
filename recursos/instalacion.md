@@ -22,7 +22,11 @@ Power BI Desktop **no tiene versión para macOS**. Hay cuatro alternativas, de m
 
 **Plan mínimo para Mac sin ninguna de las anteriores:** los talleres T0–T2 pueden hacerse con **Power Query en Excel para Mac**, con funciones de edición más limitadas que en Windows, y los scripts de Python de `scripts/` corren en macOS sin cambios. En ese caso, el estudiante entrega capturas y el archivo de Excel en lugar del `.pbix`, y debe coordinar con su equipo que un integrante con Windows consolide el tablero del caso integrador.
 
-## 3. Verificación del entorno (Taller T0)
+## 3. Conexión a la base de datos del caso integrador (rama `fuentes-organizacionales`)
+
+Cuando el docente entregue los datos de conexión de su equipo, siga la [guía de conexión a la base de datos](conexion_base_datos.md).
+
+## 4. Verificación del entorno (Taller T0)
 
 - [ ] Power BI Desktop abre y muestra la versión en *Ayuda → Acerca de*.
 - [ ] Se cargó `datos/integrador/pagos.csv` y la vista previa muestra 12 columnas.

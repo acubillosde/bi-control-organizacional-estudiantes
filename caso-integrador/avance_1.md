@@ -9,7 +9,7 @@ Construya la base técnica del tablero de COAGUA. Necesita una canalización ETL
 
 ## Entregables
 1. **Archivo `.pbix`** con:
-   - los parámetros `ServidorERP`, `BaseERP` y `RutaSistemas`, **sin credenciales** dentro de las consultas;
+   - los parámetros `ServidorERP`, `BaseERP` y `RutaSistemas`, **sin credenciales** dentro de las consultas ([guía de conexión](../recursos/conexion_base_datos.md));
    - **todas** las fuentes integradas:
      - ERP (`erp.pagos`, `erp.terceros`, `erp.centros_costo`, `erp.limites_aprobacion`, `erp.festivos`);
      - cartera (`cartera.creditos`, `cartera.politica_lineas`);

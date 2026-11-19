@@ -24,7 +24,7 @@ Este curso forma a profesionales del control, la auditoría y el aseguramiento p
 ## Cómo usar este repositorio
 1. Lea el [syllabus](syllabus/syllabus.md) y la [ruta semanal](cronograma/trabajo_independiente.md).
 2. Instale Power BI según [`recursos/instalacion.md`](recursos/instalacion.md) (incluye alternativas para Mac).
-3. Descargue el repositorio. Los datos están en [`datos/`](datos/README.md).
+3. Descargue el repositorio. Los datos están en [`datos/`](datos/README.md). Para el caso integrador con la base en la nube, siga la [guía de conexión](recursos/conexion_base_datos.md).
 4. Siga las [prácticas de Power BI](practicas-powerbi/README.md) en orden y las actividades de cada unidad.
 5. Dudas: abra un *Issue* con la etiqueta adecuada (ver [plan de seguimiento](cronograma/plan_seguimiento.md)).
 

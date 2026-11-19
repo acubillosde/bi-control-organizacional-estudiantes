@@ -12,6 +12,8 @@ En la práctica 01 todo era CSV. Aquí cada fuente exige una decisión técnica 
 | Facturas XML | *Carpeta* + `Xml.Document` | Leer documentos jerárquicos con espacios de nombres |
 | API de TRM | *Web* | JSON, parámetros de consulta, actualización desde la web |
 
+**Antes de empezar:** conéctese a la base siguiendo la [guía de conexión](../../recursos/conexion_base_datos.md) y compruebe las filas esperadas.
+
 ## Parámetros
 Cree tres parámetros de texto (*Inicio > Administrar parámetros*):
 
@@ -57,7 +59,7 @@ Combine los dos formatos en una sola tabla `fBanco` con las columnas `fecha`, `d
 
 | Síntoma | Causa probable | Solución |
 |---|---|---|
-| «No se pudo conectar» o un error de certificado | El servidor exige cifrado | Marque *Cifrar conexiones*. No desactive la validación del certificado |
+| Power BI ofrece conectar sin cifrado, o hay un error de certificado | Algo en la red intercepta la conexión cifrada | No acepte la conexión sin cifrar; pruebe otra red. Más casos en la [guía de conexión](../../recursos/conexion_base_datos.md#6-problemas-frecuentes) |
 | `Endpoint ID is not specified` (Neon) | El cliente no envió el nombre del servidor en la negociación TLS (SNI) | Escriba la clave como `endpoint=<id-del-endpoint>;<clave>`, donde el identificador es la primera parte del servidor (`ep-xxxx`). ⚠ Solución documentada por Neon para clientes sin SNI; **pendiente de verificación** con la versión actual de Power BI Desktop |
 | `permission denied for schema nomina` | Su usuario no tiene acceso a nómina | Es lo esperado: haga la [solicitud de acceso](../../caso-integrador/solicitud_acceso_datos.md) |
 | `canceling statement due to statement timeout` | La consulta tardó más de 60 s | Filtre en el servidor (plegado) o use Importar en lugar de DirectQuery |
