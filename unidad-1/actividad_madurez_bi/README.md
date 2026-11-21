@@ -103,7 +103,7 @@ Se responden aparte y **no entran al promedio**. Conectan con los riesgos del BI
 - **Dimensión limitante** = la de menor puntaje. Es la que define la confiabilidad del tablero.
 - Si una dimensión tiene **2 o 3 preguntas NV**, se declara **«perfil incompleto»** en esa dimensión.
 
-La [plantilla](plantilla_diagnostico.md) incluye las fórmulas para calcularlo en Excel.
+Descargue la [plantilla de Excel](plantilla_diagnostico.xlsx): hace el cálculo automáticamente (puntajes, NV, perfil incompleto, dimensión limitante y radar) y revisa las reglas de evidencia. La [plantilla en texto](plantilla_diagnostico.md) trae las mismas fórmulas, por si prefiere armarlo usted.
 
 ## Entregable (máximo 3 páginas, PDF)
 1. **Ficha de alcance** (media página): organización (o «Entidad A» si anonimiza), unidad evaluada, sector, tamaño por rangos y su rol.
