@@ -25,7 +25,7 @@ Esta actividad entrena una competencia que el auditor usa todos los días: soste
 **Elegir la Ruta B no tiene ninguna penalización.** Se califica la calidad de la evidencia y del juicio, no el nivel obtenido.
 
 ## Reglas de evidencia
-Cada pregunta se califica de **1 a 5**. Los valores 2 y 4 se permiten solo si usted justifica por qué la situación queda entre dos anclas.
+Cada pregunta se califica de **1 a 5**, y los cinco niveles están descritos. Se asigna **el nivel más alto cuya descripción se cumple por completo**; si la situación cumple solo en parte la del nivel siguiente, quede en el inferior (los niveles son acumulativos, como en los modelos de madurez por etapas).
 
 | Tipo | Significa |
 |---|---|
@@ -53,39 +53,39 @@ Cada pregunta se califica de **1 a 5**. Los valores 2 y 4 se permiten solo si us
 La escala es didáctica. El objetivo **no** es llegar al nivel 5: el nivel adecuado depende del riesgo y del costo-beneficio. Además, la madurez mide **capacidad, no valor**: un nivel 4 sin decisiones que cambien es un tablero decorativo.
 
 ## Instrumento: 4 dimensiones, 12 preguntas
-Las columnas «Nivel 1», «Nivel 3» y «Nivel 5» son las anclas. Califique con la que mejor describa lo que usted **verificó**.
+Cada columna de nivel describe cómo se ve la situación. Califique con el nivel que describa lo que usted **verificó** (no lo que le dijeron), aplicando la regla de cumplimiento de arriba. Los fundamentos del instrumento están en la [nota metodológica](fundamento_metodologico.md).
 
 ### Dimensión 1 · Datos y gobierno
 
-| Cód. | Pregunta verificable | Nivel 1 | Nivel 3 | Nivel 5 | Evidencia aceptable |
-|---|---|---|---|---|---|
-| D1.1 | ¿Los indicadores clave tienen definición única y dueño? | Cada área calcula las cifras a su manera | Hay glosario para algunos indicadores, sin dueño ni actualización | Catálogo vigente, versionado, con dueño por indicador | Glosario, diccionario de datos, ficha de indicador |
-| D1.2 | ¿Se mide la calidad de los datos críticos? | No se mide; se corrige a mano | Reglas de validación en algunas fuentes, sin seguimiento | Indicadores de calidad periódicos con responsable y plan de corrección | Reporte de calidad, reglas de validación, tablero de calidad |
-| D1.3 | ¿Están definidos dueño y custodio del dato y la protección de datos personales? | No hay roles definidos | TI custodia; los dueños son informales; la política de datos personales no se aplica al análisis | Roles formalizados, acceso por rol y trazabilidad, cumplimiento de la Ley 1581 | Política de gobierno, acta de roles, manual de tratamiento, matriz de accesos |
+| Cód. | Pregunta verificable | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 | Nivel 5 | Evidencia aceptable |
+|---|---|---|---|---|---|---|---|
+| D1.1 | ¿Los indicadores clave tienen definición única y dueño? | Cada área calcula las cifras a su manera | Algunas áreas documentan sus definiciones, sin glosario común | Hay glosario para algunos indicadores, sin dueño ni actualización | Catálogo común vigente, con dueño para los indicadores críticos | Catálogo vigente, versionado, con dueño por indicador | Glosario, diccionario de datos, ficha de indicador |
+| D1.2 | ¿Se mide la calidad de los datos críticos? | No se mide; se corrige a mano | Los errores se detectan al reportar y se corrigen caso a caso, sin reglas escritas | Reglas de validación en algunas fuentes, sin seguimiento | Reglas de validación en las fuentes críticas, con seguimiento periódico de los resultados | Indicadores de calidad periódicos con responsable y plan de corrección | Reporte de calidad, reglas de validación, tablero de calidad |
+| D1.3 | ¿Están definidos dueño y custodio del dato y la protección de datos personales? | No hay roles definidos | Se sabe que TI custodia los datos, pero no hay dueños nombrados | TI custodia; los dueños son informales; la política de datos personales no se aplica al análisis | Dueños y custodios nombrados para los datos críticos; el análisis respeta la política de datos personales | Roles formalizados, acceso por rol y trazabilidad, cumplimiento de la Ley 1581 | Política de gobierno, acta de roles, manual de tratamiento, matriz de accesos |
 
 ### Dimensión 2 · Arquitectura y tecnología
 
-| Cód. | Pregunta verificable | Nivel 1 | Nivel 3 | Nivel 5 | Evidencia aceptable |
-|---|---|---|---|---|---|
-| D2.1 | ¿Cómo se integran las fuentes? | Archivos enviados por correo; consolidación manual | Repositorio central con cargas para parte de las fuentes | Almacén o lago integrado, con cargas automáticas y monitoreadas | Diagrama de arquitectura, calendario de cargas, bitácora de ejecución |
-| D2.2 | ¿El procedimiento que produce el dato lo puede repetir otra persona? | Depende de una persona; sin documentar | Documentado en parte; ejecución semiautomática | Automatizado, versionado y repetible | Manual, scripts versionados, registros de ejecución |
-| D2.3 | ¿Existe un modelo compartido y seguridad por rol? | Cada informe consulta la fuente directa | Modelos por área, sin certificación | Modelo corporativo certificado, con seguridad por rol o por fila | Catálogo de modelos, configuración de seguridad, política de publicación |
+| Cód. | Pregunta verificable | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 | Nivel 5 | Evidencia aceptable |
+|---|---|---|---|---|---|---|---|
+| D2.1 | ¿Cómo se integran las fuentes? | Archivos enviados por correo; consolidación manual | Consolidación manual periódica, con un extracto de cada sistema en hojas de cálculo | Repositorio central con cargas para parte de las fuentes | Repositorio central con cargas programadas para la mayoría de las fuentes críticas | Almacén o lago integrado, con cargas automáticas y monitoreadas | Diagrama de arquitectura, calendario de cargas, bitácora de ejecución |
+| D2.2 | ¿El procedimiento que produce el dato lo puede repetir otra persona? | Depende de una persona; sin documentar | Hay una persona de respaldo o notas informales | Documentado en parte; ejecución semiautomática | Documentado y en su mayoría automatizado; otra persona lo ha ejecutado con éxito | Automatizado, versionado y repetible | Manual, scripts versionados, registros de ejecución |
+| D2.3 | ¿Existe un modelo compartido y seguridad por rol? | Cada informe consulta la fuente directa | Algunos informes comparten una consulta o un archivo base | Modelos por área, sin certificación | Modelos compartidos por área, con revisión y seguridad por rol | Modelo corporativo certificado, con seguridad por rol o por fila | Catálogo de modelos, configuración de seguridad, política de publicación |
 
 ### Dimensión 3 · Procesos y entrega
 
-| Cód. | Pregunta verificable | Nivel 1 | Nivel 3 | Nivel 5 | Evidencia aceptable |
-|---|---|---|---|---|---|
-| D3.1 | ¿Cuánto tarda en estar disponible la información de un proceso crítico? | Semanas o más | Mensual o semanal | Diaria o casi en línea | Calendario de publicación, sello de actualización del informe |
-| D3.2 | ¿Cómo se gestionan los requerimientos de información? | Por correo, sin prioridad | Canal definido, sin tiempos de respuesta | Proceso con priorización, tiempos medidos y ciclo de vida de los tableros | Formato o mesa de solicitudes, tiempos de entrega, inventario de reportes |
-| D3.3 | ¿Los indicadores tienen fórmula, meta, umbral y responsable? | Sin metas | Metas parciales, sin umbral o sin responsable | KPI, KRI y KCI completos, con excepciones escaladas | Fichas de indicadores, tablero, actas de seguimiento |
+| Cód. | Pregunta verificable | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 | Nivel 5 | Evidencia aceptable |
+|---|---|---|---|---|---|---|---|
+| D3.1 | ¿Cuánto tarda en estar disponible la información de un proceso crítico? | Semanas o más | Entre semanas y un mes, con fechas irregulares | Mensual o semanal | Diaria para los procesos críticos y semanal para el resto, con calendario publicado | Diaria o casi en línea | Calendario de publicación, sello de actualización del informe |
+| D3.2 | ¿Cómo se gestionan los requerimientos de información? | Por correo, sin prioridad | Se atienden por correo con un responsable informal | Canal definido, sin tiempos de respuesta | Canal con prioridades y tiempos de respuesta medidos | Proceso con priorización, tiempos medidos y ciclo de vida de los tableros | Formato o mesa de solicitudes, tiempos de entrega, inventario de reportes |
+| D3.3 | ¿Los indicadores tienen fórmula, meta, umbral y responsable? | Sin metas | Algunos indicadores tienen meta, sin fórmula escrita | Metas parciales, sin umbral o sin responsable | KPI y KRI con fórmula, meta, umbral y responsable; excepciones escaladas en los procesos críticos | KPI, KRI y KCI completos, con excepciones escaladas | Fichas de indicadores, tablero, actas de seguimiento |
 
 ### Dimensión 4 · Cultura y uso
 
-| Cód. | Pregunta verificable | Nivel 1 | Nivel 3 | Nivel 5 | Evidencia aceptable |
-|---|---|---|---|---|---|
-| D4.1 | ¿Se documentan decisiones apoyadas en los informes? | Los informes no aparecen en las decisiones | Se citan en comités, sin trazabilidad | Decisiones y acciones trazables al tablero | Actas, planes de acción vinculados a indicadores |
-| D4.2 | ¿Los usuarios usan y entienden los datos? | Poco uso; dudas sobre las cifras | Formación puntual; uso desigual | Formación continua y uso medido | Estadísticas de uso, plan de formación, encuesta |
-| D4.3 | ¿Hay patrocinio con presupuesto? | Ninguno | Apoyo declarado sin presupuesto | Sponsor ejecutivo, presupuesto y metas en el plan estratégico | Plan estratégico, presupuesto, comité de datos |
+| Cód. | Pregunta verificable | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 | Nivel 5 | Evidencia aceptable |
+|---|---|---|---|---|---|---|---|
+| D4.1 | ¿Se documentan decisiones apoyadas en los informes? | Los informes no aparecen en las decisiones | Los informes se mencionan en las reuniones, sin registro | Se citan en comités, sin trazabilidad | Las actas registran la decisión y la acción derivada del informe en los procesos críticos | Decisiones y acciones trazables al tablero | Actas, planes de acción vinculados a indicadores |
+| D4.2 | ¿Los usuarios usan y entienden los datos? | Poco uso; dudas sobre las cifras | Algunos usuarios consultan los informes con apoyo de un analista | Formación puntual; uso desigual | Formación periódica y uso medido en los procesos críticos | Formación continua y uso medido | Estadísticas de uso, plan de formación, encuesta |
+| D4.3 | ¿Hay patrocinio con presupuesto? | Ninguno | Interés de un directivo, sin respaldo formal | Apoyo declarado sin presupuesto | Sponsor ejecutivo y presupuesto anual asignado, sin metas en el plan estratégico | Sponsor ejecutivo, presupuesto y metas en el plan estratégico | Plan estratégico, presupuesto, comité de datos |
 
 ### Banderas de riesgo de control (sí / no / no sé)
 Se responden aparte y **no entran al promedio**. Conectan con los riesgos del BI de autoservicio que vimos en el S1.
@@ -134,7 +134,7 @@ Nombre del archivo: `Madurez_<Apellido>_<Ruta>.pdf`, por ejemplo `Madurez_Gomez_
 ## Ruta B · Caso general (COAGUA)
 
 Los pasos son los mismos, con estas diferencias:
-- **La única fuente permitida es el repositorio del curso.** El [catálogo de fuentes](../../caso-integrador/madurez/coagua_fuentes.md) dice qué hay disponible y a qué preguntas podría aportar.
+- **La única fuente permitida es el repositorio del curso**, que incluye el [expediente de COAGUA](../../caso-integrador/madurez/expediente_coagua.md) (ocho documentos internos ficticios). El [catálogo de fuentes](../../caso-integrador/madurez/coagua_fuentes.md) dice a qué preguntas puede aportar cada uno. Lea los documentos con cuidado: fíjese en la vigencia y en la diferencia entre lo que alguien dice y lo que un documento muestra.
 - **Lo que no se puede verificar con ese material se registra como NV.** Por cada NV escriba **la pregunta que haría al gerente de COAGUA y qué evidencia pediría**.
 - **Su ETL, sus tableros y sus resultados del curso no son evidencia de COAGUA.** Son lo que usted construye; no la capacidad de la cooperativa.
 - El diagnóstico **no debe afirmar ni sugerir si hay irregularidades en los datos**, ni cuántas ni de qué tipo. Esta actividad mide la capacidad de BI, no el contenido de los datos: ese análisis es del caso integrador.

@@ -52,10 +52,6 @@ Copie este archivo, complételo y expórtelo a PDF (máximo **3 páginas**). Las
 | D4.2 | ¿Los usuarios usan y entienden los datos? | | | | |
 | D4.3 | ¿Hay patrocinio con presupuesto? | | | | |
 
-**Si puso un 2 o un 4,** justifique entre qué anclas está:
-
-> *(una línea por cada 2 o 4)*
-
 **Preguntas NV** *(obligatorio para cada NV)*
 
 | Cód. | Qué evidencia haría falta | Ruta B: pregunta al gerente de COAGUA |
