@@ -158,23 +158,14 @@ El encargo coincide con las fases de CRISP-DM y con las entregas del curso:
 
 ## Material para el equipo consultor
 
-Se sugiere que cada integrante asuma un rol de responsabilidad, que rota entre entregas:
+Para repartir el trabajo, se sugiere que cada integrante asuma un **rol** que rota entre entregas. Un rol **no es una entrega nueva ni tiene nota propia**: es quien responde por una parte de lo que el equipo ya entrega. Las entregas, los pesos y las rúbricas son los del [enunciado](README.md). Todos los integrantes deben poder explicar todo el trabajo.
 
-- **Líder de datos y acceso:** solicitud de acceso (mínimo privilegio), seguridad por filas, privacidad. Producto: solicitud formal y matriz de quién ve qué.
-- **Líder de analítica:** canalización, reglas y modelo; límites de cada técnica. Producto: tabla de pruebas con su umbral y justificación.
-- **Líder de control:** componentes de COSO, causas probables y recomendaciones con responsable y plazo. Producto: matriz de riesgos y controles.
-- **Líder de comunicación:** nota ejecutiva y sustentación. Producto: mensaje en una frase y respuesta a las preguntas del comité.
-
-Este reparto es una sugerencia de organización: **no cambia los pesos ni las rúbricas** del caso integrador, y todos los integrantes deben poder explicar todo el trabajo.
-
-## Guía de evaluación del caso
-
-Lo que se mira, además de lo que piden las rúbricas de los avances y de la sustentación:
-
-- **Coherencia** entre la decisión que se recomienda y la evidencia que la respalda.
-- **Manejo del riesgo:** sesgo regional, falsos positivos, protección de datos personales y distinción entre señal y conclusión.
-- **Diseño del despliegue:** indicadores con umbral, responsable y frecuencia, y criterio de escalamiento.
-- **Narrativa:** ¿puede el comité entender y confiar? ¿Puede una regional leer su parte sin sentirse acusada?
+| Rol | Responde por… | Su pieza de trabajo | Con un ejemplo | Dónde se usa |
+|---|---|---|---|---|
+| **Líder de datos y acceso** | Qué datos se piden, cuáles no y quién ve qué | Solicitud formal de acceso y matriz de quién ve qué | «El comité ve todo; el gerente del Huila ve solo su regional; un correo no registrado no ve nada» | Avance 1 (solicitud, si se necesita nómina) y Avance 2 (seguridad por filas) |
+| **Líder de analítica** | Que las reglas y el modelo funcionen y se conozcan sus límites | Tabla de pruebas: cada regla con su umbral y la razón del umbral | «Pago aprobado en día no hábil. Umbral: cualquiera. Razón: el control de Tesorería no lo permite» | Entrega final (alcance y metodología; página de analítica) |
+| **Líder de control** | Que cada hallazgo se lea como un riesgo de control | Matriz de riesgos y controles: qué falla, por qué (COSO), qué recomendar, quién y cuándo | «Quien registra el pago también lo aprueba. COSO: actividades de control. Separar permisos. Tecnología, 30 días» | Sustentación y entrega final (hallazgos y recomendaciones) |
+| **Líder de comunicación** | Que el comité entienda y confíe | Nota ejecutiva, sustentación y el mensaje en una frase | «Revisen primero estos pagos; la certeza es media y falta el soporte de Tesorería» | Avance 2 (nota ejecutiva) y sustentación |
 
 ---
 
