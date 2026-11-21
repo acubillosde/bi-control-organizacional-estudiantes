@@ -1,6 +1,6 @@
 # Quiz de cierre · Unidad 2: BI en el control organizacional
 
-_3.75% de la nota. 20 minutos. Individual. Las preguntas 1–5 evalúan las lecturas de la unidad._
+_3.75% de la nota. 22 minutos. Individual. Las preguntas 1–5 evalúan las lecturas de la unidad._
 
 Seleccione una opción por pregunta.
 
@@ -74,3 +74,9 @@ Seleccione una opción por pregunta.
 - c) Nombre
 - d) Umbral y responsable
 
+**11.** Un asistente de IA generativa responde con seguridad una pregunta sobre un modelo cuyos indicadores no tienen definición ni dueño. ¿Cuál es el principal riesgo de control?
+
+- a) Que el asistente cobre por cada consulta
+- b) Que la respuesta suene confiable aunque no se pueda verificar ni reproducir
+- c) Que el modelo deje de actualizarse
+- d) Que el tablero cambie de color

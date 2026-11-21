@@ -14,15 +14,16 @@
 | 11:30–11:40 | — | — | Pausa activa | — | — | — |
 | 11:40–12:00 | B2 | U1 | Conformación de equipos, asignación de exposiciones (S2 y S3) y lanzamiento del caso integrador | Organización | — | Acta de equipos |
 | 12:00–13:00 | — | — | **Almuerzo** | — | — | — |
-| 13:00–14:50 | B3 | U1 | **Laboratorio L1 (parte 1): ETL con Power Query.** Conexión a CSV con parámetro de ruta, tipos de dato, columnas calculadas en M, tabla calendario con festivos | Laboratorio guiado | RA1 | `.pbix` L1 |
+| 13:00–14:50 | B3 | U1 | **Laboratorio L1 · Del diagnóstico al plan de transformación (sin computador).** Pregunta y definición de anomalía (CRISP-DM, fase 1) e inventario de fuentes de COAGUA (30'); diagnóstico rápido de madurez de BI con evidencia: una pregunta por dimensión y banderas (35'); plan de transformación en tres horizontes sobre los frentes críticos (35'); galería de planes (10') | Taller de caso | RA1, RA2 | Diagnóstico rápido y plan de transformación (L1, 2%) |
 | 14:50–15:00 | — | — | Pausa activa | — | — | — |
 | 15:00–15:50 | B4 | U2 | Gobierno y calidad de datos para el control: dimensiones de calidad (completitud, unicidad, validez, consistencia, oportunidad, exactitud), roles de gobierno | Mini clase | RA1, RA2 | — |
-| 15:50–16:40 | B4 | U2 | **Laboratorio L1 (parte 2):** perfilado en Power Query (calidad, distribución y perfil de columna), reglas de validación, tabla de excepciones | Laboratorio guiado | RA1, RA2 | `.pbix` L1 (entregable, 2%) |
+| 15:50–16:40 | B4 | U2 | **Laboratorio L1 (parte 2): clínica de calidad del caso.** Una regla de validación por dimensión de calidad para las fuentes de COAGUA, clasificación entre error de calidad y posible falla de control, e intercambio entre equipos. La tabla de reglas se implementa en el T1 | Taller de caso | RA1, RA2 | Plan de datos (entregable del L1, 2%) |
 | 16:40–17:00 | B4 | — | Cierre: síntesis, ruta de las semanas 2–3, dudas | Plenaria | — | — |
 
 **Distribución:** U1 = 6 h (08:00–15:00 sin almuerzo) · U2 = 2 h (15:00–17:00).
 
 **Notas de logística**
 - Las pausas activas de 10 minutos están **dentro** de cada bloque de 2 horas, para mantener 8 horas efectivas de contacto.
-- Antes del S1 debe verificarse la sala de cómputo, o confirmar que los estudiantes tienen Power BI instalado (ver respuestas del T0).
+- Antes del S1 basta con confirmar que los estudiantes tienen Power BI instalado para el T1 (ver respuestas del T0). El S1 no necesita sala de cómputo: preparar hojas grandes o tablero, marcadores y copias del [catálogo de fuentes de COAGUA](../caso-integrador/madurez/coagua_fuentes.md) y de la guía del plan.
 - Copiar la carpeta `datos/` en una USB como plan B si no hay internet.
+- **En el S1 no se usa Power BI.** El ETL guiado (la [práctica 01](../practicas-powerbi/01_power_query/README.md)) se trabaja en el T1 (semana 2). La tarde del S1 es de papel, tablero y discusión: diagnóstico rápido y plan de transformación ([guía](../unidad-1/actividad_madurez_bi/plan_transformacion.md)), y clínica de calidad.

@@ -7,7 +7,7 @@
 | Ventana del curso | 7 semanas. Las semanas van de domingo a sábado |
 | Sábados presenciales | S1 al final de la semana 1, S2 al final de la semana 3, S3 al final de la semana 5 (14 días entre sábados) |
 | Fechas de ejemplo | S1 = 20 feb 2027 · S2 = 6 mar 2027 · S3 = 20 mar 2027 · Entrega final = 3 abr 2027. **El docente debe reemplazarlas por las fechas reales** |
-| Carga semanal | 8 h (sem. 1) · 12 h (sem. 2–5) · 8 h (sem. 6–7) |
+| Carga semanal | 8 h (sem. 1) · 12.75 y 11.25 h (sem. 2 y 3) · 12 h (sem. 4–5) · 8 h (sem. 6–7) |
 | Hora de cierre de entregas | 23:59 (hora de Colombia), en el aula virtual o en el canal que indique el docente |
 | Festivos en la ventana de ejemplo | 22 mar 2027 (San José), 25 y 26 mar 2027 (Jueves y Viernes Santo), en la semana 6, que tiene carga reducida |
 
@@ -44,31 +44,31 @@ Leyenda: **RA** = resultado de aprendizaje · **Peso** = porcentaje de la nota f
 | P1 | [Quiz diagnóstico](../evaluacion/quizzes/quiz_diagnostico.md) | 0.5 | RA1–RA3 | Quiz respondido | Jue 18 feb | Completitud. Es formativo: orienta el énfasis del S1 | 0% |
 | P2 | Lectura para la ficha: **un** artículo a elección de la lista pre-S1 de [lecturas](../lecturas/lecturas.md#pre-s1) | 2.0 | RA1 | Notas de lectura | Vie 19 feb | Se evalúa en P3 | — |
 | P3 | Ficha de revisión documental (formato institucional "FrmFichaRevisiónDocumental") | 2.0 | RA1 | Ficha (máx. 3 páginas) | Vie 19 feb | [Rúbrica de ficha de lectura](../evaluacion/rubricas.md#r1-ficha-de-revisión-documental) | 10% |
-| T0 | [Taller T0](../unidad-1/actividades.md#t0): instalación de Power BI y exploración de `pagos.csv` con tabla dinámica en Excel | 3.5 | RA1 | Lista de verificación del entorno + 5 respuestas con evidencia | Vie 19 feb | [Rúbrica de taller autónomo](../evaluacion/rubricas.md#r3-taller-autónomo) | 1% |
+| T0 | [Taller T0](../unidad-1/actividades.md#t0): instalación de Power BI y exploración de `pagos.csv` en Python (pandas) | 3.5 | RA1 | Lista de verificación del entorno + 5 respuestas con evidencia | Vie 19 feb | [Rúbrica de taller autónomo](../evaluacion/rubricas.md#r3-taller-autónomo) | 1% |
 | | **Subtotal** | **8.0** | | | | | |
 
-### Semana 2 · Después del Sábado 1 (12 h) · 21–27 feb
+### Semana 2 · Después del Sábado 1 (12.75 h) · 21–27 feb
 
 | ID | Actividad | Horas | RA | Producto | Fecha límite | Criterio de evaluación | Peso |
 |---|---|---:|---|---|---|---|---:|
 | Q1 | [Quiz U1](../evaluacion/quizzes/quiz_u1.md) | 0.5 | RA1 | Quiz | Mié 24 feb | Respuestas correctas | 3.75% |
 | L1 | Lectura: Schafheitle et al. (2020), 33 p, complejidad alta | 4.0 | RA2 | Mapa del marco de datificación aplicado a una organización conocida (1 p) | Sáb 27 feb | Preguntas 1–3 del Quiz U2 y discusión del S2 | (Q2) |
-| T1 | [Taller T1](../unidad-1/actividades.md#t1): ETL completo en Power Query (pagos, maestros, calendario, festivos) | 3.0 | RA1 | Archivo `.pbix` + documento de pasos aplicados | Sáb 27 feb | [Rúbrica de taller autónomo](../evaluacion/rubricas.md#r3-taller-autónomo) | 2% |
+| T1 | [Taller T1](../unidad-1/actividades.md#t1): ETL completo y documentado en Power Query (práctica 01), con las reglas de calidad del L1 y controles propios | 5.5 | RA1 | Archivo `.pbix` + documento de pasos aplicados | Sáb 27 feb | [Rúbrica de taller autónomo](../evaluacion/rubricas.md#r3-taller-autónomo) | 2% |
 | PA | [Profundización A](../unidad-2/actividades.md#pa): [diagnóstico de madurez de BI con evidencia](../unidad-1/actividad_madurez_bi/README.md) (individual) | 2.75 | RA1, RA2 | Diagnóstico (PDF, máx. 3 p) + formulario anónimo | Sáb 27 feb | [Rúbrica R6](../evaluacion/rubricas.md#r6-diagnóstico-de-madurez-de-bi-con-evidencia) | 2% |
-| EX | Preparación de la exposición o réplica asignada en el S1 | 1.75 | RA3 | Presentación (máx. 6 diapositivas) | Día de la exposición (S2 o S3) | [Rúbrica de exposición](../evaluacion/rubricas.md#r5-exposición-o-réplica-de-caso) | 10% |
-| | **Subtotal** | **12.0** | | | | | |
+| | **Subtotal** | **12.75** | | | | | |
 
-> Los equipos que exponen el caso Watson (S3) pueden trasladar las 1.75 h de EX a la semana 5 sin cambiar el total.
-
-### Semana 3 · Antes del Sábado 2 (12 h) · 28 feb – 5 mar
+### Semana 3 · Antes del Sábado 2 (11.25 h) · 28 feb – 5 mar
 
 | ID | Actividad | Horas | RA | Producto | Fecha límite | Criterio de evaluación | Peso |
 |---|---|---:|---|---|---|---|---:|
 | L2 | Lectura: Pauwels et al. (2009), 15 p, media-alta | 1.5 | RA2 | Notas: cinco etapas del desarrollo de un dashboard | Vie 5 mar | Preguntas 4–5 del Quiz U2 | (Q2) |
 | L3 | Lectura: caso Ramírez-Angulo y Chaparro-Guevara (2020), 16 p, media-alta | 1.5 | RA2 | Respuestas a la [guía del caso](../casos/caso_centro_comercial.md) | Vie 5 mar | Discusión del S2 y exposición de caso | (EX) |
 | T2 | [Taller T2](../unidad-2/actividades.md#t2): modelo estrella y 10 medidas DAX de control | 3.0 | RA1, RA2 | `.pbix` + diccionario de medidas | Vie 5 mar | [Rúbrica de taller autónomo](../evaluacion/rubricas.md#r3-taller-autónomo) | 2% |
-| AV1 | [Avance 1 del caso integrador](../caso-integrador/avance_1.md): extracción, limpieza y modelo de datos | 6.0 | RA1 | `.pbix` + memoria técnica (3–5 p) | **Mié 3 mar** | [Rúbrica Avance 1](../caso-integrador/avance_1.md#rúbrica) | 7.5% |
-| | **Subtotal** | **12.0** | | | | | |
+| EX | Preparación de la exposición o réplica asignada en el S1 | 1.75 | RA3 | Presentación (máx. 6 diapositivas) | Día de la exposición (S2 o S3) | [Rúbrica de exposición](../evaluacion/rubricas.md#r5-exposición-o-réplica-de-caso) | 10% |
+| AV1 | [Avance 1 del caso integrador](../caso-integrador/avance_1.md): extracción, limpieza y modelo de datos | 3.5 | RA1 | `.pbix` + memoria técnica (3–5 p) | **Mié 3 mar** | [Rúbrica Avance 1](../caso-integrador/avance_1.md#rúbrica) | 7.5% |
+| | **Subtotal** | **11.25** | | | | | |
+
+> EX pasó a la semana 3 (siempre antes del S2) para equilibrar la carga después de mover el ETL al T1. Los equipos que exponen el caso Watson (S3) pueden trasladar las 1.75 h de EX a la semana 5 sin cambiar el total.
 
 ### Semana 4 · Después del Sábado 2 (12 h) · 7–13 mar
 
@@ -118,7 +118,7 @@ Leyenda: **RA** = resultado de aprendizaje · **Peso** = porcentaje de la nota f
 | Tramo | Semanas | Horas | Verificación |
 |---|---|---:|---|
 | Pre-S1 | 1 | 8.0 | 0.5 + 2.0 + 2.0 + 3.5 |
-| S1→S2 | 2–3 | 24.0 | 12.0 + 12.0 |
+| S1→S2 | 2–3 | 24.0 | 12.75 + 11.25 |
 | S2→S3 | 4–5 | 24.0 | 12.0 + 12.0 |
 | Post-S3 | 6–7 | 16.0 | 8.0 + 8.0 |
 | **Total** | | **72.0** | |

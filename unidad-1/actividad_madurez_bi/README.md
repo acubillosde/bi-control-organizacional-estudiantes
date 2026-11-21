@@ -3,6 +3,8 @@
 **Unidad:** U1 (con debrief en la U2, Sábado 2) · **RA:** RA1 (refuerza RA2) · **Trabajo:** individual · **Es la Profundización A (2% de la nota final)** · **Horas estimadas:** 2 h 45 min · **Se publica:** al cierre del S1 · **Fecha límite:** cierre de la semana 2, 23:59 (sábado de la semana 2)
 **Plantilla:** [plantilla_diagnostico.md](plantilla_diagnostico.md) · **Rúbrica:** [R6](../../evaluacion/rubricas.md#r6-diagnóstico-de-madurez-de-bi-con-evidencia)
 
+> **Antes de esta actividad, en el S1:** cada equipo hizo un [diagnóstico rápido de COAGUA y un plan de transformación](plan_transformacion.md) (L1). Esta actividad es el diagnóstico individual, completo y con evidencia; en el S2 se contrasta con el del equipo.
+
 ## Propósito
 Diagnosticar la madurez de BI de una organización **con evidencia verificable y no con percepción**, e identificar el eslabón más débil y el riesgo de control que genera.
 

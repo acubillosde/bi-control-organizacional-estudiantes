@@ -1,6 +1,6 @@
 # Ruta B · COAGUA: contexto y catálogo de fuentes para el diagnóstico de madurez
 
-**Se usa en:** [Actividad de diagnóstico de madurez de BI con evidencia](../../unidad-1/actividad_madurez_bi/README.md), Ruta B.
+**Se usa en:** [Actividad de diagnóstico de madurez de BI con evidencia](../../unidad-1/actividad_madurez_bi/README.md), Ruta B, y en el [diagnóstico rápido y plan de transformación del L1](../../unidad-1/actividad_madurez_bi/plan_transformacion.md) (S1).
 
 Este archivo hace dos cosas: resume lo que el repositorio dice de COAGUA (ficha de contexto) y lista qué materiales **podrían** servir de evidencia para cada pregunta del instrumento. **No califica nada por usted.** Qué puntaje merece cada pregunta, con qué tipo de evidencia y con qué confianza es su juicio.
 
@@ -28,7 +28,7 @@ La Ruta B pide evidencia de **la capacidad de COAGUA**, no de la suya. No sirven
 
 | Material | Por qué no sirve |
 |---|---|
-| Su ETL de Power Query (L1, T1, Avance 1) | Es lo que **usted** construyó. No muestra cómo produce COAGUA sus datos |
+| Su ETL de Power Query (T1, Avance 1) | Es lo que **usted** construyó. No muestra cómo produce COAGUA sus datos |
 | Su modelo estrella, sus medidas DAX y sus tableros (L2, T2, Avance 2) | Es su trabajo en el curso, no un modelo corporativo de COAGUA |
 | Su perfilado de calidad y sus tablas de excepciones (L1 parte 2 y la extensión opcional de la profundización A) | Mide los datos con su método; no prueba que COAGUA mida su calidad |
 | Los resultados de analizar `pagos.csv`, `creditos.csv` u otros | Son hallazgos del caso integrador. **Esta actividad no debe afirmar ni sugerir nada sobre irregularidades en los datos** (si existen, cuántas ni de qué tipo) |

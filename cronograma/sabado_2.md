@@ -11,7 +11,7 @@
 | 09:10–10:00 | B1 | U2 | **Laboratorio L2 (parte 1):** medidas DAX de control (SUM, DIVIDE, CALCULATE, filtros, inteligencia de tiempo) | Laboratorio guiado | RA1, RA2 | `.pbix` L2 |
 | 10:00–10:25 | B2 | U2 | Rol estratégico de BI en el control: datificación y control (Schafheitle et al.); KPI vs. KRI; cuadro de mando integral y dashboards de monitoreo (Pauwels et al.) | Seminario | RA2 | Participación |
 | 10:25–10:55 | B2 | U2 | **Exposición:** caso del centro comercial (equipo expositor 15' + réplica 7' + plenaria 8') | Exposición de equipo | RA2, RA3 | Rúbrica de exposición |
-| 10:55–11:10 | B2 | U2 | **Debrief del diagnóstico de madurez de BI:** agregado anónimo de la cohorte, contraste con el modelo del caso, metacognición y cierre (ver la [guía del caso](../casos/caso_centro_comercial.md#debrief)) | Plenaria | RA1, RA2 | Participación |
+| 10:55–11:10 | B2 | U2 | **Debrief del diagnóstico de madurez de BI:** agregado anónimo de la cohorte, contraste con el modelo del caso, **revisión del plan de transformación del equipo (qué mantienen y qué cambian, con qué evidencia)**, metacognición y cierre (ver la [guía del caso](../casos/caso_centro_comercial.md#debrief)) | Plenaria | RA1, RA2 | Participación |
 | 11:10–11:20 | — | — | Pausa activa | — | — | — |
 | 11:20–12:00 | B2 | U2 | Diseño del cuadro de control interno de COAGUA: perspectivas, objetivos, KPIs/KRIs, umbrales y responsables | Taller en equipos | RA2 | Matriz de indicadores |
 | 12:00–13:00 | — | — | **Almuerzo** | — | — | — |

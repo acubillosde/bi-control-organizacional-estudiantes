@@ -1,6 +1,6 @@
 # Avance 1 · Integración de fuentes, limpieza y modelo de datos
 
-**Peso:** 7.5% · **RA:** RA1 · **Horas estimadas:** 6 h de equipo (semana 3) · **Fecha límite:** miércoles de la semana 3, 23:59 (antes del S2)
+**Peso:** 7.5% · **RA:** RA1 · **Horas estimadas:** 3.5 h de equipo (semana 3) · **Fecha límite:** miércoles de la semana 3, 23:59 (antes del S2)
 
 > **Rama `fuentes-organizacionales`.** En esta versión del curso, los datos del caso no son CSV listos. Están en los sistemas de COAGUA, descritos en el [mapa de sistemas](../datos/sistemas/README.md): un ERP en PostgreSQL, el Excel de Finanzas, los extractos del banco, las facturas electrónicas y la API de TRM.
 
@@ -30,11 +30,11 @@ Construya la base técnica del tablero de COAGUA. Necesita una canalización ETL
    - **tres preguntas de control** que el modelo permite responder, con su respuesta preliminar. Al menos una debe requerir dos fuentes.
 3. **Solicitud de acceso a datos** (opcional): si su análisis requiere nómina, adjunte la [solicitud formal](solicitud_acceso_datos.md) que envió y la respuesta que recibió.
 
-## Distribución sugerida del tiempo (6 h)
+## Distribución sugerida del tiempo (3.5 h)
+La conexión a las seis fuentes (práctica 06, pasos 1 a 5) se hace en el [T1](../unidad-1/actividades.md#t1) (5.5 h); aquí se parte de ese `.pbix`.
+
 | Tarea | Horas |
 |---|---:|
-| Conexión al ERP y a la cartera (práctica 06, pasos 1 y 5) | 1.0 |
-| Excel, extractos y XML (práctica 06, pasos 2 a 4) | 1.5 |
 | Columnas de control y modelo; cuadre entre fuentes | 1.5 |
 | Página de calidad e integración | 0.5 |
 | Memoria técnica | 1.5 |

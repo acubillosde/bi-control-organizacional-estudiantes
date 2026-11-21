@@ -63,7 +63,7 @@ Seminario-taller, como lo establece el syllabus oficial. Cada sábado combina ex
 - **Antes de la sesión 1:** informe de lectura en el formato institucional "FrmFichaRevisiónDocumental" sobre uno de los artículos de la sección *Reportes y artículos* (ver [lecturas](../lecturas/lecturas.md)), quiz diagnóstico e instalación de Power BI.
 - **Desde la sesión 2:** exposiciones de equipo asignadas en la sesión 1 (casos y lecturas), con un equipo expositor y un equipo de réplica.
 - **Equipos:** de 4 a 5 integrantes, conformados en la sesión 1 y estables durante todo el curso.
-- **Software:** Power BI Desktop (gratuito, Windows) y Excel. Python es opcional y solo se requiere en la actividad de profundización C. Alternativas para Mac en [`recursos/instalacion.md`](../recursos/instalacion.md). La Universidad dispone de salas con el software, sujetas a programación.
+- **Software:** Power BI Desktop (gratuito, Windows) y Excel. Python (o Google Colab, sin instalación) se usa desde el Taller T0 y en la profundización C. Alternativas para Mac en [`recursos/instalacion.md`](../recursos/instalacion.md). La Universidad dispone de salas con el software, sujetas a programación.
 
 ## 7. Distribución de la carga de trabajo (96 h)
 
@@ -84,11 +84,11 @@ Seminario-taller, como lo establece el syllabus oficial. Cada sábado combina ex
 
 | Unidad | S1 | S2 | S3 | Pre-S1 | S1→S2 | S2→S3 | Post-S3 | **Presencial** | **Independiente** | **Total** |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| U1. BI y Business Analytics | 6 | 0 | 0 | 8 | 3.5 | 0 | 0 | 6 | 11.5 | 17.5 |
+| U1. BI y Business Analytics | 6 | 0 | 0 | 8 | 6 | 0 | 0 | 6 | 14 | 20 |
 | U2. BI en el control organizacional | 2 | 4 | 0 | 0 | 14.5 | 0.5 | 0 | 6 | 15 | 21 |
 | U3. Visualización y comunicación | 0 | 4 | 0 | 0 | 0 | 5.5 | 0 | 4 | 5.5 | 9.5 |
 | U4. Analítica para el aseguramiento | 0 | 0 | 5 | 0 | 0 | 10 | 6.5 | 5 | 16.5 | 21.5 |
-| Caso integrador (U1–U4) | 0 | 0 | 3 | 0 | 6 | 8 | 9.5 | 3 | 23.5 | 26.5 |
+| Caso integrador (U1–U4) | 0 | 0 | 3 | 0 | 3.5 | 8 | 9.5 | 3 | 21 | 24 |
 | **Total** | **8** | **8** | **8** | **8** | **24** | **24** | **16** | **24** | **72** | **96** |
 
 > U3 tiene pocas horas propias porque su aplicación principal ocurre dentro del caso integrador: el Avance 2 (6 h) es el tablero con KPIs y storytelling. El detalle actividad por actividad está en [`cronograma/trabajo_independiente.md`](../cronograma/trabajo_independiente.md).

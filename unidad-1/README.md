@@ -2,7 +2,7 @@
 
 **Tema oficial:** T1. Inteligencia de negocios y su ejecución mediante indicadores
 **Resultado de aprendizaje:** RA1 · **Competencias:** C1, C3
-**Carga:** 6 h presenciales (Sábado 1) + 11.5 h independientes = 17.5 h
+**Carga:** 6 h presenciales (Sábado 1) + 14 h independientes = 20 h
 
 ## Objetivos
 Al terminar la unidad, el estudiante:
@@ -17,7 +17,7 @@ Al terminar la unidad, el estudiante:
 3. BI frente a Business Analytics: descriptiva, diagnóstica, predictiva y prescriptiva.
 4. Ciclo de vida analítico y CRISP-DM; ética y privacidad en la analítica de control.
 5. Casos: SYSCO (2004) y la DIARI de la Contraloría General de la República (Colombia, actual).
-6. Práctica: ETL con Power Query.
+6. Práctica: ETL con Power Query (en el T1, semana 2; el S1 no usa Power BI: diagnóstico y plan de transformación).
 
 ## Materiales
 | Material | Enlace |

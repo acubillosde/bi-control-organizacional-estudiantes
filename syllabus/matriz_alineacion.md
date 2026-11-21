@@ -8,7 +8,7 @@ Relaciona cada resultado de aprendizaje (RA) con unidad, actividad, evidencia y 
 |---|---|---|---|---|---|---|
 | RA1 | U1 | Tabla comparativa BI vs. BA | S1 B1 | Tabla del equipo (participación en L1) | P | Lluís (2007), cap. 1; Cano y Saucedo (2024) |
 | RA1 | U1 | Discusión SYSCO + DIARI | S1 B2 | Respuestas de la guía de caso | P | McAfee y Wagonfeld (2004); OCDE (2021) |
-| RA1 | U1 | Laboratorio L1: ETL con Power Query | S1 B3–B4 | `.pbix` L1 (2%) | P | Jensen (IBM CRISP-DM) |
+| RA1 | U1 | Laboratorio L1: del diagnóstico al plan de transformación | S1 B3–B4 | Plan de datos, diagnóstico rápido y plan de transformación (2%) | P | Jensen (IBM CRISP-DM) |
 | RA1 | U1 | P3 Ficha de revisión documental | Pre-S1 | Ficha (10%) | I | Artículo elegido de la lista pre-S1 |
 | RA1 | U1 | T0 Exploración y entorno | Pre-S1 | Lista de verificación + respuestas (1%) | I | — |
 | RA1 | U1 | T1 ETL completo | S1→S2 | `.pbix` + pasos (2%) | I | — |

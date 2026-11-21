@@ -1,7 +1,7 @@
 # Caso integrador · Tablero de control interno de COAGUA
 
 **Componente oficial:** caso de estudio con aplicación de minería y analítica, que incluye la generación del informe de resultados (visualización) y las estrategias de mejora (30% de la nota). La sustentación ante el comité cuenta además dentro del componente "Exposiciones" (15%).
-**RA:** RA1, RA2, RA3 · **Trabajo en equipo** (4–5 integrantes) · **Horas:** 23.5 h independientes + 3 h presenciales
+**RA:** RA1, RA2, RA3 · **Trabajo en equipo** (4–5 integrantes) · **Horas:** 21 h independientes + 3 h presenciales
 
 ## La organización (ficticia)
 

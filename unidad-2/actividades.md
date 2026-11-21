@@ -15,7 +15,7 @@ Diagnostique la madurez de BI de una organización con evidencia verificable y n
 ### Extensión opcional (sin nota): calidad y gobierno del maestro de clientes
 Era la profundización A en versiones anteriores del curso. Se conserva para quien quiera practicar el perfilado de un dato maestro con datos personales. **No tiene entrega ni nota.**
 
-Esta actividad **no repite** el laboratorio L1: allí se perfilaron transacciones; aquí se evalúa un **dato maestro** con datos personales y se propone su gobierno.
+Esta actividad **no repite** el T1: allí se perfilaron transacciones; aquí se evalúa un **dato maestro** con datos personales y se propone su gobierno.
 
 1. **Perfilado (1 h).** En Power Query, mida para cada dimensión al menos un indicador:
 
@@ -44,7 +44,8 @@ Esta actividad **no repite** el laboratorio L1: allí se perfilaron transaccione
 2. Implemente las 10 medidas mínimas de la [práctica 03](../practicas-powerbi/03_dax/README.md).
 3. Diseñe **2 medidas propias** que respondan a preguntas de control que no estén en la práctica. Ejemplos: % del valor pagado a proveedores creados en el año o días promedio entre la aprobación y el pago por aprobador.
 4. Elabore un diccionario de medidas con nombre, fórmula, interpretación, umbral propuesto y responsable.
-5. Valide los totales contra el T0 (Excel).
+   - **Verificación del apoyo de IA (opcional, dentro del mismo tiempo).** Si usó un asistente de IA para escribir alguna medida, **verifique el resultado** contra el T0 (Python) o contra un cálculo manual, anote en el diccionario qué corrigió y haga la declaración de uso (herramienta, para qué y cómo verificó), según los [criterios de calificación](../evaluacion/criterios_calificacion.md#uso-de-ia-generativa).
+5. Valide los totales contra los resultados del T0 (Python).
 
 **Entregable:** `.pbix` + diccionario (máximo 3 páginas).
 

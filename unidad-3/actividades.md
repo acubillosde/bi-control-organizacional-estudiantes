@@ -15,7 +15,7 @@ Cada equipo presenta "el hallazgo principal de nuestro modelo" con **una sola** 
 
 **RA:** RA2, RA3 · **Fecha límite:** viernes de la semana 4
 
-1. **Diagnóstico (45').** Tome la página que el equipo construyó en el L2 y evalúela con la lista de verificación de la [práctica 04](../practicas-powerbi/04_dashboards/README.md). Registre cada incumplimiento.
+1. **Diagnóstico (45').** Tome la página que el equipo construyó en el L2 y evalúela con la lista de verificación de la [práctica 04](../practicas-powerbi/04_dashboards/README.md). Registre cada incumplimiento. Si usó IA para redactar el titular o el guion, **verifique cada cifra contra el modelo** y haga la declaración de uso, según los [criterios de calificación](../evaluacion/criterios_calificacion.md#uso-de-ia-generativa).
 2. **Rediseño (1 h 15').** Rehaga la página para la audiencia "comité de auditoría": 3 a 5 visuales, titular dinámico y un semáforo con umbral justificado. Incluya una información sobre herramientas (*tooltip*) personalizada o una obtención de detalles (*drillthrough*).
 3. **Guion (1 h).** Escriba una página siguiendo la plantilla contexto → hallazgo → implicación → recomendación → siguiente paso. Debe poder leerse en 2 minutos.
 

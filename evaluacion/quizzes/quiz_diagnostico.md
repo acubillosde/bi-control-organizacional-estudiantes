@@ -4,12 +4,12 @@ _Formativo (0%). 15 minutos. Su propósito es ajustar el énfasis del S1; respon
 
 Seleccione una opción por pregunta.
 
-**1.** En una tabla dinámica de Excel, ¿dónde ubicaría el campo `valor` para obtener el total pagado por proveedor?
+**1.** En Python, con *pandas*, el DataFrame `pagos` tiene las columnas `id_proveedor` y `valor`. ¿Qué línea devuelve el total pagado por proveedor?
 
-- a) En Columnas, con la función Contar
-- b) En Filtros
-- c) En Filas
-- d) En Valores, con la función Suma
+- a) `pagos["valor"].sum("id_proveedor")`
+- b) `pagos.filter("id_proveedor").count()`
+- c) `pagos.sort_values("valor").sum()`
+- d) `pagos.groupby("id_proveedor")["valor"].sum()`
 
 **2.** ¿Qué describe mejor un indicador clave de desempeño (KPI)?
 

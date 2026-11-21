@@ -1,6 +1,6 @@
 # Práctica 06 · Conectarse a los sistemas de una organización
 
-**Unidad:** U2 · **RA:** RA1, RA2 · **Se usa en:** Avance 1 del caso integrador (rama `fuentes-organizacionales`)
+**Unidad:** U2 · **RA:** RA1, RA2 · **Se usa en:** Taller T1 (semana 2) y Avance 1 del caso integrador (rama `fuentes-organizacionales`)
 
 En la práctica 01 todo era CSV. Aquí cada fuente exige una decisión técnica distinta. El mapa completo de los sistemas está en [`datos/sistemas/README.md`](../../datos/sistemas/README.md).
 
