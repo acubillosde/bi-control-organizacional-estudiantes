@@ -1,6 +1,6 @@
 # Avance 1 · Extracción, limpieza y modelo de datos
 
-**Peso:** 7.5% · **RA:** RA1 · **Horas estimadas:** 6 h de equipo (semana 3) · **Fecha límite:** miércoles de la semana 3, 23:59 (antes del S2)
+**Peso:** 7.5% · **RA:** RA1 · **Horas estimadas:** 3.5 h de equipo (semana 3) · **Fecha límite:** miércoles de la semana 3, 23:59 (antes del S2)
 
 ## Enunciado
 Construya la base técnica del tablero de COAGUA: una canalización ETL reproducible y un modelo de datos que permita responder preguntas de control sobre pagos y cartera.
@@ -17,12 +17,13 @@ Construya la base técnica del tablero de COAGUA: una canalización ETL reproduc
    - hallazgos de calidad: qué problemas se encontraron y cómo se trataron (corregir, excluir o marcar);
    - **tres preguntas de control** que el modelo permite responder, con su respuesta preliminar.
 
-## Distribución sugerida del tiempo (6 h)
+## Distribución sugerida del tiempo (3.5 h)
+El ETL y las columnas de control se construyen en el [T1](../unidad-1/actividades.md#t1) (5.5 h); aquí se parte de ese `.pbix`.
+
 | Tarea | Horas |
 |---|---:|
-| Completar el ETL a partir de T1 | 1.5 |
-| Columnas de control adicionales | 1.0 |
-| Modelo y validación de totales | 1.5 |
+| Revisar el ETL y las columnas de control heredadas del T1 | 0.5 |
+| Modelo y validación de totales | 1.0 |
 | Página de calidad | 0.5 |
 | Memoria técnica | 1.5 |
 

@@ -45,7 +45,7 @@ recursos/              Instalación y enlaces verificados
 ## Requisitos
 - Computador con Windows y **Power BI Desktop** (gratuito) o una de las alternativas para Mac.
 - Excel (tablas dinámicas) y PowerPoint, según el syllabus oficial.
-- *Opcional (profundización C):* Python 3.10 o superior con `pip install -r scripts/requirements.txt`, o R.
+- Python 3.10 o superior con `pip install -r scripts/requirements.txt`, **o una cuenta de Google para usar Google Colab sin instalar nada**. Se usa desde el Taller T0; en la profundización C se puede usar R en su lugar.
 
 Ninguna actividad requiere licencias de pago.
 

@@ -22,4 +22,4 @@ Todas las medidas están en [`medidas.dax`](medidas.dax), organizadas en 7 carpe
 Implemente y documente en un diccionario (nombre, fórmula, interpretación, umbral) al menos estas 10 medidas: `Total pagado`, `N° pagos`, `Ejecución presupuestal %`, `% pagos en día no hábil`, `% pagos sin segregación`, `Pagos antes de aprobación`, `Pagos sobre límite de aprobación`, `Pagos en grupos duplicados`, `Indicador de cartera vencida` y `Concentración top 10 clientes`.
 
 ## Validación cruzada
-Verifique en una tabla de Power BI que `N° pagos` total coincide con el número de filas de `pagos.csv` (ver Excel del T0). Si no coincide, el modelo tiene un problema de relaciones o de carga.
+Verifique en una tabla de Power BI que `N° pagos` total coincide con el número de filas de `pagos.csv` (ver el cuaderno del T0). Si no coincide, el modelo tiene un problema de relaciones o de carga.

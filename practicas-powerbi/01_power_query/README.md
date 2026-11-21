@@ -1,7 +1,7 @@
 # Práctica 01 · ETL con Power Query
 
-**Unidad:** U1 (y U2 para calidad de datos) · **RA:** RA1, RA2 · **Se usa en:** Laboratorio L1 (S1), Taller T1, Avance 1
-**Tiempo estimado:** 110 minutos en clase + 3 h en el T1
+**Unidad:** U1 (y U2 para calidad de datos) · **RA:** RA1, RA2 · **Se usa en:** Taller T1 (semana 2) y Avance 1. En el S1 solo se hace una demostración de 20 minutos de los pasos 1 y 2
+**Tiempo estimado:** unas 5 h dentro del T1 (5.5 h con la documentación)
 
 ## Objetivo
 
@@ -24,13 +24,13 @@ Construir una canalización ETL reproducible que cargue los datos de COAGUA, les
    | `calificacion_esperada` | Coherencia entre la mora y la calificación de cartera |
    | `fuera_de_politica` | Topes de monto y rangos de tasa por línea |
 
-5. **Perfilado (L1, parte 2).** *Vista → Calidad de columna, Distribución de columnas y Perfil de columna*. Por defecto el perfilado usa las primeras 1.000 filas: cámbielo a "basado en todo el conjunto de datos" en la barra de estado. Anote en una tabla los porcentajes de válidos, errores y vacíos de las columnas clave.
+5. **Perfilado.** *Vista → Calidad de columna, Distribución de columnas y Perfil de columna*. Por defecto el perfilado usa las primeras 1.000 filas: cámbielo a "basado en todo el conjunto de datos" en la barra de estado. Anote en una tabla los porcentajes de válidos, errores y vacíos de las columnas clave.
 6. **Tabla de excepciones.** Cree `tExcepcionesCalidad` (último bloque). Responda: ¿cuántos registros incumplen cada regla? ¿Cuál es un problema de calidad del dato y cuál es un posible problema de control?
 7. **Cargar.** *Cerrar y aplicar*. Desactive la carga de `fnLeerCsv`, que es una función, no una tabla.
 8. *(Opcional, después del T4)* Ejecute `python scripts/deteccion_anomalias.py` para generar `datos/resultados/` y cree `fAlertas` y `fPuntajePagos`.
 
-## Entregable del L1
-`.pbix` con todas las consultas y una tabla (en una página del informe o en un comentario) con los resultados del perfilado y del paso 6.
+## Entregable
+El del [T1](../../unidad-1/actividades.md#t1): `.pbix` con todas las consultas y una tabla (en una página del informe o en un comentario) con los resultados del perfilado y del paso 6, más el documento del flujo.
 
 ## Si algo falla
 - **"No se encontró el archivo"**: revise que `RutaDatos` termine en `\` y que no tenga comillas de más.

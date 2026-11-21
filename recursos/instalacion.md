@@ -7,7 +7,7 @@ Todo el curso puede hacerse **sin licencias de pago**.
 1. Instalar **Power BI Desktop**, que es gratuito, desde Microsoft Store o desde el Centro de descargas de Microsoft. Guía oficial: https://learn.microsoft.com/es-es/power-bi/fundamentals/desktop-get-the-desktop
 2. Descargar este repositorio: *Code → Download ZIP* en GitHub, o `git clone`.
 3. En Power BI, crear el parámetro `RutaDatos` con la ruta local de la carpeta `datos\` terminada en `\`. Ver [práctica 01](../practicas-powerbi/01_power_query/README.md).
-4. *(Solo para la profundización C)* Instalar Python 3.10 o superior y ejecutar `pip install -r scripts/requirements.txt`. En Power BI, ir a *Archivo → Opciones → Scripts de Python* y seleccionar el directorio de Python. Guía: https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-python-scripts
+4. *Para el T0 y la profundización C:* usar **Google Colab** (sin instalar nada, con una cuenta de Google) o instalar Python 3.10 o superior y ejecutar `pip install -r scripts/requirements.txt`. En Power BI, ir a *Archivo → Opciones → Scripts de Python* y seleccionar el directorio de Python. Guía: https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-python-scripts
 
 ## 2. Mac
 
@@ -20,11 +20,11 @@ Power BI Desktop **no tiene versión para macOS**. Hay cuatro alternativas, de m
 | C. Escritorio remoto a un PC con Windows | Microsoft Remote Desktop / Windows App hacia un equipo propio o de la Universidad | Sin instalación local pesada | Requiere un PC con Windows disponible y buena conexión |
 | D. Power BI Service (web) | app.powerbi.com con cuenta institucional | Funciona en el navegador | Editar Power Query y el modelo en la web tiene limitaciones frente a Desktop. Las capacidades exactas dependen de la licencia de la cuenta institucional (**pendiente de verificación** con TI de la Universidad). Compartir requiere licencia Pro |
 
-**Plan mínimo para Mac sin ninguna de las anteriores:** los talleres T0–T2 pueden hacerse con **Power Query en Excel para Mac**, con funciones de edición más limitadas que en Windows, y los scripts de Python de `scripts/` corren en macOS sin cambios. En ese caso, el estudiante entrega capturas y el archivo de Excel en lugar del `.pbix`, y debe coordinar con su equipo que un integrante con Windows consolide el tablero del caso integrador.
+**Plan mínimo para Mac sin ninguna de las anteriores:** el T0 puede hacerse en **Google Colab** y los talleres T1–T2 con **Power Query en Excel para Mac**, con funciones de edición más limitadas que en Windows, y los scripts de Python de `scripts/` corren en macOS sin cambios. En ese caso, el estudiante entrega capturas y el archivo de Excel en lugar del `.pbix`, y debe coordinar con su equipo que un integrante con Windows consolide el tablero del caso integrador.
 
 ## 3. Verificación del entorno (Taller T0)
 
 - [ ] Power BI Desktop abre y muestra la versión en *Ayuda → Acerca de*.
 - [ ] Se cargó `datos/integrador/pagos.csv` y la vista previa muestra 12 columnas.
-- [ ] Excel abre `pagos.csv` y permite crear una tabla dinámica.
+- [ ] El cuaderno `unidad-1/t0_exploracion_pagos.ipynb` abre (en Colab o en su computador) y `pd.read_csv` carga `pagos.csv` con 12 columnas.
 - [ ] *(Opcional)* `python scripts/deteccion_anomalias.py` se ejecuta sin errores.

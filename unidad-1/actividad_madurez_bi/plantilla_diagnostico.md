@@ -19,6 +19,22 @@ Copie este archivo, complételo y expórtelo a PDF (máximo **3 páginas**). Las
 
 *Puntaje: 1 a 5, o **NV**. Tipo de evidencia: D, S, O o T (si hay varias, escriba la de mayor peso primero). Confianza: A, M o B. Recuerde: más de 3 exige D o S.*
 
+*Qué significan las siglas (se borra al entregar):*
+
+| Columna | Sigla | Significa |
+|---|---|---|
+| **Puntaje** | 1 a 5 | Nivel que describe lo que usted **verificó**, según las anclas del instrumento |
+| | **NV** | **No verificable:** no hay evidencia. No se promedia; anote en la sección de pendientes qué evidencia haría falta |
+| **Tipo** (de dónde viene la evidencia) | **D** | **Documento:** política, manual, glosario, diagrama, acta o reporte |
+| | **S** | **Sistema:** usted vio funcionar el sistema, el modelo o el tablero, o tiene acceso a él |
+| | **O** | **Observación directa** de un proceso en operación |
+| | **T** | **Testimonio:** alguien se lo dijo |
+| **Confianza** (qué tan sólida es la evidencia) | **A** | **Alta:** evidencia D o S vigente |
+| | **M** | **Media** |
+| | **B** | **Baja:** solo testimonio (T) |
+
+*Orden de peso de la evidencia: D y S pesan más que O, y O más que T. Con solo O o T, el puntaje máximo es 3.*
+
 | Cód. | Pregunta | Puntaje | Tipo | Descripción de la evidencia (tipo, nombre genérico, fecha, quién la mantiene) | Confianza |
 |---|---|:-:|:-:|---|:-:|
 | D1.1 | ¿Los indicadores clave tienen definición única y dueño? | | | | |
