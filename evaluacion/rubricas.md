@@ -35,7 +35,7 @@ Las rúbricas del caso integrador están en [`caso-integrador/`](../caso-integra
 | Presentación | 10% | Clara, dentro del límite de páginas | Aceptable | Desordenada | Ilegible |
 
 ## R4. Profundización (A, B, C)
-*(A 2%; B 1.5%; C 1.5%.)*
+*(B 1.5%; C 1.5%. La profundización A se califica con la [R6](#r6-diagnóstico-de-madurez-de-bi-con-evidencia).)*
 
 | Criterio | Peso | Excelente | Bueno | Básico | Insuficiente |
 |---|---:|---|---|---|---|
@@ -54,3 +54,15 @@ Las rúbricas del caso integrador están en [`caso-integrador/`](../caso-integra
 | Lección para el control organizacional | 20% | Lección concreta y transferible a COAGUA o a la organización propia | Lección general | Vaga | Ausente |
 | Réplica / respuesta a la réplica | 15% | Crítica fundamentada o respuesta precisa | Adecuada | Débil | Ausente |
 | Comunicación y tiempo | 15% | Dentro del tiempo; participación equilibrada; apoyos visuales claros | Desvío menor | Se excede o lee | Muy por fuera |
+
+## R6. Diagnóstico de madurez de BI con evidencia
+*(Profundización A, 2% de la nota final. Individual, entrega al cierre de la semana 2.)*
+
+| Criterio | Peso | Excelente | Bueno | Básico | Insuficiente |
+|---|---:|---|---|---|---|
+| Calidad de la evidencia | 35% | Evidencia específica, tipada y vigente; cumple la regla D/S para todo puntaje mayor a 3 | Evidencia correcta en la mayoría; algunas descripciones genéricas | Evidencia vaga o mayormente testimonial | Sin evidencia o calificaciones inconsistentes con la regla |
+| Coherencia del juicio y confianza | 25% | Puntajes coherentes con las anclas; confianza bien calibrada; usa NV cuando corresponde | Puntajes razonables; confianza parcialmente calibrada | Puntajes inflados o sin justificar | Puntajes arbitrarios; no declara NV ni confianza |
+| Dimensión limitante y riesgo de control | 25% | Identifica la dimensión limitante, el riesgo de control concreto, el vínculo con COSO y una acción realizable en 90 días | Identifica dimensión y riesgo; la acción es general | Descripción sin vínculo con control | No identifica la dimensión limitante |
+| Comunicación y cumplimiento | 15% | Claro, dentro de las 3 páginas. **Ruta A:** confidencialidad respetada. **Ruta B:** solo fuentes del curso y preguntas pendientes bien formuladas | Claro, con detalles menores | Desordenado o excedido | Incumple confidencialidad o usa fuentes no permitidas |
+
+*La Ruta B no se califica con criterios más laxos ni más estrictos: se aplican los mismos cuatro, con la adaptación del criterio 4. Un diagnóstico que afirme o sugiera irregularidades en los datos de COAGUA incumple el criterio 4.*

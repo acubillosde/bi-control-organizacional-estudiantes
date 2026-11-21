@@ -17,7 +17,7 @@ Relaciona cada resultado de aprendizaje (RA) con unidad, actividad, evidencia y 
 | RA1, RA2 | U2 | Laboratorio L2 (parte 1): modelo y DAX | S2 B1 | `.pbix` L2 | P | P. Pérez (2020) |
 | RA1, RA2 | U2 | T2 Modelo estrella + DAX | S1→S2 | `.pbix` + diccionario (2%) | I | — |
 | RA2 | U2 | Gobierno y calidad: perfilado | S1 B4 | `.pbix` L1 (tabla de excepciones) | P | Soares (2012); MinCiencias (s.f.) |
-| RA2 | U2 | Profundización A: calidad y gobierno | S1→S2 | Informe + mini política (2%) | I | MinCiencias (s.f.); Ley 1581 de 2012 (propuesta) |
+| RA2 | U2 | Profundización A: diagnóstico de madurez de BI con evidencia | S1→S2 | Matriz + perfil + análisis (2%) | I | COSO (2013), principio 13; Ley 1581 de 2012 y DAMA-DMBOK (propuestas) |
 | RA2 | U2 | Seminario de datificación y dashboards | S2 B2 | Participación; Quiz U2 | P / I | Schafheitle et al. (2020); Pauwels et al. (2009) |
 | RA2, RA3 | U2 | Exposición: caso centro comercial | S2 B2 | Rúbrica de exposición (10%) | P | Ramírez-Angulo y Chaparro-Guevara (2020) |
 | RA2 | U2 | Matriz de indicadores de control de COAGUA | S2 B2 | Matriz del equipo (insumo del AV2) | P | Pauwels et al. (2009) |

@@ -66,7 +66,7 @@ Las fuentes del caso integrador tal como existen en COAGUA: ERP en PostgreSQL, E
 
 | Archivo | Filas | Uso |
 |---|---:|---|
-| `clientes_maestro.csv` | ≈ 1.250 | Profundización A: perfilado de calidad y gobierno de datos |
+| `clientes_maestro.csv` | ≈ 1.250 | Extensión opcional de la profundización A: perfilado de calidad y gobierno de datos |
 | `gastos_viaje_retail.csv` | ≈ 2.550 | Profundización B: gastos de viaje de "Almacenes Mirador" (cadena de retail ficticia) |
 
 `gastos_viaje_retail.csv`: `id_gasto`, `id_empleado`, `fecha`, `ciudad`, `categoria` (Hotel, Alimentación, Transporte aéreo, Taxi), `valor`, `numero_recibo`, `tope_politica`, `aprobado_por`.

@@ -10,7 +10,7 @@
 | 09:20–09:30 | — | — | Pausa activa | — | — | — |
 | 09:30–10:00 | B1 | U1 | BI frente a Business Analytics: lluvia de ideas y tabla comparativa en equipos | Trabajo en equipo | RA1 | Tabla comparativa |
 | 10:00–10:40 | B2 | U1 | Ciclo de vida analítico y CRISP-DM aplicado a una auditoría de pagos | Mini clase | RA1 | — |
-| 10:40–11:30 | B2 | U1 | Casos: SYSCO (2004) y DIARI de la Contraloría (caso colombiano actual). Discusión en equipos y plenaria | Método del caso | RA1, RA2 | Respuestas de la guía |
+| 10:40–11:30 | B2 | U1 | Casos: SYSCO (2004, o su alternativa ficticia, la Distribuidora Andina) y DIARI de la Contraloría (caso colombiano actual). Discusión en equipos y plenaria | Método del caso | RA1, RA2 | Respuestas de la guía |
 | 11:30–11:40 | — | — | Pausa activa | — | — | — |
 | 11:40–12:00 | B2 | U1 | Conformación de equipos, asignación de exposiciones (S2 y S3) y lanzamiento del caso integrador | Organización | — | Acta de equipos |
 | 12:00–13:00 | — | — | **Almuerzo** | — | — | — |

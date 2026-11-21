@@ -1,8 +1,19 @@
 # Actividades · Unidad 2
 
-## <a id="pa"></a>PA · Profundización A: gobierno y calidad de datos (semana 2, 2.5 h, en equipo, 2%)
+## <a id="pa"></a>PA · Profundización A: diagnóstico de madurez de BI con evidencia (semana 2, 2.75 h, individual, 2%)
 
-**RA:** RA2 · **Datos:** `datos/profundizacion/clientes_maestro.csv` (maestro de clientes de COAGUA) · **Fecha límite:** sábado de la semana 2
+**RA:** RA1, RA2 · **Fecha límite:** sábado de la semana 2 · **Guía completa:** [actividad de diagnóstico de madurez de BI con evidencia](../unidad-1/actividad_madurez_bi/README.md) · **Rúbrica:** [R6](../evaluacion/rubricas.md#r6-diagnóstico-de-madurez-de-bi-con-evidencia)
+
+Diagnostique la madurez de BI de una organización con evidencia verificable y no con percepción: 4 dimensiones, 12 preguntas, reglas de evidencia (documento, sistema, observación, testimonio; más de 3 exige documento o sistema) y «no verificable» cuando no se puede comprobar. Hay dos rutas: su organización (Ruta A) o COAGUA con las fuentes del curso (Ruta B, [catálogo de fuentes](../caso-integrador/madurez/coagua_fuentes.md)).
+
+1. **Instrumento (45 min):** lea las 12 preguntas y sus anclas.
+2. **Evidencia (75 min):** busque y describa la evidencia de cada pregunta.
+3. **Redacción (45 min):** matriz, perfil por dimensiones y análisis de 200 palabras.
+
+**Entregable:** PDF de máximo 3 páginas (ficha de alcance, matriz, perfil, análisis y, en la Ruta A, declaración de confidencialidad) y el formulario anónimo con sus puntajes por dimensión (Ruta A). Se comenta en el [debrief del S2](../casos/caso_centro_comercial.md#debrief).
+
+### Extensión opcional (sin nota): calidad y gobierno del maestro de clientes
+Era la profundización A en versiones anteriores del curso. Se conserva para quien quiera practicar el perfilado de un dato maestro con datos personales. **No tiene entrega ni nota.**
 
 Esta actividad **no repite** el laboratorio L1: allí se perfilaron transacciones; aquí se evalúa un **dato maestro** con datos personales y se propone su gobierno.
 
@@ -23,10 +34,6 @@ Esta actividad **no repite** el laboratorio L1: allí se perfilaron transaccione
    - 5 reglas de calidad con su umbral y su responsable;
    - tratamiento de datos personales: finalidad, autorización y acceso mínimo, con referencia a la Ley 1581 de 2012;
    - cómo se monitoreará el índice en el tablero.
-
-**Entregable:** `.pbix` o `.xlsx` con el perfilado + PDF de 2 páginas.
-**Criterio:** [rúbrica de profundización](../evaluacion/rubricas.md#r4-profundización).
-
 ---
 
 ## <a id="t2"></a>T2 · Modelo estrella y medidas DAX de control (semana 3, 3 h, en equipo, 2%)

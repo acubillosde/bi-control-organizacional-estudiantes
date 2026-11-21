@@ -6,7 +6,7 @@
 |---|---|---:|---|---|
 | 70% | Quices | 15% | Q1 3.75% · Q2 3.75% · Q3 3.75% · Q4 3.75% | Individual |
 | 70% | Informe de lectura previa | 10% | Ficha de revisión documental | Individual |
-| 70% | Talleres y trabajos en clase | 20% | L1 2% · L2 2% · L3 2% · T0 1% · T1 2% · T2 2% · T3 2% · T4 2% · PA 2% · PB 1.5% · PC 1.5% | Grupal (T0 es individual) |
+| 70% | Talleres y trabajos en clase | 20% | L1 2% · L2 2% · L3 2% · T0 1% · T1 2% · T2 2% · T3 2% · T4 2% · PA 2% · PB 1.5% · PC 1.5% | Grupal (T0 y PA son individuales) |
 | 70% | Exposiciones | 25% | Exposición o réplica de caso 10% · Sustentación ante el comité 15% | Grupal |
 | 30% | Caso de estudio | 30% | Avance 1 7.5% · Avance 2 7.5% · Entrega final 15% | En equipo |
 | | **Total** | **100%** | | |

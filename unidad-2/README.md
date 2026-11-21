@@ -12,17 +12,18 @@
 
 ## Contenidos
 1. Rol estratégico de BI en el control organizacional: datificación y control.
-2. Gobierno de datos: roles (dueño, custodio, usuario), políticas, ciclo de vida y protección de datos personales (Ley 1581 de 2012).
+2. Gobierno de datos: roles (dueño, custodio, usuario), políticas, ciclo de vida y protección de datos personales (Ley 1581 de 2012). Marco de referencia: DAMA-DMBOK.
 3. Calidad de datos: dimensiones, perfilado, reglas y tablas de excepciones.
 4. Modelo de datos (esquema estrella) y DAX.
 5. KPIs, KRIs e indicadores de control; dashboards de monitoreo; cuadro de mando integral.
-6. Caso: madurez de BI en un centro comercial.
+6. Modelos de madurez de BI. Caso: centro comercial colombiano. Antecedente: la [actividad de diagnóstico de madurez](../unidad-1/actividad_madurez_bi/README.md) de la U1; en el S2 se hace un debrief de 15 minutos con los resultados anónimos de la cohorte.
 
 ## Materiales
 | Material | Enlace |
 |---|---|
 | Lecturas | [lecturas.md](lecturas.md) |
 | Actividades (PA, T2, matriz de indicadores) | [actividades.md](actividades.md) |
+| Antecedente del caso (U1) | [Diagnóstico de madurez de BI con evidencia](../unidad-1/actividad_madurez_bi/README.md) |
 | Caso | [Centro comercial](../casos/caso_centro_comercial.md) |
 | Prácticas | [02 Modelo](../practicas-powerbi/02_modelo_datos/README.md) · [03 DAX](../practicas-powerbi/03_dax/README.md) |
 | Quiz de cierre | [Quiz U2](../evaluacion/quizzes/quiz_u2.md) |

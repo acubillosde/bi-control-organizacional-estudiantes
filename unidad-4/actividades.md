@@ -31,6 +31,8 @@ Este taller se hace **antes** del S3 (aula invertida): llega al sábado con la m
 
 ## <a id="pb"></a>PB · Profundización B: segundo dataset de otra industria (semana 5, 2.5 h, en equipo, 1.5%)
 
+**Contexto narrativo:** [Almacenes Mirador](../casos/caso_mirador.md) (8 minutos de lectura).
+
 **RA:** RA2, RA3 · **Datos:** `datos/profundizacion/gastos_viaje_retail.csv`: gastos de viaje de "Almacenes Mirador", cadena de retail ficticia · **Fecha límite:** jueves de la semana 5
 
 Esta actividad **no repite** el T4. Aplica la lógica de las pruebas a otra industria y a otro proceso.
