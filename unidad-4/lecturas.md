@@ -8,7 +8,8 @@
 | **Obligatoria (caso)** | Shih (2012). *La construcción de Watson* (HBS) | Semana 5 | 2.0 | Exposición y discusión del S3 |
 | **Obligatoria de cierre (elegir una)** | Lemus-Delgado y Pérez Navarro (2020) **o** CILIP (2021), caps. 4–5 | Semana 6 | 2.0 | Sección "hoja de ruta" de la entrega final |
 | Complementaria | Bramer (2016); Girones y Casas (2017); Newbold et al. (2008); Taddy (2019); Moreno y Gómez (2021) | Libre | — | — |
-| Propuesta | ISO 31000:2018; IIA GTAG 3 (2015, 2.ª ed.) y *Continuous Auditing and Monitoring* (2025, 3.ª ed.); Liu, Ting y Zhou (2008); Nigrini (2012) | Libre | — | — |
+| Propuesta | ISO 31000:2018; IIA GTAG 3 (2015, 2.ª ed.) y *Continuous Auditing and Monitoring* (2025, 3.ª ed.); Studer et al. (2021), CRISP-ML(Q); Liu, Ting y Zhou (2008); Nigrini (2012) | Libre | — | — |
+| Contexto histórico | The IIA (2011), *Data Analysis Technologies* (antes GTAG 16) | Libre | — | — |
 
 Referencias completas: [`lecturas/lecturas.md`](../lecturas/lecturas.md).
 

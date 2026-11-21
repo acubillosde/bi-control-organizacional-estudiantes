@@ -38,6 +38,7 @@ El estado de cada enlace está en [`recursos/enlaces_verificados.md`](../recurso
 | Obligatoria | Una de las opciones pre-S1 (arriba) | Ficha de revisión documental | 2.0 |
 | Obligatoria (consulta en el S1) | Jensen, K. (2016). *IBM CRISP-DM Guide*. IBM. Versión vigente consultable: IBM (s.f.), *IBM SPSS Modeler CRISP-DM Guide*. **Pendiente de verificación:** el autor "Jensen" no figura en la versión vigente | Fases de CRISP-DM en el S1 B2 | (presencial) |
 | Complementaria | Chapman, P., Clinton, J., Kerber, R., Khabaza, T., Reinartz, T., Shearer, C. y Wirth, R. (2000). *CRISP-DM 1.0: Step-by-step data mining guide*. SPSS | Documento original de CRISP-DM | — |
+| Propuesta (contraste) | IBM (2015). *ASUM-DM* (Analytics Solutions Unified Method for Data Mining/Predictive Analytics). **Pendiente de verificación:** el documento original de IBM no se pudo consultar (acceso denegado); el año y la relación con CRISP-DM se confirmaron en fuentes secundarias | Contraste con CRISP-DM en el S1 (diapositiva de ampliación). No se evalúa | — |
 | Complementaria (libro) | Joyanes, L. (2019). *Inteligencia de negocios y analítica de datos*. Alfaomega | Base conceptual de BI | — |
 | Complementaria (libro) | EMC Education Services (2015). *Data Science & Big Data Analytics*. Wiley. Cap. 2: ciclo de vida analítico | Comparar con CRISP-DM | — |
 | Complementaria (libro) | Pochiraju, B. y Seshadri, S. (Eds.) (2018). *Essentials of Business Analytics*. Springer | BI frente a BA | — |
@@ -55,7 +56,7 @@ El estado de cada enlace está en [`recursos/enlaces_verificados.md`](../recurso
 | **Obligatoria** | Schafheitle, S., Weibel, A., Ebert, I., Kasper, G., Schank, C. y Leicht-Deobald, U. (2020). No stone left unturned? Toward a framework for the impact of datafication technologies on organizational control. *Academy of Management Discoveries*, 6(3), 455–487. https://doi.org/10.5465/amd.2019.0002 | Pieza central de U2. 33 p, alta (8 p/h) | 4.0 |
 | **Obligatoria** | Pauwels, K., Ambler, T., Clark, B. H., LaPointe, P., Reibstein, D., Skiera, B., Wierenga, B. y Wiesel, T. (2009). Dashboards as a service: Why, what, how, and what research is needed? *Journal of Service Research*, 12(2), 175–189. https://doi.org/10.1177/1094670509344213 | Etapas de desarrollo de un dashboard. 15 p, media-alta | 1.5 |
 | **Obligatoria (caso)** | Ramírez-Angulo, P. J. y Chaparro-Guevara, R. A. (2020). Business intelligence readiness assessment for a shopping mall: Challenges and future directions. *Journal of Cases on Information Technology*, 22(2), 18–33. https://doi.org/10.4018/JCIT.2020040102 | [Guía del caso](../casos/caso_centro_comercial.md). 16 p, media-alta | 1.5 |
-| Consulta (PA) | MinCiencias (s.f.). *Guía para la gestión de datos de investigación* | Roles y ciclo de vida del dato en la profundización A | (en PA) |
+| Consulta (extensión opcional de la PA) | MinCiencias (s.f.). *Guía para la gestión de datos de investigación* | Roles y ciclo de vida del dato en la extensión opcional de la profundización A | (opcional) |
 | Complementaria (libro) | Soares, S. (2012). *Big Data Governance: An Emerging Imperative*. MC Press | Gobierno de datos | — |
 | Complementaria (libro) | García, J., Molina, J. y Berlanga, A. (2018). *Ciencia de datos*. Alfaomega. Capítulos de preprocesamiento | Calidad y preparación | — |
 | Complementaria (libro) | Pérez, P. (2020). *Power BI*. Kimpres | Apoyo técnico | — |
@@ -63,6 +64,7 @@ El estado de cada enlace está en [`recursos/enlaces_verificados.md`](../recurso
 | Complementaria | Forsyth, J. y Boucher, L. (2015). Why big data is not enough. *Research World*, (50), 26–27. https://doi.org/10.1002/rwm3.20187 | — | — |
 | Propuesta | Ley 1581 de 2012 (protección de datos personales) | Restricciones de uso de datos personales en el tablero | — |
 | Propuesta | DNP (2018). *Documento CONPES 3920: Política nacional de explotación de datos (Big Data)* | Marco de política pública colombiana sobre datos | — |
+| Propuesta | DAMA International (2024). *DAMA-DMBOK: Data Management Body of Knowledge* (2.ª ed., revisada). Technics Publications. Libro de pago; la 2.ª edición original es de 2017 o 2018 según la fuente. **Pendiente de verificación:** disponibilidad en la Biblioteca UEC | Vocabulario estándar de gobierno y calidad de datos (profundización A) | — |
 
 ## Unidad 3 · Visualización y comunicación
 
@@ -92,6 +94,8 @@ El estado de cada enlace está en [`recursos/enlaces_verificados.md`](../recurso
 | Complementaria (libro) | Moreno, P. y Gómez, G. (2021). *Machine Learning en Power BI con R y Python*. **Pendiente de verificación:** editorial ("Mlbi") | Profundización C | — |
 | Propuesta | ISO (2018). *ISO 31000:2018 Gestión del riesgo – Directrices*. La norma es de pago; sus términos y principios pueden consultarse en la plataforma OBP de ISO | Proceso de gestión del riesgo | — |
 | Propuesta | The IIA (2015). *GTAG 3: Continuous Auditing: Coordinating Continuous Auditing and Monitoring to Provide Continuous Assurance* (2.ª ed.). Reemplazada por *Continuous Auditing and Monitoring* (3.ª ed., 2025), de acceso para miembros | Auditoría y monitoreo continuos | — |
+| Propuesta | Studer, S. et al. (2021). Towards CRISP-ML(Q): A machine learning process model with quality assurance methodology. *Machine Learning and Knowledge Extraction*, 3(2), 392–413. https://doi.org/10.3390/make3020020. Acceso abierto. **Pendiente de verificación:** lista completa de autores | Ciclo de vida de un modelo en producción: aseguramiento de calidad y monitoreo (caso Watson, profundización C) | — |
+| Propuesta (contexto histórico) | The IIA (2011). *Data Analysis Technologies* (antes GTAG 16). El IIA la marca como referencia histórica | Tecnologías de análisis de datos para auditoría. Anterior a 2024 | — |
 | Propuesta | Liu, F. T., Ting, K. M. y Zhou, Z.-H. (2008). Isolation forest. *2008 Eighth IEEE International Conference on Data Mining*, 413–422. https://doi.org/10.1109/ICDM.2008.17 | Fundamento del algoritmo | — |
 | Propuesta | Nigrini, M. J. (2012). *Benford's Law: Applications for Forensic Accounting, Auditing, and Fraud Detection*. Wiley. **Pendiente de verificación:** tabla de umbrales MAD (las fuentes secundarias difieren entre 0.004 y 0.006 para "conformidad cercana") | Umbrales MAD de Benford | — |
 | Propuesta (normativa) | Ver [mapa normativo colombiano](../unidad-4/lecturas.md#mapa-normativo) | — | — |

@@ -1,6 +1,6 @@
 # Quiz de cierre · Unidad 1: BI y Business Analytics
 
-_3.75% de la nota. 20 minutos. Individual._
+_3.75% de la nota. 25 minutos. Individual._
 
 Seleccione una opción por pregunta.
 
@@ -53,7 +53,7 @@ Seleccione una opción por pregunta.
 - c) Integrado, orientado a temas, histórico y no volátil
 - d) Un archivo de Excel compartido
 
-**8.** En el caso SYSCO, la lección más vigente para el control organizacional es que…
+**8.** En el caso de inversión en BI trabajado en el S1 (SYSCO o la Distribuidora Andina), la lección más vigente para el control organizacional es que…
 
 - a) La nube resuelve el problema
 - b) El precio de las licencias decide el éxito
@@ -74,3 +74,24 @@ Seleccione una opción por pregunta.
 - c) Ninguno
 - d) Que se convierta en fecha
 
+
+**11.** Un estudiante califica con 5 la integración de fuentes de su entidad porque su jefe le dijo que «todo está automatizado». Según la regla de evidencia del curso, ¿cuál es la calificación máxima que puede asignar?
+
+- a) 5
+- b) 4
+- c) 3
+- d) 1
+
+**12.** ¿Por qué el diagnóstico de madurez no calcula un nivel global como promedio de las cuatro dimensiones?
+
+- a) Porque cada dimensión se evalúa con un modelo distinto
+- b) Porque el promedio oculta el eslabón más débil, que limita la confiabilidad del tablero
+- c) Porque un promedio exige datos históricos
+- d) Porque la Ley 1581 lo prohíbe
+
+**13.** Una entidad obtiene nivel 4 en las cuatro dimensiones de madurez de BI. ¿Qué indicador mostraría mejor si esa capacidad genera valor?
+
+- a) Número de tableros publicados
+- b) Porcentaje de decisiones y acciones trazables a un tablero
+- c) Cantidad de licencias adquiridas
+- d) Número de usuarios con acceso

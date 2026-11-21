@@ -79,3 +79,17 @@
 | Microsoft Learn: scripts de Python en Power BI | https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-python-scripts | Vigente |
 | Microsoft Learn: scripts de R en Power BI | https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-r-scripts | Vigente |
 | Liu, Ting y Zhou (2008), Isolation Forest | https://doi.org/10.1109/ICDM.2008.17 | Vigente (IEEE Xplore) |
+
+## Verificación adicional · 20 de noviembre de 2026
+
+**Método:** búsqueda web y lectura de las páginas indicadas. No se probó cada URL con una solicitud HTTP; «existencia confirmada» significa que una fuente independiente la describe.
+
+| Fuente | URL | Estado |
+|---|---|---|
+| The IIA, *Continuous Auditing and Monitoring* (3.ª ed.) | https://www.theiia.org/en/content/guidance/recommended/supplemental/gtags/continuous-auditing-and-monitoring | Verificado: emitida y vigente desde el 25 de septiembre de 2025; reemplaza la edición de 2015. Descarga restringida a miembros; los no miembros pueden comprar el eBook en la tienda del IIA |
+| The IIA, *Data Analysis Technologies* (antes GTAG 16) | https://www.theiia.org/en/content/guidance/recommended/supplemental/gtags/gtag-data-analysis-technologies/ | Vigente como página, pero el IIA la marca como **referencia histórica** (2011). No se halló una edición sucesora |
+| Studer et al. (2021), CRISP-ML(Q) | https://doi.org/10.3390/make3020020 | Existencia y datos bibliográficos confirmados (*Machine Learning and Knowledge Extraction*, 3(2), 392–413; versión previa en arXiv 2003.05155). Indexada en DOAJ. Lista completa de autores **pendiente de verificación** |
+| DAMA International, *DAMA-DMBOK* (2.ª ed., revisada) | https://dama.org/content/body-knowledge | Existencia confirmada. DAMA informa una edición revisada de marzo de 2024 y un proyecto DAMA-DMBOK 3.0 iniciado en 2025. Año de la 2.ª edición original: 2017 o 2018 según la fuente |
+| IBM (2015), ASUM-DM | https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining | **Solo fuente secundaria.** Confirma el año (2015) y que «refina y extiende CRISP-DM». El documento original de IBM no se pudo consultar (403 en el espejo encontrado). Las cinco fases se confirmaron en un artículo técnico, no en IBM |
+| TDWI, *BI Maturity Model* | — | Existencia confirmada en fuentes secundarias (se atribuye a Eckerson, 2004). El número de etapas difiere entre fuentes. Sin enlace oficial verificado |
+| Gartner, modelo de madurez de datos y analítica | https://www.gartner.com/en/data-analytics/research/data-analytics-maturity-score | Existencia confirmada (cinco niveles). Nombres de los niveles **no verificados**; el contenido es de acceso restringido |

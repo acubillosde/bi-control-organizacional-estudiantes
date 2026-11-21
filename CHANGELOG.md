@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [Sin publicar] · Actividad «Diagnóstico de madurez de BI con evidencia»
+
+- Nueva actividad individual de la U1 con dos rutas (organización propia o COAGUA), un instrumento de 4 dimensiones y 12 preguntas, reglas de evidencia y rúbrica R6: [`unidad-1/actividad_madurez_bi/`](unidad-1/actividad_madurez_bi/README.md).
+- Catálogo de fuentes para la Ruta B: [`caso-integrador/madurez/coagua_fuentes.md`](caso-integrador/madurez/coagua_fuentes.md).
+- Quiz U1: tres preguntas nuevas (11 a 13); el tiempo pasa de 20 a 25 minutos.
+- Debrief de 15 minutos en la guía del caso del centro comercial (S2).
+- Caso ficticio alternativo a SYSCO, cuando no se dispone del original: [`casos/caso_distribuidora_andina.md`](casos/caso_distribuidora_andina.md) (texto completo y guía de discusión con las mismas siete preguntas). La pregunta 8 del quiz U1 deja de nombrar solo a SYSCO.
+- **La Profundización A pasa a ser este diagnóstico** (individual, 2.75 h, 2%, rúbrica R6). El perfilado del maestro de clientes anterior se conserva como extensión opcional sin nota en `unidad-2/actividades.md`.
+- Índices de la U1 y la U2 actualizados.
+- Lecturas propuestas nuevas, sin horas asignadas: DAMA-DMBOK (U2), CRISP-ML(Q) (U4) y la guía del IIA sobre tecnologías de análisis de datos como contexto histórico (U4).
+
+
 ## [1.0.0] · 2026-10-27 · Primera versión del curso rediseñado
 
 ### Fuente

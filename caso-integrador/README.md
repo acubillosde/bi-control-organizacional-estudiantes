@@ -16,6 +16,8 @@ La gerencia de riesgos, por su parte, está preocupada por el aumento de la mora
 El comité contrató a su equipo (consultores de analítica para el control) para:
 > **Diseñar e implementar en Power BI un tablero de control interno que permita monitorear los riesgos del proceso de pagos y de la cartera, detectar anomalías y presentar recomendaciones al comité.**
 
+> **La historia completa**, con los personajes, las tensiones entre áreas, el RACI y el plan de siete semanas, está en el [caso narrativo de COAGUA](caso_coagua.md). Léalo antes del lanzamiento del caso (S1): este enunciado sigue siendo el que fija las entregas, los pesos y las rúbricas.
+
 ## Datos
 Carpeta [`datos/integrador/`](../datos/README.md). Los datos son sintéticos y contienen irregularidades que el equipo debe descubrir. **No se le dirá cuántas ni de qué tipo.**
 

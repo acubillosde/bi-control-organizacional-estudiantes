@@ -43,5 +43,5 @@ Partiendo del `.pbix` del L1:
 ---
 
 ## Discusión de casos (S1)
-- [Guía del caso SYSCO](../casos/caso_sysco.md)
+- [Guía del caso SYSCO](../casos/caso_sysco.md) (o el [caso ficticio de la Distribuidora Andina](../casos/caso_distribuidora_andina.md), si el docente lo indica)
 - [Guía del caso DIARI – Contraloría General de la República](../casos/caso_diari_contraloria.md)

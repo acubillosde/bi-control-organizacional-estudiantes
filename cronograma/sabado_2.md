@@ -1,7 +1,7 @@
 # Sábado 2 · Resto de U2 + U3
 
 **Fecha de ejemplo:** sábado 6 de marzo de 2027 · **Horario:** 08:00–17:00
-**Preparación previa del estudiante:** Quiz U1, lecturas de Schafheitle et al. y Pauwels et al., caso del centro comercial, T1, T2, profundización A, **Avance 1 entregado** (miércoles 3 de marzo).
+**Preparación previa del estudiante:** Quiz U1, lecturas de Schafheitle et al. y Pauwels et al., caso del centro comercial, T1, T2, profundización A (diagnóstico de madurez de BI), **Avance 1 entregado** (miércoles 3 de marzo).
 
 | Hora | Bloque | Unidad | Actividad | Modalidad | RA | Evidencia |
 |---|---|---|---|---|---|---|
@@ -9,8 +9,9 @@
 | 08:15–09:00 | B1 | U2 | Modelo estrella: hechos y dimensiones, cardinalidad, dirección de filtro, tabla de fechas, roles (fecha de pago vs. aprobación) | Mini clase + demo | RA1 | — |
 | 09:00–09:10 | — | — | Pausa activa | — | — | — |
 | 09:10–10:00 | B1 | U2 | **Laboratorio L2 (parte 1):** medidas DAX de control (SUM, DIVIDE, CALCULATE, filtros, inteligencia de tiempo) | Laboratorio guiado | RA1, RA2 | `.pbix` L2 |
-| 10:00–10:40 | B2 | U2 | Rol estratégico de BI en el control: datificación y control (Schafheitle et al.); KPI vs. KRI; cuadro de mando integral y dashboards de monitoreo (Pauwels et al.) | Seminario | RA2 | Participación |
-| 10:40–11:10 | B2 | U2 | **Exposición:** caso del centro comercial (equipo expositor 15' + réplica 7' + plenaria 8') | Exposición de equipo | RA2, RA3 | Rúbrica de exposición |
+| 10:00–10:25 | B2 | U2 | Rol estratégico de BI en el control: datificación y control (Schafheitle et al.); KPI vs. KRI; cuadro de mando integral y dashboards de monitoreo (Pauwels et al.) | Seminario | RA2 | Participación |
+| 10:25–10:55 | B2 | U2 | **Exposición:** caso del centro comercial (equipo expositor 15' + réplica 7' + plenaria 8') | Exposición de equipo | RA2, RA3 | Rúbrica de exposición |
+| 10:55–11:10 | B2 | U2 | **Debrief del diagnóstico de madurez de BI:** agregado anónimo de la cohorte, contraste con el modelo del caso, metacognición y cierre (ver la [guía del caso](../casos/caso_centro_comercial.md#debrief)) | Plenaria | RA1, RA2 | Participación |
 | 11:10–11:20 | — | — | Pausa activa | — | — | — |
 | 11:20–12:00 | B2 | U2 | Diseño del cuadro de control interno de COAGUA: perspectivas, objetivos, KPIs/KRIs, umbrales y responsables | Taller en equipos | RA2 | Matriz de indicadores |
 | 12:00–13:00 | — | — | **Almuerzo** | — | — | — |

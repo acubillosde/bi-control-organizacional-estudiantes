@@ -13,9 +13,9 @@
 
 ## Contenidos
 1. Control interno y gestión de riesgos: COSO 2013, ISO 31000, modelo de las tres líneas.
-2. Auditoría continua y monitoreo continuo: arquitectura, frecuencia, umbrales y escalamiento.
+2. Auditoría continua y monitoreo continuo: arquitectura, frecuencia, umbrales y escalamiento (guía del IIA, 3.ª ed., 2025).
 3. Analítica forense: Benford (chi-cuadrado y MAD), duplicados exactos y aproximados, pruebas de razonabilidad, muestreo (NIA 530).
-4. Analítica descriptiva, predictiva y prescriptiva: Isolation Forest, regresión logística y reglas de decisión.
+4. Analítica descriptiva, predictiva y prescriptiva: Isolation Forest, regresión logística y reglas de decisión. Ciclo de vida de un modelo en producción: aseguramiento de calidad y monitoreo (CRISP-ML(Q)).
 5. Mapa normativo colombiano aplicable.
 6. Caso: Watson (capacidades y límites de la IA).
 

@@ -54,11 +54,11 @@ Leyenda: **RA** = resultado de aprendizaje · **Peso** = porcentaje de la nota f
 | Q1 | [Quiz U1](../evaluacion/quizzes/quiz_u1.md) | 0.5 | RA1 | Quiz | Mié 24 feb | Respuestas correctas | 3.75% |
 | L1 | Lectura: Schafheitle et al. (2020), 33 p, complejidad alta | 4.0 | RA2 | Mapa del marco de datificación aplicado a una organización conocida (1 p) | Sáb 27 feb | Preguntas 1–3 del Quiz U2 y discusión del S2 | (Q2) |
 | T1 | [Taller T1](../unidad-1/actividades.md#t1): ETL completo en Power Query (pagos, maestros, calendario, festivos) | 3.0 | RA1 | Archivo `.pbix` + documento de pasos aplicados | Sáb 27 feb | [Rúbrica de taller autónomo](../evaluacion/rubricas.md#r3-taller-autónomo) | 2% |
-| PA | [Profundización A](../unidad-2/actividades.md#pa): gobierno y calidad de datos sobre `clientes_maestro.csv` | 2.5 | RA2 | Informe de calidad por dimensión + mini política de gobierno (2 p) | Sáb 27 feb | [Rúbrica de profundización](../evaluacion/rubricas.md#r4-profundización) | 2% |
-| EX | Preparación de la exposición o réplica asignada en el S1 | 2.0 | RA3 | Presentación (máx. 6 diapositivas) | Día de la exposición (S2 o S3) | [Rúbrica de exposición](../evaluacion/rubricas.md#r5-exposición-o-réplica-de-caso) | 10% |
+| PA | [Profundización A](../unidad-2/actividades.md#pa): [diagnóstico de madurez de BI con evidencia](../unidad-1/actividad_madurez_bi/README.md) (individual) | 2.75 | RA1, RA2 | Diagnóstico (PDF, máx. 3 p) + formulario anónimo | Sáb 27 feb | [Rúbrica R6](../evaluacion/rubricas.md#r6-diagnóstico-de-madurez-de-bi-con-evidencia) | 2% |
+| EX | Preparación de la exposición o réplica asignada en el S1 | 1.75 | RA3 | Presentación (máx. 6 diapositivas) | Día de la exposición (S2 o S3) | [Rúbrica de exposición](../evaluacion/rubricas.md#r5-exposición-o-réplica-de-caso) | 10% |
 | | **Subtotal** | **12.0** | | | | | |
 
-> Los equipos que exponen el caso Watson (S3) pueden trasladar las 2 h de EX a la semana 5 sin cambiar el total.
+> Los equipos que exponen el caso Watson (S3) pueden trasladar las 1.75 h de EX a la semana 5 sin cambiar el total.
 
 ### Semana 3 · Antes del Sábado 2 (12 h) · 28 feb – 5 mar
 
@@ -91,7 +91,7 @@ Leyenda: **RA** = resultado de aprendizaje · **Peso** = porcentaje de la nota f
 | L8 | Lectura: The Royal Society (2017), resumen ejecutivo, ≈12 p (est.), media | 1.0 | RA3 | Notas | Jue 18 mar | Preguntas del Quiz U4 | (Q4) |
 | L9 | Lectura: caso Watson (Shih, 2012), ≈20 p (est.), media-alta | 2.0 | RA3 | Respuestas a la [guía del caso](../casos/caso_watson.md) | Sáb 20 mar | Discusión del S3 y exposición de caso | (EX) |
 | T4 | [Taller T4](../unidad-4/actividades.md#t4): Benford, duplicados y reglas de control en Power BI | 3.0 | RA2 | `.pbix` + tabla de alertas | Jue 18 mar | [Rúbrica de taller autónomo](../evaluacion/rubricas.md#r3-taller-autónomo) | 2% |
-| PB | [Profundización B](../unidad-4/actividades.md#pb): segundo dataset de otra industria (gastos de viaje en retail) | 2.5 | RA2, RA3 | Hallazgos (1 p) + 1 página de Power BI | Jue 18 mar | [Rúbrica de profundización](../evaluacion/rubricas.md#r4-profundización) | 1.5% |
+| PB | [Profundización B](../unidad-4/actividades.md#pb): segundo dataset de otra industria (gastos de viaje en retail) | 2.5 | RA2, RA3 | Hallazgos (1 p) + 1 página de Power BI | Jue 18 mar | [Rúbrica de profundización](../evaluacion/rubricas.md#r4-profundización-a-b-c) | 1.5% |
 | SU | Preparación de la sustentación ante el comité de auditoría | 2.0 | RA3 | Presentación ejecutiva (máx. 8 diapositivas) | Sáb 20 mar (S3) | [Rúbrica de sustentación](../caso-integrador/entrega_final.md#rúbrica-de-sustentación) | 15% |
 | | **Subtotal** | **12.0** | | | | | |
 
@@ -101,7 +101,7 @@ Leyenda: **RA** = resultado de aprendizaje · **Peso** = porcentaje de la nota f
 |---|---|---:|---|---|---|---|---:|
 | Q4 | [Quiz U4](../evaluacion/quizzes/quiz_u4.md) | 0.5 | RA2, RA3 | Quiz | Mié 24 mar | Respuestas correctas | 3.75% |
 | L10 | Lectura de cierre, a elegir: Lemus-Delgado y Pérez Navarro (2020), 22 p, media; o CILIP (2021), caps. 4–5 (est.) | 2.0 | RA3 | Párrafo citado en la sección "hoja de ruta" del informe final | Sáb 3 abr | Criterio "Hoja de ruta" de la rúbrica final | (EF) |
-| PC | [Profundización C](../unidad-4/actividades.md#pc): modelo de ML (Python o R) consumido desde Power BI | 4.0 | RA3 | `.pbix` o capturas + nota metodológica (1 p) | Sáb 27 mar | [Rúbrica de profundización](../evaluacion/rubricas.md#r4-profundización) | 1.5% |
+| PC | [Profundización C](../unidad-4/actividades.md#pc): modelo de ML (Python o R) consumido desde Power BI | 4.0 | RA3 | `.pbix` o capturas + nota metodológica (1 p) | Sáb 27 mar | [Rúbrica de profundización](../evaluacion/rubricas.md#r4-profundización-a-b-c) | 1.5% |
 | EF-a | Entrega final, parte 1: incorporar la retroalimentación del comité al tablero | 1.5 | RA2 | Versión ajustada del `.pbix` | — | Se evalúa en EF | — |
 | | **Subtotal** | **8.0** | | | | | |
 
