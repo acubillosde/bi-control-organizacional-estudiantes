@@ -1,5 +1,7 @@
 # Plantilla · Diagnóstico de madurez de BI con evidencia
 
+**Versión de Excel con cálculo automático: [`plantilla_diagnostico.xlsx`](plantilla_diagnostico.xlsx).** Descárguela y complete las celdas amarillas: calcula sola el perfil por dimensiones, los NV, el «perfil incompleto» y la dimensión limitante, dibuja el radar y marca en rojo lo que incumple las reglas de evidencia. Esta versión en texto sirve de referencia.
+
 Copie este archivo, complételo y expórtelo a PDF (máximo **3 páginas**). Las instrucciones en cursiva se borran al entregar. La guía completa está en el [README de la actividad](README.md).
 
 ---
