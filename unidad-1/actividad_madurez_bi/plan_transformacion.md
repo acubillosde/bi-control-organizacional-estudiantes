@@ -13,7 +13,9 @@ Pasar de «¿qué tan madura es la organización?» a «¿qué haríamos primero
 ## Antes de empezar
 **Plantilla de trabajo (opcional):** [`plantilla_diagnostico_rapido.xlsx`](plantilla_diagnostico_rapido.xlsx). El equipo la descarga y la completa en el aula o en papel con el mismo formato. Calcula sola las alertas de evidencia y revisa que el plan cumpla las reglas (brecha de evidencia en 90 días, dueño, producto e indicador por iniciativa, iniciativas de capacidad y los tres horizontes). **Como el S1 no usa computador,** el docente puede imprimir las hojas «Diagnóstico» y «Plan».
 
-Use el mismo instrumento de la [actividad de diagnóstico de madurez](README.md): las cuatro dimensiones, la escala de 1 a 5, los tipos de evidencia (D, S, O, T), la respuesta **NV** (no verificable) y las banderas de riesgo. La evidencia permitida es solo la del [catálogo de fuentes de COAGUA](../../caso-integrador/madurez/coagua_fuentes.md) y el enunciado del caso.
+Use el mismo instrumento de la [actividad de diagnóstico de madurez](README.md) (fundamentos en la [nota metodológica](fundamento_metodologico.md)): las cuatro dimensiones, la escala de 1 a 5, los tipos de evidencia (D, S, O, T), la respuesta **NV** (no verificable) y las banderas de riesgo. La evidencia permitida es solo la del [catálogo de fuentes de COAGUA](../../caso-integrador/madurez/coagua_fuentes.md) y el enunciado del caso.
+
+> **El expediente de COAGUA todavía no se entrega:** se usa en la semana 2, en el diagnóstico individual. Hoy el equipo trabaja con el enunciado y el catálogo, y en el S2 contrastará su lectura con la que permite el expediente.
 
 > **Cuando casi todo es NV, el diagnóstico sigue siendo útil.** El primer día es normal que el equipo no pueda verificar casi nada. Eso **no** es un fracaso: es un hallazgo (el frente crítico puede ser, precisamente, que nadie ha podido demostrar la capacidad) y define la primera iniciativa del plan: conseguir la evidencia que falta.
 

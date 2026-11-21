@@ -79,4 +79,4 @@ Las rúbricas del caso integrador están en [`caso-integrador/`](../caso-integra
 | Plan de datos y reglas de calidad | 10% | Pregunta y anomalía definidas, inventario de fuentes y una regla de calidad por dimensión, clasificadas | Completo con reglas poco medibles | Incompleto | Ausente |
 | Trabajo en equipo | 5% | Todos pueden explicar el plan (verificación aleatoria) | La mayoría | Uno solo | — |
 
-*COAGUA, que es ficticia, no tiene información verificable para casi todas las preguntas. Un diagnóstico con muchos «NV» y un plan que empieza por cerrar esas brechas se califica igual que uno con puntajes completos: se premia la calidad del juicio, no el nivel obtenido ni la cantidad de respuestas.*
+*En el S1, con solo el enunciado y el catálogo, COAGUA, que es ficticia, no tiene información verificable para casi todas las preguntas. Un diagnóstico con muchos «NV» y un plan que empieza por cerrar esas brechas se califica igual que uno con puntajes completos: se premia la calidad del juicio, no el nivel obtenido ni la cantidad de respuestas.*
