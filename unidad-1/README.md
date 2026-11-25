@@ -26,6 +26,6 @@ Al terminar la unidad, el estudiante:
 | Actividades (T0, T1) | [actividades.md](actividades.md) |
 | Actividad de madurez de BI | [Diagnóstico de madurez de BI con evidencia](actividad_madurez_bi/README.md) |
 | Casos | [Distribuidora Andina](../casos/caso_distribuidora_andina.md) · [DIARI](../casos/caso_diari_contraloria.md) |
-| Verificación en Power BI (caso Aurora) | [V01 a V06](../casos/verificacion_aurora.md): prediga, construya, compare y concluya con los datos de Aurora |
+| Verificación en Power BI y Python (caso Aurora) | [V01 a V06](../casos/verificacion_aurora.md): prediga, construya en Power BI, contraste en Python, compare y concluya con los datos de Aurora |
 | Práctica de Power BI | [01 Power Query](../practicas-powerbi/01_power_query/README.md) |
 | Quiz de cierre | [Quiz U1](../evaluacion/quizzes/quiz_u1.md) |

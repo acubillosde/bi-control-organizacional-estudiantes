@@ -25,6 +25,6 @@
 | Actividades (PA, T2, matriz de indicadores) | [actividades.md](actividades.md) |
 | Antecedente del caso (U1) | [Diagnóstico de madurez de BI con evidencia](../unidad-1/actividad_madurez_bi/README.md) |
 | Caso | [Centro comercial](../casos/caso_centro_comercial.md) |
-| Verificación en Power BI (caso Aurora) | [V07 a V09](../casos/verificacion_aurora.md): prediga, construya, compare y concluya con los datos de Aurora |
+| Verificación en Power BI y Python (caso Aurora) | [V07 a V09](../casos/verificacion_aurora.md): prediga, construya en Power BI, contraste en Python, compare y concluya con los datos de Aurora |
 | Prácticas | [02 Modelo](../practicas-powerbi/02_modelo_datos/README.md) · [03 DAX](../practicas-powerbi/03_dax/README.md) |
 | Quiz de cierre | [Quiz U2](../evaluacion/quizzes/quiz_u2.md) |
