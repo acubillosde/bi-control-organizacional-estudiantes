@@ -25,6 +25,7 @@
 | Lecturas y mapa normativo | [lecturas.md](lecturas.md) |
 | Actividades (L3, T4, PB, PC) | [actividades.md](actividades.md) |
 | Caso | [Watson](../casos/caso_watson.md) |
+| Verificación en Power BI (caso Aurora) | [V13 a V17](../casos/verificacion_aurora.md): prediga, construya, compare y concluya con los datos de Aurora |
 | Prácticas | [03 DAX (Benford, alertas)](../practicas-powerbi/03_dax/README.md) · [05 Python/R](../practicas-powerbi/05_python_r/README.md) |
 | Scripts | [`deteccion_anomalias.py`](../scripts/deteccion_anomalias.py) · [`modelo_credito.py`](../scripts/modelo_credito.py) |
 | Quiz de cierre | [Quiz U4](../evaluacion/quizzes/quiz_u4.md) |
