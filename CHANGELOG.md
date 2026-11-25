@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 2026-11-25 · L1: el diagnóstico y el plan se demuestran antes de hacerlos
+
+
 ## 2026-11-25 · Caso de demostración: Tiendas Aurora
 
 <!-- REPO:ESTUDIANTES -->
