@@ -5,9 +5,12 @@ En las clases de las unidades 1 a 4, el docente muestra los hechos de [Tiendas A
 ## Cómo se hace cada verificación (3 a 8 minutos)
 1. **Prediga.** Anote en el papel de su equipo lo que cree que va a dar. Equivocarse al predecir enseña más que acertar.
 2. **Construya.** Siga los pasos y escriba la medida; no la copie sin leerla.
-3. **Compare.** El docente muestra la cifra. Marque ✅ si coincide o ❌ si no.
-4. **Busque el porqué.** Si no coincide, revise el filtro, la relación, los duplicados o la fecha. Cada verificación trae una pista.
-5. **Concluya.** Escriba una frase sobre qué cambia en el control.
+3. **Contraste con Python.** Ejecute `python casos/verificacion_aurora.py V07` (cambie el número) y compare con lo que dio Power BI. Son dos herramientas independientes: si coinciden, la cifra es confiable.
+4. **Compare.** El docente muestra la cifra. Marque ✅ si Power BI, Python y la diapositiva coinciden, o ❌ si no.
+5. **Busque el porqué.** Si no coinciden, revise el filtro, la relación, los duplicados, la fecha o el tipo de dato. Si Power BI y Python difieren entre sí, una de las dos tiene el error: no avance hasta saber cuál. Cada verificación trae una pista.
+6. **Concluya.** Escriba una frase sobre qué cambia en el control.
+
+**Para Python:** necesita `pandas` (`pip install pandas`) y ejecutar el comando desde la carpeta del repositorio. El script lee `datos/demo_aurora/` y no modifica nada. Sin argumentos, corre las 17 verificaciones.
 
 > Los datos de Aurora son **sintéticos y fijos**: todos los equipos deben obtener el mismo valor. Los hallazgos de Aurora **no se trasladan** a COAGUA: sirven para aprender el método.
 
@@ -54,6 +57,13 @@ En las clases de las unidades 1 a 4, el docente muestra los hechos de [Tiendas A
 2. En el Editor de Power Query, active Vista → Estadísticas de columna y lea «Recuento».
 3. Compare con la diapositiva siguiente.
 
+**Python** (`python casos/verificacion_aurora.py V01`)
+
+```python
+for nombre, df in tablas.items():
+    print(f"{nombre}: {len(df)} filas")
+```
+
 **Si no coincide:** Revise que el separador y la codificación del CSV sean los correctos (UTF-8, coma). Una fila de más suele ser el encabezado leído como dato.
 
 **Concluya:** Lo primero que se verifica en un dato es el conteo: si no coincide con la fuente, nada de lo demás sirve.
@@ -89,6 +99,17 @@ in
   Nit
 ```
 
+**Python** (`python casos/verificacion_aurora.py V02`)
+
+```python
+limpia = prov.ciudad.str.lower().str.replace("medellin", "medellín").str.replace("itagui", "itagüí").str.title()
+nit_digitos = prov.nit.str.replace(r"\D", "", regex=True)
+print("Filas de proveedores:", len(prov))
+print("Ciudades distintas antes:", prov.ciudad.nunique())
+print("Ciudades distintas después:", limpia.nunique())
+print("NIT distintos (solo dígitos):", nit_digitos.nunique())
+```
+
 **Si no coincide:** Si le quedan 6 ciudades, falta uno de los dos reemplazos (con tilde). Si los NIT distintos son 47, no quitó puntos y guiones antes de contar.
 
 **Concluya:** La limpieza queda escrita en pasos que se repiten, y el dato original no se toca. El NIT repetido no se borra: se confirma con compras.
@@ -111,6 +132,17 @@ in
 mismo_usuario              = each if [usuario_registra] = [usuario_aprueba] then 1 else 0
 aprobacion_dia_no_habil    = each if Date.DayOfWeek([fecha_aprobacion], Day.Monday) >= 5 then 1 else 0
 factura_normalizada        = each Text.TrimStart(Text.Select([numero_factura], {"0".."9"}), "0")
+```
+
+**Python** (`python casos/verificacion_aurora.py V03`)
+
+```python
+mismo_usuario = (pagos.usuario_registra == pagos.usuario_aprueba).astype(int)
+dia_no_habil = (pagos.fecha_aprobacion.dt.dayofweek >= 5).astype(int)   # lunes = 0, sábado = 5
+factura_norm = pagos.numero_factura.str.replace(r"\D", "", regex=True).str.lstrip("0")
+print("Suma de mismo_usuario:", mismo_usuario.sum())
+print("Suma de aprobacion_dia_no_habil:", dia_no_habil.sum())
+print("factura_normalizada de FV-2269:", factura_norm[pagos.numero_factura == "FV-2269"].iloc[0])
 ```
 
 **Si no coincide:** Si la suma de día no hábil da más de 14, revise que `fecha_aprobacion` sea tipo Fecha y que el primer día sea el lunes (`Day.Monday`).
@@ -139,6 +171,16 @@ Filas de ventas = COUNTROWS( fVentas )
 Dias sin ventas = COUNTROWS( FILTER( dCalendario, ISBLANK( [Filas de ventas] ) ) )
 ```
 
+**Python** (`python casos/verificacion_aurora.py V04`)
+
+```python
+junio = pd.date_range("2025-06-01", "2025-06-30")
+vendio = set(ventas[(ventas.id_tienda == "T07") & (ventas.fecha.dt.month == 6)].fecha)
+sin_ventas = [d for d in junio if d not in vendio]
+print("Días sin ventas de T07 en junio:", len(sin_ventas))
+print("Filas esperadas (12 tiendas x 365 días):", 12 * 365, "· filas reales:", len(ventas))
+```
+
 **Si no coincide:** Si la tarjeta da 30, el segmentador de tienda no filtra fVentas: revise la relación dTiendas → fVentas. Si da 0, no filtró la tienda T07.
 
 **Concluya:** Los días que faltan no aparecen en la tabla de ventas: solo se ven contra un calendario completo. 4.380 − 4.371 = 9.
@@ -160,6 +202,16 @@ Dias sin ventas = COUNTROWS( FILTER( dCalendario, ISBLANK( [Filas de ventas] ) )
 
 ```dax
 Ventas = SUM( fVentas[ventas] )
+```
+
+**Python** (`python casos/verificacion_aurora.py V05`)
+
+```python
+por_tienda = ventas.groupby("id_tienda").ventas.sum().sort_values(ascending=False)
+nombre = tiendas.set_index("id_tienda").nombre_tienda[por_tienda.index[0]]
+print("Ventas totales 2025: $" + n0(ventas.ventas.sum()), "=", n1(ventas.ventas.sum() / 1e6), "millones")
+print("Tienda con más ventas:", por_tienda.index[0], nombre, n1(por_tienda.iloc[0] / 1e6), "millones")
+print("Filas de ventas:", len(ventas))
 ```
 
 **Si no coincide:** Si el total es mayor, hay una relación mal creada que duplica filas. Si falta una tienda, revise que id_tienda tenga el mismo tipo de dato en las dos tablas.
@@ -186,6 +238,14 @@ Devolucion pct = DIVIDE( SUM( fVentas[devoluciones] ), SUM( fVentas[ventas] ) )
 Pct mismo usuario = DIVIDE( SUM( fPagos[mismo_usuario] ), COUNTROWS( fPagos ) )
 ```
 
+**Python** (`python casos/verificacion_aurora.py V06`)
+
+```python
+print("KPI · días de factura a pago:", n1((pagos.fecha_pago - pagos.fecha_factura).dt.days.mean()))
+print("KRI · devoluciones sobre ventas:", n2(ventas.devoluciones.sum() / ventas.ventas.sum() * 100) + "%")
+print("KCI · pagos con el mismo usuario:", n2((pagos.usuario_registra == pagos.usuario_aprueba).mean() * 100) + "%")
+```
+
 **Si no coincide:** Si el KCI no da 18 pagos, falta la columna `mismo_usuario` de la verificación V03. Si los días dan otro valor, revise que las dos fechas sean tipo Fecha.
 
 **Concluya:** Un indicador es una medida con nombre, fórmula y dueño. Los tres se calculan igual: con una medida DAX que se pueda auditar.
@@ -203,7 +263,7 @@ Pct mismo usuario = DIVIDE( SUM( fPagos[mismo_usuario] ), COUNTROWS( fPagos ) )
 
 1. Relaciones: `dCalendario[fecha]` → `fPagos[fecha_aprobacion]` (activa) y `dCalendario[fecha]` → `fPagos[fecha_pago]` (se crea inactiva).
 2. En fPagos cree las columnas `clave` y `es_duplicado` (necesita `factura_normalizada` de V03).
-3. Cree las tres medidas de abajo y póngalas en tarjetas, con segmentador de `dCalendario[mes]` en 3.
+3. Cree las tres medidas de abajo y póngalas en tarjetas, con segmentador de `dCalendario[mes]` en 3 (la columna `mes` es la de V04).
 4. Divida cada resultado por un millón en el formato de la medida.
 
 **DAX**
@@ -217,6 +277,18 @@ es_duplicado =                                                                  
 Pagos por aprobacion = SUM( fPagos[valor] )
 Pagos por pago = CALCULATE( SUM( fPagos[valor] ), USERELATIONSHIP( fPagos[fecha_pago], dCalendario[fecha] ) )
 Pagos sin duplicados = CALCULATE( [Pagos por aprobacion], fPagos[es_duplicado] = 0 )
+```
+
+**Python** (`python casos/verificacion_aurora.py V07`)
+
+```python
+marzo_aprobacion = pagos[pagos.fecha_aprobacion.dt.to_period("M") == "2025-03"]
+marzo_pago = pagos[pagos.fecha_pago.dt.to_period("M") == "2025-03"]
+sin_duplicados = marzo_aprobacion[marzo_aprobacion.es_duplicado == 0]
+print("Por fecha de aprobación:", n1(marzo_aprobacion.valor.sum() / 1e6), "millones")
+print("Por fecha de pago:", n1(marzo_pago.valor.sum() / 1e6), "millones")
+print("Aprobación sin duplicados:", n1(sin_duplicados.valor.sum() / 1e6), "millones")
+print("Duplicados en marzo:", len(marzo_aprobacion) - len(sin_duplicados))
 ```
 
 **Si no coincide:** Si «por pago» da lo mismo que «por aprobación», la relación con fecha_pago sigue inactiva sin `USERELATIONSHIP`, o la usó en la medida equivocada. Si los duplicados son 0, falta `factura_normalizada`.
@@ -246,6 +318,16 @@ Ciudades fuera de lista =
 NIT repetidos = COUNTROWS( dProveedores ) - DISTINCTCOUNT( dProveedores[nit_digitos] )
 ```
 
+**Python** (`python casos/verificacion_aurora.py V08`)
+
+```python
+lista = ["Medellín", "Envigado", "Itagüí", "Bello", "Sabaneta"]
+nit_digitos = prov.nit.str.replace(r"\D", "", regex=True)
+print("Ciudades fuera de lista:", (~prov.ciudad.isin(lista)).sum(), "de", len(prov))   # isin distingue mayúsculas y tildes
+print("NIT repetidos:", len(prov) - nit_digitos.nunique())
+print("Proveedores con el NIT repetido:", list(prov[nit_digitos.duplicated(keep=False)].id_proveedor))
+```
+
 **Si no coincide:** Si le da 6 en lugar de 8, usó `=`, que ignora las mayúsculas: «medellín» pasa como válida. Con `EXACT` sí la marca.
 
 **Concluya:** Un error de calidad se corrige o se excluye; una señal de control se investiga. La regla queda como medida y se repite cada mes.
@@ -272,6 +354,23 @@ Estado mismo usuario = IF( [Pct mismo usuario] > 0, "Rojo", "Verde" )
 Estado duplicados = IF( [Pagos duplicados] > 0, "Rojo", "Verde" )
 ```
 
+**Python** (`python casos/verificacion_aurora.py V09`)
+
+```python
+dias = (pagos.fecha_pago - pagos.fecha_factura).dt.days.mean()
+dev = ventas.devoluciones.sum() / ventas.ventas.sum()
+sep = ventas[(ventas.id_tienda == "T03") & (ventas.fecha.dt.month == 9)]
+dev_t03 = sep.devoluciones.sum() / sep.ventas.sum()
+mismo = (pagos.usuario_registra == pagos.usuario_aprueba).mean()
+duplicados = pagos.es_duplicado.sum()
+semaforo = lambda rojo: "Rojo" if rojo else "Verde"
+print("Días de factura a pago:", n1(dias), "→", "Rojo" if dias > 20 else "Amarillo" if dias > 15 else "Verde")
+print("Devoluciones (todas las tiendas):", n2(dev * 100) + "%", "→", semaforo(dev > 0.02))
+print("Devoluciones de T03 en septiembre:", n2(dev_t03 * 100) + "%", "→", semaforo(dev_t03 > 0.02))
+print("Pagos con el mismo usuario:", n2(mismo * 100) + "%", "→", semaforo(mismo > 0))
+print("Pagos duplicados:", duplicados, "→", semaforo(duplicados > 0))
+```
+
 **Si no coincide:** Si todo le sale verde, mire el nivel de agregación: el promedio de las 12 tiendas esconde a T03. Pruebe la tarjeta con el filtro de tienda y mes.
 
 **Concluya:** El mismo dato da un color distinto según el nivel y el umbral. Por eso el umbral se justifica y se acuerda con la junta.
@@ -291,6 +390,16 @@ Estado duplicados = IF( [Pagos duplicados] > 0, "Rojo", "Verde" )
 2. A su lado, un gráfico de barras horizontales con los mismos campos, ordenado de mayor a menor.
 3. Active las etiquetas de porcentaje en la torta y el valor en las barras.
 4. Compare: ¿cuál responde «cuál vende más y por cuánto»?
+
+**Python** (`python casos/verificacion_aurora.py V10`)
+
+```python
+por_tienda = ventas.groupby("id_tienda").ventas.sum().sort_values(ascending=False)
+parte = por_tienda / por_tienda.sum() * 100
+print("Tienda con más ventas:", por_tienda.index[0])
+print("Participación de las dos primeras:", n1(parte.iloc[0]) + "% y " + n1(parte.iloc[1]) + "%")
+print("Diferencia entre las dos primeras:", n1((por_tienda.iloc[0] - por_tienda.iloc[1]) / 1e6), "millones")
+```
 
 **Si no coincide:** Si ve una diferencia clara en la torta, mire las etiquetas: dos porcentajes casi iguales no se distinguen por el área.
 
@@ -317,6 +426,17 @@ Devolucion pct resto = CALCULATE( [Devolucion pct], dTiendas[id_tienda] <> "T03"
 Umbral = 0.02
 ```
 
+**Python** (`python casos/verificacion_aurora.py V11`)
+
+```python
+ventas["mes"] = ventas.fecha.dt.month
+def pct(df):
+    return df.groupby("mes")[["devoluciones", "ventas"]].sum().pipe(lambda g: g.devoluciones / g.ventas * 100)
+t03, resto = pct(ventas[ventas.id_tienda == "T03"]), pct(ventas[ventas.id_tienda != "T03"])
+print(pd.DataFrame({"T03 %": t03.round(2), "Resto %": resto.round(2)}))
+print("Mes del pico de T03:", t03.idxmax(), "·", n2(t03.max()) + "%", "· resto ese mes:", n2(resto[t03.idxmax()]) + "%")
+```
+
 **Si no coincide:** Si la línea de T03 sale plana, el filtro de tienda no aplica: revise la relación dTiendas → fVentas y que `Devolucion pct` esté bien definida (V06).
 
 **Concluya:** Una línea resaltada, el resto en gris y un umbral: el gráfico dice qué mirar. Muestra una señal; la causa se investiga.
@@ -340,6 +460,20 @@ Titular = "T03 devolvió " & FORMAT( [Devolucion pct T03], "0.0%" ) & " de sus v
 Titular mejorado = IF( [Devolucion pct T03] > [Umbral],
   "Alerta: T03 devolvió " & FORMAT( [Devolucion pct T03], "0.0%" ) & " de sus ventas, " & FORMAT( DIVIDE( [Devolucion pct T03], [Devolucion pct resto] ), "0" ) & " veces el resto",
   "Sin alertas de devoluciones en T03 este mes" )
+```
+
+**Python** (`python casos/verificacion_aurora.py V12`)
+
+```python
+ventas["mes"] = ventas.fecha.dt.month
+def pct(df, mes):
+    g = df[df.mes == mes]
+    return g.devoluciones.sum() / g.ventas.sum() * 100
+for mes, nombre in [(9, "septiembre"), (1, "enero")]:
+    t03, resto = pct(ventas[ventas.id_tienda == "T03"], mes), pct(ventas[ventas.id_tienda != "T03"], mes)
+    print(f"Titular en {nombre}: T03 devolvió {n1(t03)}% de sus ventas; el resto de tiendas, {n1(resto)}%")
+    if t03 > 2:
+        print(f"Titular mejorado en {nombre}: Alerta: T03 devolvió {n1(t03)}% de sus ventas, {round(t03 / resto)} veces el resto")
 ```
 
 **Si no coincide:** Si su Power BI muestra «4.2%» con punto, es la configuración regional: el texto es el mismo. Si el titular no cambia con el mes, falta la relación con dCalendario.
@@ -370,6 +504,17 @@ primer_digito = VALUE( LEFT( FORMAT( fPagos[valor], "0" ), 1 ) )          -- col
 Esperado Benford = LOG10( 1 + 1 / SELECTEDVALUE( fPagos[primer_digito] ) )
 ```
 
+**Python** (`python casos/verificacion_aurora.py V13`)
+
+```python
+primer = pagos.valor.astype(str).str[0].astype(int)
+uno = lambda mascara: (primer[mascara] == 1).mean() * 100   # % de pagos del grupo cuyo valor empieza por 1
+print("Esperado para el dígito 1:", n1(math.log10(2) * 100) + "%")
+print("Todos los pagos:", n1((primer == 1).mean() * 100) + "%")
+print("Resto de usuarios:", n1(uno(pagos.usuario_registra != "aur006")) + "%")
+print("aur006:", n1(uno(pagos.usuario_registra == "aur006")) + "%", "·", (pagos.usuario_registra == "aur006").sum(), "pagos")
+```
+
 **Si no coincide:** Si todos los porcentajes dan 11,1%, el denominador no quita el filtro del dígito: revise `ALLSELECTED`. Si el eje sale en orden raro, ordénelo por `primer_digito`.
 
 **Concluya:** En conjunto parece normal; por usuario, uno se sale. Benford orienta dónde mirar y no prueba nada: se pide el soporte.
@@ -395,6 +540,16 @@ Duplicados con normalizacion = SUM( fPagos[es_duplicado] )
 Duplicados aproximados = [Duplicados con normalizacion] - [Duplicados exactos]
 ```
 
+**Python** (`python casos/verificacion_aurora.py V14`)
+
+```python
+exactos = pagos.duplicated(["id_proveedor", "numero_factura", "valor"]).sum()
+normalizados = pagos.es_duplicado.sum()
+print("Duplicados exactos:", exactos)
+print("Duplicados con la factura normalizada:", normalizados)
+print("Duplicados aproximados:", normalizados - exactos)
+```
+
 **Si no coincide:** Si los aproximados dan 0, `clave` está usando `numero_factura` en lugar de `factura_normalizada`. Si los exactos dan 20, contó los dos pagos de cada par.
 
 **Concluya:** Una regla sin normalizar deja pasar parte del problema. Y marca de más si hay entregas parciales legítimas: cada alerta pide su soporte.
@@ -416,6 +571,16 @@ Duplicados aproximados = [Duplicados con normalizacion] - [Duplicados exactos]
 
 ```dax
 Pagos cerca del limite = CALCULATE( COUNTROWS( fPagos ), fPagos[valor] >= 0.95 * 8000000, fPagos[valor] < 8000000 )
+```
+
+**Python** (`python casos/verificacion_aurora.py V15`)
+
+```python
+cerca = pagos[(pagos.valor >= 0.95 * 8_000_000) & (pagos.valor < 8_000_000)]
+print("Pagos entre 95% y 100% del límite (año):", len(cerca))
+print(cerca.id_proveedor.value_counts().head(3))
+ago = cerca[(cerca.id_proveedor == "P017") & (cerca.fecha_aprobacion.dt.month == 8)]
+print("P017 en agosto:", len(ago), "pagos entre", n2(ago.valor.min() / 1e6), "y", n2(ago.valor.max() / 1e6), "millones")
 ```
 
 **Si no coincide:** Si le da más de 34, usó un umbral menor al 95%. Si P017 no sale primero, la matriz no está ordenada por la medida.
@@ -443,6 +608,16 @@ Pagos en dia no habil = SUM( fPagos[aprobacion_dia_no_habil] )
 dia_semana = WEEKDAY( dCalendario[fecha], 2 )          -- columna calculada: 6 = sábado, 7 = domingo
 ```
 
+**Python** (`python casos/verificacion_aurora.py V16`)
+
+```python
+mismo = pagos[pagos.usuario_registra == pagos.usuario_aprueba]
+finde = pagos[pagos.fecha_aprobacion.dt.dayofweek >= 5]
+print("Pagos del mismo usuario:", len(mismo), "·", n1(mismo.valor.sum() / 1e6), "millones · usuarios:", list(mismo.usuario_registra.unique()))
+print("Pagos en día no hábil:", len(finde), "· sábados:", (finde.fecha_aprobacion.dt.dayofweek == 5).sum(), "· domingos:", (finde.fecha_aprobacion.dt.dayofweek == 6).sum())
+print("Valor de los pagos de fin de semana:", n1(finde.valor.sum() / 1e6), "millones")
+```
+
 **Si no coincide:** Si la matriz de día no hábil queda vacía, relacione `fecha_aprobacion` con `dCalendario[fecha]` como relación activa (V07).
 
 **Concluya:** Son controles preventivos que el sistema debería impedir: el hallazgo también es del sistema, no solo de una persona. Se usan identificadores, no nombres.
@@ -466,6 +641,17 @@ Proveedores con cuenta de empleado =
   CALCULATE( COUNTROWS( dProveedores ),
     FILTER( dProveedores, dProveedores[cuenta_bancaria] IN VALUES( dEmpleados[cuenta_nomina] ) ) )
 cuenta_de_empleado = IF( dProveedores[cuenta_bancaria] IN VALUES( dEmpleados[cuenta_nomina] ), 1, 0 )          -- columna calculada
+```
+
+**Python** (`python casos/verificacion_aurora.py V17`)
+
+```python
+coinciden = prov[prov.cuenta_bancaria.isin(emp.cuenta_nomina)]
+print("Proveedores con cuenta de nómina:", len(coinciden), list(coinciden.id_proveedor))
+pr = pagos[pagos.id_proveedor.isin(coinciden.id_proveedor)]
+print("Pagos a ese proveedor:", len(pr), "·", n1(pr.valor.sum() / 1e6), "millones")
+print("Proveedor creado:", coinciden.fecha_creacion.iloc[0], "· primer pago aprobado:", pr.fecha_aprobacion.min().date(), "· último:", pr.fecha_aprobacion.max().date())
+print("Quién registró los pagos:", list(pr.usuario_registra.unique()), "· valor máximo:", n1(pr.valor.max() / 1e6), "millones")
 ```
 
 **Si no coincide:** Si le da 0, las dos columnas de cuenta tienen tipos distintos (una texto y otra número): conviértalas al mismo tipo. Si da más de 1, la columna no se está filtrando por el valor exacto.

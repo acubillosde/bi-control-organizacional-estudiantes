@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-11-25 · Las verificaciones de Aurora también se contrastan en Python
+
+- Nuevo script [`casos/verificacion_aurora.py`](casos/verificacion_aurora.py): ejecuta en pandas las 17 verificaciones (V01 a V17) sobre `datos/demo_aurora/` (`python casos/verificacion_aurora.py V07`). Power BI y Python son herramientas independientes: si coinciden, la cifra es confiable; si no, el estudiante busca cuál tiene el error.
+- La guía [`verificacion_aurora.md`](casos/verificacion_aurora.md) agrega el paso «Contraste con Python» y un bloque de código por verificación. Los README de las unidades 1 a 4 y `caso_tiendas_aurora.md` lo mencionan.
+
+
 ## 2026-11-25 · Verificación en Power BI de los hechos de Aurora
 
 - Nueva guía [`casos/verificacion_aurora.md`](casos/verificacion_aurora.md): 17 verificaciones (V01 a V17) para que el estudiante compruebe en su Power BI cada hecho de Aurora, con ciclo prediga → construya → compare → concluya. Trae pasos, Power Query (M), medidas DAX, una pista si no coincide y, al final, los valores esperados. Los valores salen de los datos.

@@ -23,5 +23,5 @@
 | Lecturas | [lecturas.md](lecturas.md) |
 | Actividades (L2 parte 2, T3) | [actividades.md](actividades.md) |
 | Práctica | [04 Dashboards y storytelling](../practicas-powerbi/04_dashboards/README.md) |
-| Verificación en Power BI (caso Aurora) | [V10 a V12](../casos/verificacion_aurora.md): prediga, construya, compare y concluya con los datos de Aurora |
+| Verificación en Power BI y Python (caso Aurora) | [V10 a V12](../casos/verificacion_aurora.md): prediga, construya en Power BI, contraste en Python, compare y concluya con los datos de Aurora |
 | Quiz de cierre | [Quiz U3](../evaluacion/quizzes/quiz_u3.md) |
