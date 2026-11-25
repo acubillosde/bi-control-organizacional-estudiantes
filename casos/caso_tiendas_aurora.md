@@ -67,3 +67,6 @@ Aurora es un caso resuelto, con sus decisiones a la vista. Los datos reales de l
 | **U3** · Visualización | Un tablero malo y su versión corregida; un titular con evidencia; el pitch de 3 minutos | Avance 2 y nota ejecutiva |
 | **U4** · Analítica para el aseguramiento | Benford, duplicados, fraccionamiento, segregación y modelo, con sus falsos positivos | Entrega final y sustentación |
 
+## Compruébelo usted
+En cada unidad, los hechos de Aurora se verifican en Power BI con el ciclo prediga, construya, compare y concluya. La [guía de verificación](verificacion_aurora.md) trae los pasos, las medidas DAX y, al final, los valores que debe dar.
+

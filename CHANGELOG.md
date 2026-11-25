@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-11-25 · Verificación en Power BI de los hechos de Aurora
+
+- Nueva guía [`casos/verificacion_aurora.md`](casos/verificacion_aurora.md): 17 verificaciones (V01 a V17) para que el estudiante compruebe en su Power BI cada hecho de Aurora, con ciclo prediga → construya → compare → concluya. Trae pasos, Power Query (M), medidas DAX, una pista si no coincide y, al final, los valores esperados. Los valores salen de los datos.
+- `caso_aurora.md` enlaza la guía.
+
+
 ## 2026-11-25 · Tiendas Aurora pasa a su propia presentación
 
 
