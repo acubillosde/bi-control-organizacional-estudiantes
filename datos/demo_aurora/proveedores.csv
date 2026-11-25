@@ -1,0 +1,48 @@
+id_proveedor,nit,razon_social,categoria,ciudad,fecha_creacion,cuenta_bancaria
+P001,975440286-2,Lácteos Santa Elena,Panadería,Envigado,2020-04-29,37634047562
+P002,848166308-6,Panificadora Caldas,Abarrotes,ITAGUI,2021-01-19,37151578949
+P003,822412936-2,Frutas Castilla,Bebidas,Bello,2024-11-10,37229174686
+P004,984770959-3,Bebidas Montecarlo,Frutas y verduras,Sabaneta,2021-02-17,37246653523
+P005,804021146-2,Carnes Manrique,Aseo y hogar,MEDELLIN,2024-05-11,35240903696
+P006,882857842-4,Abastos El Poblado,Carnes,Envigado,2022-06-20,33566624285
+P007,847335191-7,Aseo San Cristóbal,Servicios,Itagüí,2023-01-13,32845382367
+P008,988090365-5,Comercializadora Guayabal,Lácteos y huevos,Bello,2023-05-17,39518129878
+P009,872204278-6,Distribuciones Barbosa,Panadería,Sabaneta,2023-06-06,32476460640
+P010,948999473-1,Lácteos Aburrá,Abarrotes,Medellín,2019-12-10,38989771107
+P011,932702449-3,Panificadora La Ceja,Bebidas,Envigado,2022-11-18,31936344934
+P012,857039146-2,Frutas Girardota,Frutas y verduras,Itagüí,2024-02-25,36116239132
+P013,996711881-7,Bebidas La Estrella,Aseo y hogar,Bello,2021-06-27,38367230599
+P014,889144976-2,Carnes Piedras Blancas,Carnes,Sabaneta,2022-02-08,37741714156
+P015,858631263-1,Abastos Copacabana,Servicios,Medellín,2020-11-27,31220331562
+P016,852389266-2,Aseo El Retiro,Lácteos y huevos,Envigado,2020-05-02,37073840714
+P017,903957741-7,Comercializadora Santa Elena,Panadería,Itagüí,2021-12-24,37194192318
+P018,995397558-6,Distribuciones Caldas,Abarrotes,Bello,2022-07-20,37065422381
+P019,927483620-0,Lácteos Castilla,Bebidas,Sabaneta,2021-03-25,33331703429
+P020,841751203-1,Panificadora Montecarlo,Frutas y verduras,medellín,2023-02-06,36836041583
+P021,901790007-9,Frutas Manrique,Aseo y hogar,Envigado,2019-01-28,36363429381
+P022,867874012-4,Bebidas El Poblado,Carnes,Itagüí,2020-09-26,39631150770
+P023,883550573-1,Carnes San Cristóbal,Servicios,Bello,2019-11-23,35676978074
+P024,994482846-2,Abastos Guayabal,Lácteos y huevos,Sabaneta,2021-03-01,35935890819
+P025,978415683-1,Aseo Barbosa,Panadería,medellín,2023-07-08,38175527438
+P026,949922891-7,Comercializadora Aburrá,Abarrotes,Envigado,2020-07-15,36236437312
+P027,946942907-9,Distribuciones La Ceja,Bebidas,ITAGUI,2023-04-22,37024928782
+P028,851174849-3,Lácteos Girardota,Frutas y verduras,Bello,2024-10-01,36271105549
+P029,991906609-3,Panificadora La Estrella,Aseo y hogar,Sabaneta,2023-02-02,31147130128
+P030,873599298-6,Frutas Piedras Blancas,Carnes,medellín,2019-11-22,32935050940
+P031,994137804-8,Bebidas Copacabana,Servicios,Envigado,2021-04-02,32959216349
+P032,933592977-9,Carnes El Retiro,Lácteos y huevos,Itagüí,2022-07-13,32391153780
+P033,819147216-2,Abastos Santa Elena,Panadería,Bello,2022-03-29,33027215216
+P034,885723027-9,Aseo Caldas,Abarrotes,Sabaneta,2024-02-16,31204042289
+P035,977315354-8,Comercializadora Castilla,Bebidas,Medellín,2019-03-12,35659011015
+P036,897845777-9,Distribuciones Montecarlo,Frutas y verduras,Envigado,2019-09-05,35648801083
+P037,841487821-7,Lácteos Manrique,Aseo y hogar,ITAGUI,2019-07-15,38247996544
+P038,807974278-6,Panificadora El Poblado,Carnes,Bello,2023-10-06,34591141212
+P039,837806999-3,Frutas San Cristóbal,Servicios,Sabaneta,2020-03-27,33830404194
+P040,901337130-0,Bebidas Guayabal,Lácteos y huevos,Medellín,2023-12-21,32738909741
+P041,985473365-5,Carnes Barbosa,Panadería,Envigado,2024-09-19,36405847221
+P042,948316303-1,Abastos Aburrá,Abarrotes,ITAGUI,2024-08-30,32144554086
+P043,916065843-1,Aseo La Ceja,Bebidas,Bello,2019-06-04,31626536675
+P044,955783698-6,Comercializadora Girardota,Frutas y verduras,Sabaneta,2019-12-15,32165811311
+P045,851726114-8,Distribuciones La Estrella,Aseo y hogar,Medellín,2024-10-15,39140469731
+P046,901234567-8,Servicios Integrales Aurora Sur,Servicios,Itagüí,2025-05-05,46048121086
+P047,872.204.278-6,DISTRIBUCIONES BARBOSA,Panadería,Sabaneta,2023-06-06,32476460640

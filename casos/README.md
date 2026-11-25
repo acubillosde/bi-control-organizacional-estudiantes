@@ -4,6 +4,7 @@ Las guías **no reproducen** el texto de los casos ni de los artículos, que tie
 
 | Caso | Unidad | Sesión | Modalidad | Guía |
 |---|---|---|---|---|
+| Tiendas Aurora: cadena de 12 tiendas de barrio (caso **ficticio** de demostración que el docente usa en las presentaciones de las cuatro unidades; no es el caso integrador) | U1 a U4 | Presentaciones | Demostración del docente | [caso_tiendas_aurora.md](caso_tiendas_aurora.md) |
 | Distribuidora Andina de Alimentos: una historia de filiales, archivos y confianza (caso **ficticio** extendido, con roles y dinámicas organizacionales, ambientado en 2004; caso de discusión de la sesión) | U1 | S1 B2 | Discusión en equipos | [caso_distribuidora_andina.md](caso_distribuidora_andina.md) |
 | DIARI: analítica para el control fiscal en Colombia (complemento actual de la Distribuidora Andina) | U1 | S1 B2 | Discusión en equipos | [caso_diari_contraloria.md](caso_diari_contraloria.md) |
 | Madurez de BI en un centro comercial colombiano (JCIT, 2020) | U2 | S2 B2 | Exposición + réplica | [caso_centro_comercial.md](caso_centro_comercial.md) |
