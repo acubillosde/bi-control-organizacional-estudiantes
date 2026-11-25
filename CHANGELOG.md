@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-11-25 · Se elimina el caso SYSCO
+
+<!-- REPO:ESTUDIANTES -->
+La sesión de casos del S1 usa la Distribuidora Andina (ficticio) y la DIARI. Se retira la guía del caso SYSCO y sus referencias.
+<!-- /REPO:ESTUDIANTES -->
+
+
 ## [Sin publicar] · Actividad «Diagnóstico de madurez de BI con evidencia»
 
 - Nueva actividad individual de la U1 con dos rutas (organización propia o COAGUA), un instrumento de 4 dimensiones y 12 preguntas, reglas de evidencia y rúbrica R6: [`unidad-1/actividad_madurez_bi/`](unidad-1/actividad_madurez_bi/README.md).

@@ -50,5 +50,5 @@ Aquí se hace el ETL que antes se hacía en clase. Parta del **plan de datos** d
 ---
 
 ## Discusión de casos (S1)
-- [Guía del caso SYSCO](../casos/caso_sysco.md) (o el [caso ficticio de la Distribuidora Andina](../casos/caso_distribuidora_andina.md), si el docente lo indica)
+- [Caso ficticio de la Distribuidora Andina](../casos/caso_distribuidora_andina.md)
 - [Guía del caso DIARI – Contraloría General de la República](../casos/caso_diari_contraloria.md)
