@@ -16,7 +16,7 @@ Al terminar la unidad, el estudiante:
 2. ETL, data warehouse y data mart; sistemas transaccionales frente a analíticos; hechos y dimensiones; informes frente a dashboards; indicadores KPI, KRI y KCI; BI de autoservicio.
 3. BI frente a Business Analytics: descriptiva, diagnóstica, predictiva y prescriptiva.
 4. Ciclo de vida analítico y CRISP-DM; ética y privacidad en la analítica de control.
-5. Casos: SYSCO (2004) y la DIARI de la Contraloría General de la República (Colombia, actual).
+5. Casos: la Distribuidora Andina (ficticio, 2004) y la DIARI de la Contraloría General de la República (Colombia, actual).
 6. Práctica: ETL con Power Query (en el T1, semana 2; el S1 no usa Power BI: diagnóstico y plan de transformación).
 
 ## Materiales
@@ -25,6 +25,6 @@ Al terminar la unidad, el estudiante:
 | Lecturas | [lecturas.md](lecturas.md) |
 | Actividades (T0, T1) | [actividades.md](actividades.md) |
 | Actividad de madurez de BI | [Diagnóstico de madurez de BI con evidencia](actividad_madurez_bi/README.md) |
-| Casos | [SYSCO](../casos/caso_sysco.md) (o la alternativa ficticia [Distribuidora Andina](../casos/caso_distribuidora_andina.md)) · [DIARI](../casos/caso_diari_contraloria.md) |
+| Casos | [Distribuidora Andina](../casos/caso_distribuidora_andina.md) · [DIARI](../casos/caso_diari_contraloria.md) |
 | Práctica de Power BI | [01 Power Query](../practicas-powerbi/01_power_query/README.md) |
 | Quiz de cierre | [Quiz U1](../evaluacion/quizzes/quiz_u1.md) |

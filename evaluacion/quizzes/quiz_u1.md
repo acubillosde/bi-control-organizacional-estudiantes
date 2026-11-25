@@ -53,7 +53,7 @@ Seleccione una opción por pregunta.
 - c) Integrado, orientado a temas, histórico y no volátil
 - d) Un archivo de Excel compartido
 
-**8.** En el caso de inversión en BI trabajado en el S1 (SYSCO o la Distribuidora Andina), la lección más vigente para el control organizacional es que…
+**8.** En el caso de inversión en BI trabajado en el S1 (la Distribuidora Andina), la lección más vigente para el control organizacional es que…
 
 - a) La nube resuelve el problema
 - b) El precio de las licencias decide el éxito

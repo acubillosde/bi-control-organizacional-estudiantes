@@ -4,9 +4,8 @@ Las guías **no reproducen** el texto de los casos ni de los artículos, que tie
 
 | Caso | Unidad | Sesión | Modalidad | Guía |
 |---|---|---|---|---|
-| SYSCO: decisión de inversión en software de BI (HBS, 2004) | U1 | S1 B2 | Discusión en equipos | [caso_sysco.md](caso_sysco.md) |
-| Distribuidora Andina de Alimentos: una historia de filiales, archivos y confianza (caso **ficticio** extendido, con roles y dinámicas organizacionales, ambientado en 2004; alternativa a SYSCO si no se dispone del caso) | U1 | S1 B2 | Discusión en equipos | [caso_distribuidora_andina.md](caso_distribuidora_andina.md) |
-| DIARI: analítica para el control fiscal en Colombia (complemento actual de SYSCO) | U1 | S1 B2 | Discusión en equipos | [caso_diari_contraloria.md](caso_diari_contraloria.md) |
+| Distribuidora Andina de Alimentos: una historia de filiales, archivos y confianza (caso **ficticio** extendido, con roles y dinámicas organizacionales, ambientado en 2004; caso de discusión de la sesión) | U1 | S1 B2 | Discusión en equipos | [caso_distribuidora_andina.md](caso_distribuidora_andina.md) |
+| DIARI: analítica para el control fiscal en Colombia (complemento actual de la Distribuidora Andina) | U1 | S1 B2 | Discusión en equipos | [caso_diari_contraloria.md](caso_diari_contraloria.md) |
 | Madurez de BI en un centro comercial colombiano (JCIT, 2020) | U2 | S2 B2 | Exposición + réplica | [caso_centro_comercial.md](caso_centro_comercial.md) |
 | Ritz-Carlton: sistemas de información al servicio del cliente (HBS) | U3 | S2 B3 | Exposición + réplica | [caso_ritz_carlton.md](caso_ritz_carlton.md) (guía de lectura en [unidad-3/lecturas.md](../unidad-3/lecturas.md)) |
 | La construcción de Watson (HBS, 2012) | U4 | S3 B2 | Exposición + réplica | [caso_watson.md](caso_watson.md) |

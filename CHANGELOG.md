@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-11-25 · Se elimina el caso SYSCO
+
+<!-- REPO:ESTUDIANTES -->
+La sesión de casos del S1 usa la Distribuidora Andina (ficticio) y la DIARI. Se retira la guía del caso SYSCO y sus referencias.
+<!-- /REPO:ESTUDIANTES -->
+
+
 ## [rama fuentes-organizacionales] · 2026-11-19 · Caso integrador con los sistemas de una organización
 
 <!-- REPO:ESTUDIANTES -->

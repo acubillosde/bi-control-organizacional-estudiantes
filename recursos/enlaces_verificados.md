@@ -47,7 +47,6 @@
 | Ramírez-Angulo y Chaparro-Guevara (2020) | Confirmada: *JCIT* 22(2), 18–33 | DOI 10.4018/JCIT.2020040102 (vigente, IGI Global) |
 | Forsyth y Boucher (2015) | Confirmada: *Research World* (50), 26–27 | DOI 10.1002/rwm3.20187 |
 | Davenport y Patil | Confirmada, pero el año es **2012** (HBR, oct., 90(10), 70–76), no 2013 | https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century (vigente) |
-| McAfee y Wagonfeld (2004), SYSCO | Existencia del caso de HBS confirmada (catálogos). **Pendiente de verificación:** número de caso y autoría en el registro oficial de HBP | — |
 | Shih (2012), Watson | **Pendiente de verificación:** no se halló el registro oficial de HBP | — |
 | Sasser y Jones (1999), Ritz-Carlton | Existencia del caso confirmada (usado en un curso de MIT OCW). **Pendiente de verificación:** autores, año y número | — |
 | Davenport y Harris (2007), "El lado oscuro de la analítica" | **Por verificar.** Hay un registro de catálogo de "The dark side of customer analytics" (HBR, mayo de 2007) con discrepancias de autoría | — |

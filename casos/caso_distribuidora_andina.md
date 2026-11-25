@@ -2,7 +2,7 @@
 
 *Caso narrativo extendido con dinámicas organizacionales y decisiones sobre información*
 
-**Tipo:** caso de enseñanza **ficticio**, escrito para este curso. Alternativa al caso SYSCO cuando no se dispone de él (ver [caso_sysco.md](caso_sysco.md)).
+**Tipo:** caso de enseñanza **ficticio**, escrito para este curso. Es el caso de discusión de la sesión B2 del S1, junto con la DIARI.
 **Unidad:** U1 · **RA:** RA1, RA2 · **Sesión:** S1, B2 · **Lectura:** unos 20 minutos (versión corta: 10 minutos, ver al final)
 
 > **Todo es inventado.** La empresa, las personas, las cifras y los hechos no corresponden a ninguna organización ni persona real; cualquier parecido es coincidencia. Los valores monetarios están en millones de pesos colombianos de 2004. El caso está ambientado en 2004 **a propósito**, para compararlo con un caso actual (DIARI) y preguntarse qué cambió y qué sigue igual.
