@@ -1,0 +1,13 @@
+id_tienda,nombre_tienda,ciudad,metros_cuadrados,fecha_apertura
+T01,Laureles,Medellín,309,2012-01-01
+T02,Belén,Medellín,122,2013-06-01
+T03,Robledo,Medellín,164,2014-11-01
+T04,Poblado Sur,Medellín,235,2015-04-01
+T05,Envigado Centro,Envigado,205,2016-09-01
+T06,La Magnolia,Envigado,144,2017-02-01
+T07,Itagüí Centro,Itagüí,263,2018-07-01
+T08,Calatrava,Itagüí,269,2019-12-01
+T09,Niquía,Bello,395,2020-05-01
+T10,Paris,Bello,254,2012-10-01
+T11,Sabaneta Centro,Sabaneta,324,2013-03-01
+T12,Aves María,Sabaneta,331,2014-08-01

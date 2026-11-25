@@ -1,0 +1,37 @@
+id_empleado,usuario_sistema,nombre,cargo,id_tienda,cuenta_nomina
+E001,aur001,Santiago Builes,Auxiliar de compras,T00,43680096384
+E002,aur002,Valeria Zapata,Auxiliar de compras,T00,46591382214
+E003,aur003,Mateo Sierra,Auxiliar de compras,T00,46048121086
+E004,aur004,Daniela Henao,Auxiliar de compras,T00,41808629748
+E005,aur005,Samuel Vélez,Auxiliar de compras,T00,41080466156
+E006,aur006,Laura Agudelo,Auxiliar de compras,T00,44440524261
+E007,aur007,Andrés Ospina,Jefe de compras,T00,49072633911
+E008,aur008,Paula Correa,Jefe de compras,T00,41260354432
+E009,aur009,Felipe Cardona,Jefe de compras,T00,49653496205
+E010,aur010,Natalia Tobón,Contador,T00,47706850904
+E011,aur011,Sebastián Mejía,Contador,T00,47511983485
+E012,aur012,Camila Giraldo,Gerente general,T00,42653382266
+E013,aur013,Santiago Builes,Cajero,T01,46284253947
+E014,aur014,Valeria Zapata,Cajero,T02,47447218974
+E015,aur015,Mateo Sierra,Cajero,T03,49181702653
+E016,aur016,Daniela Henao,Cajero,T04,41370649649
+E017,aur017,Samuel Vélez,Cajero,T05,41916667764
+E018,aur018,Laura Agudelo,Cajero,T06,49728289711
+E019,aur019,Andrés Ospina,Cajero,T07,48164884306
+E020,aur020,Paula Correa,Cajero,T08,44229687040
+E021,aur021,Felipe Cardona,Cajero,T09,42214948704
+E022,aur022,Natalia Tobón,Cajero,T10,46822155581
+E023,aur023,Sebastián Mejía,Cajero,T11,49298472518
+E024,aur024,Camila Giraldo,Cajero,T12,42880421902
+E025,aur025,Santiago Builes,Gerente de tienda,T01,47543677851
+E026,aur026,Valeria Zapata,Gerente de tienda,T02,42659520352
+E027,aur027,Mateo Sierra,Gerente de tienda,T03,47513488051
+E028,aur028,Daniela Henao,Gerente de tienda,T04,42257727992
+E029,aur029,Samuel Vélez,Gerente de tienda,T05,49922298893
+E030,aur030,Laura Agudelo,Gerente de tienda,T06,41439655069
+E031,aur031,Andrés Ospina,Gerente de tienda,T07,44217809924
+E032,aur032,Paula Correa,Gerente de tienda,T08,46770467679
+E033,aur033,Felipe Cardona,Gerente de tienda,T09,46590913343
+E034,aur034,Natalia Tobón,Gerente de tienda,T10,42535908436
+E035,aur035,Sebastián Mejía,Gerente de tienda,T11,41894482163
+E036,aur036,Camila Giraldo,Gerente de tienda,T12,43732325923

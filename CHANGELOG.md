@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-11-25 · Caso de demostración: Tiendas Aurora
+
+<!-- REPO:ESTUDIANTES -->
+Nuevo caso ficticio de demostración, [Tiendas Aurora](casos/caso_tiendas_aurora.md) (cadena de 12 tiendas de barrio), con sus datos en `datos/demo_aurora/`. El docente lo usa para mostrar cada concepto aplicado; el caso integrador sigue siendo COAGUA, que cada equipo trabaja por su cuenta.
+<!-- /REPO:ESTUDIANTES -->
+
+
 ## 2026-11-25 · Se elimina el caso SYSCO
 
 <!-- REPO:ESTUDIANTES -->

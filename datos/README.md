@@ -8,6 +8,19 @@
 
 Los datos **contienen irregularidades** de control interno y de calidad. Encontrarlas, cuantificarlas y explicarlas es el trabajo del curso.
 
+## `demo_aurora/` (caso de demostración)
+
+Datos del caso de demostración [Tiendas Aurora](../casos/caso_tiendas_aurora.md), una cadena ficticia de 12 tiendas de barrio. El docente los usa en las presentaciones; el caso integrador sigue siendo COAGUA.
+
+| Archivo | Filas | Descripción |
+|---|---:|---|
+| `tiendas.csv` | 12 | Tiendas con ciudad y tamaño |
+| `empleados.csv` | 36 | Usuarios del sistema con cargo y cuenta de nómina |
+| `limites_aprobacion.csv` | 4 | Cuánto puede aprobar cada cargo (política ficticia) |
+| `proveedores.csv` | 47 | Maestro de proveedores |
+| `pagos.csv` | 1.808 | Pagos a proveedores de 2025 |
+| `ventas_diarias.csv` | 4.371 | Ventas, tickets y devoluciones por tienda y día |
+
 ## `integrador/`
 
 | Archivo | Filas | Descripción |
