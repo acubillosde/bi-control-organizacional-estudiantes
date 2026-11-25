@@ -67,5 +67,3 @@ Aurora es un caso resuelto, con sus decisiones a la vista. Los datos reales de l
 | **U3** · Visualización | Un tablero malo y su versión corregida; un titular con evidencia; el pitch de 3 minutos | Avance 2 y nota ejecutiva |
 | **U4** · Analítica para el aseguramiento | Benford, duplicados, fraccionamiento, segregación y modelo, con sus falsos positivos | Entrega final y sustentación |
 
-## Para el docente
-Las anomalías sembradas en los datos de Aurora y la forma de mostrarlas están en las [notas de facilitación de Aurora](notas_docente/clave_aurora.md), solo en el repositorio del docente.
