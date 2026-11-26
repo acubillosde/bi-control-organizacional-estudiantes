@@ -68,7 +68,7 @@ SELECT indexname, indexdef FROM pg_indexes WHERE schemaname = 'aurora' AND index
 ```
 Verá `quien_registra_no_aprueba`, `aprobacion_en_dia_habil`, `registro_despues_de_factura`, la lista cerrada de cinco ciudades y los índices que impiden un segundo pago con el mismo proveedor, factura y valor. Como su usuario es de solo lectura, el docente muestra en vivo cómo la base **rechaza** esos pagos.
 
-> **Los pagos antiguos que ya incumplen no se borraron.** Esas tres reglas se crearon con `NOT VALID`: valen para todo pago **nuevo**, y el histórico (18 pagos con el mismo usuario, 14 en día no hábil y 9 registrados antes de la factura) queda a la vista como hallazgo. Es lo que se hace en una organización cuando se endurece un control sobre datos que ya existen.
+> **Los pagos antiguos que ya incumplen no se borraron.** Las reglas del mismo usuario y del día hábil se crearon con `NOT VALID`: valen para todo pago **nuevo**, y el histórico (18 pagos con el mismo usuario y 14 en día no hábil) queda a la vista como hallazgo. La de la fecha de registro la cumple todo el histórico. Es lo que se hace en una organización cuando se endurece un control sobre datos que ya existen.
 
 ## 3. Úselo en Power BI
 
