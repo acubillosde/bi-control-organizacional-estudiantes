@@ -13,7 +13,7 @@ Nada se borra. Lo que el proceso de carga (ETL) corrige o deja en revisión qued
 
 ## 1. Conéctese y vea las tablas
 
-Siga la [guía de conexión](../recursos/conexion_base_datos.md) con el usuario de su equipo. En el Navegador, abra el esquema `aurora` y verá las tablas `tiendas`, `proveedores`, `pagos`, `ventas_diarias`, `empleados`, `limites_aprobacion`, `bitacora_calidad` y las vistas `v_pagos_control`, `v_pago_del_mes`, `v_pagos_por_aprobacion` y `v_hallazgos`.
+Siga la guía [Conecte Power BI a la base de datos de Aurora](aurora_conexion_power_bi.md) (la general está en [conexión](../recursos/conexion_base_datos.md)) con el usuario de su equipo. En el Navegador, abra el esquema `aurora` y verá las tablas `tiendas`, `proveedores`, `pagos`, `ventas_diarias`, `empleados`, `limites_aprobacion`, `bitacora_calidad` y las vistas `v_pagos_control`, `v_pago_del_mes`, `v_pagos_por_aprobacion` y `v_hallazgos`.
 
 Su usuario es **de solo lectura**. En `empleados` solo puede ver el usuario del sistema, el cargo y la tienda: el nombre y la cuenta de nómina son datos personales y requieren una solicitud aprobada (ver el apartado 5).
 
