@@ -55,7 +55,7 @@ SELECT * FROM aurora.v_hallazgos;
 ```
 Esperado: 8 ciudades corregidas · 1 NIT repetido · **16** pagos duplicados · **18** pagos con el mismo usuario · **14** aprobaciones en día no hábil · **34** pagos entre el 95% y el 100% del límite del jefe de compras.
 
-Compare con Power BI y con `python casos/verificacion_aurora.py`: las tres herramientas deben dar lo mismo. Si no, una tiene el error.
+Compare con Power BI y con el cuaderno `verificacion_aurora.ipynb`: las tres herramientas deben dar lo mismo. Si no, una tiene el error.
 
 ### D. ¿Qué reglas impone la base? 
 **Prediga:** ¿qué pasaría si alguien intenta registrar un pago donde quien lo registra también lo aprueba?

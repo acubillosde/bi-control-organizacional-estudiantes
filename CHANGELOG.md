@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-11-26 · Las verificaciones de Aurora en Python pasan a un cuaderno y se corrigen 14 pagos
+
+- **Cuaderno [`casos/verificacion_aurora.ipynb`](casos/verificacion_aurora.ipynb)** en lugar del script `verificacion_aurora.py`: una celda de Python por cada verificación (V01 a V17), con espacio para la predicción y la conclusión. Se abre en Jupyter, VS Code o Colab; en Colab lee los datos directamente desde GitHub. La guía de verificación, las diapositivas y los README ya apuntan al cuaderno.
+- **Fechas corregidas en 14 pagos de Aurora** (`datos/demo_aurora/pagos.csv`): los aprobados en fin de semana tenían la factura posterior al registro (9 casos) y el pago lejos de la aprobación. Solo cambian esas 14 filas; las cifras del caso (marzo, hallazgos, V01 a V17) quedan iguales y el promedio de días de factura a pago pasa de 16,218 a 16,240.
+
+
 ## 2026-11-25 · Aurora en una base de datos PostgreSQL (rama `fuentes-organizacionales`)
 
 - Tiendas Aurora pasa de seis CSV a la misma base PostgreSQL de COAGUA, en dos esquemas: `aurora_crudo` (los CSV tal cual, el «antes») y `aurora` (modelo limpio con llaves, restricciones, vistas y roles, el «después»). Los hallazgos del caso quedan anotados en `aurora.bitacora_calidad` y nada se borra.
@@ -8,7 +14,7 @@
 
 ## 2026-11-25 · Las verificaciones de Aurora también se contrastan en Python
 
-- Nuevo script [`casos/verificacion_aurora.py`](casos/verificacion_aurora.py): ejecuta en pandas las 17 verificaciones (V01 a V17) sobre `datos/demo_aurora/` (`python casos/verificacion_aurora.py V07`). Power BI y Python son herramientas independientes: si coinciden, la cifra es confiable; si no, el estudiante busca cuál tiene el error.
+- Nuevo [`casos/verificacion_aurora.ipynb`](casos/verificacion_aurora.ipynb): ejecuta en pandas las 17 verificaciones (V01 a V17) sobre `datos/demo_aurora/`, una celda por verificación (antes era un script `.py`; ver la entrada del 26 de noviembre). Power BI y Python son herramientas independientes: si coinciden, la cifra es confiable; si no, el estudiante busca cuál tiene el error.
 - La guía [`verificacion_aurora.md`](casos/verificacion_aurora.md) agrega el paso «Contraste con Python» y un bloque de código por verificación. Los README de las unidades 1 a 4 y `caso_tiendas_aurora.md` lo mencionan.
 
 

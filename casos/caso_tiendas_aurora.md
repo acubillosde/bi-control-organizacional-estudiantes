@@ -68,5 +68,5 @@ Aurora es un caso resuelto, con sus decisiones a la vista. Los datos reales de l
 | **U4** · Analítica para el aseguramiento | Benford, duplicados, fraccionamiento, segregación y modelo, con sus falsos positivos | Entrega final y sustentación |
 
 ## Compruébelo usted
-En cada unidad, los hechos de Aurora se verifican en Power BI y se contrastan en Python, con el ciclo prediga, construya, contraste, compare y concluya. La [guía de verificación](verificacion_aurora.md) trae los pasos, las medidas DAX, el código Python y, al final, los valores que debe dar. El script [`verificacion_aurora.py`](verificacion_aurora.py) corre las 17 verificaciones: `python casos/verificacion_aurora.py V07`.
+En cada unidad, los hechos de Aurora se verifican en Power BI y se contrastan en Python, con el ciclo prediga, construya, contraste, compare y concluya. La [guía de verificación](verificacion_aurora.md) trae los pasos, las medidas DAX, el código Python y, al final, los valores que debe dar. El cuaderno [`verificacion_aurora.ipynb`](verificacion_aurora.ipynb) trae una celda de Python por cada una de las 17 verificaciones.
 

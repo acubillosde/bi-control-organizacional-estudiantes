@@ -5,7 +5,7 @@ En las clases de las unidades 1 a 4, el docente muestra los hechos de [Tiendas A
 ## Cómo se hace cada verificación (3 a 8 minutos)
 1. **Prediga.** Anote en el papel de su equipo lo que cree que va a dar. Equivocarse al predecir enseña más que acertar.
 2. **Construya.** Siga los pasos y escriba la medida; no la copie sin leerla.
-3. **Contraste con Python.** Ejecute `python casos/verificacion_aurora.py V07` (cambie el número) y compare con lo que dio Power BI. Son dos herramientas independientes: si coinciden, la cifra es confiable.
+3. **Contraste con Python.** Abra el cuaderno [`verificacion_aurora.ipynb`](verificacion_aurora.ipynb), ejecute la primera celda de código (prepara los datos) y después la celda de la verificación, por ejemplo la de V07, y compare con lo que dio Power BI. Son dos herramientas independientes: si coinciden, la cifra es confiable.
 4. **Compare.** El docente muestra la cifra. Marque ✅ si Power BI, Python y la diapositiva coinciden, o ❌ si no.
 5. **Busque el porqué.** Si no coinciden, revise el filtro, la relación, los duplicados, la fecha o el tipo de dato. Si Power BI y Python difieren entre sí, una de las dos tiene el error: no avance hasta saber cuál. Cada verificación trae una pista.
 6. **Concluya.** Escriba una frase sobre qué cambia en el control.
@@ -57,7 +57,7 @@ En las clases de las unidades 1 a 4, el docente muestra los hechos de [Tiendas A
 2. En el Editor de Power Query, active Vista → Estadísticas de columna y lea «Recuento».
 3. Compare con la diapositiva siguiente.
 
-**Python** (`python casos/verificacion_aurora.py V01`)
+**Python** (celda V01 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 for nombre, df in tablas.items():
@@ -99,7 +99,7 @@ in
   Nit
 ```
 
-**Python** (`python casos/verificacion_aurora.py V02`)
+**Python** (celda V02 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 limpia = prov.ciudad.str.lower().str.replace("medellin", "medellín").str.replace("itagui", "itagüí").str.title()
@@ -134,7 +134,7 @@ aprobacion_dia_no_habil    = each if Date.DayOfWeek([fecha_aprobacion], Day.Mond
 factura_normalizada        = each Text.TrimStart(Text.Select([numero_factura], {"0".."9"}), "0")
 ```
 
-**Python** (`python casos/verificacion_aurora.py V03`)
+**Python** (celda V03 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 mismo_usuario = (pagos.usuario_registra == pagos.usuario_aprueba).astype(int)
@@ -171,7 +171,7 @@ Filas de ventas = COUNTROWS( fVentas )
 Dias sin ventas = COUNTROWS( FILTER( dCalendario, ISBLANK( [Filas de ventas] ) ) )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V04`)
+**Python** (celda V04 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 junio = pd.date_range("2025-06-01", "2025-06-30")
@@ -204,7 +204,7 @@ print("Filas esperadas (12 tiendas x 365 días):", 12 * 365, "· filas reales:",
 Ventas = SUM( fVentas[ventas] )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V05`)
+**Python** (celda V05 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 por_tienda = ventas.groupby("id_tienda").ventas.sum().sort_values(ascending=False)
@@ -238,7 +238,7 @@ Devolucion pct = DIVIDE( SUM( fVentas[devoluciones] ), SUM( fVentas[ventas] ) )
 Pct mismo usuario = DIVIDE( SUM( fPagos[mismo_usuario] ), COUNTROWS( fPagos ) )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V06`)
+**Python** (celda V06 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 print("KPI · días de factura a pago:", n1((pagos.fecha_pago - pagos.fecha_factura).dt.days.mean()))
@@ -279,7 +279,7 @@ Pagos por pago = CALCULATE( SUM( fPagos[valor] ), USERELATIONSHIP( fPagos[fecha_
 Pagos sin duplicados = CALCULATE( [Pagos por aprobacion], fPagos[es_duplicado] = 0 )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V07`)
+**Python** (celda V07 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 marzo_aprobacion = pagos[pagos.fecha_aprobacion.dt.to_period("M") == "2025-03"]
@@ -318,7 +318,7 @@ Ciudades fuera de lista =
 NIT repetidos = COUNTROWS( dProveedores ) - DISTINCTCOUNT( dProveedores[nit_digitos] )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V08`)
+**Python** (celda V08 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 lista = ["Medellín", "Envigado", "Itagüí", "Bello", "Sabaneta"]
@@ -354,7 +354,7 @@ Estado mismo usuario = IF( [Pct mismo usuario] > 0, "Rojo", "Verde" )
 Estado duplicados = IF( [Pagos duplicados] > 0, "Rojo", "Verde" )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V09`)
+**Python** (celda V09 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 dias = (pagos.fecha_pago - pagos.fecha_factura).dt.days.mean()
@@ -391,7 +391,7 @@ print("Pagos duplicados:", duplicados, "→", semaforo(duplicados > 0))
 3. Active las etiquetas de porcentaje en la torta y el valor en las barras.
 4. Compare: ¿cuál responde «cuál vende más y por cuánto»?
 
-**Python** (`python casos/verificacion_aurora.py V10`)
+**Python** (celda V10 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 por_tienda = ventas.groupby("id_tienda").ventas.sum().sort_values(ascending=False)
@@ -426,7 +426,7 @@ Devolucion pct resto = CALCULATE( [Devolucion pct], dTiendas[id_tienda] <> "T03"
 Umbral = 0.02
 ```
 
-**Python** (`python casos/verificacion_aurora.py V11`)
+**Python** (celda V11 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 ventas["mes"] = ventas.fecha.dt.month
@@ -462,7 +462,7 @@ Titular mejorado = IF( [Devolucion pct T03] > [Umbral],
   "Sin alertas de devoluciones en T03 este mes" )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V12`)
+**Python** (celda V12 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 ventas["mes"] = ventas.fecha.dt.month
@@ -504,7 +504,7 @@ primer_digito = VALUE( LEFT( FORMAT( fPagos[valor], "0" ), 1 ) )          -- col
 Esperado Benford = LOG10( 1 + 1 / SELECTEDVALUE( fPagos[primer_digito] ) )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V13`)
+**Python** (celda V13 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 primer = pagos.valor.astype(str).str[0].astype(int)
@@ -540,7 +540,7 @@ Duplicados con normalizacion = SUM( fPagos[es_duplicado] )
 Duplicados aproximados = [Duplicados con normalizacion] - [Duplicados exactos]
 ```
 
-**Python** (`python casos/verificacion_aurora.py V14`)
+**Python** (celda V14 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 exactos = pagos.duplicated(["id_proveedor", "numero_factura", "valor"]).sum()
@@ -573,7 +573,7 @@ print("Duplicados aproximados:", normalizados - exactos)
 Pagos cerca del limite = CALCULATE( COUNTROWS( fPagos ), fPagos[valor] >= 0.95 * 8000000, fPagos[valor] < 8000000 )
 ```
 
-**Python** (`python casos/verificacion_aurora.py V15`)
+**Python** (celda V15 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 cerca = pagos[(pagos.valor >= 0.95 * 8_000_000) & (pagos.valor < 8_000_000)]
@@ -608,7 +608,7 @@ Pagos en dia no habil = SUM( fPagos[aprobacion_dia_no_habil] )
 dia_semana = WEEKDAY( dCalendario[fecha], 2 )          -- columna calculada: 6 = sábado, 7 = domingo
 ```
 
-**Python** (`python casos/verificacion_aurora.py V16`)
+**Python** (celda V16 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 mismo = pagos[pagos.usuario_registra == pagos.usuario_aprueba]
@@ -643,7 +643,7 @@ Proveedores con cuenta de empleado =
 cuenta_de_empleado = IF( dProveedores[cuenta_bancaria] IN VALUES( dEmpleados[cuenta_nomina] ), 1, 0 )          -- columna calculada
 ```
 
-**Python** (`python casos/verificacion_aurora.py V17`)
+**Python** (celda V17 del cuaderno `verificacion_aurora.ipynb`)
 
 ```python
 coinciden = prov[prov.cuenta_bancaria.isin(emp.cuenta_nomina)]

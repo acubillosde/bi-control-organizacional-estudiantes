@@ -128,7 +128,7 @@ Power BI puede mostrar la suma abreviada, como «958 M» o «958 mill.». Para v
 ### Paso 5. Compare
 Este valor debe coincidir con tres fuentes independientes:
 - La guía: V07, «Por fecha de aprobación = $958,0 millones».
-- Python: `python casos/verificacion_aurora.py V07` imprime «Por fecha de aprobación: 958,0».
+- Python: la celda V07 del cuaderno `verificacion_aurora.ipynb` imprime «Por fecha de aprobación: 958,0».
 - Su propia predicción del inicio.
 
 Si las tres coinciden, la conexión, la carga y el modelo están bien. Si alguna difiere, una tiene el error: búsquelo antes de seguir.
