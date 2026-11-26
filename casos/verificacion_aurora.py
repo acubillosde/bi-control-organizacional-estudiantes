@@ -49,7 +49,7 @@ def v01():
 
 
 def v02():
-    """Limpie el maestro de proveedores sin destruir el original"""
+    """Limpie el maestro sin destruir el original"""
     limpia = prov.ciudad.str.lower().str.replace("medellin", "medellín").str.replace("itagui", "itagüí").str.title()
     nit_digitos = prov.nit.str.replace(r"\D", "", regex=True)
     print("Filas de proveedores:", len(prov))
@@ -130,7 +130,7 @@ def v09():
 
 
 def v10():
-    """Haga el gráfico de torta y compárelo con uno de barras"""
+    """Haga la torta y compárela con barras"""
     por_tienda = ventas.groupby("id_tienda").ventas.sum().sort_values(ascending=False)
     parte = por_tienda / por_tienda.sum() * 100
     print("Tienda con más ventas:", por_tienda.index[0])
@@ -139,7 +139,7 @@ def v10():
 
 
 def v11():
-    """Resalte el hallazgo: devoluciones de T03 contra el resto"""
+    """Resalte las devoluciones de T03 frente al resto"""
     ventas["mes"] = ventas.fecha.dt.month
     def pct(df):
         return df.groupby("mes")[["devoluciones", "ventas"]].sum().pipe(lambda g: g.devoluciones / g.ventas * 100)
@@ -181,7 +181,7 @@ def v14():
 
 
 def v15():
-    """Busque pagos justo por debajo del límite de aprobación"""
+    """Busque pagos pegados al límite de aprobación"""
     cerca = pagos[(pagos.valor >= 0.95 * 8_000_000) & (pagos.valor < 8_000_000)]
     print("Pagos entre 95% y 100% del límite (año):", len(cerca))
     print(cerca.id_proveedor.value_counts().head(3))

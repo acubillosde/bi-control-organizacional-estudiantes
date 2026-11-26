@@ -26,7 +26,7 @@ En las clases de las unidades 1 a 4, el docente muestra los hechos de [Tiendas A
 | # | Unidad | Qué se verifica | Tiempo | ✅/❌ |
 |---|---|---|---|---|
 | V01 | Caso | Cargue las seis tablas y cuente las filas | 4 min | |
-| V02 | U1 | Limpie el maestro de proveedores sin destruir el original | 6 min | |
+| V02 | U1 | Limpie el maestro sin destruir el original | 6 min | |
 | V03 | U1 | Construya tres columnas de control sobre pagos | 6 min | |
 | V04 | U1 | Cree el calendario y encuentre los días sin ventas | 7 min | |
 | V05 | U1 | Arme la estrella de ventas y pida «ventas por cliente» | 5 min | |
@@ -34,12 +34,12 @@ En las clases de las unidades 1 a 4, el docente muestra los hechos de [Tiendas A
 | V07 | U2 | Reproduzca los tres números de marzo | 8 min | |
 | V08 | U2 | Mida la calidad del maestro con reglas en DAX | 6 min | |
 | V09 | U2 | Ponga los umbrales de la matriz en un semáforo | 7 min | |
-| V10 | U3 | Haga el gráfico de torta y compárelo con uno de barras | 5 min | |
-| V11 | U3 | Resalte el hallazgo: devoluciones de T03 contra el resto | 8 min | |
+| V10 | U3 | Haga la torta y compárela con barras | 5 min | |
+| V11 | U3 | Resalte las devoluciones de T03 frente al resto | 8 min | |
 | V12 | U3 | Haga un titular dinámico y póngalo a prueba | 6 min | |
 | V13 | U4 | Pruebe Benford sobre el valor de los pagos | 8 min | |
 | V14 | U4 | Cuente duplicados exactos y aproximados | 6 min | |
-| V15 | U4 | Busque pagos justo por debajo del límite de aprobación | 7 min | |
+| V15 | U4 | Busque pagos pegados al límite de aprobación | 7 min | |
 | V16 | U4 | Mida el valor y la concentración de las dos señales | 6 min | |
 | V17 | U4 | Cruce cuentas bancarias de proveedores y de nómina | 7 min | |
 
@@ -71,7 +71,7 @@ for nombre, df in tablas.items():
 
 ## Unidad 1 · BI y analítica
 
-### V02 · Limpie el maestro de proveedores sin destruir el original
+### V02 · Limpie el maestro sin destruir el original
 
 **Prediga:** ¿Cuántas ciudades distintas cree que hay en proveedores? ¿Y después de estandarizar? ¿Y cuántos NIT distintos?
 
@@ -378,7 +378,7 @@ print("Pagos duplicados:", duplicados, "→", semaforo(duplicados > 0))
 
 ## Unidad 3 · Visualización y storytelling
 
-### V10 · Haga el gráfico de torta y compárelo con uno de barras
+### V10 · Haga la torta y compárela con barras
 
 **Prediga:** Con una torta de ventas por tienda, ¿puede decir cuál vende más y por cuánto? Pruébelo.
 
@@ -405,7 +405,7 @@ print("Diferencia entre las dos primeras:", n1((por_tienda.iloc[0] - por_tienda.
 
 **Concluya:** Con doce porciones nadie compara áreas parecidas. Las barras ordenadas responden la pregunta; la torta solo decora.
 
-### V11 · Resalte el hallazgo: devoluciones de T03 contra el resto
+### V11 · Resalte las devoluciones de T03 frente al resto
 
 **Prediga:** ¿En qué mes devolvió T03 mucho más que el resto de tiendas? ¿Cuánto fue?
 
@@ -554,7 +554,7 @@ print("Duplicados aproximados:", normalizados - exactos)
 
 **Concluya:** Una regla sin normalizar deja pasar parte del problema. Y marca de más si hay entregas parciales legítimas: cada alerta pide su soporte.
 
-### V15 · Busque pagos justo por debajo del límite de aprobación
+### V15 · Busque pagos pegados al límite de aprobación
 
 **Prediga:** El jefe de compras aprueba hasta $8 millones. ¿Cuántos pagos del año caen entre el 95% y el 100% del límite? ¿Y cuántos son del mismo proveedor en agosto?
 
@@ -673,7 +673,7 @@ Compare solo después de intentarlo. Las cifras salen de `datos/demo_aurora/`.
 | pagos | 1.808 |
 | ventas_diarias | 4.371 |
 
-**V02 · Limpie el maestro de proveedores sin destruir el original**
+**V02 · Limpie el maestro sin destruir el original**
 
 | Qué | Valor |
 |---|---|
@@ -742,7 +742,7 @@ Compare solo después de intentarlo. Las cifras salen de `datos/demo_aurora/`.
 | Pagos con el mismo usuario | 1,00% → Rojo (umbral 0%) |
 | Pagos duplicados | 16 → Rojo (umbral 0 sin explicar) |
 
-**V10 · Haga el gráfico de torta y compárelo con uno de barras**
+**V10 · Haga la torta y compárela con barras**
 
 | Qué | Valor |
 |---|---|
@@ -750,7 +750,7 @@ Compare solo después de intentarlo. Las cifras salen de `datos/demo_aurora/`.
 | Participación de las dos primeras en la torta | 9,9% y 9,9% |
 | Diferencia entre las dos primeras | $20,4 millones |
 
-**V11 · Resalte el hallazgo: devoluciones de T03 contra el resto**
+**V11 · Resalte las devoluciones de T03 frente al resto**
 
 | Qué | Valor |
 |---|---|
@@ -784,7 +784,7 @@ Compare solo después de intentarlo. Las cifras salen de `datos/demo_aurora/`.
 | Duplicados con la factura normalizada | 16 |
 | Duplicados aproximados | 6 |
 
-**V15 · Busque pagos justo por debajo del límite de aprobación**
+**V15 · Busque pagos pegados al límite de aprobación**
 
 | Qué | Valor |
 |---|---|
