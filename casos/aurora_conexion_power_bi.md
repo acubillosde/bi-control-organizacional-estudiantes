@@ -91,11 +91,58 @@ En la **Vista de modelo** compruebe, o cree, estas relaciones (de uno a varios, 
 
 Power BI puede detectar algunas solas: revíselas, porque a veces se equivoca de columna o de sentido. El calendario y la segunda relación con `fecha_pago` (inactiva) se agregan en las verificaciones V04 y V07.
 
-## 6. Una prueba rápida
+## 6. Una prueba rápida: los pagos de marzo
 
-Cree una tarjeta con la suma de `fPagos[valor]` y un segmentador de mes sobre una columna de fecha. Compare con la verificación **V07**: marzo de 2025 por fecha de aprobación debe dar **$958,0 millones**.
+Va a reproducir una cifra de la verificación **V07**: lo que sumaron los pagos **aprobados en marzo de 2025**. Todavía no tiene tabla calendario (se crea en V04), así que el filtro de marzo se hace con un segmentador de rango de fechas.
 
-Si coincide con lo que obtiene en la base, con lo que da `python casos/verificacion_aurora.py V07` y con lo que dice la guía, las tres herramientas están de acuerdo. Si una difiere, una tiene el error: búsquelo antes de seguir.
+**Prediga primero:** ¿cuánto cree que sumaron los pagos aprobados en marzo? ¿Cuántos pagos fueron? Anótelo antes de seguir.
+
+### Paso 1. La suma de los pagos
+1. En la **Vista de informe**, en una página en blanco, seleccione el visual **Tarjeta** en el panel *Visualizaciones*.
+2. Arrastre `fPagos[valor]` al campo de la tarjeta. Debajo del campo debe decir **Suma de valor**. Si dice *Recuento* o *Promedio*, pulse la flecha del campo y elija **Suma**.
+3. La tarjeta muestra hoy el total de todo el año, no de marzo. Es normal.
+
+### Paso 2. El número de pagos
+1. Haga clic en un espacio vacío de la página y agregue otra **Tarjeta**.
+2. Arrastre `fPagos[id_pago]` y cambie el campo a **Recuento**. Esta tarjeta debe decir 1.808 mientras no haya filtro.
+
+### Paso 3. El filtro de marzo
+1. Haga clic en un espacio vacío y agregue un **Segmentador**.
+2. Arrastre `fPagos[fecha_aprobacion]` al campo del segmentador. **Importante:** use la columna **fecha_aprobacion**, no `fecha_pago` ni `fecha_factura`. En V07 se verá que cada fecha da una cifra distinta.
+3. Si el campo aparece como una jerarquía (Año, Trimestre, Mes, Día), pulse la flecha junto al campo en el panel y elija **fecha_aprobacion** en lugar de *Jerarquía de fechas*. Así el segmentador muestra fechas completas.
+4. En el segmentador, pulse los tres puntos o la flecha de la esquina y elija el estilo **Entre**. Quedan dos casillas de fecha.
+5. Escriba **1/03/2025** en la primera casilla y **31/03/2025** en la segunda. El formato (día/mes/año) depende de la configuración regional de su computador: si no acepta la fecha, use el que le muestre el segmentador.
+
+*Otra forma, sin segmentador:* seleccione la tarjeta, abra el panel **Filtros**, arrastre `fecha_aprobacion` a «Filtros en este objeto visual», elija **Filtrado avanzado**, y escriba «es posterior o igual a» 1/03/2025 **y** «es anterior o igual a» 31/03/2025.
+
+### Paso 4. Lea el resultado
+Con el filtro puesto, las tarjetas deben mostrar:
+
+| Tarjeta | Resultado esperado |
+|---|---|
+| Suma de valor | **957.980.305** (es decir, **$958,0 millones**) |
+| Recuento de id_pago | **150** pagos |
+
+Power BI puede mostrar la suma abreviada, como «958 M» o «958 mill.». Para ver el número completo, seleccione la tarjeta, vaya a **Formato → Valor de datos → Unidades de presentación** y elija **Ninguna**. Para verlo en millones con un decimal, elija **Millones** y ponga 1 en *Posiciones decimales de valor*.
+
+### Paso 5. Compare
+Este valor debe coincidir con tres fuentes independientes:
+- La guía: V07, «Por fecha de aprobación = $958,0 millones».
+- Python: `python casos/verificacion_aurora.py V07` imprime «Por fecha de aprobación: 958,0».
+- Su propia predicción del inicio.
+
+Si las tres coinciden, la conexión, la carga y el modelo están bien. Si alguna difiere, una tiene el error: búsquelo antes de seguir.
+
+### Si no le da 957.980.305
+| Qué ve | Probable causa |
+|---|---|
+| 956,8 millones y 155 pagos | Filtró por `fecha_pago` y no por `fecha_aprobacion` |
+| Un valor menor, y menos de 150 pagos | El rango termina antes del 31/03, o la fecha inicial es posterior al 1/03 |
+| Un valor muchísimo mayor, 1.808 pagos | El filtro no se aplicó: el segmentador está en otra página o conectado a otro visual |
+| Un número pequeño, como un promedio | El campo dice *Promedio* o *Recuento* en lugar de *Suma* |
+| El total sale en blanco o con error | `valor` está como Texto: cámbielo a **Número entero** en Power Query |
+
+> **No se preocupe por los 4 duplicados de marzo.** En esta prueba están incluidos, porque la cifra de 958,0 es «por fecha de aprobación» con todos los pagos. Quitarlos (909,7) se hace en V07, con la columna `es_duplicado`.
 
 ## 7. Qué cambia frente a los CSV
 
