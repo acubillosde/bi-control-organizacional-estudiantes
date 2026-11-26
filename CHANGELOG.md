@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-11-25 · Aurora en una base de datos PostgreSQL (rama `fuentes-organizacionales`)
+
+- Tiendas Aurora pasa de seis CSV a la misma base PostgreSQL de COAGUA, en dos esquemas: `aurora_crudo` (los CSV tal cual, el «antes») y `aurora` (modelo limpio con llaves, restricciones, vistas y roles, el «después»). Los hallazgos del caso quedan anotados en `aurora.bitacora_calidad` y nada se borra.
+- Nueva guía para estudiantes [`casos/aurora_base_de_datos.md`](casos/aurora_base_de_datos.md): consultas SQL que reproducen los hallazgos de las verificaciones, con los valores esperados.
+
+
 ## 2026-11-25 · Las verificaciones de Aurora también se contrastan en Python
 
 - Nuevo script [`casos/verificacion_aurora.py`](casos/verificacion_aurora.py): ejecuta en pandas las 17 verificaciones (V01 a V17) sobre `datos/demo_aurora/` (`python casos/verificacion_aurora.py V07`). Power BI y Python son herramientas independientes: si coinciden, la cifra es confiable; si no, el estudiante busca cuál tiene el error.
