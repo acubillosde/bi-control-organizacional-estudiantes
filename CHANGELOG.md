@@ -1,7 +1,5 @@
 # CHANGELOG
 
-## 2026-11-26 · Las presentaciones siguen el hilo de Aurora
-
 
 ## 2026-11-26 · Tiendas Aurora es el eje de las clases
 
