@@ -6,10 +6,10 @@
 | Hora | Bloque | Unidad | Actividad | Modalidad | RA | Evidencia |
 |---|---|---|---|---|---|---|
 | 08:00–08:40 | B1 | U4 | Control interno y riesgo: COSO 2013 (5 componentes), ISO 31000, modelo de las tres líneas; auditoría y monitoreo continuos; marco normativo colombiano (ver U4) | Mini clase | RA2 | — |
-| 08:40–09:00 | B1 | U4 | Analítica forense I: Ley de Benford (chi-cuadrado y MAD), y qué hacer con un hallazgo de Benford | Demo en vivo (script + Power BI) | RA2 | — |
+| 08:40–09:00 | B1 | U4 | Analítica forense I: Ley de Benford (chi-cuadrado y MAD), y qué hacer con un hallazgo de Benford, **sobre los pagos de Aurora** | Demo en vivo (script + Power BI) | RA2 | — |
 | 09:00–09:10 | — | — | Pausa activa | — | — | — |
-| 09:10–10:00 | B1 | U4 | Analítica forense II: duplicados exactos y aproximados, pruebas de razonabilidad, fraccionamiento, segregación de funciones, muestreo dirigido vs. estadístico (NIA 530) | Mini clase + ejercicio | RA2 | Ejercicio en equipos |
-| 10:00–10:40 | B2 | U4 | Analítica descriptiva, predictiva y prescriptiva: Isolation Forest (anomalías) y regresión logística (riesgo de crédito); de la probabilidad a la acción | Mini clase + demo | RA3 | — |
+| 09:10–10:00 | B1 | U4 | Analítica forense II: duplicados exactos y aproximados, pruebas de razonabilidad, fraccionamiento, segregación de funciones (primero en Aurora), muestreo dirigido vs. estadístico (NIA 530) | Mini clase + ejercicio | RA2 | Ejercicio en equipos |
+| 10:00–10:40 | B2 | U4 | Analítica descriptiva, predictiva y prescriptiva: Isolation Forest (anomalías) y regresión logística (riesgo de crédito); de la probabilidad a la acción, **comparando reglas y modelo en Aurora** | Mini clase + demo | RA3 | — |
 | 10:40–11:10 | B2 | U4 | **Exposición:** caso Watson (15' + 7' + 8'): capacidades y límites de la IA para el aseguramiento | Exposición de equipo | RA3 | Rúbrica de exposición |
 | 11:10–11:20 | — | — | Pausa activa | — | — | — |
 | 11:20–12:00 | B2 | U4 | **Laboratorio L3:** cargar `alertas_pagos.csv` y `puntaje_pagos.csv` en el modelo, cruzar reglas con Isolation Forest y priorizar 10 casos para revisión | Laboratorio | RA2, RA3 | `.pbix` L3 (entregable, 2%) |

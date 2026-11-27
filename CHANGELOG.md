@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-11-26 · Tiendas Aurora es el eje de las clases
+
+- El [cronograma](cronograma/sabado_1.md) de los tres sábados indica en qué actividades Aurora es el ejemplo que se resuelve antes de aplicar el método a COAGUA.
+
+
 ## 2026-11-26 · Las verificaciones de Aurora en Python pasan a un cuaderno y se corrigen 14 pagos
 
 - **Cuaderno [`casos/verificacion_aurora.ipynb`](casos/verificacion_aurora.ipynb)** en lugar del script `verificacion_aurora.py`: una celda de Python por cada verificación (V01 a V17), con espacio para la predicción y la conclusión. Se abre en Jupyter, VS Code o Colab; en Colab lee los datos directamente desde GitHub. La guía de verificación, las diapositivas y los README ya apuntan al cuaderno.
