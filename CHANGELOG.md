@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 2026-11-26 · Las presentaciones siguen el hilo de Aurora
+
+
 ## 2026-11-26 · Tiendas Aurora es el eje de las clases
 
 - El [cronograma](cronograma/sabado_1.md) de los tres sábados indica en qué actividades Aurora es el ejemplo que se resuelve antes de aplicar el método a COAGUA.
